@@ -53,12 +53,12 @@ class RPGCardGenerator:
 
         # Ładowanie czcionki
         self.font = ImageFont.truetype(
-            os.path.join(self.assets_path['fonts'], 'Roboto-Bold.ttf'), 
+            os.path.join(self.assets_path['fonts'], 'PressJobs.ttf'), 
             size=24
         )
 
     def generate_from_file(self, csv_path):
-        df = pd.read_csv(csv_path, sep='\t')
+        df = pd.read_csv(csv_path, sep=';')  # Zmiana separatora na średnik
         for _, row in df.iterrows():
             card = self._create_card(row)
             self._save_card(card, row['name'])
@@ -160,9 +160,16 @@ class RPGCardGenerator:
         card.alpha_composite(armor_img, position)
         return card
 
-    def _add_name_plate(self, card, data):
+   def _add_name_plate(self, card, data):
+        print(f"Adding name plate for: {data['name']}") #DEBUG
         plate = Image.open(f"{self.assets_path['ui']}/name_plate.png")
+        print(f"Original plate size: {plate.size}") #DEBUG
+        print(f"Name plate size from config: {self.ui_config['name_plate']['size']}") #DEBUG
         plate = plate.resize(self.ui_config['name_plate']['size'])
+        print(f"Resized plate size: {plate.size}") #DEBUG
+        print(f"Card size before composite: {card.size}") #DEBUG
+        print(f"Name plate position: {self.ui_config['name_plate']['position']}") #DEBUG
+
         card.alpha_composite(plate, self.ui_config['name_plate']['position'])
         
         draw = ImageDraw.Draw(card)
@@ -192,7 +199,7 @@ class RPGCardGenerator:
                 f"{self.assets_path['languages']}/{languages[i]}.png"
             ).resize(self.ui_config['languages']['icon_size'])
             
-                        x = start_x + i * (
+            x = start_x + i * (
                 self.ui_config['languages']['icon_size'][0] + 
                 self.ui_config['languages']['margin']
             )
