@@ -4,39 +4,43 @@ import os
 
 class RPGCardGenerator:
     def __init__(self):
-        # Konfiguracja wymiarów
         self.card_size = (1368, 912)
         self.character_size = (1216, 832)
-        self.ui_elements = {
-            'weapon_slots': {
+        
+        self.ui_config = {
+            'weapons': {
                 'positions': [(50, 400), (50, 580)],
-                'size': (180, 180)  # 1:1 ratio
+                'size': (200, 200),
+                'label_offset': (100, 170)
             },
-            'armor_slots': {
+            'armors': {
                 'positions': [(1120, 400), (1120, 540), (1120, 680)],
-                'size': (150, 150)
+                'size': (150, 150),
+                'label_offset': (75, 125)
             },
             'health': {
                 'position': (1250, 50),
-                'size': (100, 100)  # 1:1
+                'size': (100, 100),
+                'font_size': 32
             },
             'name_plate': {
-                'size': (800, 120),  # Nowy element graficzny
+                'size': (800, 120),
                 'position': (284, 740)
             },
             'name': {
                 'position': (684, 780),
-                'max_length': 24,
-                'font_size': 48
+                'font_size': 48,
+                'max_length': 24
             },
             'languages': {
-                'size': (80, 80),  # 1:1
-                'margin': 20,
+                'icon_size': (80, 80),
+                'max_count': 4,
+                'margin': 30,
                 'position_y': 820
             }
         }
 
-        self.paths = {
+        self.assets_path = {
             'backgrounds': 'assets/backgrounds',
             'characters': 'assets/characters',
             'weapons': 'assets/weapons',
@@ -47,92 +51,221 @@ class RPGCardGenerator:
             'output': 'output'
         }
 
-    def generate_from_file(self, input_file):
-        df = self._load_data(input_file)
+        # Ładowanie czcionki
+        self.font = ImageFont.truetype(
+            os.path.join(self.assets_path['fonts'], 'Roboto-Bold.ttf'), 
+            size=24
+        )
+
+    def generate_from_file(self, csv_path):
+        df = pd.read_csv(csv_path, sep='\t')
         for _, row in df.iterrows():
-            card = self._create_base_card(row['background'])
-            card = self._add_character(card, row['character_image'])
-            card = self._add_weapons(card, row)
-            card = self._add_armors(card, row)
-            card = self._add_name_plate(card)
-            card = self._add_ui_elements(card)
-            card = self._add_text(card, row)
-            card = self._add_languages(card, row)
+            card = self._create_card(row)
             self._save_card(card, row['name'])
 
-    def _add_name_plate(self, card):
-        """Dodaje graficzną płytkę pod nazwę i języki"""
-        plate = Image.open(os.path.join(self.paths['ui'], 'name_plate.png'))
-        plate = plate.resize(self.ui_elements['name_plate']['size'])
-        position = self.ui_elements['name_plate']['position']
-        card.alpha_composite(plate, position)
+    def _create_card(self, data):
+        # Baza karty
+        card = Image.open(f"{self.assets_path['backgrounds']}/{data['background']}.png").convert('RGBA')
+        
+        # Elementy karty
+        card = self._add_character(card, data['image'])
+        card = self._add_combat_elements(card, data)
+        card = self._add_name_plate(card, data)
+        card = self._add_languages(card, data)
+        
+        return card
+
+    def _add_character(self, card, character_img):
+        character = Image.open(f"{self.assets_path['characters']}/{character_img}.png").convert('RGBA')
+        character_pos = (
+            (self.card_size[0] - self.character_size[0]) // 2,
+            40
+        )
+        card.alpha_composite(character, character_pos)
+        return card
+
+    def _add_combat_elements(self, card, data):
+        # Broń
+        for i in range(1, 3):
+            if pd.notna(data[f'weapon_{i}_image']):
+                card = self._add_weapon(
+                    card, 
+                    data[f'weapon_{i}_image'], 
+                    data[f'weapon_{i}'], 
+                    self.ui_config['weapons']['positions'][i-1]
+                )
+
+        # Pancerz
+        for i in range(1, 4):
+            if pd.notna(data[f'armor_{i}_image']):
+                card = self._add_armor(
+                    card,
+                    data[f'armor_{i}_image'],
+                    data[f'armor_{i}'],
+                    self.ui_config['armors']['positions'][i-1]
+                )
+
+        # Punkty życia
+        health_icon = Image.open(f"{self.assets_path['ui']}/health_icon.png")
+        health_icon = health_icon.resize(self.ui_config['health']['size'])
+        card.alpha_composite(health_icon, self.ui_config['health']['position'])
+        
+        draw = ImageDraw.Draw(card)
+        draw.text(
+            (self.ui_config['health']['position'][0] + 50, 
+             self.ui_config['health']['position'][1] + 50),
+            str(data['health']),
+            font=self.font.font_variant(size=self.ui_config['health']['font_size']),
+            fill='white',
+            anchor='mm'
+        )
+        
+        return card
+
+    def _add_weapon(self, card, img_name, value, position):
+        weapon_img = Image.open(f"{self.assets_path['weapons']}/{img_name}.png")
+        weapon_img = weapon_img.resize(self.ui_config['weapons']['size'])
+        
+        # Dodanie wartości
+        draw = ImageDraw.Draw(weapon_img)
+        text_position = (
+            self.ui_config['weapons']['label_offset'][0],
+            self.ui_config['weapons']['label_offset'][1]
+        )
+        draw.text(
+            text_position,
+            str(value),
+            font=self.font,
+            fill='white',
+            anchor='mm'
+        )
+        
+        card.alpha_composite(weapon_img, position)
+        return card
+
+    def _add_armor(self, card, img_name, value, position):
+        armor_img = Image.open(f"{self.assets_path['armors']}/{img_name}.png")
+        armor_img = armor_img.resize(self.ui_config['armors']['size'])
+        
+        # Dodanie wartości
+        draw = ImageDraw.Draw(armor_img)
+        draw.text(
+            self.ui_config['armors']['label_offset'],
+            str(value),
+            font=self.font,
+            fill='white',
+            anchor='mm'
+        )
+        
+        card.alpha_composite(armor_img, position)
+        return card
+
+    def _add_name_plate(self, card, data):
+        plate = Image.open(f"{self.assets_path['ui']}/name_plate.png")
+        plate = plate.resize(self.ui_config['name_plate']['size'])
+        card.alpha_composite(plate, self.ui_config['name_plate']['position'])
+        
+        draw = ImageDraw.Draw(card)
+        draw.text(
+            self.ui_config['name']['position'],
+            data['name'],
+            font=self.font.font_variant(size=self.ui_config['name']['font_size']),
+            fill='white',
+            anchor='mm'
+        )
+        
         return card
 
     def _add_languages(self, card, data):
-        """Dodaje ikony języków"""
-        languages = data['languages'].split(',')
-        total_width = (len(languages) * self.ui_elements['languages']['size'][0] + 
-                      (len(languages)-1) * self.ui_elements['languages']['margin'])
+        languages = [data[f'language_{i}'] for i in range(1,6) if pd.notna(data.get(f'language_{i}'))]
+        num_langs = min(len(languages), self.ui_config['languages']['max_count'])
         
+        if num_langs == 0:
+            return card
+
+        total_width = (num_langs * self.ui_config['languages']['icon_size'][0] + 
+                     (num_langs - 1) * self.ui_config['languages']['margin'])
         start_x = (self.card_size[0] - total_width) // 2
         
-        for i, lang in enumerate(languages):
-            lang = lang.strip()
-            lang_img = Image.open(os.path.join(self.paths['languages'], f"{lang}.png"))
-            lang_img = lang_img.resize(self.ui_elements['languages']['size'])
+        for i in range(num_langs):
+            lang_img = Image.open(
+                f"{self.assets_path['languages']}/{languages[i]}.png"
+            ).resize(self.ui_config['languages']['icon_size'])
             
-            x = start_x + i * (self.ui_elements['languages']['size'][0] + 
-                self.ui_elements['languages']['margin'])
-            position = (x, self.ui_elements['languages']['position_y'])
-            
+                        x = start_x + i * (
+                self.ui_config['languages']['icon_size'][0] + 
+                self.ui_config['languages']['margin']
+            )
+            position = (x, self.ui_config['languages']['position_y'])
             card.alpha_composite(lang_img, position)
+        
         return card
 
-    def _add_weapons(self, card, data):
-        """Nowe skalowanie broni"""
-        for i, pos in enumerate(self.ui_elements['weapon_slots']['positions'], 1):
-            weapon = Image.open(os.path.join(
-                self.paths['weapons'],
-                f"{data[f'weapon_{i}']}.png"
-            ))
-            weapon = self._smart_resize(weapon, self.ui_elements['weapon_slots']['size'])
-            card.alpha_composite(weapon, pos)
-        return card
+    def _save_card(self, card, name):
+        """Zapisuje gotową kartę do folderu output"""
+        os.makedirs(self.assets_path['output'], exist_ok=True)
+        output_path = os.path.join(self.assets_path['output'], f"{name}.png")
+        card.save(output_path)
+        print(f"Zapisano kartę: {output_path}")
 
-    def _smart_resize(self, image, target_size):
-        """Inteligentne skalowanie z zachowaniem proporcji"""
-        image.thumbnail((target_size[0]*2, target_size[1]*2), Image.Resampling.LANCZOS)
-        return image.crop((
-            (image.width - target_size[0])//2,
-            (image.height - target_size[1])//2,
-            (image.width + target_size[0])//2,
-            (image.height + target_size[1])//2
-        ))
+    def _load_image(self, path, size=None):
+        """Bezpieczne ładowanie obrazów z obsługą błędów"""
+        try:
+            img = Image.open(path).convert('RGBA')
+            if size:
+                img = img.resize(size)
+            return img
+        except FileNotFoundError:
+            print(f"Błąd: Nie znaleziono pliku {path}")
+            return None
+        except Exception as e:
+            print(f"Błąd podczas ładowania obrazu {path}: {str(e)}")
+            return None
 
-    # Pozostałe metody pozostają jak w poprzedniej wersji z odpowiednimi poprawkami pozycji
+    def _validate_data(self, data):
+        """Sprawdza poprawność danych wejściowych"""
+        required_fields = [
+            'name', 'background', 'image', 'health',
+            'weapon_1_image', 'weapon_1',
+            'armor_1_image', 'armor_1'
+        ]
+        
+        for field in required_fields:
+            if pd.isna(data[field]):
+                raise ValueError(f"Brakujące wymagane pole: {field}")
+                
+        if not isinstance(data['health'], (int, float)):
+            raise ValueError("Wartość zdrowia musi być liczbą")
+            
+        for i in range(1, 3):
+            if pd.notna(data[f'weapon_{i}']) and not isinstance(data[f'weapon_{i}'], (int, float)):
+                raise ValueError(f"Wartość broni {i} musi być liczbą")
+                
+        for i in range(1, 4):
+            if pd.notna(data[f'armor_{i}']) and not isinstance(data[f'armor_{i}'], (int, float)):
+                raise ValueError(f"Wartość pancerza {i} musi być liczbą")
 
-# Konfiguracja assetów:
-"""
-Wymagane pliki:
-- assets/ui_elements/name_plate.png (800x120) - dekoracyjna płytka
-- assets/weapons/*.png (1024x1024)
-- assets/languages/*.png (1024x1024)
-- assets/armors/*.png (1024x1024)
-- assets/ui_elements/health_icon.png (1024x1024)
+    def _setup_logging(self):
+        """Konfiguracja systemu logowania"""
+        import logging
+        logging.basicConfig(
+            level=logging.INFO,
+            format='%(asctime)s - %(levelname)s - %(message)s',
+            handlers=[
+                logging.FileHandler('card_generator.log'),
+                logging.StreamHandler()
+            ]
+        )
+        self.logger = logging.getLogger(__name__)
 
-Struktura folderów:
-assets/
-├── languages/
-│   ├── Drakonii.png
-│   ├── Urghish.png
-│   └── Eldritch.png
-└── ui_elements/
-    ├── name_plate.png
-    └── health_icon.png
-"""
-
-# Przykładowe dane CSV:
-"""
-name,background,character_image,weapon_1,weapon_2,armor_1,armor_2,armor_3,health,languages
-Gromthar,dungeon,warrior,axe,shield,chestplate,helmet,boots,150,Drakonii, Urghish, Eldritch
-"""
+# Przykładowe użycie:
+if __name__ == "__main__":
+    generator = RPGCardGenerator()
+    
+    # Przykładowy CSV (rozdzielany tabulatorami):
+    """
+    name    background  image   health  weapon_1_image weapon_1 weapon_2_image weapon_2 armor_1_image armor_1 armor_2_image armor_2 armor_3_image armor_3 language_1 language_2 language_3 language_4 language_5
+    Gromthar    dungeon warrior 150 sword_icon   12  axe_icon    8   plate_icon   15  helm_icon    5   boots_icon   3   Drakonii    Urghish Eldritch   Shadowtongue
+    """
+    
+    generator.generate_from_file('cards_data.csv')
