@@ -268,4 +268,4 @@ if __name__ == "__main__":
     Gromthar    dungeon warrior 150 sword_icon   12  axe_icon    8   plate_icon   15  helm_icon    5   boots_icon   3   Drakonii    Urghish Eldritch   Shadowtongue
     """
     
-    generator.generate_from_file('cards_data.csv')
+    generator.generate_from_file('list.csv')
