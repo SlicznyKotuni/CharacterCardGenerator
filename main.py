@@ -122,7 +122,7 @@ class RPGCardGenerator:
         
         return card
 
-    def _add_weapon(self, card, img_name, value, position):
+def _add_weapon(self, card, img_name, value, position):
         weapon_img = Image.open(f"{self.assets_path['weapons']}/{img_name}.png")
         weapon_img = weapon_img.resize(self.ui_config['weapons']['size'])
         
@@ -143,7 +143,7 @@ class RPGCardGenerator:
         card.alpha_composite(weapon_img, position)
         return card
 
-    def _add_armor(self, card, img_name, value, position):
+    def _add_armor(self, card, img_name, value, position):  
         armor_img = Image.open(f"{self.assets_path['armors']}/{img_name}.png")
         armor_img = armor_img.resize(self.ui_config['armors']['size'])
         
@@ -163,6 +163,7 @@ class RPGCardGenerator:
    def _add_name_plate(self, card, data):
         print(f"Adding name plate for: {data['name']}") #DEBUG
         plate = Image.open(f"{self.assets_path['ui']}/name_plate.png")
+        plate = Image.open(f"{self.assets_path['ui']}/name_plate.png")
         print(f"Original plate size: {plate.size}") #DEBUG
         print(f"Name plate size from config: {self.ui_config['name_plate']['size']}") #DEBUG
         plate = plate.resize(self.ui_config['name_plate']['size'])
@@ -171,6 +172,8 @@ class RPGCardGenerator:
         print(f"Name plate position: {self.ui_config['name_plate']['position']}") #DEBUG
 
         card.alpha_composite(plate, self.ui_config['name_plate']['position'])
+        print(f"Card size after composite: {card.size}") #DEBUG  # ADDED
+        print(f"Plate size after composite: {plate.size}") #DEBUG  # ADDED
         
         draw = ImageDraw.Draw(card)
         draw.text(
