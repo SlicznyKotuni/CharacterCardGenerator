@@ -5,39 +5,39 @@ import logging
 
 class RPGCardGenerator:
     def __init__(self):
-        self.card_size = (1368, 912)
-        self.character_size = (1216, 832)
+        self.card_size = (912, 1368)  # Corrected: width, height
+        self.character_size = (800, 700) # Adjusted Character Size
         
         self.ui_config = {
             'weapons': {
-                'positions': [(50, 400), (50, 580)],
-                'size': (200, 200),
-                'label_offset': (100, 170)
+                'positions': [(50, 350), (50, 450)],  # Adjusted positions, touching
+                'size': (100, 100),
+                'label_offset': (50, 50)  # Center text within the square
             },
             'armors': {
-                'positions': [(1120, 400), (1120, 540), (1120, 680)],
-                'size': (150, 150),
-                'label_offset': (75, 125)
+                'positions': [(762, 350), (762, 480), (762, 610)],  # Adjusted positions
+                'size': (100, 100),
+                'label_offset': (50, 50)  # Center text within the square
             },
             'health': {
-                'position': (1250, 50),
+                'position': (762, 50),  # Adjusted Position
                 'size': (100, 100),
                 'font_size': 32
             },
             'name_plate': {
-                'size': (800, 120),
-                'position': (284, 740)
+                'size': (600, 100),
+                'position': ((912 - 600) // 2, 1200)  # Centered horizontally, adjusted Y
             },
             'name': {
-                'position': (684, 780),
-                'font_size': 48,
+                'position': (912 // 2, 1240),  # Centered horizontally, adjusted Y
+                'font_size': 60,
                 'max_length': 24
             },
             'languages': {
                 'icon_size': (80, 80),
                 'max_count': 4,
                 'margin': 30,
-                'position_y': 820
+                'position_y': 1300 # Adjusted Y
             }
         }
 
@@ -92,7 +92,7 @@ class RPGCardGenerator:
         except Exception as e:
             self.logger.exception(f"An unexpected error occurred while processing {csv_path}")
 
-    def _create_card(self, data):
+    def _create_card(self,  data):
         """Creates the character card image."""
         try:
             background_path = os.path.join(self.assets_path['backgrounds'], f"{data['background']}.png")
@@ -118,15 +118,15 @@ class RPGCardGenerator:
             character = Image.open(character_path).convert('RGBA')
         except FileNotFoundError:
             self.logger.error(f"Character image not found: {character_img}")
-            return card  # Or handle the error differently
+            return card
         except Exception as e:
             self.logger.error(f"Error opening character image: {character_img}: {e}")
             return card
 
-
+        # Adjust vertical position to move the character up and give more space at the bottom
         character_pos = (
             (self.card_size[0] - self.character_size[0]) // 2,
-            40
+            20 # Adjusted value, smaller = higher
         )
         card.alpha_composite(character, character_pos)
         return card
@@ -171,7 +171,7 @@ class RPGCardGenerator:
         """Adds the health icon and value to the card."""
         try:
             health_icon_path = os.path.join(self.assets_path['ui'], 'health_icon.png')
-            health_icon = Image.open(health_icon_path)
+            health_icon = Image.open(health_icon_path).convert("RGBA")
             health_icon = health_icon.resize(self.ui_config['health']['size'])
             card.alpha_composite(health_icon, self.ui_config['health']['position'])
 
@@ -194,7 +194,7 @@ class RPGCardGenerator:
         """Adds a weapon image and its value to the card."""
         try:
             weapon_path = os.path.join(self.assets_path['weapons'], f"{img_name}.png")
-            weapon_img = Image.open(weapon_path)
+            weapon_img = Image.open(weapon_path).convert("RGBA") # Ensure RGBA
             weapon_img = weapon_img.resize(self.ui_config['weapons']['size'])
 
             draw = ImageDraw.Draw(weapon_img)
@@ -202,12 +202,21 @@ class RPGCardGenerator:
                 self.ui_config['weapons']['label_offset'][0],
                 self.ui_config['weapons']['label_offset'][1]
             )
+
+            # Load a bold font (or use the existing one if a bold version isn't available)
+            bold_font_path = os.path.join(self.assets_path['fonts'], 'PressJobs-Bold.ttf')  # Example
+            try:
+                bold_font = ImageFont.truetype(bold_font_path, size=24)  # Same size as before
+            except IOError:
+                self.logger.warning("Bold font not found, using regular font.")
+                bold_font = self.font  # Use the regular font as a fallback
+
             draw.text(
                 text_position,
                 str(value),
-                font=self.font,
+                font=bold_font,
                 fill='white',
-                anchor='mm'
+                anchor='mm'  # Center the text
             )
 
             card.alpha_composite(weapon_img, position)
@@ -221,16 +230,26 @@ class RPGCardGenerator:
         """Adds an armor image and its value to the card."""
         try:
             armor_path = os.path.join(self.assets_path['armors'], f"{img_name}.png")
-            armor_img = Image.open(armor_path)
+            armor_img = Image.open(armor_path).convert("RGBA") # Ensure RGBA
             armor_img = armor_img.resize(self.ui_config['armors']['size'])
 
             draw = ImageDraw.Draw(armor_img)
+            text_position = self.ui_config['armors']['label_offset']
+
+            # Load a bold font (or use the existing one if a bold version isn't available)
+            bold_font_path = os.path.join(self.assets_path['fonts'], 'PressJobs-Bold.ttf')  # Example
+            try:
+                bold_font = ImageFont.truetype(bold_font_path, size=24)  # Same size as before
+            except IOError:
+                self.logger.warning("Bold font not found, using regular font.")
+                bold_font = self.font  # Use the regular font as a fallback
+
             draw.text(
-                self.ui_config['armors']['label_offset'],
+                text_position,
                 str(value),
-                font=self.font,
+                font=bold_font,
                 fill='white',
-                anchor='mm'
+                anchor='mm'  # Center the text
             )
 
             card.alpha_composite(armor_img, position)
@@ -244,18 +263,28 @@ class RPGCardGenerator:
         """Adds the name plate and character's name to the card."""
         try:
             plate_path = os.path.join(self.assets_path['ui'], 'name_plate.png')
-            plate = Image.open(plate_path)
+            plate = Image.open(plate_path).convert("RGBA")  # Ensure RGBA
             plate = plate.resize(self.ui_config['name_plate']['size'])
             card.alpha_composite(plate, self.ui_config['name_plate']['position'])
 
             draw = ImageDraw.Draw(card)
-            draw.text(
-                self.ui_config['name']['position'],
-                data['name'],
-                font=self.font.font_variant(size=self.ui_config['name']['font_size']),
-                fill='white',
-                anchor='mm'
-            )
+            text = data['name']
+            font = self.font.font_variant(size=self.ui_config['name']['font_size'])
+            text_width, text_height = draw.textsize(text, font=font) # Removed deprecated call
+
+            # Stroke effect (crude, but functional)
+            stroke_color = 'black'  # Or another suitable color
+            x, y = self.ui_config['name']['position']
+            offset = 2  # Stroke width
+
+            # Draw the text multiple times with an offset to create the stroke effect
+            for i in range(-offset, offset + 1):
+                for j in range(-offset, offset + 1):
+                    draw.text((x + i, y + j), text, font=font, fill=stroke_color, anchor='mm')
+
+            # Draw the main text in white
+            draw.text(self.ui_config['name']['position'], text, font=font, fill='white', anchor='mm')
+
         except FileNotFoundError:
             self.logger.error("Name plate image not found.")
         except Exception as e:
@@ -277,7 +306,7 @@ class RPGCardGenerator:
         for i in range(num_langs):
             try:
                 lang_img_path = os.path.join(self.assets_path['languages'], f"{languages[i]}.png")
-                lang_img = Image.open(lang_img_path).resize(self.ui_config['languages']['icon_size'])
+                lang_img = Image.open(lang_img_path).convert("RGBA").resize(self.ui_config['languages']['icon_size'])
                 x = start_x + i * (self.ui_config['languages']['icon_size'][0] + self.ui_config['languages']['margin'])
                 position = (x, self.ui_config['languages']['position_y'])
                 card.alpha_composite(lang_img, position)

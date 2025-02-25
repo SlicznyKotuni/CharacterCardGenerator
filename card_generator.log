@@ -4,3 +4,57 @@
 2025-02-25 20:40:12,968 - INFO - Saved card: output\Kita.png
 2025-02-25 20:40:13,163 - ERROR - Error adding name plate: images do not match
 2025-02-25 20:40:13,790 - INFO - Saved card: output\Ronw.png
+2025-02-25 21:28:07,986 - ERROR - Error adding name plate: images do not match
+2025-02-25 21:28:08,555 - INFO - Saved card: output\Rita.png
+2025-02-25 21:28:08,752 - ERROR - Error adding name plate: images do not match
+2025-02-25 21:28:09,352 - INFO - Saved card: output\Kita.png
+2025-02-25 21:28:09,545 - ERROR - Error adding name plate: images do not match
+2025-02-25 21:28:10,147 - INFO - Saved card: output\Ronw.png
+2025-02-25 21:33:41,130 - ERROR - Error adding name plate: images do not match
+2025-02-25 21:33:41,601 - INFO - Saved card: output\Rita.png
+2025-02-25 21:33:41,769 - ERROR - Error adding name plate: images do not match
+2025-02-25 21:33:42,332 - INFO - Saved card: output\Kita.png
+2025-02-25 21:33:42,501 - ERROR - Error adding name plate: images do not match
+2025-02-25 21:33:43,079 - INFO - Saved card: output\Ronw.png
+2025-02-25 21:38:24,265 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:24,287 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:24,308 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:24,328 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:24,349 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:24,375 - ERROR - Error adding name plate: 'ImageDraw' object has no attribute 'textsize'
+2025-02-25 21:38:24,855 - INFO - Saved card: output\Rita.png
+2025-02-25 21:38:24,925 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:24,945 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:24,965 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:24,985 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:25,005 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:25,031 - ERROR - Error adding name plate: 'ImageDraw' object has no attribute 'textsize'
+2025-02-25 21:38:25,595 - INFO - Saved card: output\Kita.png
+2025-02-25 21:38:25,666 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:25,686 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:25,706 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:25,727 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:25,746 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:38:25,772 - ERROR - Error adding name plate: 'ImageDraw' object has no attribute 'textsize'
+2025-02-25 21:38:26,353 - INFO - Saved card: output\Ronw.png
+2025-02-25 21:43:51,955 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:51,975 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:51,995 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:52,015 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:52,036 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:52,062 - ERROR - Error adding name plate: 'ImageDraw' object has no attribute 'textsize'
+2025-02-25 21:43:52,537 - INFO - Saved card: output\Rita.png
+2025-02-25 21:43:52,606 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:52,627 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:52,646 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:52,667 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:52,687 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:52,713 - ERROR - Error adding name plate: 'ImageDraw' object has no attribute 'textsize'
+2025-02-25 21:43:53,272 - INFO - Saved card: output\Kita.png
+2025-02-25 21:43:53,342 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:53,362 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:53,382 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:53,402 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:53,422 - WARNING - Bold font not found, using regular font.
+2025-02-25 21:43:53,448 - ERROR - Error adding name plate: 'ImageDraw' object has no attribute 'textsize'
+2025-02-25 21:43:54,024 - INFO - Saved card: output\Ronw.png
