@@ -169,3 +169,703 @@
 2025-02-25 22:41:57,773 - INFO - Saved card: output\Anki.png
 2025-02-25 22:41:58,683 - INFO - Saved card: output\Oria.png
 2025-02-25 22:41:59,547 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:09:20,739 - INFO - Saved card: output\Rita.png
+2025-02-25 23:09:21,479 - INFO - Saved card: output\Kita.png
+2025-02-25 23:09:22,223 - INFO - Saved card: output\Ronw.png
+2025-02-25 23:09:23,007 - INFO - Saved card: output\Anki.png
+2025-02-25 23:09:23,891 - INFO - Saved card: output\Oria.png
+2025-02-25 23:09:24,766 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:09:53,667 - INFO - Saved card: output\Rita.png
+2025-02-25 23:09:54,430 - INFO - Saved card: output\Kita.png
+2025-02-25 23:09:55,172 - INFO - Saved card: output\Ronw.png
+2025-02-25 23:09:55,956 - INFO - Saved card: output\Anki.png
+2025-02-25 23:09:56,843 - INFO - Saved card: output\Oria.png
+2025-02-25 23:09:57,711 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:15:00,224 - INFO - Saved card: output\Rita.png
+2025-02-25 23:15:00,967 - INFO - Saved card: output\Kita.png
+2025-02-25 23:15:01,686 - INFO - Saved card: output\Ronw.png
+2025-02-25 23:15:02,444 - INFO - Saved card: output\Anki.png
+2025-02-25 23:15:03,304 - INFO - Saved card: output\Oria.png
+2025-02-25 23:15:04,161 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:20:37,403 - INFO - Saved card: output\Rita.png
+2025-02-25 23:20:38,174 - INFO - Saved card: output\Kita.png
+2025-02-25 23:20:38,930 - INFO - Saved card: output\Ronw.png
+2025-02-25 23:20:39,750 - INFO - Saved card: output\Anki.png
+2025-02-25 23:20:40,638 - INFO - Saved card: output\Oria.png
+2025-02-25 23:20:41,496 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:20:42,333 - INFO - Saved card: output\Tarczolud.png
+2025-02-25 23:27:27,060 - ERROR - Failed to generate card for Rita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:27:27,151 - ERROR - Failed to generate card for Kita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:27:27,241 - ERROR - Failed to generate card for Ronw
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:27:27,395 - ERROR - Failed to generate card for Anki
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:27:27,563 - ERROR - Failed to generate card for Oria
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:27:27,721 - ERROR - Failed to generate card for Xieu
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:27:27,877 - ERROR - Failed to generate card for Tarczolud
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:27:59,690 - ERROR - Failed to generate card for Rita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:27:59,782 - ERROR - Failed to generate card for Kita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:27:59,873 - ERROR - Failed to generate card for Ronw
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:00,028 - ERROR - Failed to generate card for Anki
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:00,201 - ERROR - Failed to generate card for Oria
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:00,362 - ERROR - Failed to generate card for Xieu
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:00,521 - ERROR - Failed to generate card for Tarczolud
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:24,231 - INFO - Saved card: output\Rita.png
+2025-02-25 23:28:24,974 - INFO - Saved card: output\Kita.png
+2025-02-25 23:28:25,699 - INFO - Saved card: output\Ronw.png
+2025-02-25 23:28:26,482 - INFO - Saved card: output\Anki.png
+2025-02-25 23:28:27,365 - INFO - Saved card: output\Oria.png
+2025-02-25 23:28:28,222 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:28:29,052 - INFO - Saved card: output\Tarczolud.png
+2025-02-25 23:28:35,172 - ERROR - Failed to generate card for Rita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:35,262 - ERROR - Failed to generate card for Kita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:35,355 - ERROR - Failed to generate card for Ronw
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:35,512 - ERROR - Failed to generate card for Anki
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:35,681 - ERROR - Failed to generate card for Oria
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:35,842 - ERROR - Failed to generate card for Xieu
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:28:36,001 - ERROR - Failed to generate card for Tarczolud
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:29:07,322 - ERROR - Failed to generate card for Rita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armor(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: RPGCardGenerator._add_armor() missing 2 required positional arguments: 'value' and 'position'
+2025-02-25 23:29:07,412 - ERROR - Failed to generate card for Kita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armor(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: RPGCardGenerator._add_armor() missing 2 required positional arguments: 'value' and 'position'
+2025-02-25 23:29:07,502 - ERROR - Failed to generate card for Ronw
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armor(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: RPGCardGenerator._add_armor() missing 2 required positional arguments: 'value' and 'position'
+2025-02-25 23:29:07,654 - ERROR - Failed to generate card for Anki
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armor(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: RPGCardGenerator._add_armor() missing 2 required positional arguments: 'value' and 'position'
+2025-02-25 23:29:07,819 - ERROR - Failed to generate card for Oria
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armor(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: RPGCardGenerator._add_armor() missing 2 required positional arguments: 'value' and 'position'
+2025-02-25 23:29:07,976 - ERROR - Failed to generate card for Xieu
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armor(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: RPGCardGenerator._add_armor() missing 2 required positional arguments: 'value' and 'position'
+2025-02-25 23:29:08,132 - ERROR - Failed to generate card for Tarczolud
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armor(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: RPGCardGenerator._add_armor() missing 2 required positional arguments: 'value' and 'position'
+2025-02-25 23:30:11,863 - INFO - Saved card: output\Rita.png
+2025-02-25 23:30:12,603 - INFO - Saved card: output\Kita.png
+2025-02-25 23:30:13,320 - INFO - Saved card: output\Ronw.png
+2025-02-25 23:30:14,088 - INFO - Saved card: output\Anki.png
+2025-02-25 23:30:14,950 - INFO - Saved card: output\Oria.png
+2025-02-25 23:30:15,829 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:30:16,680 - INFO - Saved card: output\Tarczolud.png
+2025-02-25 23:30:32,293 - INFO - Saved card: output\Rita.png
+2025-02-25 23:30:33,050 - INFO - Saved card: output\Kita.png
+2025-02-25 23:30:33,782 - INFO - Saved card: output\Ronw.png
+2025-02-25 23:30:34,556 - INFO - Saved card: output\Anki.png
+2025-02-25 23:30:35,441 - INFO - Saved card: output\Oria.png
+2025-02-25 23:30:36,296 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:30:37,123 - INFO - Saved card: output\Tarczolud.png
+2025-02-25 23:30:37,284 - ERROR - Armor image not found: alt06
+2025-02-25 23:30:37,284 - ERROR - Armor image not found: 00802--2074780840-fantaC_v10-Euler-21-7.6
+2025-02-25 23:30:37,911 - INFO - Saved card: output\Reria.png
+2025-02-25 23:34:03,786 - ERROR - Failed to generate card for Rita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:34:03,877 - ERROR - Failed to generate card for Kita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:34:03,968 - ERROR - Failed to generate card for Ronw
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:34:04,122 - ERROR - Failed to generate card for Anki
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:34:04,293 - ERROR - Failed to generate card for Oria
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:34:04,456 - ERROR - Failed to generate card for Xieu
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:34:04,614 - ERROR - Failed to generate card for Tarczolud
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:34:04,772 - ERROR - Failed to generate card for Reria
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 127, in _add_combat_elements
+    card = self._add_armors(card, data)
+           ^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_armors'. Did you mean: '_add_armor'?
+2025-02-25 23:37:19,547 - ERROR - Failed to generate card for Rita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:19,599 - ERROR - Failed to generate card for Kita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:19,651 - ERROR - Failed to generate card for Ronw
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:19,701 - ERROR - Failed to generate card for Anki
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:19,752 - ERROR - Failed to generate card for Oria
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:19,803 - ERROR - Failed to generate card for Xieu
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:19,852 - ERROR - Failed to generate card for Tarczolud
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:19,900 - ERROR - Failed to generate card for Reria
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:43,894 - ERROR - Failed to generate card for Rita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:43,946 - ERROR - Failed to generate card for Kita
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:43,996 - ERROR - Failed to generate card for Ronw
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:44,045 - ERROR - Failed to generate card for Anki
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:44,096 - ERROR - Failed to generate card for Oria
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:44,145 - ERROR - Failed to generate card for Xieu
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:44,195 - ERROR - Failed to generate card for Tarczolud
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:37:44,243 - ERROR - Failed to generate card for Reria
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 75, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 102, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\main.py", line 126, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did you mean: '_add_weapon'?
+2025-02-25 23:38:09,535 - INFO - Saved card: output\Rita.png
+2025-02-25 23:38:10,293 - INFO - Saved card: output\Kita.png
+2025-02-25 23:38:11,024 - INFO - Saved card: output\Ronw.png
+2025-02-25 23:38:11,802 - INFO - Saved card: output\Anki.png
+2025-02-25 23:38:12,667 - INFO - Saved card: output\Oria.png
+2025-02-25 23:38:13,523 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:38:14,349 - INFO - Saved card: output\Tarczolud.png
+2025-02-25 23:38:14,503 - ERROR - Armor image not found: alt06
+2025-02-25 23:38:14,504 - ERROR - Armor image not found: 00802--2074780840-fantaC_v10-Euler-21-7.6
+2025-02-25 23:38:15,122 - INFO - Saved card: output\Reria.png
+2025-02-25 23:39:03,616 - INFO - Saved card: output\Rita.png
+2025-02-25 23:39:04,366 - INFO - Saved card: output\Kita.png
+2025-02-25 23:39:05,083 - INFO - Saved card: output\Ronw.png
+2025-02-25 23:39:05,845 - INFO - Saved card: output\Anki.png
+2025-02-25 23:39:06,704 - INFO - Saved card: output\Oria.png
+2025-02-25 23:39:07,580 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:39:08,429 - INFO - Saved card: output\Tarczolud.png
+2025-02-25 23:39:08,641 - ERROR - Armor image not found: 00802--2074780840-fantaC_v10-Euler-21-7.6
+2025-02-25 23:39:09,277 - INFO - Saved card: output\Reria.png
+2025-02-25 23:39:32,335 - INFO - Saved card: output\Rita.png
+2025-02-25 23:39:33,076 - INFO - Saved card: output\Kita.png
+2025-02-25 23:39:33,813 - INFO - Saved card: output\Ronw.png
+2025-02-25 23:39:34,596 - INFO - Saved card: output\Anki.png
+2025-02-25 23:39:35,484 - INFO - Saved card: output\Oria.png
+2025-02-25 23:39:36,345 - INFO - Saved card: output\Xieu.png
+2025-02-25 23:39:37,175 - INFO - Saved card: output\Tarczolud.png
+2025-02-25 23:39:38,022 - INFO - Saved card: output\Reria.png

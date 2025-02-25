@@ -6,39 +6,39 @@ import logging
 class RPGCardGenerator:
     def __init__(self):
         self.card_size = (912, 1368)
-        self.character_size = (800, 700)  # Adjusted Character Size
+        self.character_size = (800, 700)
         self.ui_config = {
             'weapons': {
-                'positions': [(50, 350), (50, 450)],  # Adjusted positions, touching
-                'size': (120, 120),  # Increased size
-                'label_offset': (60, 60),  # Center text within the square
-                'font_size': 36  # Increased font size
+                'positions': [(50, 300), (50, 430)],  # Adjusted positions, touching, left side
+                'size': (120, 120),
+                'label_offset': (60, 60),
+                'font_size': 36
             },
             'armors': {
-                'positions': [(732, 350), (732, 480), (732, 610)],  # Adjusted positions
-                'size': (120, 120),  # Increased size
-                'label_offset': (60, 60),  # Center text within the square
-                'font_size': 36  # Increased font size
+                'positions': [(742, 300), (742, 430), (742, 560)],  # Adjusted positions, touching, right side
+                'size': (120, 120),
+                'label_offset': (60, 60),
+                'font_size': 36
             },
             'health': {
-                'position': (762, 50),
-                'size': (120, 120),  # Increased size
-                'font_size': 40  # Increased font size
+                'position': (732, 50),
+                'size': (120, 120),
+                'font_size': 40
             },
             'name_plate': {
                 'size': (600, 100),
-                'position': ((912 - 600) // 2, 1150)  # Centered horizontally, adjusted Y
+                'position': ((912 - 600) // 2, 1150)
             },
             'name': {
-                'position': (912 // 2, 1190),  # Centered horizontally, adjusted Y
+                'position': (912 // 2, 1190),
                 'font_size': 60,
                 'max_length': 24
             },
             'languages': {
-                'icon_size': (90, 90),  # Increased size
+                'icon_size': (90, 90),
                 'max_count': 4,
                 'margin': 30,
-                'position_y': 1250  # Adjusted Y
+                'position_y': 1250
             }
         }
         self.assets_path = {
@@ -116,8 +116,8 @@ class RPGCardGenerator:
             return card
 
         character_pos = (
-            (self.card_size[0] - self.character_size[0]) // 2,
-            50  # Adjusted value
+            (self.card_size[0] - self.character_size[0]) // 2 - 20,  # Przesunięcie w lewo
+            50
         )
         card.alpha_composite(character, character_pos)
         return card
@@ -190,6 +190,15 @@ class RPGCardGenerator:
 
             font = self.font.font_variant(size=self.ui_config['weapons']['font_size'])
 
+            # Dodanie półprzezroczystego pola pod tekstem
+            bbox = draw.textbbox((0, 0), str(value), font=font, anchor='mm')
+            padding = 5
+            rect_pos = (text_position[0] - (bbox[2] - bbox[0]) // 2 - padding,
+                        text_position[1] - (bbox[3] - bbox[1]) // 2 - padding,
+                        text_position[0] + (bbox[2] - bbox[0]) // 2 + padding,
+                        text_position[1] + (bbox[3] - bbox[1]) // 2 + padding)
+            draw.rectangle(rect_pos, fill=(0, 0, 0, 128))
+
             draw.text(
                 text_position,
                 str(value),
@@ -215,6 +224,15 @@ class RPGCardGenerator:
             text_position = self.ui_config['armors']['label_offset']
 
             font = self.font.font_variant(size=self.ui_config['armors']['font_size'])
+
+            # Dodanie półprzezroczystego pola pod tekstem
+            bbox = draw.textbbox((0, 0), str(value), font=font, anchor='mm')
+            padding = 5
+            rect_pos = (text_position[0] - (bbox[2] - bbox[0]) // 2 - padding,
+                        text_position[1] - (bbox[3] - bbox[1]) // 2 - padding,
+                        text_position[0] + (bbox[2] - bbox[0]) // 2 + padding,
+                        text_position[1] + (bbox[3] - bbox[1]) // 2 + padding)
+            draw.rectangle(rect_pos, fill=(0, 0, 0, 128))
 
             draw.text(
                 text_position,
@@ -328,7 +346,6 @@ class RPGCardGenerator:
             ]
         )
         self.logger = logging.getLogger(__name__)
-
 
 if __name__ == "__main__":
     generator = RPGCardGenerator()
