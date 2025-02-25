@@ -1,6 +1,7 @@
 import pandas as pd
 from PIL import Image, ImageDraw, ImageFont
 import os
+import logging
 
 class RPGCardGenerator:
     def __init__(self):
@@ -51,23 +52,58 @@ class RPGCardGenerator:
             'output': 'output'
         }
 
-        # Ładowanie czcionki
-        self.font = ImageFont.truetype(
-            os.path.join(self.assets_path['fonts'], 'PressJobs.ttf'), 
-            size=24
-        )
+        self._setup_logging()  # Initialize logger
+        self.font = self._load_font()
+
+    def _load_font(self):
+        """Loads the font, handling potential errors."""
+        font_path = os.path.join(self.assets_path['fonts'], 'PressJobs.ttf')
+        try:
+            return ImageFont.truetype(font_path, size=24)
+        except IOError as e:
+            self.logger.error(f"Failed to load font from {font_path}: {e}")
+            # Fallback to a default font if available, or re-raise
+            try:
+                return ImageFont.load_default()
+            except IOError:
+                self.logger.error("Failed to load default font.")
+                raise  # Re-raise the exception if no font available
 
     def generate_from_file(self, csv_path):
-        df = pd.read_csv(csv_path, sep=';')  # Zmiana separatora na średnik
-        for _, row in df.iterrows():
-            card = self._create_card(row)
-            self._save_card(card, row['name'])
+        """Generates character cards from a CSV file."""
+        try:
+            df = pd.read_csv(csv_path, sep=';')
+            for _, row in df.iterrows():
+                try:
+                    self._validate_data(row)
+                    card = self._create_card(row)
+                    self._save_card(card, row['name'])
+                except ValueError as e:
+                    self.logger.error(f"Data validation error for {row['name']}: {e}")
+                except Exception as e:
+                    self.logger.exception(f"Failed to generate card for {row['name']}")
+
+        except FileNotFoundError:
+            self.logger.error(f"CSV file not found: {csv_path}")
+        except pd.errors.EmptyDataError:
+            self.logger.error(f"CSV file is empty: {csv_path}")
+        except pd.errors.ParserError:
+            self.logger.error(f"Error parsing CSV file: {csv_path}")
+        except Exception as e:
+            self.logger.exception(f"An unexpected error occurred while processing {csv_path}")
 
     def _create_card(self, data):
-        # Baza karty
-        card = Image.open(f"{self.assets_path['backgrounds']}/{data['background']}.png").convert('RGBA')
-        
-        # Elementy karty
+        """Creates the character card image."""
+        try:
+            background_path = os.path.join(self.assets_path['backgrounds'], f"{data['background']}.png")
+            card = Image.open(background_path).convert('RGBA')
+        except FileNotFoundError:
+            self.logger.error(f"Background image not found: {data['background']}")
+            return None # or raise exception
+        except Exception as e:
+             self.logger.error(f"Error opening background image: {data['background']}")
+             return None
+
         card = self._add_character(card, data['image'])
         card = self._add_combat_elements(card, data)
         card = self._add_name_plate(card, data)
@@ -76,7 +112,18 @@ class RPGCardGenerator:
         return card
 
     def _add_character(self, card, character_img):
-        character = Image.open(f"{self.assets_path['characters']}/{character_img}.png").convert('RGBA')
+        """Adds the character image to the card."""
+        try:
+            character_path = os.path.join(self.assets_path['characters'], f"{character_img}.png")
+            character = Image.open(character_path).convert('RGBA')
+        except FileNotFoundError:
+            self.logger.error(f"Character image not found: {character_img}")
+            return card  # Or handle the error differently
+        except Exception as e:
+            self.logger.error(f"Error opening character image: {character_img}: {e}")
+            return card
+
+
         character_pos = (
             (self.card_size[0] - self.character_size[0]) // 2,
             40
@@ -85,155 +132,173 @@ class RPGCardGenerator:
         return card
 
     def _add_combat_elements(self, card, data):
-        # Broń
-        for i in range(1, 3):
-            if pd.notna(data[f'weapon_{i}_image']):
-                card = self._add_weapon(
-                    card, 
-                    data[f'weapon_{i}_image'], 
-                    data[f'weapon_{i}'], 
-                    self.ui_config['weapons']['positions'][i-1]
-                )
+        """Adds weapons, armor, and health to the card."""
+        card = self._add_weapons(card, data)
+        card = self._add_armors(card, data)
+        card = self._add_health(card, data)
+        return card
 
-        # Pancerz
+    def _add_weapons(self, card, data):
+        """Adds weapon images and values to the card."""
+        for i in range(1, 3):
+            weapon_image_key = f'weapon_{i}_image'
+            weapon_value_key = f'weapon_{i}'
+
+            if pd.notna(data.get(weapon_image_key)) and pd.notna(data.get(weapon_value_key)):
+                card = self._add_weapon(
+                    card,
+                    data[weapon_image_key],
+                    data[weapon_value_key],
+                    self.ui_config['weapons']['positions'][i - 1]
+                )
+        return card
+
+    def _add_armors(self, card, data):
+        """Adds armor images and values to the card."""
         for i in range(1, 4):
-            if pd.notna(data[f'armor_{i}_image']):
+            armor_image_key = f'armor_{i}_image'
+            armor_value_key = f'armor_{i}'
+            if pd.notna(data.get(armor_image_key)) and pd.notna(data.get(armor_value_key)):
                 card = self._add_armor(
                     card,
-                    data[f'armor_{i}_image'],
-                    data[f'armor_{i}'],
-                    self.ui_config['armors']['positions'][i-1]
+                    data[armor_image_key],
+                    data[armor_value_key],
+                    self.ui_config['armors']['positions'][i - 1]
                 )
+        return card
+    
+    def _add_health(self, card, data):
+        """Adds the health icon and value to the card."""
+        try:
+            health_icon_path = os.path.join(self.assets_path['ui'], 'health_icon.png')
+            health_icon = Image.open(health_icon_path)
+            health_icon = health_icon.resize(self.ui_config['health']['size'])
+            card.alpha_composite(health_icon, self.ui_config['health']['position'])
 
-        # Punkty życia
-        health_icon = Image.open(f"{self.assets_path['ui']}/health_icon.png")
-        health_icon = health_icon.resize(self.ui_config['health']['size'])
-        card.alpha_composite(health_icon, self.ui_config['health']['position'])
-        
-        draw = ImageDraw.Draw(card)
-        draw.text(
-            (self.ui_config['health']['position'][0] + 50, 
-             self.ui_config['health']['position'][1] + 50),
-            str(data['health']),
-            font=self.font.font_variant(size=self.ui_config['health']['font_size']),
-            fill='white',
-            anchor='mm'
-        )
-        
+            draw = ImageDraw.Draw(card)
+            draw.text(
+                (self.ui_config['health']['position'][0] + 50,
+                 self.ui_config['health']['position'][1] + 50),
+                str(data['health']),
+                font=self.font.font_variant(size=self.ui_config['health']['font_size']),
+                fill='white',
+                anchor='mm'
+            )
+        except FileNotFoundError:
+            self.logger.error("Health icon not found.")
+        except Exception as e:
+            self.logger.error(f"Error adding health: {e}")
         return card
 
-def _add_weapon(self, card, img_name, value, position):
-        weapon_img = Image.open(f"{self.assets_path['weapons']}/{img_name}.png")
-        weapon_img = weapon_img.resize(self.ui_config['weapons']['size'])
-        
-        # Dodanie wartości
-        draw = ImageDraw.Draw(weapon_img)
-        text_position = (
-            self.ui_config['weapons']['label_offset'][0],
-            self.ui_config['weapons']['label_offset'][1]
-        )
-        draw.text(
-            text_position,
-            str(value),
-            font=self.font,
-            fill='white',
-            anchor='mm'
-        )
-        
-        card.alpha_composite(weapon_img, position)
+    def _add_weapon(self, card, img_name, value, position):
+        """Adds a weapon image and its value to the card."""
+        try:
+            weapon_path = os.path.join(self.assets_path['weapons'], f"{img_name}.png")
+            weapon_img = Image.open(weapon_path)
+            weapon_img = weapon_img.resize(self.ui_config['weapons']['size'])
+
+            draw = ImageDraw.Draw(weapon_img)
+            text_position = (
+                self.ui_config['weapons']['label_offset'][0],
+                self.ui_config['weapons']['label_offset'][1]
+            )
+            draw.text(
+                text_position,
+                str(value),
+                font=self.font,
+                fill='white',
+                anchor='mm'
+            )
+
+            card.alpha_composite(weapon_img, position)
+        except FileNotFoundError:
+            self.logger.error(f"Weapon image not found: {img_name}")
+        except Exception as e:
+            self.logger.error(f"Error adding weapon {img_name}: {e}")
         return card
 
-    def _add_armor(self, card, img_name, value, position):  
-        armor_img = Image.open(f"{self.assets_path['armors']}/{img_name}.png")
-        armor_img = armor_img.resize(self.ui_config['armors']['size'])
-        
-        # Dodanie wartości
-        draw = ImageDraw.Draw(armor_img)
-        draw.text(
-            self.ui_config['armors']['label_offset'],
-            str(value),
-            font=self.font,
-            fill='white',
-            anchor='mm'
-        )
-        
-        card.alpha_composite(armor_img, position)
+    def _add_armor(self, card, img_name, value, position):
+        """Adds an armor image and its value to the card."""
+        try:
+            armor_path = os.path.join(self.assets_path['armors'], f"{img_name}.png")
+            armor_img = Image.open(armor_path)
+            armor_img = armor_img.resize(self.ui_config['armors']['size'])
+
+            draw = ImageDraw.Draw(armor_img)
+            draw.text(
+                self.ui_config['armors']['label_offset'],
+                str(value),
+                font=self.font,
+                fill='white',
+                anchor='mm'
+            )
+
+            card.alpha_composite(armor_img, position)
+        except FileNotFoundError:
+            self.logger.error(f"Armor image not found: {img_name}")
+        except Exception as e:
+            self.logger.error(f"Error adding armor {img_name}: {e}")
         return card
 
-   def _add_name_plate(self, card, data):
-        print(f"Adding name plate for: {data['name']}") #DEBUG
-        plate = Image.open(f"{self.assets_path['ui']}/name_plate.png")
-        plate = Image.open(f"{self.assets_path['ui']}/name_plate.png")
-        print(f"Original plate size: {plate.size}") #DEBUG
-        print(f"Name plate size from config: {self.ui_config['name_plate']['size']}") #DEBUG
-        plate = plate.resize(self.ui_config['name_plate']['size'])
-        print(f"Resized plate size: {plate.size}") #DEBUG
-        print(f"Card size before composite: {card.size}") #DEBUG
-        print(f"Name plate position: {self.ui_config['name_plate']['position']}") #DEBUG
+    def _add_name_plate(self, card, data):
+        """Adds the name plate and character's name to the card."""
+        try:
+            plate_path = os.path.join(self.assets_path['ui'], 'name_plate.png')
+            plate = Image.open(plate_path)
+            plate = plate.resize(self.ui_config['name_plate']['size'])
+            card.alpha_composite(plate, self.ui_config['name_plate']['position'])
 
-        card.alpha_composite(plate, self.ui_config['name_plate']['position'])
-        print(f"Card size after composite: {card.size}") #DEBUG  # ADDED
-        print(f"Plate size after composite: {plate.size}") #DEBUG  # ADDED
-        
-        draw = ImageDraw.Draw(card)
-        draw.text(
-            self.ui_config['name']['position'],
-            data['name'],
-            font=self.font.font_variant(size=self.ui_config['name']['font_size']),
-            fill='white',
-            anchor='mm'
-        )
-        
+            draw = ImageDraw.Draw(card)
+            draw.text(
+                self.ui_config['name']['position'],
+                data['name'],
+                font=self.font.font_variant(size=self.ui_config['name']['font_size']),
+                fill='white',
+                anchor='mm'
+            )
+        except FileNotFoundError:
+            self.logger.error("Name plate image not found.")
+        except Exception as e:
+            self.logger.error(f"Error adding name plate: {e}")
         return card
 
     def _add_languages(self, card, data):
-        languages = [data[f'language_{i}'] for i in range(1,6) if pd.notna(data.get(f'language_{i}'))]
+        """Adds language icons to the card."""
+        languages = [data.get(f'language_{i}') for i in range(1, 6) if pd.notna(data.get(f'language_{i}'))]
         num_langs = min(len(languages), self.ui_config['languages']['max_count'])
-        
+
         if num_langs == 0:
             return card
 
-        total_width = (num_langs * self.ui_config['languages']['icon_size'][0] + 
-                     (num_langs - 1) * self.ui_config['languages']['margin'])
+        total_width = (num_langs * self.ui_config['languages']['icon_size'][0] +
+                       (num_langs - 1) * self.ui_config['languages']['margin'])
         start_x = (self.card_size[0] - total_width) // 2
-        
+
         for i in range(num_langs):
-            lang_img = Image.open(
-                f"{self.assets_path['languages']}/{languages[i]}.png"
-            ).resize(self.ui_config['languages']['icon_size'])
-            
-            x = start_x + i * (
-                self.ui_config['languages']['icon_size'][0] + 
-                self.ui_config['languages']['margin']
-            )
-            position = (x, self.ui_config['languages']['position_y'])
-            card.alpha_composite(lang_img, position)
-        
+            try:
+                lang_img_path = os.path.join(self.assets_path['languages'], f"{languages[i]}.png")
+                lang_img = Image.open(lang_img_path).resize(self.ui_config['languages']['icon_size'])
+                x = start_x + i * (self.ui_config['languages']['icon_size'][0] + self.ui_config['languages']['margin'])
+                position = (x, self.ui_config['languages']['position_y'])
+                card.alpha_composite(lang_img, position)
+            except FileNotFoundError:
+                self.logger.error(f"Language image not found: {languages[i]}")
+            except Exception as e:
+                self.logger.error(f"Error adding language {languages[i]}: {e}")
         return card
 
     def _save_card(self, card, name):
-        """Zapisuje gotową kartę do folderu output"""
-        os.makedirs(self.assets_path['output'], exist_ok=True)
-        output_path = os.path.join(self.assets_path['output'], f"{name}.png")
-        card.save(output_path)
-        print(f"Zapisano kartę: {output_path}")
-
-    def _load_image(self, path, size=None):
-        """Bezpieczne ładowanie obrazów z obsługą błędów"""
+        """Saves the generated card to the output folder."""
         try:
-            img = Image.open(path).convert('RGBA')
-            if size:
-                img = img.resize(size)
-            return img
-        except FileNotFoundError:
-            print(f"Błąd: Nie znaleziono pliku {path}")
-            return None
+            os.makedirs(self.assets_path['output'], exist_ok=True)
+            output_path = os.path.join(self.assets_path['output'], f"{name}.png")
+            card.save(output_path)
+            self.logger.info(f"Saved card: {output_path}")
         except Exception as e:
-            print(f"Błąd podczas ładowania obrazu {path}: {str(e)}")
-            return None
+            self.logger.error(f"Error saving card {name}: {e}")
 
     def _validate_data(self, data):
-        """Sprawdza poprawność danych wejściowych"""
+        """Validates the input data."""
         required_fields = [
             'name', 'background', 'image', 'health',
             'weapon_1_image', 'weapon_1',
@@ -241,41 +306,43 @@ def _add_weapon(self, card, img_name, value, position):
         ]
         
         for field in required_fields:
-            if pd.isna(data[field]):
-                raise ValueError(f"Brakujące wymagane pole: {field}")
+            if pd.isna(data.get(field)):  # Use .get() to avoid KeyError
+                raise ValueError(f"Missing required field: {field}")
                 
         if not isinstance(data['health'], (int, float)):
-            raise ValueError("Wartość zdrowia musi być liczbą")
+            raise ValueError("Health value must be a number")
             
         for i in range(1, 3):
-            if pd.notna(data[f'weapon_{i}']) and not isinstance(data[f'weapon_{i}'], (int, float)):
-                raise ValueError(f"Wartość broni {i} musi być liczbą")
+            weapon_value_key = f'weapon_{i}'
+            if pd.notna(data.get(weapon_value_key)) and not isinstance(data[weapon_value_key], (int, float)):
+                raise ValueError(f"Weapon {i} value must be a number")
                 
         for i in range(1, 4):
-            if pd.notna(data[f'armor_{i}']) and not isinstance(data[f'armor_{i}'], (int, float)):
-                raise ValueError(f"Wartość pancerza {i} musi być liczbą")
+            armor_value_key = f'armor_{i}'
+            if pd.notna(data.get(armor_value_key)) and not isinstance(data[armor_value_key], (int, float)):
+                raise ValueError(f"Armor {i} value must be a number")
 
     def _setup_logging(self):
-        """Konfiguracja systemu logowania"""
-        import logging
+        """Configures the logging system."""
         logging.basicConfig(
             level=logging.INFO,
             format='%(asctime)s - %(levelname)s - %(message)s',
             handlers=[
-                logging.FileHandler('card_generator.log'),
+                logging.FileHandler('card_generator.log', encoding='utf-8'),  # Added encoding
                 logging.StreamHandler()
             ]
         )
         self.logger = logging.getLogger(__name__)
 
-# Przykładowe użycie:
+
 if __name__ == "__main__":
     generator = RPGCardGenerator()
+
+    # Example CSV (semicolon-separated):
+    # name;background;image;health;weapon_1_image;weapon_1;weapon_2_image;weapon_2;armor_1_image;armor_1;armor_2_image;armor_2;armor_3_image;armor_3;language_1;language_2;language_3;language_4;language_5
+    # Gromthar;dungeon;warrior;150;sword_icon;12;axe_icon;8;plate_icon;15;helm_icon;5;boots_icon;3;Drakonii;Urghish;Eldritch;Shadowtongue;
     
-    # Przykładowy CSV (rozdzielany tabulatorami):
-    """
-    name    background  image   health  weapon_1_image weapon_1 weapon_2_image weapon_2 armor_1_image armor_1 armor_2_image armor_2 armor_3_image armor_3 language_1 language_2 language_3 language_4 language_5
-    Gromthar    dungeon warrior 150 sword_icon   12  axe_icon    8   plate_icon   15  helm_icon    5   boots_icon   3   Drakonii    Urghish Eldritch   Shadowtongue
-    """
-    
-    generator.generate_from_file('list.csv')
+    try:
+        generator.generate_from_file('list.csv')
+    except Exception as e:
+        generator.logger.exception("Unhandled exception during card generation:")
