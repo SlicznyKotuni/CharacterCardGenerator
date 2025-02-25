@@ -1,4 +1,7 @@
 name;background;image;health;weapon_1_image;weapon_1;weapon_2_image;weapon_2;weapon_3_image;weapon_3;armor_1_image;armor_1;armor_2_image;armor_2;armor_3_image;armor_3;language_1;language_2;language_3;language_4
-Rita;dungeon;03759-3295933844;10;square;3;square;1;square;2;square;4;square;2;square;2;Eldritch;Urghish;;
-Kita;dungeon;00228--725508986-duchaitenPonyXLNo_ponyNoScoreV30-Euler-35-6;23;square;4;square;5;square;2;square;4;square;3;square;2;Eldritch;Drakonii;Eldritch;
-Ronw;dungeon;00247--725509005-duchaitenPonyXLNo_ponyNoScoreV30-Euler-35-6;32;square;4;square;5;square;3;square;4;square;1;square;1;Eldritch;Drakonii;Eldritch;Urghish
+Rita;dungeon;03759-3295933844;10;square;3;square;1;square;11;square;4;square;2;square;2;Eldritch;Urghish;;
+Kita;dungeon;00228--725508986-duchaitenPonyXLNo_ponyNoScoreV30-Euler-35-6;23;square;4;square;5;square;11;square;4;square;3;square;2;Eldritch;Drakonii;Eldritch;
+Ronw;dungeon;00247--725509005-duchaitenPonyXLNo_ponyNoScoreV30-Euler-35-6;32;square;4;square;5;square;11;square;4;square;1;square;1;Eldritch;Drakonii;;
+Anki;back;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-596880324-2025-02-25;7;plasma damage;2;laser damage;13;;11;alt05;3;00802--2074780840-fantaC_v10-Euler-21-7.5;1;explosives;4;Eldritch;;;
+Oria;back;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-1352937862-2025-02-25;32;physical damage;23;plasma damage;13;;11;alt05;4;00802--2074780840-fantaC_v10-Euler-21-7.5;2;explosives;2;Eldritch;Drakonii;Eldritch;
+Xieu;back;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-596880326-2025-02-25;6;physical damage;4;laser damage;12;;11;alt05;5;00802--2074780840-fantaC_v10-Euler-21-7.5;4;explosives;1;Eldritch;Drakonii;Eldritch;Urghish
