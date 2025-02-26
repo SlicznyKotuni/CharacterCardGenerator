@@ -2,18 +2,12 @@ import os
 import csv
 from pathlib import Path
 from PIL import Image
-import torch
 import random
-import timm
-from timm.data import resolve_data_config, create_transform
-from safetensors.torch import load_file
 
 # Konfiguracja
 class Config:
-    image_dir = "characters"
+    image_dir = "assets/characters"
     output_csv = "characters.csv"
-    model_path = "wd-v1-4-swinv2-tagger-v2/model.safetensors"  # Ścieżka do Twojego modelu
-    tag_list_path = "assets/tags/tags.txt"  # Ścieżka do pliku z tagami
     background_types = ["mroczny", "tech", "fantasy", "secret"]
     weapon_types = ["slash", "puncture", "impact"]
     min_health_female = 5
@@ -27,72 +21,38 @@ class Config:
     language_types = ["Rh'loq", "Wspólny", "Ancient_Runes", "Kristalion", "Heu'ia"]
     imiona_boy_file = "imiona_boy.txt"
     imiona_girl_file = "imiona_girl.txt"
-    threshold = 0.5  # Próg prawdopodobieństwa dla tagów
 
-# Ładowanie modelu tagowania
-print("Ładowanie modelu tagowania...")
-try:
-    # 1. Utwórz model (może wymagać dostosowania)
-    model = timm.create_model('swinv2_large_window12_192', pretrained=False, num_classes=len(open(Config.tag_list_path, 'r', encoding='utf-8').readlines()))  # Dostosuj!
-    
-    # 2. Załaduj state_dict
-    state_dict = load_file(Config.model_path, device="cpu") #Load to CPU then move
-    model.load_state_dict(state_dict)
-    model.eval()
+def parse_character_file(image_path):
+    """Parses the character attribute file."""
+    txt_file_path = image_path.with_suffix(".txt")  # Assuming .txt extension
 
-    # 3. Załaduj listę tagów
-    with open(Config.tag_list_path, 'r', encoding='utf-8') as f:
-        tag_names = [line.strip() for line in f]
-
-    # 4. Ustaw na CUDA, jeśli jest dostępne
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model.to(device)
-
-    # 5. Konfiguracja przetwarzania wstępnego
-    data_config = resolve_data_config(model.default_cfg)
-    transform = create_transform(**data_config)
-
-
-except Exception as e:
-    print(f"Błąd podczas ładowania modelu: {e}")
-    exit()
-
-def generate_tags(image_path):
-    """Generuje tagi dla obrazu używając modelu tagowania."""
+    attributes = {}
     try:
-        img = Image.open(image_path).convert('RGB')
-        img_tensor = transform(img).unsqueeze(0).to(device)
+        with open(txt_file_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                key, value = line.strip().split("=", 1)  # Split into key and value
+                attributes[key.strip()] = value.strip()
+    except FileNotFoundError:
+        print(f"Warning: No attribute file found for {image_path.name}")
+        return None
+    except ValueError:
+         print(f"Warning: incorrect format in {image_path.name}")
+         return None
+    return attributes
 
-        with torch.no_grad():
-            outputs = model(img_tensor)
-            probs = torch.sigmoid(outputs).cpu().numpy()[0]  # Użyj sigmoid dla wielu etykiet
-
-        # Pobierz tagi powyżej progu
-        selected_tags = [tag_names[i] for i, prob in enumerate(probs) if prob > Config.threshold]
-        return selected_tags
-
-    except Exception as e:
-        print(f"Błąd podczas generowania tagów: {e}")
-        return []
-
-def determine_background(tags):
-    """Określa typ tła na podstawie tagów"""
-    if any(t in tags for t in ["demon", "monster", "undead"]):
-        return "mroczny"
-    elif any(t in tags for t in ["robot", "cyborg", "futuristic"]):
-        return "tech"
-    elif any(t in tags for t in ["elf", "dwarf", "knight"]):
-        return "fantasy"
-    return "secret"
-
-def determine_gender(tags):
-    """Określa płeć na podstawie tagów."""
-    if any(t in tags for t in ["1girl", "female_focus"]):
-        return "female"
-    elif any(t in tags for t in ["1boy", "male_focus"]):
-        return "male"
+def determine_background(attributes):
+    """Określa typ tła na podstawie atrybutów."""
+    if attributes and "background" in attributes:
+        return attributes["background"]
     else:
-        return "unknown"  # Domyślna płeć, gdy nie można rozpoznać
+        return random.choice(Config.background_types)  # Default background if not specified
+
+def determine_gender(attributes):
+    """Określa płeć na podstawie atrybutów."""
+    if attributes and "gender" in attributes:
+        return attributes["gender"]
+    else:
+        return "unknown"
 
 def load_imiona(file_path):
     """Ładuje listę imion z pliku."""
@@ -113,53 +73,61 @@ def get_name(gender):
         # Jeśli płeć nierozpoznana, można wybrać losowo z obu list
         return random.choice(imiona_girl + imiona_boy)
 
-def determine_languages(tags):
-    """Określa listę języków na podstawie tagów."""
-    languages = []
-    if any(t in tags for t in ["ancient", "old"]):
-        languages.append("Rh'loq")
-    if any(t in tags for t in ["elf", "dwarf", "human"]):
-        languages.append("Wspólny")
-    if any(t in tags for t in ["magic", "witch", "wizard"]):
-        languages.append("Ancient_Runes")
-    if any(t in tags for t in ["animal", "robot", "cyborg"]):
-        languages.append("Kristalion")
-    if any(t in tags for t in ["technology", "nature"]):
-        languages.append("Heu'ia")
-    return languages[:4]  # Maksymalnie 4 języki
+def determine_languages(attributes):
+    """Określa listę języków na podstawie atrybutów."""
+    if attributes and "languages" in attributes:
+        return attributes["languages"].split(",")[:4]  # Split by comma, take max 4
+    else:
+        return random.sample(Config.language_types, random.randint(0, min(4, len(Config.language_types))))
 
-def determine_weapons(tags):
-    """Określa typy broni na podstawie tagów."""
+def determine_weapons(attributes):
+    """Określa typy broni na podstawie atrybutów."""
     weapons = {}
-    if any(t in tags for t in ["knife", "sword", "blade"]):
-        weapons["slash"] = random.randint(Config.min_weapon, Config.max_weapon)
-        weapons["puncture"] = random.randint(Config.min_weapon, Config.max_weapon)
-    elif any(t in tags for t in ["fist", "bare_hands"]):
-        weapons["impact"] = random.randint(Config.min_weapon, Config.max_weapon)
-    # Dodaj więcej warunków na podstawie tagów i typów broni
+    if attributes:
+        for i, weapon_type in enumerate(Config.weapon_types):
+            key = f"weapon_{weapon_type}"
+            if key in attributes:
+                try:
+                    weapons[weapon_type] = int(attributes[key])
+                except ValueError:
+                    weapons[weapon_type] = random.randint(Config.min_weapon, Config.max_weapon) #default value
+                    print(f"incorrect weapon value for {weapon_type}, random value was assigned")
     return weapons
 
-def determine_armor(tags):
-    """Określa typy pancerza na podstawie tagów."""
+def determine_armor(attributes):
+    """Określa typy pancerza na podstawie atrybutów."""
     armors = {}
-    if any(t in tags for t in ["armor", "plate"]):
-        armors["slash"] = random.randint(Config.min_armor, Config.max_armor)
-        armors["impact"] = random.randint(Config.min_armor, Config.max_armor)
-        armors["puncture"] = random.randint(Config.min_armor, Config.max_armor)
-    elif any(t in tags for t in ["robe", "cloth"]):
-        armors["magic"] = random.randint(Config.min_armor, Config.max_armor)
-    # Dodaj więcej warunków na podstawie tagów i typów pancerza
+    if attributes:
+        for i, armor_type in enumerate(Config.weapon_types):
+            key = f"armor_{armor_type}"
+            if key in attributes:
+                try:
+                    armors[armor_type] = int(attributes[key])
+                except ValueError:
+                    armors[armor_type] = random.randint(Config.min_armor, Config.max_armor) #default value
+                    print(f"incorrect armor value for {armor_type}, random value was assigned")
     return armors
 
-def determine_health(gender):
+def determine_health(gender, attributes):
     """Losuje wartość życia w zależności od płci."""
-    if gender == "female":
-        return random.randint(Config.min_health_female, Config.max_health_female)
-    elif gender == "male":
-        return random.randint(Config.min_health_male, Config.max_health_male)
-    else:
-        # Domyślny zakres, gdy płeć nie jest znana
-        return random.randint(Config.min_health_female, Config.max_health_male)
+    health = None
+    if attributes and "health" in attributes:
+        try:
+            health = int(attributes["health"])
+        except ValueError:
+            health = None
+            print(f"incorrect health value, random value was assigned")
+
+    if health is None:
+        if gender == "female":
+            health = random.randint(Config.min_health_female, Config.max_health_female)
+        elif gender == "male":
+            health = random.randint(Config.min_health_male, Config.max_health_male)
+        else:
+            # Domyślny zakres, gdy płeć nie jest znana
+            health = random.randint(Config.min_health_female, Config.max_health_male)
+
+    return health
 
 def map_to_csv_row(image_path, background, name, health, weapons, armors, languages):
     """Mapuje dane do struktury CSV"""
@@ -193,15 +161,17 @@ with open(Config.output_csv, 'w', newline='', encoding='utf-8') as f:
         print(f"Przetwarzanie: {img_path.name}")
 
         try:
-            # Generowanie tagów i określenie tła
-            tags = generate_tags(img_path)
-            background = determine_background(tags)
-            gender = determine_gender(tags)
+            # Parsowanie atrybutów z pliku
+            attributes = parse_character_file(img_path)
+
+            # Określenie atrybutów
+            background = determine_background(attributes)
+            gender = determine_gender(attributes)
             name = get_name(gender)
-            languages = determine_languages(tags)
-            weapons = determine_weapons(tags)
-            armors = determine_armor(tags)
-            health = determine_health(gender)
+            languages = determine_languages(attributes)
+            weapons = determine_weapons(attributes)
+            armors = determine_armor(attributes)
+            health = determine_health(gender, attributes)
 
             csv_row = map_to_csv_row(img_path, background, name, health, weapons, armors, languages)
             writer.writerow(csv_row)
