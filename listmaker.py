@@ -4,12 +4,15 @@ from pathlib import Path
 from PIL import Image
 import torch
 import random
+import timm
+from timm.data import resolve_data_config, create_transform
 
 # Konfiguracja
 class Config:
     image_dir = "characters"
     output_csv = "characters.csv"
-    tag_model_path = "SmilingWolf/wd-v1-4-convnext-tagger-v2"
+    model_path = "wd-v1-4-swinv2-tagger-v2/model.safetensors"  # Ścieżka do Twojego modelu
+    tag_list_path = "assets/tags/tags.txt"  # Ścieżka do pliku z tagami
     background_types = ["mroczny", "tech", "fantasy", "secret"]
     weapon_types = ["slash", "puncture", "impact"]
     min_health_female = 5
@@ -23,25 +26,50 @@ class Config:
     language_types = ["Rh'loq", "Wspólny", "Ancient_Runes", "Kristalion", "Heu'ia"]
     imiona_boy_file = "imiona_boy.txt"
     imiona_girl_file = "imiona_girl.txt"
+    threshold = 0.5  # Próg prawdopodobieństwa dla tagów
 
 # Ładowanie modelu tagowania
 print("Ładowanie modelu tagowania...")
-tagger = torch.hub.load('SmilingWolf/wd-v1-4-convnext-tagger-v2', 'model').eval()
+try:
+    # 1. Utwórz model (może wymagać dostosowania)
+    model = timm.create_model('swinv2_large_window12_192', pretrained=False, num_classes=0)  # Dostosuj!
+    
+    # 2. Załaduj state_dict
+    state_dict = torch.load(Config.model_path)
+    model.load_state_dict(state_dict)
+    model.eval()
+
+    # 3. Załaduj listę tagów
+    with open(Config.tag_list_path, 'r', encoding='utf-8') as f:
+        tag_names = [line.strip() for line in f]
+
+    # 4. Ustaw na CUDA, jeśli jest dostępne
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device)
+
+    # 5. Konfiguracja przetwarzania wstępnego
+    data_config = resolve_data_config(model.default_cfg)
+    transform = create_transform(**data_config)
+
+
+except Exception as e:
+    print(f"Błąd podczas ładowania modelu: {e}")
+    exit()
 
 def generate_tags(image_path):
     """Generuje tagi dla obrazu używając modelu tagowania."""
     try:
-        img = Image.open(image_path)
+        img = Image.open(image_path).convert('RGB')
+        img_tensor = transform(img).unsqueeze(0).to(device)
+
         with torch.no_grad():
-            x = tagger.preprocess(img).unsqueeze(0)
-            tags = tagger.model(x)
-            probs, labels = tags.float().cpu().sort(descending=True)
-            
-            # Pobierz tagi z prawdopodobieństwem powyżej progu (np. 0.5)
-            threshold = 0.5
-            selected_tags = [label for prob, label in zip(probs[0], labels[0]) if prob > threshold]
-            
-            return selected_tags
+            outputs = model(img_tensor)
+            probs = torch.sigmoid(outputs).cpu().numpy()[0]  # Użyj sigmoid dla wielu etykiet
+
+        # Pobierz tagi powyżej progu
+        selected_tags = [tag_names[i] for i, prob in enumerate(probs) if prob > Config.threshold]
+        return selected_tags
+
     except Exception as e:
         print(f"Błąd podczas generowania tagów: {e}")
         return []
