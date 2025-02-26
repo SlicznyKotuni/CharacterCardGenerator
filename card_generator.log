@@ -869,3 +869,20 @@ AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'. Did y
 2025-02-25 23:39:36,345 - INFO - Saved card: output\Xieu.png
 2025-02-25 23:39:37,175 - INFO - Saved card: output\Tarczolud.png
 2025-02-25 23:39:38,022 - INFO - Saved card: output\Reria.png
+2025-02-26 10:08:14,136 - INFO - Saved card: output\Rita.png
+2025-02-26 10:08:14,253 - ERROR - Weapon image not found: explosives
+2025-02-26 10:08:15,150 - INFO - Saved card: output\Kita.png
+2025-02-26 10:08:16,160 - INFO - Saved card: output\Ronw.png
+2025-02-26 10:08:17,308 - INFO - Saved card: output\Anki.png
+2025-02-26 10:08:18,544 - INFO - Saved card: output\Oria.png
+2025-02-26 10:08:19,787 - INFO - Saved card: output\Xieu.png
+2025-02-26 10:08:20,977 - INFO - Saved card: output\Tarczolud.png
+2025-02-26 10:08:22,255 - INFO - Saved card: output\Reria.png
+2025-02-26 10:09:23,291 - INFO - Saved card: output\Rita.png
+2025-02-26 10:09:24,311 - INFO - Saved card: output\Kita.png
+2025-02-26 10:09:25,300 - INFO - Saved card: output\Ronw.png
+2025-02-26 10:09:26,412 - INFO - Saved card: output\Anki.png
+2025-02-26 10:09:27,687 - INFO - Saved card: output\Oria.png
+2025-02-26 10:09:29,018 - INFO - Saved card: output\Xieu.png
+2025-02-26 10:09:30,297 - INFO - Saved card: output\Tarczolud.png
+2025-02-26 10:09:31,625 - INFO - Saved card: output\Reria.png
