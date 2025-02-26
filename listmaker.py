@@ -6,6 +6,7 @@ import torch
 import random
 import timm
 from timm.data import resolve_data_config, create_transform
+from safetensors.torch import load_file
 
 # Konfiguracja
 class Config:
@@ -32,10 +33,10 @@ class Config:
 print("Ładowanie modelu tagowania...")
 try:
     # 1. Utwórz model (może wymagać dostosowania)
-    model = timm.create_model('swinv2_large_window12_192', pretrained=False, num_classes=0)  # Dostosuj!
+    model = timm.create_model('swinv2_large_window12_192', pretrained=False, num_classes=len(open(Config.tag_list_path, 'r', encoding='utf-8').readlines()))  # Dostosuj!
     
     # 2. Załaduj state_dict
-    state_dict = torch.load(Config.model_path)
+    state_dict = load_file(Config.model_path, device="cpu") #Load to CPU then move
     model.load_state_dict(state_dict)
     model.eval()
 
