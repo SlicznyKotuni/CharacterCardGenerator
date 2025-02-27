@@ -21,12 +21,12 @@ class RPGCardGenerator:
                 'font_size': 36
             },
             'health': {
-                'position': (732, 50),
+                'position': (732, 55),
                 'size': (120, 120),
                 'font_size': 40
             },
             'evade': {
-                'position': (50, 50),  # Lewy górny róg
+                'position': (50, 55),  # Lewy górny róg
                 'size': (120, 120),
                 'font_size': 40
             },
@@ -35,7 +35,7 @@ class RPGCardGenerator:
                 'position': ((912 - 600) // 2, 1150)
             },
             'name': {
-                'position': (912 // 2, 1190),
+                'position': (912 // 2, 1210),
                 'font_size': 60,
                 'max_length': 24
             },
@@ -73,7 +73,7 @@ class RPGCardGenerator:
 
     def generate_from_file(self, csv_path):
         try:
-            df = pd.read_csv(csv_path, sep=';')
+            df = pd.read_csv(csv_path, sep=',')
             for _, row in df.iterrows():
                 try:
                     self._validate_data(row)
