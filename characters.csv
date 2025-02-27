@@ -1,9 +1,9 @@
 name;background;image;health;weapon_1_image;weapon_1;weapon_2_image;weapon_2;weapon_3_image;weapon_3;armor_1_image;armor_1;armor_2_image;armor_2;armor_3_image;armor_3;language_1;language_2;language_3;language_4
-kas;mroczny;00228--725508986-duchaitenPonyXLNo_ponyNoScoreV30-Euler-35-6.png;60;;;;;;;;;;;;;Rh'loq;Kristalion;;
-ads;secret;00247--725509005-duchaitenPonyXLNo_ponyNoScoreV30-Euler-35-6.png;30;;;;;;;;;;;;;Heu'ia;Wspólny;Kristalion;Rh'loq
-ads;mroczny;03759-3295933844.png;13;;;;;;;;;;;;;Ancient_Runes;;;
-ads;tech;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-1066074957-2025-02-25.png;63;;;;;;;;;;;;;Heu'ia;;;
-ads;tech;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-1352937862-2025-02-25.png;76;;;;;;;;;;;;;Rh'loq;;;
-afd;fantasy;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-596880324-2025-02-25.png;5;;;;;;;;;;;;;;;;
-afd;secret;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-596880326-2025-02-25.png;65;;;;;;;;;;;;;;;;
-kas;mroczny;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-729553244-2025-02-25.png;26;;;;;;;;;;;;;Heu'ia;;;
+ads;fantasy;00228--725508986-duchaitenPonyXLNo_ponyNoScoreV30-Euler-35-6.png;79;;;;;;;;;;;;;Heu'ia;Rh'loq;Ancient_Runes;Kristalion
+afdsdiko;mroczny;00247--725509005-duchaitenPonyXLNo_ponyNoScoreV30-Euler-35-6.png;8;;;;;;;;;;;;;Rh'loq;;;
+afd;secret;03759-3295933844.png;23;;;;;;;;;;;;;;;;
+afd;tech;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-1066074957-2025-02-25.png;82;;;;;;;;;;;;;;;;
+afd;tech;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-1352937862-2025-02-25.png;7;;;;;;;;;;;;;Ancient_Runes;Heu'ia;;
+ads;fantasy;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-596880324-2025-02-25.png;83;;;;;;;;;;;;;Wspólny;Ancient_Runes;Kristalion;Rh'loq
+kas;secret;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-596880326-2025-02-25.png;22;;;;;;;;;;;;;;;;
+ads;secret;noobAIBOTANIREALNOOBAI_v10ArtEdition-Euler-30-3.5-729553244-2025-02-25.png;86;;;;;;;;;;;;;Kristalion;Wspólny;;
