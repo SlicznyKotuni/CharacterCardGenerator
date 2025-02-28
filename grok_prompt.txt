@@ -1,0 +1,220 @@
+Trzeba wymyślić ikony dla języków do gry rpg fantasy. mają przedstawiać pojedynczą literę w kwadratowej ikonie, Poniżej podam ci cechy pomocnicze
+"Rh'loq": ["ancient", "older", "runes", "rune", "magic"],
+"Common": ["knight", "elven", "elf", "magic", "fantasy", "rpg"],
+"Ancient_Runes": ["magic", "wizard", "necromancy", "dragon", "demon", "monster"],
+"Kristalion": ["animal", "animalistic", "beast", "feline", "catgirl", "catboy", "anthropomorphic"],
+"Heu'ia": ["secret", "egyptian", "inka", "dark", "tribal"]
+
+Chcę by był zachowany styl tak by wszystko pasowało, przypisz jakiś kolor do każdego języka i wypisz prompty do generwoania grafiki (stable difussion)
+
+
+
+Stworzę spójny styl dla ikon języków, opierając się na podanych cechach. Wybiorę kolory, które będą pasować do charakteru każdego języka, a także przygotuję prompty do generowania grafik w Stable Diffusion. Styl będzie kwadratowy, z centralnie umieszczoną literą, a tło i detale będą odzwierciedlać cechy języka.
+
+Założenia ogólne stylu:
+Kształt ikony: Kwadratowa ikona z zaokrąglonymi rogami (opcjonalnie, dla łagodniejszego wyglądu).
+Litera: Centralnie umieszczona, stylizowana litera, która nawiązuje do charakteru języka (np. runy, hieroglify, eleganckie pismo).
+Tło: Tekstura lub wzór pasujący do cech języka (np. kamień, pergamin, metal, futro).
+Kolory: Wybrane kolory będą odzwierciedlać nastrój i tematykę języka (np. mroczne, magiczne, dzikie).
+Detale: Subtelne elementy dekoracyjne (np. runy, łuski, symbole magiczne) w tle lub wokół litery.
+Przypisanie kolorów i stylów do języków:
+Rh'loq
+Kolor: Ciemny szary (#4A4A4A) z akcentami złotymi (#D4A017).
+Styl: Runy wyryte w kamieniu, magiczne linie, postarzony wygląd.
+Litera: Stylizowana na runę, kanciasta, z lekkim efektem poświaty.
+Tło: Kamienna tekstura z pęknięciami, delikatne magiczne symbole.
+Common
+Kolor: Jasny beż (#E8D9B8) z akcentami srebrnymi (#B0B0B0).
+Styl: Eleganckie pismo, pergaminowy wygląd, elementy rycerskie i elfie.
+Litera: Kaligraficzna, z zawijasami, przypominająca średniowieczne manuskrypty.
+Tło: Pergamin z subtelnymi elfimi wzorami i rycerskimi symbolami (np. miecz, tarcza).
+Ancient_Runes
+Kolor: Ciemny fiolet (#5A2D6F) z akcentami czerwonymi (#A30000).
+Styl: Mroczne, magiczne runy, elementy nekromanckie i smocze.
+Litera: Kanciasta, runiczna, z efektem magicznej poświaty.
+Tło: Metaliczna tekstura z wyrytymi runami, smocze łuski lub demonicznymi symbolami.
+Kristalion
+Kolor: Brązowy (#8B5A2B) z akcentami zielonymi (#4A7043).
+Styl: Dzikie, zwierzęce motywy, futrzane lub łuskowate tło.
+Litera: Organiczna, z elementami przypominającymi pazury lub kły.
+Tło: Futro lub skóra, subtelne odciski łap, kocie uszy lub ogon w tle.
+Heu'ia
+Kolor: Ciemny granat (#1E2D4A) z akcentami złotymi (#D4A017).
+Styl: Tajemnicze, plemienne, egipskie/inkaskie motywy.
+Litera: Hieroglificzna, z ostrymi krawędziami, lekko postarzona.
+Tło: Kamień z wyrytymi plemiennymi wzorami, egipskie symbole lub ciemne smugi.
+Prompty do Stable Diffusion:
+Rh'loq
+
+A square icon with a dark gray stone texture background, ancient rune-like letter in the center, angular and glowing faintly in gold, cracks in the stone, subtle magical symbols etched around the letter, aged and mystical atmosphere, fantasy RPG style, detailed, high resolution, soft lighting
+Common
+
+A square icon with a light beige parchment texture background, elegant calligraphic letter in the center with silver accents, subtle elven patterns and knightly symbols like swords and shields in the background, fantasy RPG style, medieval manuscript aesthetic, detailed, high resolution, warm lighting
+Ancient_Runes
+
+A square icon with a dark purple metallic texture background, angular rune-like letter in the center glowing faintly in red, etched smocze łuski and demonic symbols in the background, magical and necromantic atmosphere, fantasy RPG style, detailed, high resolution, dramatic lighting
+Kristalion
+
+A square icon with a brown fur or leather texture background, organic letter in the center with claw-like or fang-like details, subtle paw prints and feline motifs like cat ears or tails in the background, wild and animalistic atmosphere, fantasy RPG style, detailed, high resolution, earthy lighting
+Heu'ia
+
+A square icon with a dark navy stone texture background, hieroglyphic letter in the center with sharp edges and faint golden glow, tribal and Egyptian/Inka patterns etched in the background, mysterious and dark atmosphere, fantasy RPG style, detailed, high resolution, moody lighting
+Dodatkowe wskazówki:
+Upewnij się, że litera jest centralnym elementem ikony i dobrze kontrastuje z tłem.
+Możesz dodać delikatne efekty poświaty lub cienia, aby litera wydawała się trójwymiarowa.
+Jeśli generujesz ikony w Stable Diffusion, dodaj do promptów parametry takie jak --ar 1:1 (dla kwadratowego formatu) i --v 5 (dla lepszej jakości, jeśli używasz MidJourney lub podobnych narzędzi).
+Daj znać, jeśli potrzebujesz dalszych modyfikacji lub dodatkowych szczegółów! 😊
+
+
+
+świetne, zaproponujmy jeszcze 6 dodatkowych języków jedne taki sci-fi, jakiś plemienny, taki dla wróżek, jakiś dziwny i starożytny, taki azjatycki" zaproponuj pasuące do poprzednich ikony dal tych nowych jezykow
+
+
+
+Świetnie, dodajmy sześć nowych języków, które będą pasować do istniejącego stylu, ale jednocześnie wprowadzą różnorodność. Każdy język będzie miał przypisany kolor, styl litery i tło, a także prompt do Stable Diffusion. Upewnię się, że nowe ikony będą spójne z poprzednimi, zachowując kwadratowy format, centralnie umieszczoną literę i tematyczne detale.
+
+Nowe języki i ich cechy:
+Neonix (Sci-Fi)
+Cechy: Futurystyczny, technologiczny, cyberpunkowy, holograficzny, cyfrowy.
+Kolor: Neonowy błękit (#00B7EB) z akcentami czarnymi (#1A1A1A).
+Styl: Geometryczna, cyfrowa litera, holograficzne linie, futurystyczne motywy.
+Litera: Kanciasta, z efektem neonowej poświaty, przypominająca pismo z ekranów komputerowych.
+Tło: Ciemne, metaliczne, z siatką linii lub holograficznymi wzorami.
+Drumali (Plemienny)
+Cechy: Surowy, naturalny, szamański, ziemisty, rytualny.
+Kolor: Ciemny brąz (#4A2C2A) z akcentami pomarańczowymi (#D46F4D).
+Styl: Organiczne, ręcznie rysowane symbole, motywy plemienne.
+Litera: Nieregularna, przypominająca ręcznie malowane znaki, z efektem chropowatości.
+Tło: Tekstura ziemi lub gliny, ślady pędzla, plemienne wzory.
+Fae'lin (Wróżki)
+Cechy: Delikatny, magiczny, eteryczny, kwiatowy, świetlisty.
+Kolor: Jasny róż (#F4C2C2) z akcentami złotymi (#FFD700).
+Styl: Subtelne, zaokrąglone pismo, motywy roślinne i świetliki.
+Litera: Falista, z delikatnymi zawijasami, przypominająca pismo wróżek.
+Tło: Pergamin z kwiatowymi wzorami, delikatne świetliste smugi.
+Xyrthol (Dziwny i starożytny)
+Cechy: Nieziemski, tajemniczy, lovecraftiański, surrealistyczny, obcy.
+Kolor: Ciemny zielony (#2E4A2E) z akcentami fioletowymi (#6A0DAD).
+Styl: Nienaturalne, skręcone kształty, motywy macek i oczu.
+Litera: Wykrzywiona, z mackowatymi detalami, lekko pulsująca.
+Tło: Kamień z wyrytymi, niepokojącymi wzorami, subtelne macki w tle.
+Kyo'ren (Azjatycki)
+Cechy: Harmonijny, kaligraficzny, inspirowany kulturą wschodnią, bambusowy.
+Kolor: Ciemny zielony (#355E3B) z akcentami czerwonymi (#A30000).
+Styl: Eleganckie, kaligraficzne pismo, motywy bambusa i smoków.
+Litera: Płynna, przypominająca japońskie lub chińskie znaki, z delikatnymi pociągnięciami pędzla.
+Tło: Pergamin z bambusowymi wzorami, subtelne smocze łuski.
+Voidtongue (Mroczny i eteryczny)
+Cechy: Mroczny, pusty, eteryczny, związany z pustką, nieuchwytny.
+Kolor: Ciemny granat (#0A1F3D) z akcentami srebrnymi (#B0C4DE).
+Styl: Rozmyte, eteryczne pismo, motywy pustki i gwiazd.
+Litera: Rozmyta, z efektem dymu lub mgły, lekko świetlista.
+Tło: Ciemne, gwiezdne niebo, subtelne smugi mgły lub dymu.
+Prompty do Stable Diffusion:
+Neonix (Sci-Fi)
+
+A square icon with a dark black metallic texture background, geometric digital letter in the center glowing in neon blue, holographic grid lines and futuristic patterns in the background, cyberpunk and sci-fi atmosphere, fantasy RPG style, detailed, high resolution, dramatic lighting
+Drumali (Plemienny)
+
+A square icon with a dark brown earth or clay texture background, irregular hand-painted letter in the center with orange accents, tribal patterns and brushstroke marks in the background, raw and shamanic atmosphere, fantasy RPG style, detailed, high resolution, warm earthy lighting
+Fae'lin (Wróżki)
+
+A square icon with a light pink parchment texture background, delicate wavy letter in the center with golden accents, floral patterns and glowing firefly-like dots in the background, ethereal and magical atmosphere, fantasy RPG style, detailed, high resolution, soft warm lighting
+Xyrthol (Dziwny i starożytny)
+
+A square icon with a dark green stone texture background, twisted and distorted letter in the center with faint purple glow, unsettling tentacle-like patterns and eye motifs in the background, Lovecraftian and alien atmosphere, fantasy RPG style, detailed, high resolution, moody lighting
+Kyo'ren (Azjatycki)
+
+A square icon with a dark green parchment texture background, elegant calligraphic letter in the center with red accents, bamboo patterns and subtle dragon scale motifs in the background, harmonious and Eastern-inspired atmosphere, fantasy RPG style, detailed, high resolution, soft lighting
+Voidtongue (Mroczny i eteryczny)
+
+A square icon with a dark navy starry sky texture background, ethereal and misty letter in the center with faint silver glow, subtle smoke or fog patterns and star-like dots in the background, mysterious and void-like atmosphere, fantasy RPG style, detailed, high resolution, dim lighting
+
+Spójność z poprzednimi ikonami:
+Wszystkie ikony zachowują kwadratowy format z centralnie umieszczoną literą.
+Tła są tematyczne i odzwierciedlają charakter języka, podobnie jak w poprzednich ikonach (np. kamień, pergamin, futro).
+Kolory są dobrane tak, aby pasowały do nastroju języka, ale jednocześnie kontrastowały z literą dla lepszej czytelności.
+Detale w tle (np. runy, wzory, smugi) są subtelne, aby nie przytłaczać litery.
+Dodatkowe wskazówki:
+Jeśli generujesz ikony w Stable Diffusion, pamiętaj o parametrach takich jak --ar 1:1 dla kwadratowego formatu i --v 5 dla lepszej jakości.
+Możesz dostosować kolory lub detale, jeśli chcesz bardziej zróżnicować ikony (np. dodać więcej kontrastu lub zmienić odcień).
+Jeśli potrzebujesz, mogę zaproponować konkretne litery dla każdego języka, aby lepiej oddać ich charakter.
+Daj znać, jeśli chciałbyś coś zmodyfikować lub dodać! 😊
+
+świetnie ci idzie, to zróbmy jeszcze 6 ikon. ale tym razem do obrażeń
+slash, puncture, impact
+oraz do odporności na takie obrażenia
+slash protection, puncture protection, impact protection
+
+możemy trzymać jednolitą kolorystykę między typem obrażeń i odpornością na nie
+
+
+
+Świetnie, stworzę ikony dla obrażeń (slash, puncture, impact) oraz odporności na te obrażenia (slash protection, puncture protection, impact protection), zachowując spójność z poprzednimi ikonami. Ikony będą kwadratowe, z centralnym symbolem zamiast litery, a kolorystyka będzie jednolita między typem obrażeń a odpornością na nie. Tła i detale będą tematyczne, pasujące do charakteru obrażeń i ochrony.
+
+Założenia ogólne stylu:
+Kształt ikony: Kwadratowa ikona z zaokrąglonymi rogami (dla spójności z poprzednimi).
+Symbol: Centralnie umieszczony symbol reprezentujący obrażenia lub ochronę, stylizowany i tematyczny.
+Tło: Tekstura lub wzór pasujący do typu obrażeń/protekcji (np. metal, skóra, kamień).
+Kolory: Jednolita kolorystyka między obrażeniami a ochroną, z akcentami dla rozróżnienia (np. agresywny odcień dla obrażeń, defensywny dla ochrony).
+Detale: Subtelne elementy dekoracyjne w tle, nawiązujące do mechaniki obrażeń/protekcji.
+Przypisanie kolorów i stylów:
+Slash (Cięcie)
+Kolor: Ciemny czerwony (#8B0000) z akcentami srebrnymi (#B0B0B0).
+Styl: Symbol ostrza lub cięcia, agresywny i dynamiczny.
+Symbol: Stylizowany miecz lub ślad cięcia (ukośna linia).
+Tło: Metaliczna tekstura z zadrapaniami i śladami cięć.
+Slash Protection (Ochrona przed cięciem)
+Kolor: Ciemny czerwony (#8B0000) z akcentami złotymi (#D4A017).
+Styl: Symbol tarczy z motywem cięć, defensywny i solidny.
+Symbol: Tarcza z ukośnymi liniami (symbolizującymi cięcia).
+Tło: Metaliczna tekstura z wygładzonymi zadrapaniami, motywy pancerza.
+Puncture (Przebicie)
+Kolor: Ciemny niebieski (#00008B) z akcentami srebrnymi (#B0B0B0).
+Styl: Symbol szpikulca lub dziury, precyzyjny i ostry.
+Symbol: Stylizowana strzała lub dziura (okrągły otwór).
+Tło: Metaliczna tekstura z otworami lub śladami przebicia.
+Puncture Protection (Ochrona przed przebiciem)
+Kolor: Ciemny niebieski (#00008B) z akcentami złotymi (#D4A017).
+Styl: Symbol tarczy z motywem przebicia, defensywny i wzmocniony.
+Symbol: Tarcza z okrągłym otworem (symbolizującym przebicie).
+Tło: Metaliczna tekstura z wzmocnionymi płytami, motywy pancerza.
+Impact (Uderzenie)
+Kolor: Ciemny brąz (#4A2C2A) z akcentami srebrnymi (#B0B0B0).
+Styl: Symbol młota lub pęknięcia, ciężki i brutalny.
+Symbol: Stylizowany młot lub pęknięcie (rozchodzące się linie).
+Tło: Kamienna tekstura z pęknięciami i śladami uderzeń.
+Impact Protection (Ochrona przed uderzeniem)
+Kolor: Ciemny brąz (#4A2C2A) z akcentami złotymi (#D4A017).
+Styl: Symbol tarczy z motywem uderzenia, defensywny i masywny.
+Symbol: Tarcza z rozchodzącymi się liniami (symbolizującymi uderzenie).
+Tło: Kamienna tekstura z wygładzonymi pęknięciami, motywy pancerza.
+Prompty do Stable Diffusion:
+Slash (Cięcie)
+
+A square icon with a dark red metallic texture background, a stylized silver sword or diagonal slash mark in the center, scratches and cut marks in the background, aggressive and dynamic atmosphere, fantasy RPG style, detailed, high resolution, dramatic lighting
+Slash Protection (Ochrona przed cięciem)
+
+A square icon with a dark red metallic texture background, a stylized golden shield with diagonal slash marks in the center, smoothed scratches and armor-like patterns in the background, defensive and solid atmosphere, fantasy RPG style, detailed, high resolution, warm lighting
+Puncture (Przebicie)
+
+A square icon with a dark blue metallic texture background, a stylized silver arrow or circular puncture hole in the center, small holes and piercing marks in the background, precise and sharp atmosphere, fantasy RPG style, detailed, high resolution, dramatic lighting
+Puncture Protection (Ochrona przed przebiciem)
+
+A square icon with a dark blue metallic texture background, a stylized golden shield with a circular puncture hole in the center, reinforced plates and armor-like patterns in the background, defensive and reinforced atmosphere, fantasy RPG style, detailed, high resolution, warm lighting
+Impact (Uderzenie)
+
+A square icon with a dark brown stone texture background, a stylized silver hammer or radiating crack lines in the center, cracks and impact marks in the background, heavy and brutal atmosphere, fantasy RPG style, detailed, high resolution, dramatic lighting
+Impact Protection (Ochrona przed uderzeniem)
+
+A square icon with a dark brown stone texture background, a stylized golden shield with radiating crack lines in the center, smoothed cracks and armor-like patterns in the background, defensive and massive atmosphere, fantasy RPG style, detailed, high resolution, warm lighting
+Spójność z poprzednimi ikonami:
+Ikony zachowują kwadratowy format z centralnym symbolem, podobnie jak poprzednie ikony z literami.
+Tła są tematyczne i odzwierciedlają charakter obrażeń/protekcji (metal, kamień), co pasuje do stylistyki języków.
+Kolory są jednolite między obrażeniami a ochroną, ale akcenty (srebrne dla obrażeń, złote dla ochrony) pomagają rozróżnić typ ikony.
+Detale w tle (np. zadrapania, otwory, pęknięcia) są subtelne, aby nie przytłaczać symbolu.
+Dodatkowe wskazówki:
+Jeśli generujesz ikony w Stable Diffusion, pamiętaj o parametrach takich jak --ar 1:1 dla kwadratowego formatu i --v 5 dla lepszej jakości.
+Możesz dostosować symbole, jeśli chcesz bardziej unikalne motywy (np. inne narzędzie dla "Impact" lub inny kształt tarczy dla ochrony).
+Jeśli potrzebujesz, mogę zaproponować dodatkowe detale lub zmodyfikować kolory dla lepszego kontrastu.
+Daj znać, jeśli chciałbyś coś zmienić lub dodać! 😊

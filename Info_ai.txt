@@ -1,0 +1,167 @@
+Program, który:
+1. Odczytuje tagi z plików .txt (assets/characters/*)
+2. Odczytuje pliki imiona_girl, imiona_boy
+3. Tworzy plik character.csv w którym będzie 
+name	background	image	health weapon_1_image	weapon_1	weapon_2_image	weapon_2	weapon_3_image	weapon_3	armor_1_image	armor_1	armor_2_image	armor_2	armor_3_image	armor_3	evade language_1	language_2	language_3	language_4
+
+
+Napiszmy program który analizuje tagi i tworzy w oparciu o nie postaci
+Bierze tagi z katalogu /assets/characters/plik1.txt itd
+ustala płeć bazując na tagach (1girl - girl, 1boy -boy) i w opraciu o to daje imię losowane z plików
+/imiona_girl i  /imiona_boy
+ustala tło karty na podstawie tagów z pliku, chciałbym byś to tak zrobił by było mi to łatwo rozszerzyć 
+na razie przewidujemy 
+fantasy (fantasy, elf, elven, kobold,  )
+mroczny (knight, necormancy, dark, evil, demon, horns)
+forest (animal, beast, catboy, catgirl, monster)
+tech (ancient, technology, sci-fi, futuristic)
+magic (magic, wizard, spells, casts)
+secret (niepasujący do pozostałych)
+
+image to nazwa pliku bez rozszerzenia
+health ma być losowane z wartośći (10 do 70), dla mężczyzn (15-90)
+Jeśli pojawi się tag (muscular, strong, tall) to +5, jeśli (petite, skinny, small, little, fragile) to -5
+
+Pretwarzanie broni i zbroi
+Czytamy tagi jeszcze raz i szukamy takich które odpowiadają naszym założeniom 
+typy obrażeń i powiązane tagi broni
+Slash (obrażenia cięte):
+Tagi: sword, axe, dagger, katana, twohanded_sword, long_sword, battleaxe, scimitar, saber, claymore, rapier .
+Puncture (obrażenia kłute):
+Tagi: dart, darts, kunai, spear, polearm, sword, knife, rapier, lance, javelin, arrow, bow.
+Impact (obrażenia obuchowe):
+Tagi: staff, mace, hammer, fists, martial_arts, club, flail, warhammer, quarterstaff, baton.
+Zasady przypisywania typów obrażeń
+Jeśli broń ma 2 typy obrażeń (na podstawie tagów):
+weapon_1_image = pierwszy typ obrażeń (np. slash dla miecza).
+weapon_2_image = drugi typ obrażeń (np. puncture dla miecza).
+Jeśli broń ma tylko 1 typ obrażeń (np. spear → puncture):
+weapon_1_image = typ obrażeń (np. puncture).
+weapon_2_image = ten sam typ obrażeń (np. puncture).
+Wartość obrażeń dla obu slotów (weapon_1_image i weapon_2_image) musi być taka sama i wyższa niż w przypadku broni z 2 typami obrażeń (patrz sekcja losowania wartości).
+Jeśli brak tagów związanych z bronią:
+weapon_1_image = impact.
+weapon_2_image = impact.
+Obsługa tarcz
+Jeśli w tagach postaci występuje tarcza (tagi: shield, heavy_shield, kite_shield, buckler, tower_shield):
+weapon_2_image = shield.
+weapon_1_image = typ obrażeń, który na podstawie pozostałych tagów broni ma wyższą wartość obrażeń (patrz sekcja losowania wartości).
+Sekcja 2: Losowanie wartości obrażeń
+Wartości obrażeń dla weapon_1_image i weapon_2_image powinny być losowe, ale modyfikowane na podstawie liczby typów obrażeń:
+Dla broni z 2 typami obrażeń:
+Wartość dla weapon_1_image: losowa w przedziale 5–10.
+Wartość dla weapon_2_image: losowa w przedziale 3–8.
+Dla broni z 1 typem obrażeń (oba sloty mają ten sam typ):
+Wartość dla weapon_1_image i weapon_2_image: losowa w przedziale 8–12 (wyższa, aby zrekompensować brak drugiego typu obrażeń).
+Jeśli weapon_2_image = shield:
+Wartość dla weapon_2_image (tarcza): losowa w przedziale 5–10.
+Wartość dla weapon_1_image: losowa w przedziale 5–10 (z modyfikacją na podstawie tagów broni).
+Sekcja 3: Rozpoznawanie typów odporności pancerza
+Każda postać powinna mieć przypisane 3 typy odporności pancerza:
+
+armor_1_image = odporność na slash.
+armor_2_image = odporność na puncture.
+armor_3_image = odporność na impact.
+Typy odporności i powiązane tagi zbroi
+Slash (odporność na obrażenia cięte):
+Tagi zwiększające odporność: heavy_armor, plate_armor, shoulder_armor, chestplate, full_plate, scale_armor, chainmail, knight_armor.
+Puncture (odporność na obrażenia kłute):
+Tagi zwiększające odporność: armor, leather_armor, padded_armor, studded_leather, mail_coif, breastplate, brigandine.
+Impact (odporność na obrażenia obuchowe):
+Tagi zwiększające odporność: padded_armor, gambeson, heavy_armor, plate_armor, helm, armored_boots, gauntlets.
+Tagi obniżające odporność
+Jeśli w tagach postaci występują tagi wskazujące na brak lub minimalną ochronę (np. naked, clothes, loincloth, barefeet, shirt, tunic, robe):
+Obniż wartości odporności na slash i puncture o 30% (po losowaniu bazowych wartości).
+Sekcja 4: Losowanie wartości odporności pancerza
+Wartości odporności dla armor_1_image, armor_2_image i armor_3_image powinny być losowe, ale modyfikowane na podstawie tagów zbroi:
+Bazowe wartości (bez modyfikatorów):
+Losowa wartość w przedziale 3–10 dla każdego typu odporności.
+Modyfikatory na podstawie tagów zbroi:
+Za każdy tag zwiększający odporność (z listy w sekcji 3):
+Zwiększ wartość odporności o 2 dla odpowiedniego typu (np. heavy_armor → +2 do slash i impact).
+Za każdy tag obniżający odporność (np. naked, clothes):
+Obniż wartość odporności na slash i puncture o 30% (po uwzględnieniu wszystkich dodatnich modyfikatorów).
+
+evade
+evade, której wartość (0–6) zależy od sumy odporności pancerza (armor_1_image + armor_2_image + armor_3_image).
+Zasady przypisywania wartości evade:
+Suma odporności 30–36 → evade = 0.
+Suma odporności 27–29 → evade = 1.
+Suma odporności 24–26 → evade = 2.
+Suma odporności 18–23 → evade = 3.
+Suma odporności 14–18 → evade = 4.
+Suma odporności 8–13 → evade = 5.
+Suma odporności 3–7 → evade = 6.
+
+Języki 
+Języki losowane są podobnie jak tła (background)
+Na razie mamy takie, ale będę chcciał później dodać więcej.
+["Rh'loq", "Common", "Ancient_Runes", "Kristalion", "Heu'ia"]
+
+Postać ma mieć dobrany język również na podstawie tagów, może mieć jednocześńie do czterech języków, ale może mieć mniej (minimalnie 1).
+Rh'loq - (tagi) ancient, older, runes, rune, magic
+Wspólny - knight, elven, elf, magic, fantasy, rpg
+Ancient_Runes - magic, wizard, necromancy, dragon, demon, monster
+Kristalion - animal, naimalistic, beast, feline, catgirl, catboy, antropomorphic
+Heu'ia - secret, egyptian, inka, dark, tribal
+
+Efektem pracy programu ma być plik csv.
+
+
+
+
+Prompty do Stable Diffusion:
+Rh'loq
+
+A square icon with a dark gray stone texture background, ancient rune-like letter in the center, angular and glowing faintly in gold, cracks in the stone, subtle magical symbols etched around the letter, aged and mystical atmosphere, fantasy RPG style, detailed, high resolution, soft lighting
+Common
+
+A square icon with a light beige parchment texture background, elegant calligraphic letter in the center with silver accents, subtle elven patterns and knightly symbols like swords and shields in the background, fantasy RPG style, medieval manuscript aesthetic, detailed, high resolution, warm lighting
+Ancient_Runes
+
+A square icon with a dark purple metallic texture background, angular rune-like letter in the center glowing faintly in red, etched dragon scales and demonic symbols in the background, magical and necromantic atmosphere, fantasy RPG style, detailed, high resolution, dramatic lighting
+Kristalion
+
+A square icon with a brown fur or leather texture background, organic letter in the center with claw-like or fang-like details, subtle paw prints and feline motifs like cat ears or tails in the background, wild and animalistic atmosphere, fantasy RPG style, detailed, high resolution, earthy lighting
+Heu'ia
+
+A square icon with a dark navy stone texture background, hieroglyphic letter in the center with sharp edges and faint golden glow, tribal and Egyptian/Inka patterns etched in the background, mysterious and dark atmosphere, fantasy RPG style, detailed, high resolution, moody lighting
+
+
+A square icon with a dark navy stone texture background, hieroglyphic letter in the center with sharp edges and faint golden glow, tribal and Egyptian/Inka patterns etched in the background, mysterious and dark atmosphere, fantasy RPG style, detailed, high resolution, moody lighting
+
+
+Slash (Cięcie)
+
+A square icon with a dark red metallic texture background, a stylized silver sword or diagonal slash mark in the center, scratches and cut marks in the background, aggressive and dynamic atmosphere, fantasy RPG style, detailed, high resolution, dramatic lighting
+Slash Protection (Ochrona przed cięciem)
+
+A square icon with a dark red metallic texture background, a stylized golden shield with diagonal slash marks in the center, smoothed scratches and armor-like patterns in the background, defensive and solid atmosphere, fantasy RPG style, detailed, high resolution, warm lighting
+Puncture (Przebicie)
+
+A square icon with a dark blue metallic texture background, a stylized silver arrow or circular puncture hole in the center, small holes and piercing marks in the background, precise and sharp atmosphere, fantasy RPG style, detailed, high resolution, dramatic lighting
+Puncture Protection (Ochrona przed przebiciem)
+
+A square icon with a dark blue metallic texture background, a stylized golden shield with a circular puncture hole in the center, reinforced plates and armor-like patterns in the background, defensive and reinforced atmosphere, fantasy RPG style, detailed, high resolution, warm lighting
+Impact (Uderzenie)
+
+A square icon with a dark brown stone texture background, a stylized silver hammer or radiating crack lines in the center, cracks and impact marks in the background, heavy and brutal atmosphere, fantasy RPG style, detailed, high resolution, dramatic lighting
+Impact Protection (Ochrona przed uderzeniem)
+Neonix (Sci-Fi)
+
+A square icon with a dark black metallic texture background, geometric digital letter in the center glowing in neon blue, holographic grid lines and futuristic patterns in the background, cyberpunk and sci-fi atmosphere, fantasy RPG style, detailed, high resolution, dramatic lighting
+Drumali (Plemienny)
+
+A square icon with a dark brown earth or clay texture background, irregular hand-painted letter in the center with orange accents, tribal patterns and brushstroke marks in the background, raw and shamanic atmosphere, fantasy RPG style, detailed, high resolution, warm earthy lighting
+Fae'lin (Wróżki)
+
+A square icon with a light pink parchment texture background, delicate wavy letter in the center with golden accents, floral patterns and glowing firefly-like dots in the background, ethereal and magical atmosphere, fantasy RPG style, detailed, high resolution, soft warm lighting
+Xyrthol (Dziwny i starożytny)
+
+A square icon with a dark green stone texture background, twisted and distorted letter in the center with faint purple glow, unsettling tentacle-like patterns and eye motifs in the background, Lovecraftian and alien atmosphere, fantasy RPG style, detailed, high resolution, moody lighting
+Kyo'ren (Azjatycki)
+
+A square icon with a dark green parchment texture background, elegant calligraphic letter in the center with red accents, bamboo patterns and subtle dragon scale motifs in the background, harmonious and Eastern-inspired atmosphere, fantasy RPG style, detailed, high resolution, soft lighting
+Voidtongue (Mroczny i eteryczny)
+
+A square icon with a dark navy starry sky texture background, ethereal and misty letter in the center with faint silver glow, subtle smoke or fog patterns and star-like dots in the background, mysterious and void-like atmosphere, fantasy RPG style, detailed, high resolution, dim lighting
