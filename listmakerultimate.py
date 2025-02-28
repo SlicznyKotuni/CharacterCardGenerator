@@ -24,10 +24,10 @@ LANGUAGES = {
     "Rh'lo": ["ancient", "older", "runes", "rune", "magic"],
     "Common": ["knight", "elven", "elf", "magic", "fantasy", "rpg"],
     "Ancient_Runes": ["magic", "wizard", "necromancy", "dragon", "demon", "monster"],
-    "Kristalion": ["animal", "animalistic", "beast", "feline", "catgirl", "catboy", "anthropomorphic"],
+    "Kristalion": ["animal", "furry female", "furry", "animalistic", "feline", "catgirl", "catboy", "anthropomorphic"],
 "Durmali": ["dwarw", "runes", "rune", "wild", "tribal", "tribe", "primitive"],
 "Fae'lin": ["fae", "ferry", "ferrytail", "butterfly", "butterfly_wings", "princes"],
-"Kyo'ren": ["twisted", "alien", "abomination", "creature", "hommoculus", "tentacle", "tentacles", "mutated", "mutant"],
+"Kyo'ren": ["twisted", "alien", "abomination", "creature", "hommoculus", "beast",  "tentacle", "tentacles", "mutated", "mutant"],
 "Mijero": ["asian", "korean", "chinese", "japanese", "ninja", "geisha"],
 "Nekrothol": ["wise", "other_space", "nebula", "cosmic", "dead"],
     "Heu'ia": ["secret", "egyptian", "inka", "dark", "ancient"]

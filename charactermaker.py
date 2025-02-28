@@ -335,6 +335,18 @@ class RPGCardGenerator:
         try:
             os.makedirs(self.assets_path['output'], exist_ok=True)
             output_path = os.path.join(self.assets_path['output'], f"{name}.png")
+            
+            # Sprawdź, czy plik już istnieje
+            if os.path.exists(output_path):
+                # Znajdź dostępny numer dla nowej nazwy pliku
+                index = 1
+                while True:
+                    new_output_path = os.path.join(self.assets_path['output'], f"{name}_{index}.png")
+                    if not os.path.exists(new_output_path):
+                        output_path = new_output_path
+                        break
+                    index += 1
+            
             card.save(output_path)
             self.logger.info(f"Saved card: {output_path}")
         except Exception as e:
