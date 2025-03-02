@@ -11,39 +11,39 @@ class RPGCardGenerator:
             'weapons': {
                 'positions': [(50, 300), (50, 430)],  # Adjusted positions, touching, left side
                 'size': (120, 120),
-                'label_offset': (60, 60),
+                'label_offset': (40, 40),
                 'font_size': 36
             },
             'armors': {
                 'positions': [(742, 300), (742, 430), (742, 560)],  # Adjusted positions, touching, right side
                 'size': (120, 120),
-                'label_offset': (60, 60),
+                'label_offset': (40, 40),
                 'font_size': 36
             },
             'health': {
                 'position': (732, 55),
-                'size': (120, 120),
+                'size': (150, 150),
                 'font_size': 40
             },
             'evade': {
                 'position': (50, 55),  # Lewy górny róg
-                'size': (120, 120),
+                'size': (150, 150),
                 'font_size': 40
             },
             'name_plate': {
                 'size': (600, 100),
-                'position': ((912 - 600) // 2, 1150)
+                'position': ((912 - 600) // 2, 1050)
             },
             'name': {
-                'position': (912 // 2, 1210),
+                'position': (912 // 2, 1110),
                 'font_size': 60,
                 'max_length': 24
             },
             'languages': {
-                'icon_size': (90, 90),
+                'icon_size': (150, 150),
                 'max_count': 4,
                 'margin': 30,
-                'position_y': 1250
+                'position_y': 1200
             }
         }
         self.assets_path = {
