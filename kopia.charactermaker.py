@@ -1,5 +1,5 @@
 import pandas as pd
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps
 import os
 import logging
 
@@ -121,26 +121,17 @@ class RPGCardGenerator:
             return card
 
         character_pos = (
-            (self.card_size[0] - self.character_size[0]) // 2 - 20,
+            (self.card_size[0] - self.character_size[0]) // 2 - 20,  # Przesunięcie w lewo
             50
         )
 
-        # Dodanie efektu wtapiania - zaokrąglony prostokąt tylko na górze
+        # Dodanie efektu wtapiania
         mask = Image.new('L', character.size, 0)
         draw = ImageDraw.Draw(mask)
-        width, height = character.size
-        corner_radius = 50  # Promień zaokrąglenia rogów
+        draw.ellipse((0, 0, character.size[0], character.size[1]), fill=255) # Elipsa obejmująca cały obraz
+        mask = mask.filter(ImageFilter.GaussianBlur(radius=20)) # Rozmycie maski
 
-        # Rysujemy zaokrąglony prostokąt tylko na górnej krawędzi
-        draw.rounded_rectangle((0, 0, width, corner_radius * 2), radius=corner_radius, fill=255)
-        # Rysujemy prostokąty po bokach
-        draw.rectangle((0, corner_radius, corner_radius, height), fill=255)
-        draw.rectangle((width - corner_radius, corner_radius, width, height), fill=255)
-        # Rysujemy prostokąt na środku
-        draw.rectangle((corner_radius, corner_radius, width - corner_radius, height), fill=255)
-
-        mask = mask.filter(ImageFilter.GaussianBlur(radius=20))
-
+        # Zastosowanie maski do kanału alfa postaci
         character.putalpha(mask)
 
         card.alpha_composite(character, character_pos)
@@ -200,7 +191,7 @@ class RPGCardGenerator:
         except Exception as e:
             self.logger.error(f"Error adding health: {e}")
         return card
-
+    
     def _add_evade(self, card, data):
         try:
             evade_icon_path = os.path.join(self.assets_path['ui'], 'evade.png')

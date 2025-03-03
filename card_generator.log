@@ -5842,3 +5842,405 @@ AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
 2025-03-03 10:06:39,399 - INFO - Saved card: output\Iliarith Qoril_1.png
 2025-03-03 10:06:40,975 - INFO - Saved card: output\Drusie Neffie_1.png
 2025-03-03 10:12:39,999 - INFO - Saved card: output\Aethryna Huayna_2.png
+2025-03-03 10:16:28,277 - INFO - Saved card: output\Aethryna Huayna.png
+2025-03-03 10:19:34,917 - INFO - Saved card: output\Aethryna Huayna_1.png
+2025-03-03 10:19:36,035 - INFO - Saved card: output\Xantheia Supayra_1.png
+2025-03-03 10:19:37,154 - INFO - Saved card: output\Cian Darko.png
+2025-03-03 10:19:38,220 - INFO - Saved card: output\Rynelleth Intiq.png
+2025-03-03 10:19:39,478 - INFO - Saved card: output\Rhianthra Rimac.png
+2025-03-03 10:19:40,651 - INFO - Saved card: output\Elowie Tawtie.png
+2025-03-03 10:19:41,849 - INFO - Saved card: output\Qilvie Cusie.png
+2025-03-03 10:19:43,155 - INFO - Saved card: output\Zarie Intipie.png
+2025-03-03 10:19:44,755 - INFO - Saved card: output\Rhianthra Rimac_1.png
+2025-03-03 10:19:46,022 - INFO - Saved card: output\Orithie Apocie.png
+2025-03-03 10:19:47,205 - INFO - Saved card: output\Morwenna Elowen.png
+2025-03-03 10:19:48,436 - INFO - Saved card: output\Delphie Qhapie.png
+2025-03-03 10:19:49,843 - INFO - Saved card: output\Olynie Pachie.png
+2025-03-03 10:19:51,469 - INFO - Saved card: output\Nyxara Seraphine.png
+2025-03-03 10:19:52,931 - INFO - Saved card: output\Uvaniath Wiraq.png
+2025-03-03 10:19:54,396 - INFO - Saved card: output\Diomirith Huay.png
+2025-03-03 10:19:55,895 - INFO - Saved card: output\Olyndryth Pacha.png
+2025-03-03 10:19:57,486 - INFO - Saved card: output\Hugo Ironwrath.png
+2025-03-03 10:19:58,992 - INFO - Saved card: output\Zephyra Nyxara.png
+2025-03-03 10:23:18,651 - INFO - Saved card: output\Aethryna Huayna.png
+2025-03-03 10:23:19,719 - INFO - Saved card: output\Xantheia Supayra.png
+2025-03-03 10:23:20,817 - INFO - Saved card: output\Cian Darko.png
+2025-03-03 10:23:21,919 - INFO - Saved card: output\Rynelleth Intiq.png
+2025-03-03 10:23:23,069 - INFO - Saved card: output\Rhianthra Rimac.png
+2025-03-03 10:23:24,105 - INFO - Saved card: output\Elowie Tawtie.png
+2025-03-03 10:23:25,543 - INFO - Saved card: output\Qilvie Cusie.png
+2025-03-03 10:23:26,789 - INFO - Saved card: output\Zarie Intipie.png
+2025-03-03 10:23:28,102 - INFO - Saved card: output\Rhianthra Rimac_1.png
+2025-03-03 10:23:29,453 - INFO - Saved card: output\Orithie Apocie.png
+2025-03-03 10:23:30,532 - INFO - Saved card: output\Morwenna Elowen.png
+2025-03-03 10:23:31,829 - INFO - Saved card: output\Delphie Qhapie.png
+2025-03-03 10:23:33,385 - INFO - Saved card: output\Olynie Pachie.png
+2025-03-03 10:23:35,075 - INFO - Saved card: output\Nyxara Seraphine.png
+2025-03-03 10:23:36,524 - INFO - Saved card: output\Uvaniath Wiraq.png
+2025-03-03 10:23:38,017 - INFO - Saved card: output\Diomirith Huay.png
+2025-03-03 10:23:39,533 - INFO - Saved card: output\Olyndryth Pacha.png
+2025-03-03 10:23:41,208 - INFO - Saved card: output\Hugo Ironwrath.png
+2025-03-03 10:23:42,687 - INFO - Saved card: output\Zephyra Nyxara.png
+2025-03-03 10:23:44,183 - INFO - Saved card: output\Kivaraya Ollant.png
+2025-03-03 10:23:45,766 - INFO - Saved card: output\Ylvi Huacie.png
+2025-03-03 10:23:47,149 - INFO - Saved card: output\Tindor Bastie.png
+2025-03-03 10:23:48,646 - INFO - Saved card: output\Diomie Huay.png
+2025-03-03 10:23:50,281 - INFO - Saved card: output\Lyra Zephyra.png
+2025-03-03 10:23:51,826 - INFO - Saved card: output\Orithie Apocie_1.png
+2025-03-03 10:23:53,381 - INFO - Saved card: output\Ophelia Morwenna.png
+2025-03-03 10:23:55,050 - INFO - Saved card: output\Iliarith Qoril.png
+2025-03-03 10:23:56,644 - INFO - Saved card: output\Drusie Neffie.png
+2025-03-03 10:48:19,473 - ERROR - Failed to generate card for Aethryna Huayna
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:19,542 - ERROR - Failed to generate card for Xantheia Supayra
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:19,609 - ERROR - Failed to generate card for Cian Darko
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:19,678 - ERROR - Failed to generate card for Rynelleth Intiq
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:19,748 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:19,817 - ERROR - Failed to generate card for Elowie Tawtie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:19,888 - ERROR - Failed to generate card for Qilvie Cusie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:19,954 - ERROR - Failed to generate card for Zarie Intipie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,023 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,086 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,156 - ERROR - Failed to generate card for Morwenna Elowen
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,229 - ERROR - Failed to generate card for Delphie Qhapie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,300 - ERROR - Failed to generate card for Olynie Pachie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,372 - ERROR - Failed to generate card for Nyxara Seraphine
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,442 - ERROR - Failed to generate card for Uvaniath Wiraq
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,513 - ERROR - Failed to generate card for Diomirith Huay
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,582 - ERROR - Failed to generate card for Olyndryth Pacha
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,652 - ERROR - Failed to generate card for Hugo Ironwrath
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,718 - ERROR - Failed to generate card for Zephyra Nyxara
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,790 - ERROR - Failed to generate card for Kivaraya Ollant
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,857 - ERROR - Failed to generate card for Ylvi Huacie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,923 - ERROR - Failed to generate card for Tindor Bastie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:20,988 - ERROR - Failed to generate card for Diomie Huay
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:21,054 - ERROR - Failed to generate card for Lyra Zephyra
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:21,121 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:21,197 - ERROR - Failed to generate card for Ophelia Morwenna
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:21,261 - ERROR - Failed to generate card for Iliarith Qoril
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 10:48:21,328 - ERROR - Failed to generate card for Drusie Neffie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 80, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 106, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 135, in _add_character
+    kernel = ImageMorph.strel(dilation_radius, 'disk')  # Jądro dla dilation
+             ^^^^^^^^^^^^^^^^
+AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
+2025-03-03 11:08:26,822 - INFO - Saved card: output\Aethryna Huayna_1.png
+2025-03-03 11:08:28,005 - INFO - Saved card: output\Xantheia Supayra_1.png
+2025-03-03 11:08:29,179 - INFO - Saved card: output\Cian Darko_1.png
+2025-03-03 11:08:30,486 - INFO - Saved card: output\Rynelleth Intiq_1.png
+2025-03-03 11:08:31,664 - INFO - Saved card: output\Rhianthra Rimac_2.png
+2025-03-03 11:08:32,794 - INFO - Saved card: output\Elowie Tawtie_1.png
+2025-03-03 11:08:33,903 - INFO - Saved card: output\Qilvie Cusie_1.png
+2025-03-03 11:08:35,120 - INFO - Saved card: output\Zarie Intipie_1.png
+2025-03-03 11:08:36,561 - INFO - Saved card: output\Rhianthra Rimac_3.png
+2025-03-03 11:08:38,512 - INFO - Saved card: output\Orithie Apocie_2.png
+2025-03-03 11:08:40,432 - INFO - Saved card: output\Morwenna Elowen_1.png
+2025-03-03 11:08:42,266 - INFO - Saved card: output\Delphie Qhapie_1.png
+2025-03-03 11:08:43,834 - INFO - Saved card: output\Olynie Pachie_1.png
+2025-03-03 11:08:46,461 - INFO - Saved card: output\Nyxara Seraphine_1.png
+2025-03-03 11:08:48,086 - INFO - Saved card: output\Uvaniath Wiraq_1.png
+2025-03-03 11:08:49,749 - INFO - Saved card: output\Diomirith Huay_1.png
+2025-03-03 11:08:51,521 - INFO - Saved card: output\Olyndryth Pacha_1.png
+2025-03-03 11:08:53,305 - INFO - Saved card: output\Hugo Ironwrath_1.png
