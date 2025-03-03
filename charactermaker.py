@@ -126,10 +126,12 @@ class RPGCardGenerator:
         )
 
         # Dodanie efektu wtapiania
-        mask = Image.new('L', character.size, 0)
-        draw = ImageDraw.Draw(mask)
-        draw.ellipse((0, 0, character.size[0], character.size[1]), fill=255) # Elipsa obejmująca cały obraz
-        mask = mask.filter(ImageFilter.GaussianBlur(radius=20)) # Rozmycie maski
+         mask = Image.new('L', character.size, 0)
+    	draw = ImageDraw.Draw(mask)
+    # Zaokrąglony prostokąt
+   	 corner_radius = 50  # Promień zaokrąglenia rogów
+  	  draw.rounded_rectangle((0, 0, character.size[0], character.size[1]), radius=corner_radius, fill=255)
+    mask = mask.filter(ImageFilter.GaussianBlur(radius=20)
 
         # Zastosowanie maski do kanału alfa postaci
         character.putalpha(mask)
