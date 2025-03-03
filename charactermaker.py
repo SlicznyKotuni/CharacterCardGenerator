@@ -12,23 +12,23 @@ class RPGCardGenerator:
                 'positions': [(50, 300), (50, 430)],  # Adjusted positions, touching, left side
                 'size': (120, 120),
                 'label_offset': (40, 40),
-                'font_size': 36
+                'font_size': 46
             },
             'armors': {
                 'positions': [(742, 300), (742, 430), (742, 560)],  # Adjusted positions, touching, right side
                 'size': (120, 120),
                 'label_offset': (40, 40),
-                'font_size': 36
+                'font_size': 46
             },
             'health': {
                 'position': (732, 55),
                 'size': (150, 150),
-                'font_size': 40
+                'font_size': 56
             },
             'evade': {
                 'position': (50, 55),  # Lewy górny róg
                 'size': (150, 150),
-                'font_size': 40
+                'font_size': 56
             },
             'name_plate': {
                 'size': (600, 100),
@@ -36,7 +36,7 @@ class RPGCardGenerator:
             },
             'name': {
                 'position': (912 // 2, 1110),
-                'font_size': 60,
+                'font_size': 50,
                 'max_length': 24
             },
             'languages': {
@@ -103,20 +103,22 @@ class RPGCardGenerator:
         except Exception as e:
             self.logger.exception(f"An unexpected error occurred while processing {csv_path}")
 
-    def _add_text_with_glow(self, draw, position, text, font, text_color='white', glow_color='black', glow_radius=3):
-        """Helper function to add text with glow effect"""
-        # Najpierw rysujemy poświatę
+    def _add_text_with_glow(self, draw, position, text, font, text_color='white', glow_color='cyan', glow_radius=10):
+        """Helper function to add text with neon glow effect"""
+        # Rysowanie poświaty
         for offset_x in range(-glow_radius, glow_radius + 1):
             for offset_y in range(-glow_radius, glow_radius + 1):
-                draw.text(
-                    (position[0] + offset_x, position[1] + offset_y),
-                    text,
-                    font=font,
-                    fill=glow_color,
-                    anchor='mm'
-                )
+                # Sprawdzamy, czy offset mieści się w okręgu, aby uzyskać bardziej okrągłą poświatę
+                if offset_x**2 + offset_y**2 <= glow_radius**2:
+                    draw.text(
+                        (position[0] + offset_x, position[1] + offset_y),
+                        text,
+                        font=font,
+                        fill=glow_color,
+                        anchor='mm'
+                    )
         
-        # Następnie rysujemy główny tekst
+        # Rysowanie głównego tekstu
         draw.text(
             position,
             text,
@@ -268,8 +270,8 @@ class RPGCardGenerator:
                 str(value),
                 font,
                 text_color='white',
-                glow_color='black',
-                glow_radius=3
+                glow_color='cyan',
+                glow_radius=5
             )
 
             card.alpha_composite(weapon_img, position)
@@ -321,8 +323,8 @@ class RPGCardGenerator:
                 str(value),
                 font,
                 text_color='white',
-                glow_color='black',
-                glow_radius=3
+                glow_color='cyan',
+                glow_radius=5
             )
 
             card.alpha_composite(armor_img, position)
@@ -353,8 +355,8 @@ class RPGCardGenerator:
                 str(data['health']),
                 font,
                 text_color='white',
-                glow_color='black',
-                glow_radius=3
+                glow_color='cyan',
+                glow_radius=5
             )
             
             card.alpha_composite(health_icon, self.ui_config['health']['position'])
@@ -384,8 +386,8 @@ class RPGCardGenerator:
                 str(data['evade']),
                 font,
                 text_color='white',
-                glow_color='black',
-                glow_radius=3
+                glow_color='cyan',
+                glow_radius=5
             )
             
             card.alpha_composite(evade_icon, self.ui_config['evade']['position'])
@@ -413,8 +415,8 @@ class RPGCardGenerator:
                 text,
                 font,
                 text_color='white',
-                glow_color='black',
-                glow_radius=4  # Większy promień poświaty dla imienia
+                glow_color='cyan',
+                glow_radius=8  # Większy promień poświaty dla imienia
             )
 
         except FileNotFoundError:

@@ -6346,3 +6346,1118 @@ AttributeError: module 'PIL.ImageMorph' has no attribute 'strel'
 2025-03-03 15:00:21,150 - INFO - Saved card: output\Ophelia Morwenna_1.png
 2025-03-03 15:00:22,018 - INFO - Saved card: output\Iliarith Qoril_1.png
 2025-03-03 15:00:22,841 - INFO - Saved card: output\Drusie Neffie_1.png
+2025-03-03 15:28:04,224 - INFO - Saved card: output\Aethryna Huayna_2.png
+2025-03-03 15:28:05,078 - INFO - Saved card: output\Xantheia Supayra_2.png
+2025-03-03 15:28:05,927 - INFO - Saved card: output\Cian Darko_2.png
+2025-03-03 15:28:06,737 - INFO - Saved card: output\Rynelleth Intiq_2.png
+2025-03-03 15:28:07,527 - INFO - Saved card: output\Rhianthra Rimac_4.png
+2025-03-03 15:28:08,308 - INFO - Saved card: output\Elowie Tawtie_2.png
+2025-03-03 15:28:09,077 - INFO - Saved card: output\Qilvie Cusie_2.png
+2025-03-03 15:28:09,902 - INFO - Saved card: output\Zarie Intipie_2.png
+2025-03-03 15:28:10,746 - INFO - Saved card: output\Rhianthra Rimac_5.png
+2025-03-03 15:28:11,548 - INFO - Saved card: output\Orithie Apocie_4.png
+2025-03-03 15:28:12,351 - INFO - Saved card: output\Morwenna Elowen_2.png
+2025-03-03 15:28:13,225 - INFO - Saved card: output\Delphie Qhapie_2.png
+2025-03-03 15:28:14,003 - INFO - Saved card: output\Olynie Pachie_2.png
+2025-03-03 15:28:14,861 - INFO - Saved card: output\Nyxara Seraphine_2.png
+2025-03-03 15:28:15,613 - INFO - Saved card: output\Uvaniath Wiraq_2.png
+2025-03-03 15:28:16,389 - INFO - Saved card: output\Diomirith Huay_2.png
+2025-03-03 15:28:17,168 - INFO - Saved card: output\Olyndryth Pacha_2.png
+2025-03-03 15:28:17,932 - INFO - Saved card: output\Hugo Ironwrath_2.png
+2025-03-03 15:28:18,662 - INFO - Saved card: output\Zephyra Nyxara_2.png
+2025-03-03 15:28:19,419 - INFO - Saved card: output\Kivaraya Ollant_2.png
+2025-03-03 15:28:20,233 - INFO - Saved card: output\Ylvi Huacie_2.png
+2025-03-03 15:28:21,019 - INFO - Saved card: output\Tindor Bastie_2.png
+2025-03-03 15:28:21,781 - INFO - Saved card: output\Diomie Huay_2.png
+2025-03-03 15:28:22,630 - INFO - Saved card: output\Lyra Zephyra_2.png
+2025-03-03 15:28:23,484 - INFO - Saved card: output\Orithie Apocie_5.png
+2025-03-03 15:28:24,274 - INFO - Saved card: output\Ophelia Morwenna_2.png
+2025-03-03 15:28:25,134 - INFO - Saved card: output\Iliarith Qoril_2.png
+2025-03-03 15:28:25,976 - INFO - Saved card: output\Drusie Neffie_2.png
+2025-03-03 15:43:49,213 - ERROR - Failed to generate card for Aethryna Huayna
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,215 - ERROR - Failed to generate card for Xantheia Supayra
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,215 - ERROR - Failed to generate card for Cian Darko
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,217 - ERROR - Failed to generate card for Rynelleth Intiq
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,217 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,218 - ERROR - Failed to generate card for Elowie Tawtie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,218 - ERROR - Failed to generate card for Qilvie Cusie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,219 - ERROR - Failed to generate card for Zarie Intipie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,220 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,221 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,222 - ERROR - Failed to generate card for Morwenna Elowen
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,222 - ERROR - Failed to generate card for Delphie Qhapie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,223 - ERROR - Failed to generate card for Olynie Pachie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,224 - ERROR - Failed to generate card for Nyxara Seraphine
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,225 - ERROR - Failed to generate card for Uvaniath Wiraq
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,226 - ERROR - Failed to generate card for Diomirith Huay
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,226 - ERROR - Failed to generate card for Olyndryth Pacha
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,228 - ERROR - Failed to generate card for Hugo Ironwrath
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,228 - ERROR - Failed to generate card for Zephyra Nyxara
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,229 - ERROR - Failed to generate card for Kivaraya Ollant
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,229 - ERROR - Failed to generate card for Ylvi Huacie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,229 - ERROR - Failed to generate card for Tindor Bastie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,230 - ERROR - Failed to generate card for Diomie Huay
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,231 - ERROR - Failed to generate card for Lyra Zephyra
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,232 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,232 - ERROR - Failed to generate card for Ophelia Morwenna
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,233 - ERROR - Failed to generate card for Iliarith Qoril
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 15:43:49,234 - ERROR - Failed to generate card for Drusie Neffie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 16:00:16,495 - ERROR - Failed to generate card for Aethryna Huayna
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:16,553 - ERROR - Failed to generate card for Xantheia Supayra
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:16,610 - ERROR - Failed to generate card for Cian Darko
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:16,662 - ERROR - Failed to generate card for Rynelleth Intiq
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:16,715 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:16,768 - ERROR - Failed to generate card for Elowie Tawtie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:16,821 - ERROR - Failed to generate card for Qilvie Cusie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:16,873 - ERROR - Failed to generate card for Zarie Intipie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:16,928 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:16,979 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,030 - ERROR - Failed to generate card for Morwenna Elowen
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,084 - ERROR - Failed to generate card for Delphie Qhapie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,136 - ERROR - Failed to generate card for Olynie Pachie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,188 - ERROR - Failed to generate card for Nyxara Seraphine
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,249 - ERROR - Failed to generate card for Uvaniath Wiraq
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,303 - ERROR - Failed to generate card for Diomirith Huay
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,355 - ERROR - Failed to generate card for Olyndryth Pacha
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,414 - ERROR - Failed to generate card for Hugo Ironwrath
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,466 - ERROR - Failed to generate card for Zephyra Nyxara
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,521 - ERROR - Failed to generate card for Kivaraya Ollant
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,572 - ERROR - Failed to generate card for Ylvi Huacie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,625 - ERROR - Failed to generate card for Tindor Bastie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,678 - ERROR - Failed to generate card for Diomie Huay
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,735 - ERROR - Failed to generate card for Lyra Zephyra
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,788 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,841 - ERROR - Failed to generate card for Ophelia Morwenna
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,901 - ERROR - Failed to generate card for Iliarith Qoril
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:00:17,952 - ERROR - Failed to generate card for Drusie Neffie
+Traceback (most recent call last):
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 91, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 143, in _create_card
+    card = self._add_combat_elements(card, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\!Skrypty\CharacterCardGenerator\charactermaker.py", line 167, in _add_combat_elements
+    card = self._add_weapons(card, data)
+           ^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
+2025-03-03 16:01:14,429 - INFO - Saved card: output\Aethryna Huayna_3.png
+2025-03-03 16:01:15,296 - INFO - Saved card: output\Xantheia Supayra_3.png
+2025-03-03 16:01:16,125 - INFO - Saved card: output\Cian Darko_3.png
+2025-03-03 16:01:16,956 - INFO - Saved card: output\Rynelleth Intiq_3.png
+2025-03-03 16:01:17,755 - INFO - Saved card: output\Rhianthra Rimac_6.png
+2025-03-03 16:01:18,526 - INFO - Saved card: output\Elowie Tawtie_3.png
+2025-03-03 16:01:19,311 - INFO - Saved card: output\Qilvie Cusie_3.png
+2025-03-03 16:01:20,149 - INFO - Saved card: output\Zarie Intipie_3.png
+2025-03-03 16:01:21,128 - INFO - Saved card: output\Rhianthra Rimac_7.png
+2025-03-03 16:01:21,942 - INFO - Saved card: output\Orithie Apocie_6.png
+2025-03-03 16:01:22,739 - INFO - Saved card: output\Morwenna Elowen_3.png
+2025-03-03 16:01:23,606 - INFO - Saved card: output\Delphie Qhapie_3.png
+2025-03-03 16:01:24,410 - INFO - Saved card: output\Olynie Pachie_3.png
+2025-03-03 16:01:25,314 - INFO - Saved card: output\Nyxara Seraphine_3.png
+2025-03-03 16:01:26,110 - INFO - Saved card: output\Uvaniath Wiraq_3.png
+2025-03-03 16:01:26,917 - INFO - Saved card: output\Diomirith Huay_3.png
+2025-03-03 16:01:27,722 - INFO - Saved card: output\Olyndryth Pacha_3.png
+2025-03-03 16:01:28,545 - INFO - Saved card: output\Hugo Ironwrath_3.png
+2025-03-03 16:01:29,328 - INFO - Saved card: output\Zephyra Nyxara_3.png
+2025-03-03 16:01:30,104 - INFO - Saved card: output\Kivaraya Ollant_3.png
+2025-03-03 16:01:30,908 - INFO - Saved card: output\Ylvi Huacie_3.png
+2025-03-03 16:01:31,715 - INFO - Saved card: output\Tindor Bastie_3.png
+2025-03-03 16:01:32,517 - INFO - Saved card: output\Diomie Huay_3.png
+2025-03-03 16:01:33,408 - INFO - Saved card: output\Lyra Zephyra_3.png
+2025-03-03 16:01:34,245 - INFO - Saved card: output\Orithie Apocie_7.png
+2025-03-03 16:01:35,045 - INFO - Saved card: output\Ophelia Morwenna_3.png
+2025-03-03 16:01:35,900 - INFO - Saved card: output\Iliarith Qoril_3.png
+2025-03-03 16:01:36,726 - INFO - Saved card: output\Drusie Neffie_3.png
+2025-03-03 16:07:16,884 - INFO - Saved card: output\Aethryna Huayna_4.png
+2025-03-03 16:07:17,676 - INFO - Saved card: output\Xantheia Supayra_4.png
+2025-03-03 16:07:18,461 - INFO - Saved card: output\Cian Darko_4.png
+2025-03-03 16:07:19,224 - INFO - Saved card: output\Rynelleth Intiq_4.png
+2025-03-03 16:07:19,983 - INFO - Saved card: output\Rhianthra Rimac_8.png
+2025-03-03 16:07:20,703 - INFO - Saved card: output\Elowie Tawtie_4.png
+2025-03-03 16:07:21,435 - INFO - Saved card: output\Qilvie Cusie_4.png
+2025-03-03 16:07:22,214 - INFO - Saved card: output\Zarie Intipie_4.png
+2025-03-03 16:07:23,017 - INFO - Saved card: output\Rhianthra Rimac_9.png
+2025-03-03 16:07:23,769 - INFO - Saved card: output\Orithie Apocie_8.png
+2025-03-03 16:07:24,524 - INFO - Saved card: output\Morwenna Elowen_4.png
+2025-03-03 16:07:25,339 - INFO - Saved card: output\Delphie Qhapie_4.png
+2025-03-03 16:07:26,093 - INFO - Saved card: output\Olynie Pachie_4.png
+2025-03-03 16:07:26,940 - INFO - Saved card: output\Nyxara Seraphine_4.png
+2025-03-03 16:07:27,685 - INFO - Saved card: output\Uvaniath Wiraq_4.png
+2025-03-03 16:07:28,444 - INFO - Saved card: output\Diomirith Huay_4.png
+2025-03-03 16:07:29,210 - INFO - Saved card: output\Olyndryth Pacha_4.png
+2025-03-03 16:07:29,993 - INFO - Saved card: output\Hugo Ironwrath_4.png
+2025-03-03 16:07:30,739 - INFO - Saved card: output\Zephyra Nyxara_4.png
+2025-03-03 16:07:31,486 - INFO - Saved card: output\Kivaraya Ollant_4.png
+2025-03-03 16:07:32,257 - INFO - Saved card: output\Ylvi Huacie_4.png
+2025-03-03 16:07:33,014 - INFO - Saved card: output\Tindor Bastie_4.png
+2025-03-03 16:07:33,765 - INFO - Saved card: output\Diomie Huay_4.png
+2025-03-03 16:51:58,133 - INFO - Saved card: output\Aethryna Huayna_5.png
+2025-03-03 16:51:59,037 - INFO - Saved card: output\Xantheia Supayra_5.png
+2025-03-03 16:51:59,935 - INFO - Saved card: output\Cian Darko_5.png
+2025-03-03 16:52:00,849 - INFO - Saved card: output\Rynelleth Intiq_5.png
+2025-03-03 16:52:01,745 - INFO - Saved card: output\Rhianthra Rimac_10.png
+2025-03-03 16:52:02,567 - INFO - Saved card: output\Elowie Tawtie_5.png
+2025-03-03 16:52:03,381 - INFO - Saved card: output\Qilvie Cusie_5.png
+2025-03-03 16:52:04,257 - INFO - Saved card: output\Zarie Intipie_5.png
+2025-03-03 16:52:05,281 - INFO - Saved card: output\Rhianthra Rimac_11.png
+2025-03-03 16:52:06,130 - INFO - Saved card: output\Orithie Apocie_9.png
+2025-03-03 16:52:07,002 - INFO - Saved card: output\Morwenna Elowen_5.png
+2025-03-03 16:52:07,876 - INFO - Saved card: output\Delphie Qhapie_5.png
+2025-03-03 16:52:08,720 - INFO - Saved card: output\Olynie Pachie_5.png
+2025-03-03 16:52:09,665 - INFO - Saved card: output\Nyxara Seraphine_5.png
+2025-03-03 16:52:10,498 - INFO - Saved card: output\Uvaniath Wiraq_5.png
+2025-03-03 16:52:11,335 - INFO - Saved card: output\Diomirith Huay_5.png
+2025-03-03 16:52:12,180 - INFO - Saved card: output\Olyndryth Pacha_5.png
+2025-03-03 16:52:13,051 - INFO - Saved card: output\Hugo Ironwrath_5.png
+2025-03-03 16:52:13,866 - INFO - Saved card: output\Zephyra Nyxara_5.png
+2025-03-03 16:52:14,697 - INFO - Saved card: output\Kivaraya Ollant_5.png
+2025-03-03 16:52:15,547 - INFO - Saved card: output\Ylvi Huacie_5.png
+2025-03-03 16:52:16,382 - INFO - Saved card: output\Tindor Bastie_5.png
+2025-03-03 16:52:17,198 - INFO - Saved card: output\Diomie Huay_5.png
+2025-03-03 16:52:18,130 - INFO - Saved card: output\Lyra Zephyra_4.png
+2025-03-03 16:52:19,030 - INFO - Saved card: output\Orithie Apocie_10.png
+2025-03-03 16:52:19,851 - INFO - Saved card: output\Ophelia Morwenna_4.png
+2025-03-03 16:52:20,751 - INFO - Saved card: output\Iliarith Qoril_4.png
+2025-03-03 16:52:21,590 - INFO - Saved card: output\Drusie Neffie_4.png
+2025-03-03 18:21:46,519 - INFO - Saved card: output\Aethryna Huayna_6.png
+2025-03-03 18:21:47,380 - INFO - Saved card: output\Xantheia Supayra_6.png
+2025-03-03 18:21:48,244 - INFO - Saved card: output\Cian Darko_6.png
+2025-03-03 18:21:49,081 - INFO - Saved card: output\Rynelleth Intiq_6.png
+2025-03-03 18:21:49,916 - INFO - Saved card: output\Rhianthra Rimac_12.png
+2025-03-03 18:21:50,695 - INFO - Saved card: output\Elowie Tawtie_6.png
+2025-03-03 18:21:51,476 - INFO - Saved card: output\Qilvie Cusie_6.png
+2025-03-03 18:21:52,315 - INFO - Saved card: output\Zarie Intipie_6.png
+2025-03-03 18:21:53,251 - INFO - Saved card: output\Rhianthra Rimac_13.png
+2025-03-03 18:21:54,069 - INFO - Saved card: output\Orithie Apocie_11.png
+2025-03-03 18:21:54,868 - INFO - Saved card: output\Morwenna Elowen_6.png
+2025-03-03 18:21:55,749 - INFO - Saved card: output\Delphie Qhapie_6.png
+2025-03-03 18:21:56,556 - INFO - Saved card: output\Olynie Pachie_6.png
+2025-03-03 18:21:57,466 - INFO - Saved card: output\Nyxara Seraphine_6.png
+2025-03-03 18:21:58,260 - INFO - Saved card: output\Uvaniath Wiraq_6.png
+2025-03-03 18:21:59,079 - INFO - Saved card: output\Diomirith Huay_6.png
+2025-03-03 18:21:59,898 - INFO - Saved card: output\Olyndryth Pacha_6.png
+2025-03-03 18:22:00,735 - INFO - Saved card: output\Hugo Ironwrath_6.png
+2025-03-03 18:22:01,539 - INFO - Saved card: output\Zephyra Nyxara_6.png
+2025-03-03 18:22:02,336 - INFO - Saved card: output\Kivaraya Ollant_6.png
+2025-03-03 18:22:03,160 - INFO - Saved card: output\Ylvi Huacie_6.png
+2025-03-03 18:22:03,980 - INFO - Saved card: output\Tindor Bastie_6.png
+2025-03-03 18:22:04,775 - INFO - Saved card: output\Diomie Huay_6.png
+2025-03-03 18:22:05,646 - INFO - Saved card: output\Lyra Zephyra_5.png
+2025-03-03 18:22:06,507 - INFO - Saved card: output\Orithie Apocie_12.png
+2025-03-03 18:22:07,327 - INFO - Saved card: output\Ophelia Morwenna_5.png
+2025-03-03 18:22:08,204 - INFO - Saved card: output\Iliarith Qoril_5.png
+2025-03-03 18:22:09,060 - INFO - Saved card: output\Drusie Neffie_5.png
+2025-03-03 18:22:39,344 - INFO - Saved card: output\Aethryna Huayna_7.png
+2025-03-03 18:22:40,200 - INFO - Saved card: output\Xantheia Supayra_7.png
+2025-03-03 18:22:41,055 - INFO - Saved card: output\Cian Darko_7.png
+2025-03-03 18:22:41,880 - INFO - Saved card: output\Rynelleth Intiq_7.png
+2025-03-03 18:22:42,698 - INFO - Saved card: output\Rhianthra Rimac_14.png
+2025-03-03 18:22:43,491 - INFO - Saved card: output\Elowie Tawtie_7.png
+2025-03-03 18:22:44,300 - INFO - Saved card: output\Qilvie Cusie_7.png
+2025-03-03 18:22:45,142 - INFO - Saved card: output\Zarie Intipie_7.png
+2025-03-03 18:22:46,004 - INFO - Saved card: output\Rhianthra Rimac_15.png
+2025-03-03 18:22:46,811 - INFO - Saved card: output\Orithie Apocie_13.png
+2025-03-03 18:22:47,629 - INFO - Saved card: output\Morwenna Elowen_7.png
+2025-03-03 18:22:48,485 - INFO - Saved card: output\Delphie Qhapie_7.png
+2025-03-03 18:22:49,328 - INFO - Saved card: output\Olynie Pachie_7.png
+2025-03-03 18:22:50,239 - INFO - Saved card: output\Nyxara Seraphine_7.png
+2025-03-03 18:22:51,036 - INFO - Saved card: output\Uvaniath Wiraq_7.png
+2025-03-03 18:22:51,851 - INFO - Saved card: output\Diomirith Huay_7.png
+2025-03-03 18:22:52,664 - INFO - Saved card: output\Olyndryth Pacha_7.png
+2025-03-03 18:22:53,491 - INFO - Saved card: output\Hugo Ironwrath_7.png
+2025-03-03 18:22:54,279 - INFO - Saved card: output\Zephyra Nyxara_7.png
+2025-03-03 18:22:55,075 - INFO - Saved card: output\Kivaraya Ollant_7.png
+2025-03-03 18:22:55,905 - INFO - Saved card: output\Ylvi Huacie_7.png
+2025-03-03 18:22:56,705 - INFO - Saved card: output\Tindor Bastie_7.png
+2025-03-03 18:22:57,495 - INFO - Saved card: output\Diomie Huay_7.png
+2025-03-03 18:22:58,365 - INFO - Saved card: output\Lyra Zephyra_6.png
+2025-03-03 18:22:59,229 - INFO - Saved card: output\Orithie Apocie_14.png
+2025-03-03 18:23:00,019 - INFO - Saved card: output\Ophelia Morwenna_6.png
+2025-03-03 18:23:00,899 - INFO - Saved card: output\Iliarith Qoril_6.png
+2025-03-03 18:23:01,733 - INFO - Saved card: output\Drusie Neffie_6.png
+2025-03-03 18:38:10,337 - INFO - Saved card: output\Aethryna Huayna_8.png
+2025-03-03 18:38:11,227 - INFO - Saved card: output\Xantheia Supayra_8.png
+2025-03-03 18:38:12,095 - INFO - Saved card: output\Cian Darko_8.png
+2025-03-03 18:38:12,932 - INFO - Saved card: output\Rynelleth Intiq_8.png
+2025-03-03 18:38:13,773 - INFO - Saved card: output\Rhianthra Rimac_16.png
+2025-03-03 18:38:14,575 - INFO - Saved card: output\Elowie Tawtie_8.png
+2025-03-03 18:38:15,386 - INFO - Saved card: output\Qilvie Cusie_8.png
+2025-03-03 18:38:16,233 - INFO - Saved card: output\Zarie Intipie_8.png
+2025-03-03 18:38:17,099 - INFO - Saved card: output\Rhianthra Rimac_17.png
+2025-03-03 18:38:17,915 - INFO - Saved card: output\Orithie Apocie_15.png
+2025-03-03 18:38:18,724 - INFO - Saved card: output\Morwenna Elowen_8.png
+2025-03-03 18:38:19,586 - INFO - Saved card: output\Delphie Qhapie_8.png
+2025-03-03 18:38:20,407 - INFO - Saved card: output\Olynie Pachie_8.png
+2025-03-03 18:38:21,325 - INFO - Saved card: output\Nyxara Seraphine_8.png
+2025-03-03 18:38:22,124 - INFO - Saved card: output\Uvaniath Wiraq_8.png
+2025-03-03 18:38:22,959 - INFO - Saved card: output\Diomirith Huay_8.png
+2025-03-03 18:38:23,790 - INFO - Saved card: output\Olyndryth Pacha_8.png
+2025-03-03 18:38:24,646 - INFO - Saved card: output\Hugo Ironwrath_8.png
+2025-03-03 18:38:25,468 - INFO - Saved card: output\Zephyra Nyxara_8.png
+2025-03-03 18:38:26,292 - INFO - Saved card: output\Kivaraya Ollant_8.png
+2025-03-03 18:38:27,133 - INFO - Saved card: output\Ylvi Huacie_8.png
+2025-03-03 18:38:27,970 - INFO - Saved card: output\Tindor Bastie_8.png
+2025-03-03 18:38:28,792 - INFO - Saved card: output\Diomie Huay_8.png
+2025-03-03 18:38:29,684 - INFO - Saved card: output\Lyra Zephyra_7.png
+2025-03-03 18:38:30,547 - INFO - Saved card: output\Orithie Apocie_16.png
+2025-03-03 18:38:31,368 - INFO - Saved card: output\Ophelia Morwenna_7.png
+2025-03-03 18:38:32,252 - INFO - Saved card: output\Iliarith Qoril_7.png
+2025-03-03 18:38:33,103 - INFO - Saved card: output\Drusie Neffie_7.png
+2025-03-03 18:39:11,762 - INFO - Saved card: output\Aethryna Huayna_9.png
+2025-03-03 18:39:12,664 - INFO - Saved card: output\Xantheia Supayra_9.png
+2025-03-03 18:39:13,559 - INFO - Saved card: output\Cian Darko_9.png
+2025-03-03 18:39:14,427 - INFO - Saved card: output\Rynelleth Intiq_9.png
+2025-03-03 18:39:15,284 - INFO - Saved card: output\Rhianthra Rimac_18.png
+2025-03-03 18:39:16,090 - INFO - Saved card: output\Elowie Tawtie_9.png
+2025-03-03 18:39:16,903 - INFO - Saved card: output\Qilvie Cusie_9.png
+2025-03-03 18:39:17,777 - INFO - Saved card: output\Zarie Intipie_9.png
+2025-03-03 18:39:18,661 - INFO - Saved card: output\Rhianthra Rimac_19.png
+2025-03-03 18:39:19,501 - INFO - Saved card: output\Orithie Apocie_17.png
+2025-03-03 18:39:20,323 - INFO - Saved card: output\Morwenna Elowen_9.png
+2025-03-03 18:39:21,205 - INFO - Saved card: output\Delphie Qhapie_9.png
+2025-03-03 18:39:22,043 - INFO - Saved card: output\Olynie Pachie_9.png
+2025-03-03 18:39:22,961 - INFO - Saved card: output\Nyxara Seraphine_9.png
+2025-03-03 18:39:23,781 - INFO - Saved card: output\Uvaniath Wiraq_9.png
+2025-03-03 18:39:24,608 - INFO - Saved card: output\Diomirith Huay_9.png
+2025-03-03 18:39:25,438 - INFO - Saved card: output\Olyndryth Pacha_9.png
+2025-03-03 18:39:26,275 - INFO - Saved card: output\Hugo Ironwrath_9.png
+2025-03-03 18:39:27,091 - INFO - Saved card: output\Zephyra Nyxara_9.png
+2025-03-03 18:39:27,902 - INFO - Saved card: output\Kivaraya Ollant_9.png
+2025-03-03 18:39:28,758 - INFO - Saved card: output\Ylvi Huacie_9.png
+2025-03-03 18:39:29,578 - INFO - Saved card: output\Tindor Bastie_9.png
+2025-03-03 18:39:30,398 - INFO - Saved card: output\Diomie Huay_9.png
+2025-03-03 18:39:31,285 - INFO - Saved card: output\Lyra Zephyra_8.png
+2025-03-03 18:39:32,148 - INFO - Saved card: output\Orithie Apocie_18.png
+2025-03-03 18:39:32,971 - INFO - Saved card: output\Ophelia Morwenna_8.png
+2025-03-03 18:39:33,849 - INFO - Saved card: output\Iliarith Qoril_8.png
+2025-03-03 18:39:34,717 - INFO - Saved card: output\Drusie Neffie_8.png
+2025-03-03 18:43:50,270 - INFO - Saved card: output\Aethryna Huayna.png
+2025-03-03 18:43:51,169 - INFO - Saved card: output\Xantheia Supayra.png
+2025-03-03 18:43:52,092 - INFO - Saved card: output\Cian Darko.png
+2025-03-03 18:43:52,963 - INFO - Saved card: output\Rynelleth Intiq.png
+2025-03-03 18:43:53,816 - INFO - Saved card: output\Rhianthra Rimac.png
+2025-03-03 18:43:54,623 - INFO - Saved card: output\Elowie Tawtie.png
+2025-03-03 18:43:55,440 - INFO - Saved card: output\Qilvie Cusie.png
+2025-03-03 18:43:56,317 - INFO - Saved card: output\Zarie Intipie.png
+2025-03-03 18:43:57,205 - INFO - Saved card: output\Rhianthra Rimac_1.png
+2025-03-03 18:43:58,033 - INFO - Saved card: output\Orithie Apocie.png
+2025-03-03 18:43:58,947 - INFO - Saved card: output\Morwenna Elowen.png
+2025-03-03 18:43:59,809 - INFO - Saved card: output\Delphie Qhapie.png
+2025-03-03 18:44:00,630 - INFO - Saved card: output\Olynie Pachie.png
+2025-03-03 18:44:01,554 - INFO - Saved card: output\Nyxara Seraphine.png
+2025-03-03 18:44:02,364 - INFO - Saved card: output\Uvaniath Wiraq.png
+2025-03-03 18:44:03,219 - INFO - Saved card: output\Diomirith Huay.png
+2025-03-03 18:44:04,156 - INFO - Saved card: output\Olyndryth Pacha.png
+2025-03-03 18:44:05,023 - INFO - Saved card: output\Hugo Ironwrath.png
+2025-03-03 18:44:05,844 - INFO - Saved card: output\Zephyra Nyxara.png
+2025-03-03 18:44:06,816 - INFO - Saved card: output\Kivaraya Ollant.png
+2025-03-03 18:44:07,683 - INFO - Saved card: output\Ylvi Huacie.png
+2025-03-03 18:44:08,535 - INFO - Saved card: output\Tindor Bastie.png
+2025-03-03 18:44:09,371 - INFO - Saved card: output\Diomie Huay.png
+2025-03-03 18:44:10,280 - INFO - Saved card: output\Lyra Zephyra.png
+2025-03-03 18:44:11,131 - INFO - Saved card: output\Orithie Apocie_1.png
+2025-03-03 18:44:11,952 - INFO - Saved card: output\Ophelia Morwenna.png
+2025-03-03 18:44:12,843 - INFO - Saved card: output\Iliarith Qoril.png
+2025-03-03 18:44:13,704 - INFO - Saved card: output\Drusie Neffie.png
+2025-03-03 18:54:36,852 - INFO - Saved card: output\Aethryna Huayna_1.png
+2025-03-03 18:54:37,712 - INFO - Saved card: output\Xantheia Supayra_1.png
+2025-03-03 18:54:38,569 - INFO - Saved card: output\Cian Darko_1.png
+2025-03-03 18:54:39,413 - INFO - Saved card: output\Rynelleth Intiq_1.png
+2025-03-03 18:54:40,225 - INFO - Saved card: output\Rhianthra Rimac_2.png
+2025-03-03 18:54:41,007 - INFO - Saved card: output\Elowie Tawtie_1.png
+2025-03-03 18:54:41,782 - INFO - Saved card: output\Qilvie Cusie_1.png
+2025-03-03 18:54:42,605 - INFO - Saved card: output\Zarie Intipie_1.png
+2025-03-03 18:54:43,431 - INFO - Saved card: output\Rhianthra Rimac_3.png
+2025-03-03 18:54:44,240 - INFO - Saved card: output\Orithie Apocie_2.png
+2025-03-03 18:54:45,026 - INFO - Saved card: output\Morwenna Elowen_1.png
+2025-03-03 18:54:45,890 - INFO - Saved card: output\Delphie Qhapie_1.png
+2025-03-03 18:54:46,675 - INFO - Saved card: output\Olynie Pachie_1.png
+2025-03-03 18:54:47,560 - INFO - Saved card: output\Nyxara Seraphine_1.png
+2025-03-03 18:54:48,356 - INFO - Saved card: output\Uvaniath Wiraq_1.png
+2025-03-03 18:54:49,158 - INFO - Saved card: output\Diomirith Huay_1.png
+2025-03-03 18:54:49,961 - INFO - Saved card: output\Olyndryth Pacha_1.png
+2025-03-03 18:54:50,779 - INFO - Saved card: output\Hugo Ironwrath_1.png
+2025-03-03 18:54:51,549 - INFO - Saved card: output\Zephyra Nyxara_1.png
+2025-03-03 18:54:52,332 - INFO - Saved card: output\Kivaraya Ollant_1.png
+2025-03-03 18:54:53,173 - INFO - Saved card: output\Ylvi Huacie_1.png
+2025-03-03 18:54:53,994 - INFO - Saved card: output\Tindor Bastie_1.png
+2025-03-03 18:54:54,804 - INFO - Saved card: output\Diomie Huay_1.png
+2025-03-03 18:54:55,673 - INFO - Saved card: output\Lyra Zephyra_1.png
+2025-03-03 18:54:56,525 - INFO - Saved card: output\Orithie Apocie_3.png
+2025-03-03 18:54:57,320 - INFO - Saved card: output\Ophelia Morwenna_1.png
+2025-03-03 18:54:58,209 - INFO - Saved card: output\Iliarith Qoril_1.png
+2025-03-03 18:54:59,034 - INFO - Saved card: output\Drusie Neffie_1.png
+2025-03-03 18:58:11,389 - INFO - Saved card: output\Aethryna Huayna_2.png
+2025-03-03 18:58:12,229 - INFO - Saved card: output\Xantheia Supayra_2.png
+2025-03-03 18:58:13,074 - INFO - Saved card: output\Cian Darko_2.png
+2025-03-03 18:58:13,907 - INFO - Saved card: output\Rynelleth Intiq_2.png
+2025-03-03 18:58:14,713 - INFO - Saved card: output\Rhianthra Rimac_4.png
+2025-03-03 18:58:15,502 - INFO - Saved card: output\Elowie Tawtie_2.png
+2025-03-03 18:58:16,282 - INFO - Saved card: output\Qilvie Cusie_2.png
+2025-03-03 18:58:17,116 - INFO - Saved card: output\Zarie Intipie_2.png
+2025-03-03 18:58:17,968 - INFO - Saved card: output\Rhianthra Rimac_5.png
+2025-03-03 18:58:18,770 - INFO - Saved card: output\Orithie Apocie_4.png
+2025-03-03 18:58:19,543 - INFO - Saved card: output\Morwenna Elowen_2.png
+2025-03-03 18:58:20,390 - INFO - Saved card: output\Delphie Qhapie_2.png
+2025-03-03 18:58:21,200 - INFO - Saved card: output\Olynie Pachie_2.png
+2025-03-03 18:58:22,107 - INFO - Saved card: output\Nyxara Seraphine_2.png
+2025-03-03 18:58:22,904 - INFO - Saved card: output\Uvaniath Wiraq_2.png
+2025-03-03 18:58:23,702 - INFO - Saved card: output\Diomirith Huay_2.png
+2025-03-03 18:58:24,511 - INFO - Saved card: output\Olyndryth Pacha_2.png
+2025-03-03 18:58:25,331 - INFO - Saved card: output\Hugo Ironwrath_2.png
+2025-03-03 18:58:26,105 - INFO - Saved card: output\Zephyra Nyxara_2.png
+2025-03-03 18:58:26,880 - INFO - Saved card: output\Kivaraya Ollant_2.png
+2025-03-03 18:58:27,688 - INFO - Saved card: output\Ylvi Huacie_2.png
+2025-03-03 18:58:28,478 - INFO - Saved card: output\Tindor Bastie_2.png
+2025-03-03 18:58:29,264 - INFO - Saved card: output\Diomie Huay_2.png
+2025-03-03 18:58:30,123 - INFO - Saved card: output\Lyra Zephyra_2.png
+2025-03-03 18:58:30,950 - INFO - Saved card: output\Orithie Apocie_5.png
+2025-03-03 18:58:31,730 - INFO - Saved card: output\Ophelia Morwenna_2.png
+2025-03-03 18:58:32,584 - INFO - Saved card: output\Iliarith Qoril_2.png
+2025-03-03 18:58:33,413 - INFO - Saved card: output\Drusie Neffie_2.png
+2025-03-03 19:16:16,861 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:16,892 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:16,924 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:16,953 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:16,986 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,023 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,053 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,095 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,679 - INFO - Saved card: output\Aethryna Huayna_3.png
+2025-03-03 19:16:17,772 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,804 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,834 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,864 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,894 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,929 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,955 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:17,999 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:18,578 - INFO - Saved card: output\Xantheia Supayra_3.png
+2025-03-03 19:16:18,670 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:18,708 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:18,739 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:18,769 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:18,799 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:18,834 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:18,861 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:18,899 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:19,482 - INFO - Saved card: output\Cian Darko_3.png
+2025-03-03 19:16:19,575 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:19,608 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:19,638 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:19,668 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:19,700 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:19,734 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:19,762 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:19,803 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:20,351 - INFO - Saved card: output\Rynelleth Intiq_3.png
+2025-03-03 19:16:20,443 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:20,475 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:20,505 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:20,535 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:20,565 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:20,600 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:20,628 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:20,669 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:21,205 - INFO - Saved card: output\Rhianthra Rimac_6.png
+2025-03-03 19:16:21,299 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:21,330 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:21,360 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:21,390 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:21,420 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:21,455 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:21,483 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:21,523 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:22,023 - INFO - Saved card: output\Elowie Tawtie_3.png
+2025-03-03 19:16:22,115 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:22,147 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:22,178 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:22,206 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:22,237 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:22,270 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:22,300 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:22,341 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:22,872 - INFO - Saved card: output\Qilvie Cusie_3.png
+2025-03-03 19:16:22,961 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:22,991 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,023 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,052 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,083 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,117 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,145 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,184 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,741 - INFO - Saved card: output\Zarie Intipie_3.png
+2025-03-03 19:16:23,838 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,869 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,899 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,928 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,957 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:23,992 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:24,020 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:24,064 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:24,644 - INFO - Saved card: output\Rhianthra Rimac_7.png
+2025-03-03 19:16:24,743 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:24,775 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:24,805 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:24,834 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:24,864 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:24,898 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:24,926 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:24,967 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:25,503 - INFO - Saved card: output\Orithie Apocie_6.png
+2025-03-03 19:16:25,599 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:25,629 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:25,660 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:25,690 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:25,720 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:25,757 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:25,784 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:25,829 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:26,355 - INFO - Saved card: output\Morwenna Elowen_3.png
+2025-03-03 19:16:26,457 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:26,490 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:26,521 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:26,553 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:26,584 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:26,620 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:26,648 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:26,690 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:27,273 - INFO - Saved card: output\Delphie Qhapie_3.png
+2025-03-03 19:16:27,370 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:27,400 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:27,431 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:27,461 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:27,492 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:27,527 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:27,554 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:27,599 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:28,121 - INFO - Saved card: output\Olynie Pachie_3.png
+2025-03-03 19:16:28,211 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:28,242 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:28,272 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:28,301 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:28,331 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:28,366 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:28,392 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:28,440 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:29,072 - INFO - Saved card: output\Nyxara Seraphine_3.png
+2025-03-03 19:16:29,167 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:29,198 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:29,229 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:29,259 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:29,290 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:29,325 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:29,351 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:29,396 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:29,938 - INFO - Saved card: output\Uvaniath Wiraq_3.png
+2025-03-03 19:16:30,033 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:30,108 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:30,141 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:30,177 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:30,207 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:30,241 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:30,269 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:30,311 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:30,834 - INFO - Saved card: output\Diomirith Huay_3.png
+2025-03-03 19:16:30,927 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:30,958 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:30,988 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,017 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,046 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,080 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,110 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,153 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,669 - INFO - Saved card: output\Olyndryth Pacha_3.png
+2025-03-03 19:16:31,764 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,795 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,833 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,864 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,893 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,932 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:31,958 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:32,000 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:32,550 - INFO - Saved card: output\Hugo Ironwrath_3.png
+2025-03-03 19:16:32,638 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:32,670 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:32,709 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:32,742 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:32,772 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:32,807 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:32,833 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:32,872 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:33,364 - INFO - Saved card: output\Zephyra Nyxara_3.png
+2025-03-03 19:16:33,457 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:33,486 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:33,515 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:33,547 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:33,575 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:33,609 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:33,635 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:33,675 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:34,170 - INFO - Saved card: output\Kivaraya Ollant_3.png
+2025-03-03 19:16:34,259 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:34,288 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:34,319 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:34,347 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:34,377 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:34,412 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:34,439 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:34,478 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:35,034 - INFO - Saved card: output\Ylvi Huacie_3.png
+2025-03-03 19:16:35,128 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:35,159 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:35,191 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:35,221 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:35,252 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:35,288 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:35,316 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:35,358 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:35,879 - INFO - Saved card: output\Tindor Bastie_3.png
+2025-03-03 19:16:35,972 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,003 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,034 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,063 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,096 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,132 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,161 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,199 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,723 - INFO - Saved card: output\Diomie Huay_3.png
+2025-03-03 19:16:36,816 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,850 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,883 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,911 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,941 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:36,977 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:37,012 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:37,053 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:37,639 - INFO - Saved card: output\Lyra Zephyra_3.png
+2025-03-03 19:16:37,733 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:37,764 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:37,794 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:37,825 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:37,854 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:37,889 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:37,916 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:37,957 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:38,518 - INFO - Saved card: output\Orithie Apocie_7.png
+2025-03-03 19:16:38,612 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:38,643 - ERROR - Error adding weapon impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:38,677 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:38,707 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:38,742 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:38,777 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:38,805 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:38,850 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:39,369 - INFO - Saved card: output\Ophelia Morwenna_3.png
+2025-03-03 19:16:39,466 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:39,499 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:39,534 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:39,565 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:39,602 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:39,637 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:39,664 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:39,706 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:40,289 - INFO - Saved card: output\Iliarith Qoril_3.png
+2025-03-03 19:16:40,379 - ERROR - Error adding weapon slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:40,411 - ERROR - Error adding weapon puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:40,441 - ERROR - Error adding armor slash: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:40,471 - ERROR - Error adding armor puncture: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:40,501 - ERROR - Error adding armor impact: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:40,536 - ERROR - Error adding health: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:40,564 - ERROR - Error adding evade: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:40,604 - ERROR - Error adding name plate: 'ImagingCore' object has no attribute 'alpha_composite'
+2025-03-03 19:16:41,145 - INFO - Saved card: output\Drusie Neffie_3.png
+2025-03-03 19:17:23,868 - INFO - Saved card: output\Aethryna Huayna_4.png
+2025-03-03 19:17:24,800 - INFO - Saved card: output\Xantheia Supayra_4.png
+2025-03-03 19:17:25,694 - INFO - Saved card: output\Cian Darko_4.png
+2025-03-03 19:17:26,581 - INFO - Saved card: output\Rynelleth Intiq_4.png
+2025-03-03 19:17:27,454 - INFO - Saved card: output\Rhianthra Rimac_8.png
+2025-03-03 19:17:28,294 - INFO - Saved card: output\Elowie Tawtie_4.png
+2025-03-03 19:17:29,130 - INFO - Saved card: output\Qilvie Cusie_4.png
+2025-03-03 19:17:30,012 - INFO - Saved card: output\Zarie Intipie_4.png
+2025-03-03 19:17:30,941 - INFO - Saved card: output\Rhianthra Rimac_9.png
+2025-03-03 19:17:31,797 - INFO - Saved card: output\Orithie Apocie_8.png
+2025-03-03 19:17:32,657 - INFO - Saved card: output\Morwenna Elowen_4.png
+2025-03-03 19:17:33,558 - INFO - Saved card: output\Delphie Qhapie_4.png
+2025-03-03 19:17:34,409 - INFO - Saved card: output\Olynie Pachie_4.png
+2025-03-03 19:17:35,368 - INFO - Saved card: output\Nyxara Seraphine_4.png
+2025-03-03 19:17:36,213 - INFO - Saved card: output\Uvaniath Wiraq_4.png
+2025-03-03 19:17:37,056 - INFO - Saved card: output\Diomirith Huay_4.png
+2025-03-03 19:17:37,921 - INFO - Saved card: output\Olyndryth Pacha_4.png
+2025-03-03 19:17:38,810 - INFO - Saved card: output\Hugo Ironwrath_4.png
+2025-03-03 19:17:39,649 - INFO - Saved card: output\Zephyra Nyxara_4.png
+2025-03-03 19:17:40,476 - INFO - Saved card: output\Kivaraya Ollant_4.png
+2025-03-03 19:17:41,325 - INFO - Saved card: output\Ylvi Huacie_4.png
+2025-03-03 19:17:42,185 - INFO - Saved card: output\Tindor Bastie_4.png
+2025-03-03 19:17:43,035 - INFO - Saved card: output\Diomie Huay_4.png
+2025-03-03 19:17:43,927 - INFO - Saved card: output\Lyra Zephyra_4.png
+2025-03-03 19:17:44,803 - INFO - Saved card: output\Orithie Apocie_9.png
+2025-03-03 19:17:45,648 - INFO - Saved card: output\Ophelia Morwenna_4.png
+2025-03-03 19:17:46,541 - INFO - Saved card: output\Iliarith Qoril_4.png
+2025-03-03 19:17:47,411 - INFO - Saved card: output\Drusie Neffie_4.png
+2025-03-03 19:19:36,800 - INFO - Saved card: output\Aethryna Huayna_5.png
+2025-03-03 19:19:37,746 - INFO - Saved card: output\Xantheia Supayra_5.png
+2025-03-03 19:19:38,622 - INFO - Saved card: output\Cian Darko_5.png
+2025-03-03 19:19:39,511 - INFO - Saved card: output\Rynelleth Intiq_5.png
+2025-03-03 19:19:40,425 - INFO - Saved card: output\Rhianthra Rimac_10.png
+2025-03-03 19:19:41,274 - INFO - Saved card: output\Elowie Tawtie_5.png
+2025-03-03 19:19:42,120 - INFO - Saved card: output\Qilvie Cusie_5.png
+2025-03-03 19:19:43,009 - INFO - Saved card: output\Zarie Intipie_5.png
+2025-03-03 19:19:43,956 - INFO - Saved card: output\Rhianthra Rimac_11.png
+2025-03-03 19:19:44,848 - INFO - Saved card: output\Orithie Apocie_10.png
+2025-03-03 19:19:45,725 - INFO - Saved card: output\Morwenna Elowen_5.png
+2025-03-03 19:19:46,654 - INFO - Saved card: output\Delphie Qhapie_5.png
+2025-03-03 19:19:47,552 - INFO - Saved card: output\Olynie Pachie_5.png
+2025-03-03 19:19:48,552 - INFO - Saved card: output\Nyxara Seraphine_5.png
+2025-03-03 19:19:49,432 - INFO - Saved card: output\Uvaniath Wiraq_5.png
+2025-03-03 19:19:50,360 - INFO - Saved card: output\Diomirith Huay_5.png
+2025-03-03 19:19:51,252 - INFO - Saved card: output\Olyndryth Pacha_5.png
+2025-03-03 19:19:52,169 - INFO - Saved card: output\Hugo Ironwrath_5.png
+2025-03-03 19:19:53,051 - INFO - Saved card: output\Zephyra Nyxara_5.png
+2025-03-03 19:19:53,925 - INFO - Saved card: output\Kivaraya Ollant_5.png
+2025-03-03 19:19:54,847 - INFO - Saved card: output\Ylvi Huacie_5.png
+2025-03-03 19:19:55,756 - INFO - Saved card: output\Tindor Bastie_5.png
+2025-03-03 19:19:56,675 - INFO - Saved card: output\Diomie Huay_5.png
+2025-03-03 19:19:57,657 - INFO - Saved card: output\Lyra Zephyra_5.png
+2025-03-03 19:19:58,573 - INFO - Saved card: output\Orithie Apocie_11.png
+2025-03-03 19:19:59,468 - INFO - Saved card: output\Ophelia Morwenna_5.png
+2025-03-03 19:20:00,407 - INFO - Saved card: output\Iliarith Qoril_5.png
+2025-03-03 19:20:01,291 - INFO - Saved card: output\Drusie Neffie_5.png

@@ -9,26 +9,26 @@ class RPGCardGenerator:
         self.character_size = (800, 700)
         self.ui_config = {
             'weapons': {
-                'positions': [(50, 300), (50, 430)],
+                'positions': [(50, 300), (50, 430)],  # Adjusted positions, touching, left side
                 'size': (120, 120),
                 'label_offset': (40, 40),
-                'font_size': 48  # Zwiększony rozmiar czcionki
+                'font_size': 36
             },
             'armors': {
-                'positions': [(742, 300), (742, 430), (742, 560)],
+                'positions': [(742, 300), (742, 430), (742, 560)],  # Adjusted positions, touching, right side
                 'size': (120, 120),
                 'label_offset': (40, 40),
-                'font_size': 48  # Zwiększony rozmiar czcionki
+                'font_size': 36
             },
             'health': {
                 'position': (732, 55),
                 'size': (150, 150),
-                'font_size': 52  # Zwiększony rozmiar czcionki
+                'font_size': 40
             },
             'evade': {
-                'position': (50, 55),
+                'position': (50, 55),  # Lewy górny róg
                 'size': (150, 150),
-                'font_size': 52  # Zwiększony rozmiar czcionki
+                'font_size': 40
             },
             'name_plate': {
                 'size': (600, 100),
@@ -103,32 +103,20 @@ class RPGCardGenerator:
         except Exception as e:
             self.logger.exception(f"An unexpected error occurred while processing {csv_path}")
 
-    def _add_text_with_glow(self, draw, position, text, font, text_color='white', glow_color='cyan', glow_radius=10):
-        """Adds text with a neon glow effect."""
-        # Create a blurred glow effect
-        glow_img = Image.new('RGBA', draw.im.size, (0, 0, 0, 0))
-        glow_draw = ImageDraw.Draw(glow_img)
-
-        # Draw multiple layers of glow, each slightly offset
-        for i in range(-2, 3):
-            for j in range(-2, 3):
-                glow_draw.text(
-                    (position[0] + i, position[1] + j),
+    def _add_text_with_glow(self, draw, position, text, font, text_color='white', glow_color='black', glow_radius=3):
+        """Helper function to add text with glow effect"""
+        # Najpierw rysujemy poświatę
+        for offset_x in range(-glow_radius, glow_radius + 1):
+            for offset_y in range(-glow_radius, glow_radius + 1):
+                draw.text(
+                    (position[0] + offset_x, position[1] + offset_y),
                     text,
                     font=font,
                     fill=glow_color,
                     anchor='mm'
                 )
-
-        # Apply blur to create the glow effect
-        glow_img = glow_img.filter(ImageFilter.GaussianBlur(radius=glow_radius))
-
-        # Composite the glow with the original image
-        card = draw.im.convert("RGBA")  # Ensure the card is in RGBA mode
-        card.alpha_composite(glow_img, (0, 0))
-        draw.im = card  # Update the draw object with the modified image
-
-        # Finally, draw the main text
+        
+        # Następnie rysujemy główny tekst
         draw.text(
             position,
             text,
@@ -280,8 +268,8 @@ class RPGCardGenerator:
                 str(value),
                 font,
                 text_color='white',
-                glow_color='cyan',
-                glow_radius=5
+                glow_color='black',
+                glow_radius=3
             )
 
             card.alpha_composite(weapon_img, position)
@@ -333,8 +321,8 @@ class RPGCardGenerator:
                 str(value),
                 font,
                 text_color='white',
-                glow_color='cyan',
-                glow_radius=5
+                glow_color='black',
+                glow_radius=3
             )
 
             card.alpha_composite(armor_img, position)
@@ -365,8 +353,8 @@ class RPGCardGenerator:
                 str(data['health']),
                 font,
                 text_color='white',
-                glow_color='cyan',
-                glow_radius=5
+                glow_color='black',
+                glow_radius=3
             )
             
             card.alpha_composite(health_icon, self.ui_config['health']['position'])
@@ -396,8 +384,8 @@ class RPGCardGenerator:
                 str(data['evade']),
                 font,
                 text_color='white',
-                glow_color='cyan',
-                glow_radius=5
+                glow_color='black',
+                glow_radius=3
             )
             
             card.alpha_composite(evade_icon, self.ui_config['evade']['position'])
@@ -425,7 +413,7 @@ class RPGCardGenerator:
                 text,
                 font,
                 text_color='white',
-                glow_color='cyan',
+                glow_color='black',
                 glow_radius=4  # Większy promień poświaty dla imienia
             )
 
