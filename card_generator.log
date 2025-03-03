@@ -5197,3 +5197,647 @@ KeyError: 'name'
 2025-03-02 23:03:37,774 - INFO - Saved card: output\Ophelia Morwenna_6.png
 2025-03-02 23:03:38,551 - INFO - Saved card: output\Iliarith Qoril_6.png
 2025-03-02 23:03:39,288 - INFO - Saved card: output\Drusie Neffie_6.png
+2025-03-03 09:17:59,199 - ERROR - Failed to generate card for Aethryna Huayna
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,200 - ERROR - Failed to generate card for Xantheia Supayra
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,202 - ERROR - Failed to generate card for Cian Darko
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,202 - ERROR - Failed to generate card for Rynelleth Intiq
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,204 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,205 - ERROR - Failed to generate card for Elowie Tawtie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,205 - ERROR - Failed to generate card for Qilvie Cusie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,206 - ERROR - Failed to generate card for Zarie Intipie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,207 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,208 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,209 - ERROR - Failed to generate card for Morwenna Elowen
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,209 - ERROR - Failed to generate card for Delphie Qhapie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,210 - ERROR - Failed to generate card for Olynie Pachie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,211 - ERROR - Failed to generate card for Nyxara Seraphine
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,212 - ERROR - Failed to generate card for Uvaniath Wiraq
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,212 - ERROR - Failed to generate card for Diomirith Huay
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,213 - ERROR - Failed to generate card for Olyndryth Pacha
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,214 - ERROR - Failed to generate card for Hugo Ironwrath
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,215 - ERROR - Failed to generate card for Zephyra Nyxara
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,216 - ERROR - Failed to generate card for Kivaraya Ollant
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,216 - ERROR - Failed to generate card for Ylvi Huacie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,217 - ERROR - Failed to generate card for Tindor Bastie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,218 - ERROR - Failed to generate card for Diomie Huay
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,219 - ERROR - Failed to generate card for Lyra Zephyra
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,219 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,220 - ERROR - Failed to generate card for Ophelia Morwenna
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,222 - ERROR - Failed to generate card for Iliarith Qoril
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:17:59,223 - ERROR - Failed to generate card for Drusie Neffie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,564 - ERROR - Failed to generate card for Aethryna Huayna
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,565 - ERROR - Failed to generate card for Xantheia Supayra
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,566 - ERROR - Failed to generate card for Cian Darko
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,567 - ERROR - Failed to generate card for Rynelleth Intiq
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,568 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,569 - ERROR - Failed to generate card for Elowie Tawtie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,570 - ERROR - Failed to generate card for Qilvie Cusie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,571 - ERROR - Failed to generate card for Zarie Intipie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,571 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,573 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,574 - ERROR - Failed to generate card for Morwenna Elowen
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,574 - ERROR - Failed to generate card for Delphie Qhapie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,575 - ERROR - Failed to generate card for Olynie Pachie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,576 - ERROR - Failed to generate card for Nyxara Seraphine
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,577 - ERROR - Failed to generate card for Uvaniath Wiraq
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,579 - ERROR - Failed to generate card for Diomirith Huay
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,580 - ERROR - Failed to generate card for Olyndryth Pacha
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,581 - ERROR - Failed to generate card for Hugo Ironwrath
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,582 - ERROR - Failed to generate card for Zephyra Nyxara
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,583 - ERROR - Failed to generate card for Kivaraya Ollant
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,584 - ERROR - Failed to generate card for Ylvi Huacie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,585 - ERROR - Failed to generate card for Tindor Bastie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,585 - ERROR - Failed to generate card for Diomie Huay
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,586 - ERROR - Failed to generate card for Lyra Zephyra
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,586 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,589 - ERROR - Failed to generate card for Ophelia Morwenna
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,589 - ERROR - Failed to generate card for Iliarith Qoril
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:18:13,590 - ERROR - Failed to generate card for Drusie Neffie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 90, in generate_from_file
+    self._validate_data(row)
+    ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_validate_data'
+2025-03-03 09:20:19,452 - ERROR - Failed to generate card for Aethryna Huayna
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,494 - ERROR - Failed to generate card for Xantheia Supayra
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,534 - ERROR - Failed to generate card for Cian Darko
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,585 - ERROR - Failed to generate card for Rynelleth Intiq
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,623 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,664 - ERROR - Failed to generate card for Elowie Tawtie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,703 - ERROR - Failed to generate card for Qilvie Cusie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,744 - ERROR - Failed to generate card for Zarie Intipie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,784 - ERROR - Failed to generate card for Rhianthra Rimac
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,825 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,865 - ERROR - Failed to generate card for Morwenna Elowen
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,905 - ERROR - Failed to generate card for Delphie Qhapie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:19,947 - ERROR - Failed to generate card for Olynie Pachie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,010 - ERROR - Failed to generate card for Nyxara Seraphine
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,050 - ERROR - Failed to generate card for Uvaniath Wiraq
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,090 - ERROR - Failed to generate card for Diomirith Huay
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,131 - ERROR - Failed to generate card for Olyndryth Pacha
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,172 - ERROR - Failed to generate card for Hugo Ironwrath
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,212 - ERROR - Failed to generate card for Zephyra Nyxara
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,253 - ERROR - Failed to generate card for Kivaraya Ollant
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,296 - ERROR - Failed to generate card for Ylvi Huacie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,336 - ERROR - Failed to generate card for Tindor Bastie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,377 - ERROR - Failed to generate card for Diomie Huay
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,418 - ERROR - Failed to generate card for Lyra Zephyra
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,462 - ERROR - Failed to generate card for Orithie Apocie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,502 - ERROR - Failed to generate card for Ophelia Morwenna
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,540 - ERROR - Failed to generate card for Iliarith Qoril
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:20:20,582 - ERROR - Failed to generate card for Drusie Neffie
+Traceback (most recent call last):
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 119, in generate_from_file
+    card = self._create_card(row)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\biels\CharacterCardMaker\charactermaker.py", line 144, in _create_card
+    card = self._add_character(card, data['image'])
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'RPGCardGenerator' object has no attribute '_add_character'
+2025-03-03 09:22:39,793 - INFO - Saved card: output\Aethryna Huayna.png
+2025-03-03 09:22:40,851 - INFO - Saved card: output\Xantheia Supayra.png
+2025-03-03 09:22:41,830 - INFO - Saved card: output\Cian Darko.png
+2025-03-03 09:22:43,227 - INFO - Saved card: output\Rynelleth Intiq.png
+2025-03-03 09:22:44,623 - INFO - Saved card: output\Rhianthra Rimac.png
+2025-03-03 09:22:45,888 - INFO - Saved card: output\Elowie Tawtie.png
+2025-03-03 09:22:47,205 - INFO - Saved card: output\Qilvie Cusie.png
+2025-03-03 09:22:48,925 - INFO - Saved card: output\Zarie Intipie.png
+2025-03-03 09:22:51,636 - INFO - Saved card: output\Rhianthra Rimac_1.png
+2025-03-03 09:22:53,359 - INFO - Saved card: output\Orithie Apocie.png
+2025-03-03 09:22:55,280 - INFO - Saved card: output\Morwenna Elowen.png
+2025-03-03 09:22:57,239 - INFO - Saved card: output\Delphie Qhapie.png
+2025-03-03 09:22:59,276 - INFO - Saved card: output\Olynie Pachie.png
+2025-03-03 09:23:01,566 - INFO - Saved card: output\Nyxara Seraphine.png
+2025-03-03 09:23:03,391 - INFO - Saved card: output\Uvaniath Wiraq.png
+2025-03-03 09:23:05,232 - INFO - Saved card: output\Diomirith Huay.png
+2025-03-03 09:23:06,696 - INFO - Saved card: output\Olyndryth Pacha.png
+2025-03-03 09:23:08,217 - INFO - Saved card: output\Hugo Ironwrath.png
+2025-03-03 09:23:09,615 - INFO - Saved card: output\Zephyra Nyxara.png
+2025-03-03 09:23:10,996 - INFO - Saved card: output\Kivaraya Ollant.png
+2025-03-03 09:23:12,524 - INFO - Saved card: output\Ylvi Huacie.png
+2025-03-03 09:23:13,971 - INFO - Saved card: output\Tindor Bastie.png
+2025-03-03 09:23:15,578 - INFO - Saved card: output\Diomie Huay.png
+2025-03-03 09:23:17,242 - INFO - Saved card: output\Lyra Zephyra.png
+2025-03-03 09:23:18,885 - INFO - Saved card: output\Orithie Apocie_1.png
+2025-03-03 09:23:20,572 - INFO - Saved card: output\Ophelia Morwenna.png
+2025-03-03 09:23:22,127 - INFO - Saved card: output\Iliarith Qoril.png
+2025-03-03 09:23:23,808 - INFO - Saved card: output\Drusie Neffie.png
+2025-03-03 10:06:07,566 - INFO - Saved card: output\Aethryna Huayna_1.png
+2025-03-03 10:06:08,646 - INFO - Saved card: output\Xantheia Supayra_1.png
+2025-03-03 10:06:09,700 - INFO - Saved card: output\Cian Darko_1.png
+2025-03-03 10:06:10,707 - INFO - Saved card: output\Rynelleth Intiq_1.png
+2025-03-03 10:06:11,711 - INFO - Saved card: output\Rhianthra Rimac_2.png
+2025-03-03 10:06:12,693 - INFO - Saved card: output\Elowie Tawtie_1.png
+2025-03-03 10:06:13,740 - INFO - Saved card: output\Qilvie Cusie_1.png
+2025-03-03 10:06:14,818 - INFO - Saved card: output\Zarie Intipie_1.png
+2025-03-03 10:06:15,920 - INFO - Saved card: output\Rhianthra Rimac_3.png
+2025-03-03 10:06:17,030 - INFO - Saved card: output\Orithie Apocie_2.png
+2025-03-03 10:06:18,124 - INFO - Saved card: output\Morwenna Elowen_1.png
+2025-03-03 10:06:19,309 - INFO - Saved card: output\Delphie Qhapie_1.png
+2025-03-03 10:06:20,384 - INFO - Saved card: output\Olynie Pachie_1.png
+2025-03-03 10:06:21,611 - INFO - Saved card: output\Nyxara Seraphine_1.png
+2025-03-03 10:06:22,735 - INFO - Saved card: output\Uvaniath Wiraq_1.png
+2025-03-03 10:06:23,918 - INFO - Saved card: output\Diomirith Huay_1.png
+2025-03-03 10:06:25,099 - INFO - Saved card: output\Olyndryth Pacha_1.png
+2025-03-03 10:06:26,192 - INFO - Saved card: output\Hugo Ironwrath_1.png
+2025-03-03 10:06:27,313 - INFO - Saved card: output\Zephyra Nyxara_1.png
+2025-03-03 10:06:28,346 - INFO - Saved card: output\Kivaraya Ollant_1.png
+2025-03-03 10:06:29,795 - INFO - Saved card: output\Ylvi Huacie_1.png
+2025-03-03 10:06:31,374 - INFO - Saved card: output\Tindor Bastie_1.png
+2025-03-03 10:06:32,829 - INFO - Saved card: output\Diomie Huay_1.png
+2025-03-03 10:06:34,362 - INFO - Saved card: output\Lyra Zephyra_1.png
+2025-03-03 10:06:36,067 - INFO - Saved card: output\Orithie Apocie_3.png
+2025-03-03 10:06:37,735 - INFO - Saved card: output\Ophelia Morwenna_1.png
+2025-03-03 10:06:39,399 - INFO - Saved card: output\Iliarith Qoril_1.png
+2025-03-03 10:06:40,975 - INFO - Saved card: output\Drusie Neffie_1.png

@@ -1,5 +1,5 @@
 import pandas as pd
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps
 import os
 import logging
 
@@ -124,6 +124,16 @@ class RPGCardGenerator:
             (self.card_size[0] - self.character_size[0]) // 2 - 20,  # Przesunięcie w lewo
             50
         )
+
+        # Dodanie efektu wtapiania
+        mask = Image.new('L', character.size, 0)
+        draw = ImageDraw.Draw(mask)
+        draw.ellipse((0, 0, character.size[0], character.size[1]), fill=255) # Elipsa obejmująca cały obraz
+        mask = mask.filter(ImageFilter.GaussianBlur(radius=20)) # Rozmycie maski
+
+        # Zastosowanie maski do kanału alfa postaci
+        character.putalpha(mask)
+
         card.alpha_composite(character, character_pos)
         return card
 
