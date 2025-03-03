@@ -56,8 +56,19 @@ class RPGCardGenerator:
             'fonts': 'assets/fonts',
             'output': 'output'
         }
-        self._setup_logging()
+        self.setup_logging()
         self.font = self._load_font()
+
+    def setup_logging(self):
+        logging.basicConfig(
+            level=logging.INFO,
+            format='%(asctime)s - %(levelname)s - %(message)s',
+            handlers=[
+                logging.FileHandler('card_generator.log', encoding='utf-8'),
+                logging.StreamHandler()
+            ]
+        )
+        self.logger = logging.getLogger(__name__)
 
     def _load_font(self):
         font_path = os.path.join(self.assets_path['fonts'], 'PressJobs.ttf')
@@ -125,24 +136,38 @@ class RPGCardGenerator:
             50
         )
 
-        # Dodanie efektu wtapiania - zaokrąglony prostokąt tylko na górze
+        # Tworzenie maski z gradientem
         mask = Image.new('L', character.size, 0)
         draw = ImageDraw.Draw(mask)
+        
+        # Główny prostokąt z pełną nieprzezroczystością
         width, height = character.size
-        corner_radius = 50  # Promień zaokrąglenia rogów
-
-        # Rysujemy zaokrąglony prostokąt tylko na górnej krawędzi
-        draw.rounded_rectangle((0, 0, width, corner_radius * 2), radius=corner_radius, fill=255)
-        # Rysujemy prostokąty po bokach
-        draw.rectangle((0, corner_radius, corner_radius, height), fill=255)
-        draw.rectangle((width - corner_radius, corner_radius, width, height), fill=255)
-        # Rysujemy prostokąt na środku
-        draw.rectangle((corner_radius, corner_radius, width - corner_radius, height), fill=255)
-
-        mask = mask.filter(ImageFilter.GaussianBlur(radius=20))
-
+        margin = 100  # Szerokość obszaru gradientu
+        
+        # Rysowanie środkowego obszaru z pełną nieprzezroczystością
+        draw.rectangle((margin, margin, width-margin, height-margin), fill=255)
+        
+        # Gradientowe krawędzie
+        for i in range(margin):
+            # Obliczanie wartości alpha dla danego piksela gradientu (0-255)
+            alpha = int(255 * (i / margin))
+            
+            # Górna krawędź
+            draw.rectangle((margin, i, width-margin, i+1), fill=alpha)
+            # Dolna krawędź
+            draw.rectangle((margin, height-i-1, width-margin, height-i), fill=alpha)
+            # Lewa krawędź
+            draw.rectangle((i, margin, i+1, height-margin), fill=alpha)
+            # Prawa krawędź
+            draw.rectangle((width-i-1, margin, width-i, height-margin), fill=alpha)
+        
+        # Dodanie rozmycia dla płynniejszego przejścia
+        mask = mask.filter(ImageFilter.GaussianBlur(radius=15))
+        
+        # Zastosowanie maski do kanału alfa postaci
         character.putalpha(mask)
-
+        
+        # Nałożenie postaci na kartę
         card.alpha_composite(character, character_pos)
         return card
 
@@ -150,7 +175,7 @@ class RPGCardGenerator:
         card = self._add_weapons(card, data)
         card = self._add_armors(card, data)
         card = self._add_health(card, data)
-        card = self._add_evade(card, data)  # Dodanie evade
+        card = self._add_evade(card, data)
         return card
 
     def _add_weapons(self, card, data):
@@ -398,17 +423,6 @@ class RPGCardGenerator:
             armor_value_key = f'armor_{i}'
             if pd.notna(data.get(armor_value_key)) and not isinstance(data[armor_value_key], (int, float)):
                 raise ValueError(f"Armor {i} value must be a number")
-
-    def _setup_logging(self):
-        logging.basicConfig(
-            level=logging.INFO,
-            format='%(asctime)s - %(levelname)s - %(message)s',
-            handlers=[
-                logging.FileHandler('card_generator.log', encoding='utf-8'),
-                logging.StreamHandler()
-            ]
-        )
-        self.logger = logging.getLogger(__name__)
 
 if __name__ == "__main__":
     generator = RPGCardGenerator()
