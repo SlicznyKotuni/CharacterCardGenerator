@@ -103,7 +103,7 @@ class RPGCardGenerator:
         except Exception as e:
             self.logger.exception(f"An unexpected error occurred while processing {csv_path}")
 
-    def _add_text_with_glow(self, draw, position, text, font, text_color='white', glow_color='cyan', glow_radius=10):
+    def _add_text_with_glow(self, draw, position, text, font, text_color='white', glow_color='red', glow_radius=1):
         """Helper function to add text with neon glow effect"""
         # Rysowanie poświaty
         for offset_x in range(-glow_radius, glow_radius + 1):
@@ -270,8 +270,8 @@ class RPGCardGenerator:
                 str(value),
                 font,
                 text_color='white',
-                glow_color='cyan',
-                glow_radius=5
+                glow_color='red',
+                glow_radius=1
             )
 
             card.alpha_composite(weapon_img, position)
@@ -323,8 +323,8 @@ class RPGCardGenerator:
                 str(value),
                 font,
                 text_color='white',
-                glow_color='cyan',
-                glow_radius=5
+                glow_color='red',
+                glow_radius=1
             )
 
             card.alpha_composite(armor_img, position)
@@ -355,8 +355,8 @@ class RPGCardGenerator:
                 str(data['health']),
                 font,
                 text_color='white',
-                glow_color='cyan',
-                glow_radius=5
+                glow_color='red',
+                glow_radius=1
             )
             
             card.alpha_composite(health_icon, self.ui_config['health']['position'])
@@ -386,8 +386,8 @@ class RPGCardGenerator:
                 str(data['evade']),
                 font,
                 text_color='white',
-                glow_color='cyan',
-                glow_radius=5
+                glow_color='red',
+                glow_radius=1
             )
             
             card.alpha_composite(evade_icon, self.ui_config['evade']['position'])
@@ -415,8 +415,8 @@ class RPGCardGenerator:
                 text,
                 font,
                 text_color='white',
-                glow_color='cyan',
-                glow_radius=8  # Większy promień poświaty dla imienia
+                glow_color='red',
+                glow_radius=2  # Większy promień poświaty dla imienia
             )
 
         except FileNotFoundError:
