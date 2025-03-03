@@ -103,6 +103,28 @@ class RPGCardGenerator:
         except Exception as e:
             self.logger.exception(f"An unexpected error occurred while processing {csv_path}")
 
+    def _add_text_with_glow(self, draw, position, text, font, text_color='white', glow_color='black', glow_radius=3):
+        """Helper function to add text with glow effect"""
+        # Najpierw rysujemy poświatę
+        for offset_x in range(-glow_radius, glow_radius + 1):
+            for offset_y in range(-glow_radius, glow_radius + 1):
+                draw.text(
+                    (position[0] + offset_x, position[1] + offset_y),
+                    text,
+                    font=font,
+                    fill=glow_color,
+                    anchor='mm'
+                )
+        
+        # Następnie rysujemy główny tekst
+        draw.text(
+            position,
+            text,
+            font=font,
+            fill=text_color,
+            anchor='mm'
+        )
+
     def _create_card(self, data):
         try:
             background_path = os.path.join(self.assets_path['backgrounds'], f"{data['background']}.png")
@@ -204,50 +226,6 @@ class RPGCardGenerator:
                 )
         return card
 
-    def _add_health(self, card, data):
-        try:
-            health_icon_path = os.path.join(self.assets_path['ui'], 'health_icon.png')
-            health_icon = Image.open(health_icon_path).convert("RGBA")
-            health_icon = health_icon.resize(self.ui_config['health']['size'])
-            card.alpha_composite(health_icon, self.ui_config['health']['position'])
-
-            draw = ImageDraw.Draw(card)
-            draw.text(
-                (self.ui_config['health']['position'][0] + 60,
-                 self.ui_config['health']['position'][1] + 60),
-                str(data['health']),
-                font=self.font.font_variant(size=self.ui_config['health']['font_size']),
-                fill='white',
-                anchor='mm'
-            )
-        except FileNotFoundError:
-            self.logger.error("Health icon not found.")
-        except Exception as e:
-            self.logger.error(f"Error adding health: {e}")
-        return card
-
-    def _add_evade(self, card, data):
-        try:
-            evade_icon_path = os.path.join(self.assets_path['ui'], 'evade.png')
-            evade_icon = Image.open(evade_icon_path).convert("RGBA")
-            evade_icon = evade_icon.resize(self.ui_config['evade']['size'])
-            card.alpha_composite(evade_icon, self.ui_config['evade']['position'])
-
-            draw = ImageDraw.Draw(card)
-            draw.text(
-                (self.ui_config['evade']['position'][0] + 60,
-                 self.ui_config['evade']['position'][1] + 60),
-                str(data['evade']),
-                font=self.font.font_variant(size=self.ui_config['evade']['font_size']),
-                fill='white',
-                anchor='mm'
-            )
-        except FileNotFoundError:
-            self.logger.error("Evade icon not found.")
-        except Exception as e:
-            self.logger.error(f"Error adding evade: {e}")
-        return card
-
     def _add_weapon(self, card, img_name, value, position):
         try:
             weapon_path = os.path.join(self.assets_path['weapons'], f"{img_name}.png")
@@ -255,28 +233,43 @@ class RPGCardGenerator:
             weapon_img = weapon_img.resize(self.ui_config['weapons']['size'])
 
             draw = ImageDraw.Draw(weapon_img)
-            text_position = (
-                self.ui_config['weapons']['label_offset'][0],
-                self.ui_config['weapons']['label_offset'][1]
-            )
-
             font = self.font.font_variant(size=self.ui_config['weapons']['font_size'])
-
-            # Dodanie półprzezroczystego pola pod tekstem
+            
+            # Obliczamy centrum ikony
+            center_x = self.ui_config['weapons']['size'][0] // 2
+            center_y = self.ui_config['weapons']['size'][1] // 2
+            
+            # Dodajemy półprzezroczyste tło pod tekstem
             bbox = draw.textbbox((0, 0), str(value), font=font, anchor='mm')
-            padding = 5
-            rect_pos = (text_position[0] - (bbox[2] - bbox[0]) // 2 - padding,
-                        text_position[1] - (bbox[3] - bbox[1]) // 2 - padding,
-                        text_position[0] + (bbox[2] - bbox[0]) // 2 + padding,
-                        text_position[1] + (bbox[3] - bbox[1]) // 2 + padding)
-            draw.rectangle(rect_pos, fill=(0, 0, 0, 128))
-
-            draw.text(
-                text_position,
+            padding = 8
+            background_size = (
+                bbox[2] - bbox[0] + padding * 2,
+                bbox[3] - bbox[1] + padding * 2
+            )
+            background = Image.new('RGBA', weapon_img.size, (0, 0, 0, 0))
+            background_draw = ImageDraw.Draw(background)
+            
+            # Rysujemy okrągłe tło
+            circle_radius = max(background_size) // 2
+            background_draw.ellipse(
+                (center_x - circle_radius, center_y - circle_radius,
+                 center_x + circle_radius, center_y + circle_radius),
+                fill=(0, 0, 0, 160)
+            )
+            
+            # Nakładamy tło na broń
+            weapon_img = Image.alpha_composite(weapon_img, background)
+            draw = ImageDraw.Draw(weapon_img)
+            
+            # Dodajemy tekst z poświatą
+            self._add_text_with_glow(
+                draw,
+                (center_x, center_y),
                 str(value),
-                font=font,
-                fill='white',
-                anchor='mm'
+                font,
+                text_color='white',
+                glow_color='black',
+                glow_radius=3
             )
 
             card.alpha_composite(weapon_img, position)
@@ -293,25 +286,43 @@ class RPGCardGenerator:
             armor_img = armor_img.resize(self.ui_config['armors']['size'])
 
             draw = ImageDraw.Draw(armor_img)
-            text_position = self.ui_config['armors']['label_offset']
-
             font = self.font.font_variant(size=self.ui_config['armors']['font_size'])
-
-            # Dodanie półprzezroczystego pola pod tekstem
+            
+            # Obliczamy centrum ikony
+            center_x = self.ui_config['armors']['size'][0] // 2
+            center_y = self.ui_config['armors']['size'][1] // 2
+            
+            # Dodajemy półprzezroczyste tło pod tekstem
             bbox = draw.textbbox((0, 0), str(value), font=font, anchor='mm')
-            padding = 5
-            rect_pos = (text_position[0] - (bbox[2] - bbox[0]) // 2 - padding,
-                        text_position[1] - (bbox[3] - bbox[1]) // 2 - padding,
-                        text_position[0] + (bbox[2] - bbox[0]) // 2 + padding,
-                        text_position[1] + (bbox[3] - bbox[1]) // 2 + padding)
-            draw.rectangle(rect_pos, fill=(0, 0, 0, 128))
-
-            draw.text(
-                text_position,
+            padding = 8
+            background_size = (
+                bbox[2] - bbox[0] + padding * 2,
+                bbox[3] - bbox[1] + padding * 2
+            )
+            background = Image.new('RGBA', armor_img.size, (0, 0, 0, 0))
+            background_draw = ImageDraw.Draw(background)
+            
+            # Rysujemy okrągłe tło
+            circle_radius = max(background_size) // 2
+            background_draw.ellipse(
+                (center_x - circle_radius, center_y - circle_radius,
+                 center_x + circle_radius, center_y + circle_radius),
+                fill=(0, 0, 0, 160)
+            )
+            
+            # Nakładamy tło na pancerz
+            armor_img = Image.alpha_composite(armor_img, background)
+            draw = ImageDraw.Draw(armor_img)
+            
+            # Dodajemy tekst z poświatą
+            self._add_text_with_glow(
+                draw,
+                (center_x, center_y),
                 str(value),
-                font=font,
-                fill='white',
-                anchor='mm'
+                font,
+                text_color='white',
+                glow_color='black',
+                glow_radius=3
             )
 
             card.alpha_composite(armor_img, position)
@@ -319,6 +330,69 @@ class RPGCardGenerator:
             self.logger.error(f"Armor image not found: {img_name}")
         except Exception as e:
             self.logger.error(f"Error adding armor {img_name}: {e}")
+        return card
+
+    def _add_health(self, card, data):
+        try:
+            health_icon_path = os.path.join(self.assets_path['ui'], 'health_icon.png')
+            health_icon = Image.open(health_icon_path).convert("RGBA")
+            health_icon = health_icon.resize(self.ui_config['health']['size'])
+            
+            # Obliczamy centrum ikony zdrowia
+            center_x = self.ui_config['health']['size'][0] // 2
+            center_y = self.ui_config['health']['size'][1] // 2
+            
+            draw = ImageDraw.Draw(health_icon)
+            font = self.font.font_variant(size=self.ui_config['health']['font_size'])
+            
+            # Dodajemy tekst z poświatą na ikonie zdrowia
+# Dodajemy tekst z poświatą na ikonie zdrowia
+            self._add_text_with_glow(
+                draw,
+                (center_x, center_y),
+                str(data['health']),
+                font,
+                text_color='white',
+                glow_color='black',
+                glow_radius=3
+            )
+            
+            card.alpha_composite(health_icon, self.ui_config['health']['position'])
+        except FileNotFoundError:
+            self.logger.error("Health icon not found.")
+        except Exception as e:
+            self.logger.error(f"Error adding health: {e}")
+        return card
+
+    def _add_evade(self, card, data):
+        try:
+            evade_icon_path = os.path.join(self.assets_path['ui'], 'evade.png')
+            evade_icon = Image.open(evade_icon_path).convert("RGBA")
+            evade_icon = evade_icon.resize(self.ui_config['evade']['size'])
+            
+            # Obliczamy centrum ikony uniku
+            center_x = self.ui_config['evade']['size'][0] // 2
+            center_y = self.ui_config['evade']['size'][1] // 2
+            
+            draw = ImageDraw.Draw(evade_icon)
+            font = self.font.font_variant(size=self.ui_config['evade']['font_size'])
+            
+            # Dodajemy tekst z poświatą na ikonie uniku
+            self._add_text_with_glow(
+                draw,
+                (center_x, center_y),
+                str(data['evade']),
+                font,
+                text_color='white',
+                glow_color='black',
+                glow_radius=3
+            )
+            
+            card.alpha_composite(evade_icon, self.ui_config['evade']['position'])
+        except FileNotFoundError:
+            self.logger.error("Evade icon not found.")
+        except Exception as e:
+            self.logger.error(f"Error adding evade: {e}")
         return card
 
     def _add_name_plate(self, card, data):
@@ -331,19 +405,17 @@ class RPGCardGenerator:
             draw = ImageDraw.Draw(card)
             text = data['name']
             font = self.font.font_variant(size=self.ui_config['name']['font_size'])
-            bbox = draw.textbbox((0, 0), text, font=font)
-            text_width = bbox[2] - bbox[0]
-            text_height = bbox[3] - bbox[1]
-
-            stroke_color = 'black'
-            x, y = self.ui_config['name']['position']
-            offset = 2
-
-            for i in range(-offset, offset + 1):
-                for j in range(-offset, offset + 1):
-                    draw.text((x + i, y + j), text, font=font, fill=stroke_color, anchor='mm')
-
-            draw.text(self.ui_config['name']['position'], text, font=font, fill='white', anchor='mm')
+            
+            # Dodajemy tekst z poświatą dla imienia
+            self._add_text_with_glow(
+                draw,
+                self.ui_config['name']['position'],
+                text,
+                font,
+                text_color='white',
+                glow_color='black',
+                glow_radius=4  # Większy promień poświaty dla imienia
+            )
 
         except FileNotFoundError:
             self.logger.error("Name plate image not found.")
@@ -401,7 +473,7 @@ class RPGCardGenerator:
             'name', 'background', 'image', 'health',
             'weapon_1_image', 'weapon_1',
             'armor_1_image', 'armor_1',
-            'evade'  # Dodanie evade do wymaganych pól
+            'evade'
         ]
 
         for field in required_fields:
