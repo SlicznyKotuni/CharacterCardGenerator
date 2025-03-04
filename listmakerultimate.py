@@ -21,16 +21,16 @@ BACKGROUNDS = {
 
 # Definicje tagów dla języków
 LANGUAGES = {
-    "Rh'lo": ["ancient", "older", "runes", "rune", "magic"],
-    "Common": ["knight", "elven", "elf", "magic", "fantasy", "rpg"],
-    "Ancient_Runes": ["magic", "wizard", "necromancy", "dragon", "demon", "monster"],
-    "Kristalion": ["animal", "furry female", "furry", "animalistic", "feline", "catgirl", "catboy", "anthropomorphic"],
-"Durmali": ["dwarw", "runes", "rune", "wild", "tribal", "tribe", "primitive"],
-"Fae'lin": ["fae", "ferry", "ferrytail", "butterfly", "butterfly_wings", "princes"],
-"Kyo'ren": ["twisted", "alien", "abomination", "creature", "hommoculus", "beast",  "tentacle", "tentacles", "mutated", "hell", "mutant"],
-"Mijero": ["asian", "korean", "chinese", "japanese", "ninja", "geisha"],
-"Nekrothol": ["wise", "other_space", "nebula", "cosmic", "dread", "necromancy", "skeleton", "dead"],
-    "Heu'ia": ["secret", "egyptian", "inka", "dark", "ancient"]
+	"Rh'lo": ["ancient", "older", "runes", "rune", "magic", "arcane", "mystical", "enigmatic", "forgotten", "esoteric", "primordial"],
+	"Common": ["knight", "elven", "elf", "magic", "fantasy", "rpg", "medieval", "heroic", "quest", "adventure", "diplomatic", "trade"],
+	"Ancient_Runes":["magic", "wizard", "necromancy", "dragon", "demon", "monster", "sorcery", "enchantment", "occult", "forbidden", "powerful", "ritual"],
+	"Kristalion": ["animal", "furry female", "furry", "animalistic", "feline", "catgirl", "catboy", "anthropomorphic", "beastfolk", "therianthropic", "zoomorphic", "feral", "instinctual", "pack"],
+	"Durmali": ["dwarw", "runes", "rune", "wild", "tribal", "tribe", "primitive", "mountainous", "subterranean", "craftsman", "miner", "warrior", "honor"],
+	"Fae'lin": ["fae", "pixie", "fairy", "sprite", "winged", "magical", "mischievous", "ferry", "ferrytail", "butterfly", "butterfly_wings", "princes", "ethereal", "glamour", "trickster", "nature-bound", "forest", "whimsical"],
+	"Kyo'ren": ["twisted", "alien", "abomination", "creature", "hommoculus", "beast", "tentacle", "tentacles", "mutated", "hell", "mutant", "eldritch", "grotesque", "nightmarish", "amorphous", "abberant", "insanity"],
+	"Mijero":["asian", "korean", "chinese", "japanese", "ninja", "geisha", "orient", "oriental", "samurai", "martial", "calligraphy", "zen"],
+	"Nekrothol": ["wise", "other_space", "nebula", "cosmic", "astral", "void", "undead", "lich", "tomb", "dread", "necromancy", "skeleton", "dead"],
+	"Heu'ia": ["secret", "egyptian", "inka", "dark", "ancient", "hieroglyphic", "pyramidal", "solar", "lunar", "ritualistic", "cursed"]
 }
 
 # Tagi dla typów obrażeń (broń)

@@ -9783,3 +9783,6 @@ AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
 2025-03-04 13:46:51,061 - INFO - Saved card: output\Jorvie Chimie.png
 2025-03-04 13:46:52,175 - INFO - Saved card: output\Morgtharathar Vileflame_1.png
 2025-03-04 13:46:53,192 - INFO - Saved card: output\Fyrandil_3.png
+2025-03-04 14:24:15,010 - INFO - Saved card: output\Sablevoria.png
+2025-03-04 14:35:31,765 - INFO - Saved card: output\Belphoena Rotbloom.png
+2025-03-04 14:47:16,246 - INFO - Saved card: output\Nihlarae Soulrend.png
