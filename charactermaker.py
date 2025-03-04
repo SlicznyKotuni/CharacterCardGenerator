@@ -23,12 +23,12 @@ class RPGCardGenerator:
             'health': {
                 'position': (732, 55),
                 'size': (150, 150),
-                'font_size': 56
+                'font_size': 76
             },
             'evade': {
                 'position': (50, 55),  # Lewy górny róg
                 'size': (150, 150),
-                'font_size': 56
+                'font_size': 76
             },
             'name_plate': {
                 'size': (600, 100),

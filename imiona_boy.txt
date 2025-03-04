@@ -1,286 +1,1068 @@
-Aelrik Pippin
-Zephyris Quill
-Nyxor Tazzy
-Isolvar Mayvox
-Thalor Zephy
-Eirwin Calip
-Seraphis Ankhie
-Lyric Tazzie
-Astaris Xolo
-Velior Quetzie
-Cressian Ysmie
-Maevor Puffis
-Xanthor Suppi
-Drusian Neffie
-Elunor Tlalli
-Faelor Machie
-Galador Intibee
-Hesperis Anup
-Irythor Qhap
-Jyndor Serkie
-Kaelis Micti
-Lirion Tawpie
-Myrvox Amarue
-Nerys Ptahbelle
-Ophir Huancie
-Pyris Sekhie
-Quindor Apocute
-Rhaenor Viracue
-Sylvar Coyette
-Tindor Bastie
-Ulric Pachie
-Vaelor Khonsie
-Wyllor Suppie
-Xyris Mawkis
-Ysmer Qoripuff
-Zariel Intipie
-Aethor Huaynie
-Brontis Tlaltie
-Calior Xipip
-Dionis Ankhie
-Eryndor Qetzie
-Faerind Huascie
-Gwynor Mancie
-Halcion Tiahu
-Idrith Yupie
-Joriel Chaskie
-Kivor Ollie
-Lyssor Huayrie
-Mirion Topie
-Naevor Quillue
-Olyndor Pachie
-Phaedor Tumie
-Qilvor Cusie
-Rhianor Rimie
-Saelor Urquie
-Talindor Chimue
-Uvanis Wiraqie
-Vynor Titie
-Wistor Yanie
-Xalindor Qoyllie
-Ylvor Huacie
-Zynor Mawk
-Aerith Tlallie
-Bellor Xibie
-Cythor Anqie
-Delphor Qhapie
-Elowen Tawtie
-Fionor Intibee
-Gwythor Supie
-Helior Neithie
-Ilior Qoripie
-Jorvin Chimie
-Kaelor Mictie
-Luthien Tawpie
-Maelor Qetzie
-Nivor Huayrie
-Orithor Apocie
-Perynor Tumie
-Qwynor Coyette
-Rynell Intiqie
-Aodhan Miroslav
-Branislav Dante
-Cillian Radko
-Darragh Zoran
-Eamon Velimir
-Fionn Branko
-Gareth Slavko
-Hagan Dobry
-Iarla Jaromir
-Kieran Vuk
-Lorcan Stanko
-Mael Dusan
-Niall Radoslav
-Oisin Milos
-Padrig Zdravko
-Quinn Dragomir
-Ronan Ljubo
-Seamus Vlado
-Tadhg Goran
-Ultan Srecko
-Aedan Bozidar
-Brendan Jovan
-Cian Darko
-Declan Marko
-Eoghan Nemanja
-Finnian Stevo
-Gavan Tomislav
-Huwan Zlatko
-Ivor Dragan
-Keegan Predrag
-Lughan Risto
-Malachy Sasa
-Naoise Tihomir
-Oran Vojin
-Phelan Zivojin
-Quillan Branimir
-Rory Dalibor
-Senan Kresimir
-Tomas Vedran
-Uilliam Zvonko
-Ailbe Dejan
-Breasal Luka
-Ciaran Matej
-Daire Novak
-Eoin Pavle
-Fergal Roko
-Glanis Srdjan
-Hearn Vinko
-Iain Zeljko
-Kavan Zoran
-Lirio Borna
-Milo Davor
-Nevin Gorazd
+Eldrath
+Xypharokarion Wraiththorn
+Rathma
+Lazareth
 Olan Janko
-Piero Kosta
-Quinto Ljuban
-Raffael Miodrag
-Santino Niko
-Tiziano Ranko
-Umberto Stjepan
-Alaric Tadija
-Brizio Uros
-Ciro Vjeko
-Dino Zdenko
-Enzo Andrija
-Fabio Branko
-Gian Dobroslav
-Hugo Ivica
-Italo Jadranko
-Karlo Mladen
-Aodhan Stormblade
+Cian Darko
+Nethrax
+Vexarathulok Rotgaze
+Zynrak Nightbane
+Kaeltharulion Doomflayer
 Branislav Ironfist
-Cillian Thunderstrike
-Darragh Warhammer
-Eamon Bloodfang
-Fionn Skybreaker
-Gareth Frostwolf
-Hagan Steelspear
-Iarla Firebrand
-Kieran Stormhowl
-Lorcan Ironclad
-Mael Thunderbolt
-Niall Warbringer
-Oisin Flameheart
-Padrig Stormfury
-Quinn Ironshadow
-Ronan Bladestorm
-Seamus Thunderfist
-Tadhg Warspike
-Ultan Frostbane
-Aedan Stormreaver
-Brendan Ironwrath
-Cian Thunderlord
-Declan Warstrike
-Eoghan Flamefury
-Finnian Stormrider
-Gavan Ironthorn
-Huwan Frostcrusher
-Ivor Warflame
-Keegan Thunderclaw
-Lughan Ironvalor
-Malachy Stormcrusher
-Naoise Warforge
-Oran Flamebringer
-Phelan Thunderstrike
-Quillan Ironmight
-Rory Stormvanguard
-Senan Warhowl
-Tomas Frostreaver
-Uilliam Thunderblade
-Ailbe Ironstorm
-Breasal Warflame
-Ciaran Thunderfury
-Daire Stormbreaker
-Eoin Ironfury
-Fergal Warshadow
-Glanis Froststrike
-Hearn Thunderwrath
-Iain Warspike
-Kavan Stormfang
-Lirio Ironflame
-Milo Thunderforge
-Nevin Warbringer
-Olan Frosthowl
-Piero Stormvalor
-Quinto Ironstrike
-Raffael Thunderfist
-Santino Warblade
-Tiziano Stormreaver
-Umberto Ironclad
-Alaric Thunderlord
-Brizio Warhammer
-Ciro Stormfury
-Dino Ironshadow
-Enzo Thunderstrike
-Fabio Warflame
-Gian Frostbane
-Hugo Ironwrath
-Italo Stormhowl
-Karlo Thunderfury
-Lino Warstrike
-Matteo Ironvalor
-Nero Stormcrusher
-Orlando Thunderblade
-Paolo Warspike
-Quirino Ironfist
-Renzo Stormreaver
-Silvio Thunderclaw
-Teo Warshadow
-Ugo Froststrike
-Aldo Ironstorm
-Beppo Thunderfury
-Cino Warflame
-Dario Stormbreaker
-Elio Ironfury
-Franco Thunderstrike
-Gino Warshadow
-Ivo Frostreaver
-Lauro Stormfist
-Mario Thunderlord
-Aurelio Warbringer
-Baldassare Ironfury
-Cesare Stormhowl
-Domenico Thunderstrike
-Emilio Warflame
-Federico Ironshadow
-Giorgio Frostbane
-Ignazio Thunderfury
-Leonardo Warstrike
-Massimo Stormreaver
-Lino Nebojsa
-Matteo Ognjen
-Nero Petar
-Orlando Radovan
-Paolo Slaven
-Quirino Tomo
-Renzo Vlatko
-Silvio Zarko
-Teo Branimir
-Ugo Dalibor
-Aldo Dejan
-Beppo Luka
-Cino Matej
-Dario Novak
-Elio Pavle
-Franco Roko
-Gino Srdjan
-Ivo Vinko
-Lauro Zeljko
-Mario Zoran
-Saphir Sekhmie
-Tarynor Ptahie
-Ulvor Qhapie
-Vaelith Mawk
-Wrenor Huancie
-Xyndor Tlallie
-Ysmer Qoribee
-Zivor Suppie
-Aelind Anubie
-Brisor Qetzie
-Calior Tiahette
+Xalgarulokar Vileveil
 Diomir Huay
-Elthor Qhapie
-Faelor Mancie
-Glorian Intipie
+Ulthar
+Vorgulthion Wraithclaw
+Zelvoxar
+Iain Zeljko
+Phelan Thunderstrike
+Ophir Huancie
+Brendan Jovan
+Vynther
+Jazrael
+Zaraphon
+Vexaratharion Soulveil
+Faelor Machie
+Zultharok Dreadspell
+Dravenar Necroshade
+Kaeltharok Netherveil
+Vrykkarul Wraithflame
+Acheron
+Kaldrek
+Faerind Huascie
+Zulthar Frostgaze
+Zultharokion Frostspell
+Brizio Warhammer
+Korthul Dreadthorn
+Naevor Quillue
+Jaxanor
+Malachor
+Elowen Tawtie
+Azryth
+Vexion Skullrend
+Cazimir
+Gharnetharulion Ashthorn
+Pyraxus
+Zynvyrathion Doomgaze
+Belladonna
+Vynvoxar
+Pyrazhul
+Thalgorok Soulspire
+Morumbra
+Xarothrakul Rotspire
+Grymdor
+Ultan Frostbane
+Gharneth Soulflayer
+Nazgrim
+Xalthor Fellmaw
+Xaroth Vileveil
+Jormath
+Kyrion
+Seraphina
+Mordrix
+Mario Zoran
+Praxys
+Xalgarulathion Vilethorn
+Lucanor
+Vryxarok Soulshriek
+Vorgulthrakar Frostveil
+Renzo Vlatko
+Vrykkarokion Boneflame
+Fendrel
+Huwan Frostcrusher
+Nymira
+Morgtharathar Vileflame
+Dravenarokar Boneclaw
+Yssgar
+Zalathor
+Eryndor Qetzie
+Vexarathion Soulthorn
+Noctvoxar
+Nevin Warbringer
+Giorgio Frostbane
+Hazrael
+Lyric Tazzie
+Zultharathok Frostshade
+Vaelith Mawk
+Raffael Miodrag
+Feylora
+Zynvyrathar Necroflayer
+Galarax
+Morgtharath Ashflame
+Vexarath Duskveil
+Morgtharathar Dreadfire
 Hecator Neffie
+Zultharathar Frostspell
+Pyreth
+Pyrathos
+Tychond
+Mordrakulath Rotshade
+Ilystria
+Xarotharokul Souls
+Dravox
+Jorvax
+Dagonyr
+Korthos Blightfang
+Thalzrak Doomveil
+Cindara
+Lauro Zeljko
+Malvessa
+Zethrak Plaguethorn
+Brimora
+Ysmer Qoripuff
+Ignazio Thunderfury
+Morvoxis
+Wyrmella
+Lyzandor
+Noxumbra
+Elunor Tlalli
+Xalvyr Grimshade
+Yzrak
+Urzael
+Zethraxar Grimspell
+Ixidor
+Gharnethul Frostmaw
+Kortharion Blightflame
+Vexarion Vilespire
+Draegor
+Caelan
+Mario Thunderlord
+Lorcan
+Mordrakul Soulflayer
+Qinvaris
+Sylthia
+Senan Kresimir
+Zynor Mawk
+Fenryth
+Astraea
+Vexor
+Lilith
+Izaroth
+Xypharok Soulrend
+Azvoxar
+Uziel
+Vornash Darkhymn
+Finnian Stormrider
+Vexarathos Plaguemaw
+Dravenarathul Skullflayer
+Raffael Thunderfist
+Qwynor Coyette
+Evandrus
+Zultharokion Dreadshriek
+Mordrakarathar Netherspell
+Gavan Tomislav
+Xyrmorghul Fellhymn
+Xypharath Blightshade
+Mael Dusan
+Vrykkarion Grimveil
+Morgtharul Dreadhymn
+Ravynumbra
+Jormung
+Zynvyratharul Necroclaw
+Skolvox
+Wyverax
+Kaelthas
+Phelan Zivojin
+Xypharion Nethergaze
+Umbrielle
+Vaelox
+Syndrana
+Calypsor
+Alarune
+Rhazul
+Vorgulthrak Bonehymn
+Kryonvox
+Mysandra
+Belakor
+Kaelthos Mournfang
+Maelor Qetzie
+Santino Niko
+Harkon
+Dino Ironshadow
+Nefarian
+Talindor Chimue
+Rhaegal
+Xalgar Plagueveil
+Vorgulthrakar Rotveil
+Aedan Stormreaver
+Hugo Ivica
+Gharnethrakar Ashclaw
+Ronan Bladestorm
+Faelythe
+Falchior
+Glanis Srdjan
+Alaric Tadija
+now make 300 for man
+Kryonvar
+Glanis Froststrike
+Xarothar Soulspire
+Brizio Uros
+Nefrax
+Morgrimm Bonefiend
+Drazghan
+Vorenth
+Rory Dalibor
+Ilior Qoripie
+Aldo Dejan
+Phaedron
+Enzo Andrija
+Astarielle
+Gharnetharulok Ashspire
+Xalgarulath Skullspire
+Thanagor
+Zynvyrath Blightthorn
+Eldryn
+Urvath
+Eoin Ironfury
+Zyrvox
+Grimvox
+Orlando Thunderblade
+Thraxis
+Franco Thunderstrike
+Xarothos Doomflame
+Taralynn
+Dravoxis
+Brendan Ironwrath
+Xarumbra
+Morgtharathion Ashflayer
+Daemorn
+Galador Intibee
+Uvanis Wiraqie
+Runevra
+Xalgarul Vileshriek
+Raxielle
+Kaelthor Doomspire
+Xypharathar Witherclaw
+Cillian Thunderstrike
+Xyphora
+Hearn Thunderwrath
+Ciaran Thunderfury
+Zynvrakar Frostshade
+Nethvox
+Naoise Tihomir
+Cesare Stormhowl
+Zethraxarulath Plaguethorn
+Dino Zdenko
+Xypharath Venomveil
+Mordrakarath Netherspire
+Xanthur Wraithveil
+Xypharokul Wraithspell
+Milo Thunderforge
+Thalzur Skullspire
+Sylthar
+Syrax
+Zephyrion Voidrend
+Ravynne
+Santino Warblade
+Gian Dobroslav
+Gryphus
+Skarvex
+Sorthis
+Malthrax Duskbane
+Ulgrim
+Mordreth Darkhymn
+Hagan Dobry
+Thalzrakath Blightspell
+Vrykkar Ashthorn
+Balthor
+Pythor
+Declan Marko
+Samael
+Grimvoxis
+Qyrax
+Arkhan
+Mordrith Wraithflame
+Valthor
+Vylthara
+Jynessa
+Xalgrim Vilehymn
+Cythor Anqie
+Ulrak
+Beltharion
+Breasal Warflame
+Evanys
+Ylthar
+Veylvoxar
+Morgorath
+Quinn Dragomir
+Keegan Thunderclaw
+Xalgarathar Bonehymn
+Vorgulthrakath Blightshriek
+Matteo Ironvalor
+Zethraxarulath Plaguemaw
+Tiziano Stormreaver
+Vorgulthrakulok Blightveil
+Fabio Branko
+Lauro Stormfist
+Xarvoxar
+Israfel
+Quindor Apocute
+Vorgulthrakion Blightveil
+Phaedris
+Qrazgul
+Zynvyrathul Necroshriek
+Joriel Chaskie
+Aodhan Miroslav
+Wrathion
+Zultharath Dreadthorn
+Wyllor Suppie
+Yrelthar
+Kaelor Mictie
+Iain Warspike
+Seamus Vlado
+Velryth
+Ixion
+Vorgulthrakath Blighthymn
+Yldran
+Malphas
+Fergal Warshadow
+Faelan
+Gwythor Supie
+Tenevox
+Isolthe
+Thanatos
+Mordrakarok Netherveil
+Zethraxion Witherspire
+Emilio Warflame
+Hadrael
+Lughan Ironvalor
+Phaethor
+Dravenarokath Skullveil
+Zynvolkar Doomthorn
+Xyroth
+Morgtharulathar Dreadflame
+Caelgrim
+Eamon Velimir
+Xalvador
+Beppo Thunderfury
+Zynvyrathar Necrospire
+Zynvyrathion Necroshade
+Azaneth
+Exarion
+Kortharath Necroshriek
+Declan Warstrike
+Zargoth
+Aurelio Warbringer
+Mordrakulion Rotmaw
+Ylleria
+Yrathis
+Gorgyra
+Quinto Ironstrike
+Olan Frosthowl
+Mael Thunderbolt
+Oran Vojin
+Alaric
+Vrykkarath Rotgaze
+Thalvarus
+Kaelis Micti
+Eoin Pavle
+Isendra
+Eamon Bloodfang
+Umbravoxar
+Xypherus
+Astaris Xolo
+Ozmandar
+Nyrathul
+Duskumbra
+Myrvox Amarue
+Nethumbra
+Szandor
+Vorgrimm Skullbane
+Lino Warstrike
+Saelor Urquie
+Gharnethrak Doomflame
+Eoghan Flamefury
+Uzark
+Kaeltharathar Doomflame
+Branislav Dante
+Nythrax
+Quinlora
+Mordrakon Duskflayer
+Ravynor
+Breasal Luka
+Vexarathulion Rotspell
+Draelix
+Dravenarathion Skullthorn
+Faelor Mancie
+Lucifron
+Rynell Intiqie
+Orthryn
+Luminara
+Zynvolk Blightmaw
+Hexaris
+Ebonvox
+Teo Branimir
+Orlando Radovan
+Umbravoxis
+Faustus
+Mordrakathion Grimgaze
+Umberto Stjepan
+Zethrax Abyssgaze
+Xavian
+Dravenarathul Skullhymn
+Italo Jadranko
+Fionn Skybreaker
+Ugo Froststrike
+Zephyrus
+Ciro Stormfury
+Daemok
+Tenevoxis
+Xypharok Grimspire
+Kaelthar Venomspell
+Cazadrax
+Ozymandis
+Gino Warshadow
+Ultan Srecko
+Zyntherus
+Xandros
+Gharnethrakion Ashflame
+Xyndor Tlallie
+Lughan Risto
+Raziel
+Ctharok
+Tyrael
+Solthar
+Wynthara
+Hyzentha
+Thalor Zephy
+Xylaris
+Arkantha
+Xarindus
+Xarothar Skullshriek
+Morvox
+Zynumbra
+Kryonumbra
+Gharnethulion Wraithveil
+Lythor
+Wraithyn
+Sylvoxar
+Lyrenthia
+Uilliam Zvonko
+Duskthar
+Quillan Branimir
+Aodhan Stormblade
+Vrykkarokar Bonegaze
+Zultharok Skullflayer
+Piero Kosta
+Xypharathion Witherflame
+Cino Warflame
+Veylvox
+Dravenarathok Rotthorn
+Thalzrakathion Grimspell
+Hugo Ironwrath
+Saphir Sekhmie
+Thalzrakulion Grimflayer
+Quelthar
+Qyssara
+Paolo Slaven
+Isolvar Mayvox
+Padrig Stormfury
+Maelora
+Zethraxarul Plaguethorn
+Baelgrim
+Ebonwrath
+Xalgarathion Skullgaze
+Karlo Thunderfury
+Morgtharathul Dreadspell
+Zelvox
+Enzo Thunderstrike
+Zhuldan
+Halcion Tiahu
+Nerezza
+Morgtharulok Dreadflayer
+Thestryl
+Pyris Sekhie
+Zelthar
+Vaelthar Fellshade
+Thalgor
+Helior Neithie
+Thalgor Dreadmaw
+Kaeltharion Grimspire
+Zultharok Ashthorn
+Morgtharathul Dreadgaze
+Qaleth
+Ysandre
+Zephyris Quill
+Quirino Ironfist
+Vaermina
+Renzo Stormreaver
+Kavan Stormfang
+Vorgath Soulreaper
+Tomas Vedran
+Vexaratharul Soulveil
+Dario Stormbreaker
+Zarynth
+Mordrakulath Netherflame
+Lithyssa
+Baelor
+Umberto Ironclad
+Tindor Bastie
+Xalgaratharok Vileshade
+Elio Ironfury
+Xyraphon
+Karthax Boneclaw
+Zethraxarokath Plaguehymn
+Teo Warshadow
+Duskvox
+Iskarius
+Azgalor
+Uldrath
+Vaelgrim
+Fendrix
+Rhianor Rimie
+Zethraxulath Plaguemaw
+Zethraxul Rotshriek
+Zultharokar Frostflayer
+Quinto Ljuban
+Galathor
+Keegan Predrag
+Dravenarathokar Skullflame
+Yvannis
+Mordrakath Frostshriek
+Skolthar
+Caelira
+Daemion
+Oryxis
+Vyrkos
+Silvio Thunderclaw
+Ciro Vjeko
+Drakthar
+Kaeltharul Soulspire
+Mordrakarok Netherhymn
+Urgath
+Kaeltharathar Doomclaw
+Necressa
+Xanthurion Mournspire
+Kaeltharathion Doomgaze
+Baelroth
+Eoghan Nemanja
+Oran Flamebringer
+Lorcan Ironclad
+Thalvoxar
+Lykaion
+Zynvyr Deathshade
+Iarla Firebrand
+Aethor Huaynie
+Tadhg Goran
+Glorian Intipie
+Kyrak
+Ivo Frostreaver
+Azrath
+Gharnetharok Ashgaze
+Gryphax
+Malgrim Plaguefire
+Morgtharok Vilethorn
+Elowyn
+Daire Stormbreaker
+Uldrax
+Eirwin Calip
+Zhaedrus
+Wrenor Huancie
+Zultharion Dreadgaze
+Fyrandil
+Vexarathokar Soulshade
+Falzur
+Faelvox
+Leonardo Warstrike
+Shadryn
+Zarok
+Veylthar
+Calior Tiahette
+Gharnethrakar Boneveil
+Vexarion Dreadshriek
+Kryonvoxar
+Izmar
+Abyssian
+Lorithan
+Yvranth
+Yvexor
+Xalgaratharion Vilespire
+Vynvoxis
+Nero Petar
+Krystara
+Jaraxus
+Kaeltharulath Doomspire
+Zorvath
+Quinn Ironshadow
+Dravumbra
+Gharnetharul Ashspell
+Vorgulthrakulion Blightshriek
+Ebonumbra
+Qyrath
+Azumbra
+Faelvoxar
+Wyzrael
+Xancor
+Seamus Thunderfist
+Morrigana
+Zethraxarokul Plaguegaze
+Vexarok Skullspell
+Zulgor
+Domenico Thunderstrike
+Lirio Borna
+Daire Novak
+Vrykkarulathar Bonehymn
+Teneumbra
+Zethraxarok Frostveil
+Morgtharulath Dreadhymn
+Senan Warhowl
+Gavan Ironthorn
+Balzephon
+Irkulth
+Fionn Branko
+Malachy Stormcrusher
+Mordrakarion Netherthorn
+Faelumbra
+Ivor Dragan
+Baldassare Ironfury
+Mordrakulionar Nethershade
+Vynvox
+Karthos Blightshade
+Xythera
+Ravynvoxar
+Cressian Ysmie
+Wyrax
+Oisin Milos
+Morgtharulion Vilegaze
+Ophidia
+Lino Nebojsa
+Gorgath
+Malachy Sasa
+Erebor
+Gharnethion Soulspire
+Xerathos
+Vexarathokar Rotfire
+Morgtharion Ashveil
+Erykthos
+Quirino Tomo
+Zethraxulon Plagueveil
+Grymora
+Sylvar Coyette
+Iraelynn
+Faelrox
+Ozryth
+Dionis Ankhie
+Sylvaris
+Qilvor Cusie
+Kivor Ollie
+Nycthor
+Raxus
+Alaric Thunderlord
+Fabio Warflame
+Xalgarulokar Vilethorn
+Vexarathar Duskbane
+Tadhg Warspike
+Italo Stormhowl
+Belthara
+Wraithor
+Lyrax
+Erythul
+Xalgarok Rotclaw
+Zorana
+Vrykkarulath Bonehymn
+Ignifera
+Mordrakulion Netherclaw
+Matteo Ognjen
+Jareth
+Xypharokulion Wraithfire
+Dravenath Blightgaze
+Thalzrakulok Grimveil
+Rhaenor Viracue
+Xarotharokath Soulthorn
+Vorgulthrakion Frostshade
+Lycurgus
+Urdessa
+Drusillia
+Darquesse
+Dravenarok Plaguethorn
+Beppo Luka
+Zulthor Grimroot
+Nyxara
+Orthax
+Obsydea
+Grimvoxar
+Jessalyth
+Phaedor Tumie
+Padrig Zdravko
+Fionor Intibee
+Synrax
+Xarothrakulion Rotveil
+Jezebetta
+Horakhty
+Olyndor Pachie
+Valthus
+Dravenathar Vileclaw
+Volgath
+Krios Bloodhymn
+Jyrgal
+Azmodan
+Abraxos
+Nythor
+Irythor Qhap
+Caedris
+Zultharion Netherveil
+Cyriac
+Xylander
+Xalgarokar Rotspire
+Zariel Intipie
+Eldazyr
+Sevaris
+Ulthura
+Hexodus
+Harbax
+Federico Ironshadow
+Morgalith
+Ailbe Dejan
+Zivor Suppie
+Hagan Steelspear
+Zultharion Ashspire
+Evokar
+Xyris Mawkis
+Galvorn
+Khazrael
+Kaeltharok Doomshade
+Morgthar Bloodspire
+Veylumbra
+Netharvus
+Tomas Frostreaver
+Malgrym
+Lirvox
+Xarothraxion Skullveil
+Nemesys
+Velior Quetzie
+Darragh Zoran
+Vrykkarulion Bonehymn
+Daegoth
+Eriselle
+Maraxus
+Dravenarath Vilespire
+Vorgulthrakion Dreadflame
+Nevin Gorazd
+Vrykkarok Blightspire
+Aelrik Pippin
+Jormax
+Hesperis Anup
+Vorgul Ashspire
+Ysmer Qoribee
+Pyralis
+Vyrelle
+Aelind Anubie
+Massimo Stormreaver
+Thulgrim
+Xyphor Venomspire
+Cynric
+Dravoxar
+Nathair
+Xypharul Witherflame
+Itharel
+Zephyros Soulthorn
+Corvus
+Hadramek
+Xalgarath Blightmaw
+Zynvrak Abyssalon
+Thalzrakathar Grimshriek
+Thalassia
+Drusian Neffie
+Sylvarus
+Kieran Vuk
+Gharnok Doomthorn
+Vexarathos Vilethorn
+Kavan Zoran
+Xyvaris
+Zethraxarion Ashgaze
+Wyrmbane
+Ulvor Qhapie
+Thalvoxis
+Xypharathul Witherfire
+Drevax
+Gwynor Mancie
+Hadruk
+Zyrantha
+Rhazkor
+Osirion
+Xyrran
+Aedan Bozidar
+Vorindus
+Quorath
+Hecatys
+Circeya
+Grythok
+Gian Frostbane
+Xalgarion Dreadspell
+Helvorn
+Perynor Tumie
+Lorcan Stanko
+Thalzrakathul Grimspire
+Ravynvar
+Vorgulthrakul Blightclaw
+Yvrellis
+Zynvolkarathul Necrospire
+Khelborne
+Qlystra
+Gharnethrakulion Ashflayer
+Orannis
+Ozgan
+Fyrandor
+Xarothrax Plaguegaze
+Darragh Warhammer
+Rory Stormvanguard
+Phelan
+Thalzrakon Grimflayer
+Venefyra
+Jorvin Chimie
+Nivor Huayrie
+Zelumbra
+Grimthar
+Barathrum
+Luthien Tawpie
+Beleroth
+Korrath
+Erebos
+Morbax
+Garoth
+Lunethia
+Vespera
+Dravenarokulion Skullflame
+Wrathok
+Xarotharok Blightflame
+Kyriss
+Naoise Warforge
+Aerith Tlallie
+Cian Thunderlord
+Franco Roko
+Tenevoxar
+Lyssor Huayrie
+Vorgulthion Boneflame
+Wulfrik
+Dravenokar Necroclaw
+Vorkhan
+Vryxarok Boneflame
+Wyldreth
+Krythos
+Xyrmorgh Vileflayer
+Persephona
+Ebonthar
+Elio Pavle
+Umbravex
+Gareth Slavko
+Vrykkarulok Bonefire
+Vylgath
+Tiziano Ranko
+Ashteroth
+Ciaran Matej
+Milo Davor
+Raethor
+Zynvolkarion Ashhymn
+Ylvor Huacie
+Quillan Ironmight
+Zethraxarok Frostspell
+Xypharion Grimshade
+Xyrmor Rotspire
+Korvax
+Kaelis
+Azathor
+Vrykkarokul Bonegaze
+Morvoxar
+Lirvoxis
+Zalthyr Doomspell
+Balthier
+Morgath
+Morthos
+Typhor
+Mordrethar Nethershade
+Thalzrakul Grimspire
+Seluneth
+Kaelthion Grimvein
+Lirio Ironflame
+Gharnethar Witherflame
+Vexylla
+Thalzrakon Soulspire
+Morgthulion Vileshade
+Morgthul Rotveil
+Jaxor
+Kalypsa
+Zynvox
+Kaeltharathul Doomveil
+Ulthrax
+Vrykkul Fellfire
+Zethraxarokath Plaguefire
+Gharnethrakul Ashveil
+Vaelor Khonsie
+Vorgulthrakathar Blightspire
+Vorgulthar Doomclaw
+Ravynvox
+Ulric Pachie
+Thalamar
+Dravenarokulath Skullshade
+Thalzar Necroclaw
+Illythar
+Faelthar
+Cillian Radko
+Duskvoxar
+Elthor Qhapie
+Valkor
+Lyrak
+Brontis Tlaltie
+Xarothrak Frosthymn
+Huwan Zlatko
+Kieran Stormhowl
+Vynor Titie
+Nyxor Tazzy
+Dravyn
+Damarok
+Dravenok Bonehymn
+Vexarathion Blightclaw
+Xarothion Rotspire
+Ophidion
+Asmodeus
+Thalzrakar Frostthorn
+Zynvyrion Ghoulspell
+Zarkon
+Niall Warbringer
+Zethraxarokar Plagueclaw
+Nerys Ptahbelle
+Vryxar Witherclaw
+Gareth Frostwolf
+Piero Stormvalor
+Niall Radoslav
+Quoroth
+Raxthor
+Grimsylle
+Mystyss
+Gharnethion Doomshade
+Thalzrakulion Grimshade
+Grymm
+Kaeltharulath Doomshade
+Zultharathul Frostspire
+Calior Xipip
+Gino Srdjan
+Zynvolkarath Necrospell
+Morvath
+Ivo Vinko
+Sylumbra
+Jarethor
+Thalvox
+Zynvoxar
+Lycoris
+Finnian Stevo
+Wistor Yanie
+Paolo Warspike
+Dravenarokul Vilespire
+Zynrakon Ashshade
+Xarotharath Soulmaw
+Qazran
+Elyria
+Ebonvoxar
+Zynvolkarul Necroshade
+Umbrathar
+Thalzurion Necrothorn
+Seraphis Ankhie
+Fergal Roko
+Azvoxis
+Brisor Qetzie
+Dario Novak
+Thalgorion Frostspire
+Xypharathion Witherhymn
+Korthraxion Rotspell
+Draelith
+Uilliam Thunderblade
+Tarynor Ptahie
+Qorthax
+Thulgorn
+Thalzrakulath Grimspell
+Nocthar
+Lirumbra
+Mirion Topie
+Delphor Qhapie
+Zynvolkarath Necrothorn
+Tenebrus
+Thraegar
+Ythrak
+Nero Stormcrusher
+Vynumbra
+Daemora
+Zylphina
+Noctumbra
+Zynvolkarion Witherveil
+Thandrina
+Sareth
+Nyrathos
+Eryx
+Xalgaratharokar Vilegaze
+Sythran
+Vrykkarathar Necrospell
+Xalindor Qoyllie
+Noctvox
+Korthan Blackvein
+Lirion Tawpie
+Grimumbra
+Vrykkon Fleshtear
+Morgtharulath Dreadthorn
+Thalumbra
+Rhyzak
+Zultharathion Frostthorn
+Xarothrakulok Rotflayer
+Jyndor Serkie
+Kaelzar Wraiththorn
+Grimoire
+Vexaratharion Soulclaw
+Zultharokath Frostshriek
+Oisin Flameheart
+Baelnor
+Phaerax
+Hemlocke
+Orithor Apocie
+Aldo Ironstorm
+Zephyria
+Skolvoxar
+Ailbe Ironstorm
+Mordrak Netherthorn
+Ronan Ljubo
+Umbravox
+Yrthina
+Syldor
+Dravenokar Skullspire
+Kaeltharulok Doomclaw
+Ossyra
+Xarotharokar Soulfire
+Iarla Jaromir
+Zorvath Ghoulfire
+Xypharokion Wraithspire
+Kazadrax
+Morgtharok Bonehymn
+Xanthor Suppi
+Faelgrim
+Ygdrath
+Ignatius
+Cindrox
+Zulthrak Witherhymn
+Idrith Yupie
+Galadrya
+Xarothos Necroflame
+Ivor Warflame
+Nethvoxar
+Razgul
+Ourobor
+Nyrgoth
+Karlo Mladen
+Bellor Xibie
+Lirvoxar
+Xarkul
+Mordath
+Kaeltharath Soulthorn
+Vryxarion Frostrend
+Vrykkarokarion Boneveil
+Silvio Zarko
+Vexarathul Plaguegaze
+Xanthella
+Iskandor
+Cino Matej
+Ugo Dalibor
+Hearn Vinko
+Xarothrakul Blightgaze
+Maevor Puffis
+Wrythos
+Hellebor
+Queldar
+Xaltharion Rotmaw
+Fyrith

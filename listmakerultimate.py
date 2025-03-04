@@ -11,11 +11,11 @@ OUTPUT_CSV = "characters.csv"
 
 # Definicje tagów dla teł (background)
 BACKGROUNDS = {
-    "fantasy": ["fantasy", "elf", "elven", "kobold"],
-    "mroczny": ["knight", "necromancy", "dark", "evil", "demon", "horns"],
-    "forest": ["animal", "beast", "catboy", "catgirl", "monster"],
+    "fantasy": ["knight", "fantasy", "elf", "elven", "kobold"],
+    "mroczny": ["necromancy", "dark", "evil", "demon", "horns"],
+    "forest": ["animal", "beast", "catboy", "catgirl", "furry"],
     "tech": ["ancient", "technology", "sci-fi", "futuristic"],
-    "magic": ["magic", "wizard", "spells", "casts"],
+    "magic": ["magic", "wizard", "spells", "monster", "casts"],
     "secret": []  # Domyślne tło dla niepasujących tagów
 }
 
@@ -27,17 +27,17 @@ LANGUAGES = {
     "Kristalion": ["animal", "furry female", "furry", "animalistic", "feline", "catgirl", "catboy", "anthropomorphic"],
 "Durmali": ["dwarw", "runes", "rune", "wild", "tribal", "tribe", "primitive"],
 "Fae'lin": ["fae", "ferry", "ferrytail", "butterfly", "butterfly_wings", "princes"],
-"Kyo'ren": ["twisted", "alien", "abomination", "creature", "hommoculus", "beast",  "tentacle", "tentacles", "mutated", "mutant"],
+"Kyo'ren": ["twisted", "alien", "abomination", "creature", "hommoculus", "beast",  "tentacle", "tentacles", "mutated", "hell", "mutant"],
 "Mijero": ["asian", "korean", "chinese", "japanese", "ninja", "geisha"],
-"Nekrothol": ["wise", "other_space", "nebula", "cosmic", "dead"],
+"Nekrothol": ["wise", "other_space", "nebula", "cosmic", "dread", "necromancy", "skeleton", "dead"],
     "Heu'ia": ["secret", "egyptian", "inka", "dark", "ancient"]
 }
 
 # Tagi dla typów obrażeń (broń)
 WEAPON_TAGS = {
-    "slash": ["sword", "axe", "dagger", "katana", "twohanded_sword", "long_sword", "battleaxe", "scimitar", "saber", "claymore", "rapier"],
-    "puncture": ["dart", "darts", "kunai", "spear", "polearm", "sword", "knife", "rapier", "lance", "javelin", "arrow", "bow"],
-    "impact": ["staff", "mace", "hammer", "fists", "martial_arts", "club", "flail", "warhammer", "quarterstaff", "baton"]
+    "slash": ["sword", "axe", "dagger", "katana", "twohanded_sword", "long_sword", "battleaxe", "scimitar", "saber", "claymore", "twohanded sword"," claws", "long sword", "tomahawk" ],
+    "puncture": ["dart", "darts", "kunai", "spear", "polearm", "sword", "knife", "rapier", "lance", "javelin", "arrow", "bow", "crossbow", "pike", "fangs" ],
+    "impact": ["staff", "mace", "hammer", "fists", "martial_arts", "club", "flail", "warhammer", "quarterstaff", "battlestaff", "wand", "baton"]
 }
 
 # Tagi dla tarcz
@@ -54,7 +54,7 @@ ARMOR_TAGS = {
 LOW_ARMOR_TAGS = ["naked", "clothes", "loincloth", "barefeet", "shirt", "tunic", "robe"]
 
 # Tagi modyfikujące zdrowie
-HEALTH_POSITIVE_TAGS = ["muscular", "strong", "tall"]
+HEALTH_POSITIVE_TAGS = ["muscular", "strong", "huge", "large", "tall"]
 HEALTH_NEGATIVE_TAGS = ["petite", "skinny", "small", "little", "fragile"]
 
 # Funkcja do wczytywania imion
@@ -91,19 +91,19 @@ def determine_background(tags):
 # Funkcja do losowania zdrowia
 def calculate_health(gender, tags):
     if gender == "boy":
-        base_health = random.randint(15, 90)
+        base_health = random.randint(25, 90)
     else:
-        base_health = random.randint(10, 70)
+        base_health = random.randint(15, 75)
     
     # Modyfikatory zdrowia
     for tag in tags:
         if tag in HEALTH_POSITIVE_TAGS:
-            base_health += 5
+            base_health += 10
         elif tag in HEALTH_NEGATIVE_TAGS:
-            base_health -= 5
+            base_health -= 15
     
     # Ograniczenie zdrowia do rozsądnych wartości
-    return max(10, min(base_health, 90))
+    return max(10, min(base_health, 99))
 
 # Funkcja do określania typów obrażeń na podstawie tagów
 def determine_damage_types(tags):
@@ -121,13 +121,13 @@ def determine_weapons(tags):
     if has_shield:
         weapon_1_image = damage_types[0] if damage_types else "impact"
         weapon_2_image = "shield"
-        weapon_1_value = random.randint(5, 10)
-        weapon_2_value = random.randint(5, 10)  # Wartość dla tarczy
+        weapon_1_value = random.randint(2, 12)
+        weapon_2_value = random.randint(1, 10)  # Wartość dla tarczy
     else:
         if len(damage_types) >= 2:
             weapon_1_image = damage_types[0]
             weapon_2_image = damage_types[1]
-            weapon_1_value = random.randint(5, 10)
+            weapon_1_value = random.randint(1, 10)
             weapon_2_value = random.randint(3, 8)
         else:
             weapon_1_image = damage_types[0]
@@ -140,9 +140,9 @@ def determine_weapons(tags):
 # Funkcja do określania pancerza
 def determine_armor(tags):
     armor_values = {
-        "slash": random.randint(3, 10),
-        "puncture": random.randint(3, 10),
-        "impact": random.randint(3, 10)
+        "slash": random.randint(0, 10),
+        "puncture": random.randint(0, 10),
+        "impact": random.randint(0, 10)
     }
     
     # Modyfikatory pancerza

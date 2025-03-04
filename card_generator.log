@@ -7573,3 +7573,2213 @@ AttributeError: 'RPGCardGenerator' object has no attribute '_add_weapons'
 2025-03-03 20:13:39,519 - INFO - Saved card: output\Ophelia Morwenna_1.png
 2025-03-03 20:13:40,404 - INFO - Saved card: output\Iliarith Qoril_1.png
 2025-03-03 20:13:41,237 - INFO - Saved card: output\Drusie Neffie_1.png
+2025-03-04 12:17:13,767 - INFO - Saved card: output\Vorgathia Mirestalker.png
+2025-03-04 12:17:14,776 - INFO - Saved card: output\Rynelleth Intiq.png
+2025-03-04 12:17:15,802 - INFO - Saved card: output\Elthie Qhapie.png
+2025-03-04 12:17:16,785 - INFO - Saved card: output\Vynarith Titic.png
+2025-03-04 12:17:17,821 - INFO - Saved card: output\Cythie Anqie.png
+2025-03-04 12:17:18,847 - INFO - Saved card: output\Xyris Mawkis.png
+2025-03-04 12:17:19,843 - INFO - Saved card: output\Eirabell Battlecry.png
+2025-03-04 12:17:20,821 - INFO - Saved card: output\Vaelithra Mawk.png
+2025-03-04 12:17:21,903 - INFO - Saved card: output\Zephyris Luluna.png
+2025-03-04 12:17:22,935 - INFO - Saved card: output\Xalie Qoyllie.png
+2025-03-04 12:17:23,980 - INFO - Saved card: output\Lyrumbra.png
+2025-03-04 12:17:25,160 - INFO - Saved card: output\Vynthera.png
+2025-03-04 12:17:26,171 - INFO - Saved card: output\Lyrumbra_1.png
+2025-03-04 12:17:27,191 - INFO - Saved card: output\Elrythia.png
+2025-03-04 12:17:28,212 - INFO - Saved card: output\Thalina Zephyr.png
+2025-03-04 12:17:29,237 - INFO - Saved card: output\Fionnualith Inti.png
+2025-03-04 12:17:30,263 - INFO - Saved card: output\Lirienya Tawaret.png
+2025-03-04 12:17:31,258 - INFO - Saved card: output\Morvane Darkfate.png
+2025-03-04 12:17:32,250 - INFO - Saved card: output\Luthienya Tawap.png
+2025-03-04 12:17:33,206 - INFO - Saved card: output\Sablevoria.png
+2025-03-04 12:17:34,256 - INFO - Saved card: output\Xalindra Nightshriek.png
+2025-03-04 12:17:35,286 - INFO - Saved card: output\Melwynn Darkfire.png
+2025-03-04 12:17:36,242 - INFO - Saved card: output\Ilie Qoripie.png
+2025-03-04 12:17:37,209 - INFO - Saved card: output\Galadie Intibee.png
+2025-03-04 12:17:38,158 - INFO - Saved card: output\Elio Ironfury.png
+2025-03-04 12:17:39,203 - INFO - Saved card: output\Duskthar.png
+2025-03-04 12:17:40,253 - INFO - Saved card: output\Talia Nyxara.png
+2025-03-04 12:17:41,198 - INFO - Saved card: output\Elowie Tawtie.png
+2025-03-04 12:17:42,182 - INFO - Saved card: output\Thalia Moonflower.png
+2025-03-04 12:17:43,154 - INFO - Saved card: output\Vyrthalia.png
+2025-03-04 12:17:44,161 - INFO - Saved card: output\Velithra Quetzal.png
+2025-03-04 12:17:45,126 - INFO - Saved card: output\Aelindryth Anub.png
+2025-03-04 12:17:46,143 - INFO - Saved card: output\Lirienya Tawaret_1.png
+2025-03-04 12:17:47,137 - INFO - Saved card: output\Aethryna Huayna.png
+2025-03-04 12:17:48,141 - INFO - Saved card: output\Aethie Huaynie.png
+2025-03-04 12:17:49,143 - INFO - Saved card: output\Kaelie Mictie.png
+2025-03-04 12:17:50,112 - INFO - Saved card: output\Pyralith Sekhmet.png
+2025-03-04 12:17:51,122 - INFO - Saved card: output\Uma Aelindra.png
+2025-03-04 12:17:52,122 - INFO - Saved card: output\Vorgash Bloodveil.png
+2025-03-04 12:17:53,092 - INFO - Saved card: output\Zynarith Mawk.png
+2025-03-04 12:17:54,060 - INFO - Saved card: output\Nivaraya Huayr.png
+2025-03-04 12:17:55,063 - INFO - Saved card: output\Tarynie Ptahie.png
+2025-03-04 12:17:56,034 - INFO - Saved card: output\Brontie Tlaltie.png
+2025-03-04 12:17:56,995 - INFO - Saved card: output\Xalgarulokar Vilethorn.png
+2025-03-04 12:17:58,037 - INFO - Saved card: output\Yvranth.png
+2025-03-04 12:17:59,017 - INFO - Saved card: output\Zeraphis Blightwind.png
+2025-03-04 12:17:59,987 - INFO - Saved card: output\Sephissa Rotthorn.png
+2025-03-04 12:18:01,038 - INFO - Saved card: output\Mirie Topie.png
+2025-03-04 12:18:02,082 - INFO - Saved card: output\Xeridiana Moonwhisper.png
+2025-03-04 12:18:03,172 - INFO - Saved card: output\Dino Zdenko.png
+2025-03-04 12:18:04,149 - INFO - Saved card: output\Talia Nyxara_1.png
+2025-03-04 12:18:05,110 - INFO - Saved card: output\Calantheya Tiah.png
+2025-03-04 12:18:06,125 - INFO - Saved card: output\Morvane Darkfate_1.png
+2025-03-04 12:18:07,176 - INFO - Saved card: output\Delphinyth Qhapa.png
+2025-03-04 12:18:08,187 - INFO - Saved card: output\Galadrielle Silverleaf.png
+2025-03-04 12:18:09,181 - INFO - Saved card: output\Keira Thalindra.png
+2025-03-04 12:18:10,167 - INFO - Saved card: output\Teo Warshadow.png
+2025-03-04 12:18:11,135 - INFO - Saved card: output\Vryssara Deathbloom.png
+2025-03-04 12:18:12,159 - INFO - Saved card: output\Delphie Qhapie.png
+2025-03-04 12:18:13,144 - INFO - Saved card: output\Ulrie Pachie.png
+2025-03-04 12:18:14,126 - INFO - Saved card: output\Ariniel Starseed.png
+2025-03-04 12:18:15,075 - INFO - Saved card: output\Kethriana Shadowfire.png
+2025-03-04 12:18:16,051 - INFO - Saved card: output\Ylvanyth Huaca.png
+2025-03-04 12:18:17,024 - INFO - Saved card: output\Zytherix Blightmaw.png
+2025-03-04 12:18:18,013 - INFO - Saved card: output\Xalie Qoyllie_1.png
+2025-03-04 12:18:18,954 - INFO - Saved card: output\Zynvyrathar Necroflayer.png
+2025-03-04 12:18:19,973 - INFO - Saved card: output\Quinn Lysandra.png
+2025-03-04 12:18:20,935 - INFO - Saved card: output\Nymira.png
+2025-03-04 12:18:21,909 - INFO - Saved card: output\Isolde Lysandra.png
+2025-03-04 12:18:22,844 - INFO - Saved card: output\Nocturnys Viledusk.png
+2025-03-04 12:18:23,811 - INFO - Saved card: output\Vrykora Doomthorn.png
+2025-03-04 12:18:24,766 - INFO - Saved card: output\Elara Zephyra.png
+2025-03-04 12:18:25,720 - INFO - Saved card: output\Erythul.png
+2025-03-04 12:18:26,655 - INFO - Saved card: output\Hesperith Anubis.png
+2025-03-04 12:18:27,644 - INFO - Saved card: output\Zultharathul Frostspire.png
+2025-03-04 12:18:28,636 - INFO - Saved card: output\Calantheya Tiah_1.png
+2025-03-04 12:18:29,641 - INFO - Saved card: output\Sablevoria_1.png
+2025-03-04 12:18:30,606 - INFO - Saved card: output\Xarotharath Soulmaw.png
+2025-03-04 12:18:31,556 - INFO - Saved card: output\Lauro Zeljko.png
+2025-03-04 12:18:32,511 - INFO - Saved card: output\Vrykkon Fleshtear.png
+2025-03-04 12:18:33,495 - INFO - Saved card: output\Vynlota Frostweaver.png
+2025-03-04 12:18:34,484 - INFO - Saved card: output\Thornguarda Blackthorn.png
+2025-03-04 12:18:35,464 - INFO - Saved card: output\Halcyone Tiahua.png
+2025-03-04 12:18:36,448 - INFO - Saved card: output\Elystris Wraithbloom.png
+2025-03-04 12:18:37,452 - INFO - Saved card: output\Wynter Nyxara.png
+2025-03-04 12:18:38,435 - INFO - Saved card: output\Delphinyth Qhapa_1.png
+2025-03-04 12:18:39,401 - INFO - Saved card: output\Vrykkarulathar Bonehymn.png
+2025-03-04 12:18:40,396 - INFO - Saved card: output\Mirie Topie_1.png
+2025-03-04 12:18:41,351 - INFO - Saved card: output\Noctvoxa.png
+2025-03-04 12:18:42,331 - INFO - Saved card: output\Cythie Anqie_1.png
+2025-03-04 12:18:43,298 - INFO - Saved card: output\Orithyith Apoca.png
+2025-03-04 12:18:44,261 - INFO - Saved card: output\Valacyssa Boneveil.png
+2025-03-04 12:18:45,228 - INFO - Saved card: output\Zephyra Nyxara.png
+2025-03-04 12:18:46,148 - INFO - Saved card: output\Xyndrith Tlal.png
+2025-03-04 12:18:47,131 - INFO - Saved card: output\Fionnualith Inti_1.png
+2025-03-04 12:18:48,144 - INFO - Saved card: output\Morwenna Elowen.png
+2025-03-04 12:18:49,077 - INFO - Saved card: output\Vexylla.png
+2025-03-04 12:18:50,059 - INFO - Saved card: output\Gharnethrakar Ashclaw.png
+2025-03-04 12:18:51,021 - INFO - Saved card: output\Balzephon.png
+2025-03-04 12:18:52,059 - INFO - Saved card: output\Morwen Darkwater.png
+2025-03-04 12:18:53,062 - INFO - Saved card: output\Calie Tiahette.png
+2025-03-04 12:18:54,039 - INFO - Saved card: output\Phaedrya Tumi.png
+2025-03-04 12:18:55,009 - INFO - Saved card: output\Drusian Neffie.png
+2025-03-04 12:18:55,952 - INFO - Saved card: output\Nyxara.png
+2025-03-04 12:18:56,935 - INFO - Saved card: output\Sarixel Witherthorn.png
+2025-03-04 12:18:57,932 - INFO - Saved card: output\Korthos Blightfang.png
+2025-03-04 12:18:58,876 - INFO - Saved card: output\Morgtharath Ashflame.png
+2025-03-04 12:18:59,846 - INFO - Saved card: output\Maevoryn Hathora.png
+2025-03-04 12:19:00,870 - INFO - Saved card: output\Yara Morwenna.png
+2025-03-04 12:19:01,881 - INFO - Saved card: output\Aethryna Huayna_1.png
+2025-03-04 12:19:03,068 - INFO - Saved card: output\Thorolda Stormsurge.png
+2025-03-04 12:19:04,352 - INFO - Saved card: output\Nivaraya Huayr_1.png
+2025-03-04 12:19:05,486 - INFO - Saved card: output\Sephissa Rotthorn_1.png
+2025-03-04 12:19:06,608 - INFO - Saved card: output\Uma Aelindra_1.png
+2025-03-04 12:19:07,731 - INFO - Saved card: output\Xanthea Emberfell.png
+2025-03-04 12:19:08,731 - INFO - Saved card: output\Fionie Intibee.png
+2025-03-04 12:19:09,753 - INFO - Saved card: output\Elara Elowen.png
+2025-03-04 12:19:10,773 - INFO - Saved card: output\Isolde Lysandra_1.png
+2025-03-04 12:19:11,781 - INFO - Saved card: output\Saphie Sekhmie.png
+2025-03-04 12:19:12,797 - INFO - Saved card: output\Tarynnya Ptah.png
+2025-03-04 12:19:13,833 - INFO - Saved card: output\Vespythra Soulash.png
+2025-03-04 12:19:14,850 - INFO - Saved card: output\Sorthis.png
+2025-03-04 12:19:15,843 - INFO - Saved card: output\Neryssia Ptahra.png
+2025-03-04 12:19:16,869 - INFO - Saved card: output\Grimvoxa.png
+2025-03-04 12:19:17,967 - INFO - Saved card: output\Teneumbra.png
+2025-03-04 12:19:19,057 - INFO - Saved card: output\Phaedie Tumie.png
+2025-03-04 12:19:20,235 - INFO - Saved card: output\Rhianie Rimie.png
+2025-03-04 12:19:21,268 - INFO - Saved card: output\Zha'thik Shadowstep.png
+2025-03-04 12:19:22,338 - INFO - Saved card: output\Xanphine Mourngaze.png
+2025-03-04 12:19:23,405 - INFO - Saved card: output\Vorthyssa Dreadmaw.png
+2025-03-04 12:19:24,454 - INFO - Saved card: output\Lino Nebojsa.png
+2025-03-04 12:19:25,509 - INFO - Saved card: output\Wrenarith Huanc.png
+2025-03-04 12:19:26,558 - INFO - Saved card: output\Helena Morwenna.png
+2025-03-04 12:19:27,600 - INFO - Saved card: output\Xylvoria.png
+2025-03-04 12:19:28,627 - INFO - Saved card: output\Lyraxa Frostbite.png
+2025-03-04 12:19:29,654 - INFO - Saved card: output\Jyndie Serkie.png
+2025-03-04 12:19:30,715 - INFO - Saved card: output\Vynor Titie.png
+2025-03-04 12:19:31,775 - INFO - Saved card: output\Morgatha Ashspire.png
+2025-03-04 12:19:32,877 - INFO - Saved card: output\Delphie Qhapie_1.png
+2025-03-04 12:19:34,179 - INFO - Saved card: output\Eirabell Battlecry_1.png
+2025-03-04 12:19:35,469 - INFO - Saved card: output\Xanthette Suppi.png
+2025-03-04 12:19:36,736 - INFO - Saved card: output\Gwythrya Supa.png
+2025-03-04 12:19:37,908 - INFO - Saved card: output\Sylvara.png
+2025-03-04 12:19:38,996 - INFO - Saved card: output\Vynarith Titic_1.png
+2025-03-04 12:19:40,092 - INFO - Saved card: output\Lythari Moonwhisper.png
+2025-03-04 12:19:41,156 - INFO - Saved card: output\Aelthryne Vaxara.png
+2025-03-04 12:19:42,259 - INFO - Saved card: output\Eirwynne Calithra.png
+2025-03-04 12:19:43,378 - INFO - Saved card: output\Throkkmora Battleborn.png
+2025-03-04 12:19:44,448 - INFO - Saved card: output\Lyris Tazzy.png
+2025-03-04 12:19:45,523 - INFO - Saved card: output\Vrykolak Mournshade.png
+2025-03-04 12:19:46,569 - INFO - Saved card: output\Vaelithra Mawk_1.png
+2025-03-04 12:19:47,754 - INFO - Saved card: output\Nyxarae Abyssmaw.png
+2025-03-04 12:19:48,938 - INFO - Saved card: output\Ysennarae Ghoulhymn.png
+2025-03-04 12:19:50,093 - INFO - Saved card: output\Gwyneirith Manco.png
+2025-03-04 12:19:51,390 - INFO - Saved card: output\Vylthara.png
+2025-03-04 12:19:52,472 - INFO - Saved card: output\Dahlia Morgana.png
+2025-03-04 12:19:53,621 - INFO - Saved card: output\Phaedron.png
+2025-03-04 12:19:54,789 - INFO - Saved card: output\Quindrya Apocate.png
+2025-03-04 12:19:55,892 - INFO - Saved card: output\Azrithia.png
+2025-03-04 12:19:57,099 - INFO - Saved card: output\Vynlota Frostmaiden.png
+2025-03-04 12:19:58,420 - INFO - Saved card: output\Phaedrya Tumi_1.png
+2025-03-04 12:20:00,029 - INFO - Saved card: output\Astarith Xolani.png
+2025-03-04 12:20:02,248 - INFO - Saved card: output\Vaeloryth Khonsu.png
+2025-03-04 12:20:03,925 - INFO - Saved card: output\Hecatie Neffie.png
+2025-03-04 12:20:05,615 - INFO - Saved card: output\Wrenarith Huanc_1.png
+2025-03-04 12:20:07,310 - INFO - Saved card: output\Faelrynn.png
+2025-03-04 12:20:08,687 - INFO - Saved card: output\Naevie Quillue.png
+2025-03-04 12:20:10,119 - INFO - Saved card: output\Veythira.png
+2025-03-04 12:20:11,235 - INFO - Saved card: output\Nyxara Seraphine.png
+2025-03-04 12:20:12,256 - INFO - Saved card: output\Xylonia Wulfgar.png
+2025-03-04 12:20:13,307 - INFO - Saved card: output\Morumbra.png
+2025-03-04 12:20:14,380 - INFO - Saved card: output\Veylvoxar.png
+2025-03-04 12:20:15,371 - INFO - Saved card: output\Xylaraeth Darksong.png
+2025-03-04 12:20:16,435 - INFO - Saved card: output\Myrkurissa Bonegaze..png
+2025-03-04 12:20:17,593 - INFO - Saved card: output\Raven Morwenna.png
+2025-03-04 12:20:18,795 - INFO - Saved card: output\Rhianthra Rimac.png
+2025-03-04 12:20:19,989 - INFO - Saved card: output\Kaelith Sunfire.png
+2025-03-04 12:20:21,078 - INFO - Saved card: output\Pyri Sekhette.png
+2025-03-04 12:20:22,257 - INFO - Saved card: output\Namarie Duskwalker.png
+2025-03-04 12:20:23,394 - INFO - Saved card: output\Namarie Duskwalker_1.png
+2025-03-04 12:20:24,486 - INFO - Saved card: output\Thalassira Darkcoven.png
+2025-03-04 12:20:25,672 - INFO - Saved card: output\Elystris Wraithbloom_1.png
+2025-03-04 12:20:26,707 - INFO - Saved card: output\Vynie Titie.png
+2025-03-04 12:20:27,801 - INFO - Saved card: output\Aelthryne Vaxara_1.png
+2025-03-04 12:20:28,896 - INFO - Saved card: output\Miralithra Topac.png
+2025-03-04 12:20:29,967 - INFO - Saved card: output\Freya Lysandra.png
+2025-03-04 12:20:31,072 - INFO - Saved card: output\Quinie Apocute.png
+2025-03-04 12:20:32,150 - INFO - Saved card: output\Hesperie Anulette.png
+2025-03-04 12:20:33,321 - INFO - Saved card: output\Galadie Intibee_1.png
+2025-03-04 12:20:34,666 - INFO - Saved card: output\Skarlena.png
+2025-03-04 12:20:36,039 - INFO - Saved card: output\Jorvynith Chimu.png
+2025-03-04 12:20:37,383 - INFO - Saved card: output\Galadrielle Silvermist.png
+2025-03-04 12:20:38,440 - INFO - Saved card: output\Hecatie Neffie_1.png
+2025-03-04 12:20:39,541 - INFO - Saved card: output\Hecathra Plagueveil.png
+2025-03-04 12:20:40,632 - INFO - Saved card: output\Irythiel Qhapaq.png
+2025-03-04 12:20:41,735 - INFO - Saved card: output\Zha'zix Shadowfire.png
+2025-03-04 12:20:42,880 - INFO - Saved card: output\Saphirith Sekhm.png
+2025-03-04 12:20:44,025 - INFO - Saved card: output\Eltharith Qhapa.png
+2025-03-04 12:20:45,087 - INFO - Saved card: output\Aelie Anubie.png
+2025-03-04 12:20:46,237 - INFO - Saved card: output\Zynvoxis.png
+2025-03-04 12:20:47,345 - INFO - Saved card: output\Gwyneirith Manco_1.png
+2025-03-04 12:20:48,433 - INFO - Saved card: output\Eclipsia.png
+2025-03-04 12:20:49,525 - INFO - Saved card: output\Umbrvoxis.png
+2025-03-04 12:20:50,675 - INFO - Saved card: output\Zola Elowen.png
+2025-03-04 12:20:51,813 - INFO - Saved card: output\Celeste Isolde.png
+2025-03-04 12:20:52,903 - INFO - Saved card: output\Raffael Miodrag.png
+2025-03-04 12:20:53,993 - INFO - Saved card: output\Yara Morwenna_1.png
+2025-03-04 12:20:55,125 - INFO - Saved card: output\Idrith Yupie.png
+2025-03-04 12:20:56,213 - INFO - Saved card: output\Azarathys Blackthorn.png
+2025-03-04 12:20:57,292 - INFO - Saved card: output\Veylvoxis.png
+2025-03-04 12:20:58,402 - INFO - Saved card: output\Erynie Qetzie.png
+2025-03-04 12:20:59,486 - INFO - Saved card: output\Luminyss Voidshriek.png
+2025-03-04 12:21:00,763 - INFO - Saved card: output\Zethraxarion Ashgaze.png
+2025-03-04 12:21:02,289 - INFO - Saved card: output\Selene Elowen.png
+2025-03-04 12:21:03,939 - INFO - Saved card: output\Bellonith Xibal.png
+2025-03-04 12:21:05,266 - INFO - Saved card: output\Eriolira Starweaver.png
+2025-03-04 12:21:06,405 - INFO - Saved card: output\Ulthura.png
+2025-03-04 12:21:07,733 - INFO - Saved card: output\Zytheris Blightveil.png
+2025-03-04 12:21:08,889 - INFO - Saved card: output\Vexmora Soulspire.png
+2025-03-04 12:21:10,006 - INFO - Saved card: output\Xylara Nightshade.png
+2025-03-04 12:21:11,160 - INFO - Saved card: output\Zynthera.png
+2025-03-04 12:21:12,254 - INFO - Saved card: output\Khaosara Nightshade.png
+2025-03-04 12:21:13,410 - INFO - Saved card: output\Mirie Topie_2.png
+2025-03-04 12:21:14,514 - INFO - Saved card: output\Lyraxa Frostbite_1.png
+2025-03-04 12:21:15,593 - INFO - Saved card: output\Gwynnie Mancie.png
+2025-03-04 12:21:16,714 - INFO - Saved card: output\Zultharok Dreadspell.png
+2025-03-04 12:21:17,825 - INFO - Saved card: output\Ariniel Starseed_1.png
+2025-03-04 12:21:18,982 - INFO - Saved card: output\Helena Zephyra.png
+2025-03-04 12:21:20,072 - INFO - Saved card: output\Bella Seraphina.png
+2025-03-04 12:21:21,171 - INFO - Saved card: output\Myrkulyssa Bonehymn.png
+2025-03-04 12:21:22,258 - INFO - Saved card: output\Celeste Isolde_1.png
+2025-03-04 12:21:23,386 - INFO - Saved card: output\Isolthra Maevox.png
+2025-03-04 12:21:24,490 - INFO - Saved card: output\Erynie Qetzie_1.png
+2025-03-04 12:21:25,529 - INFO - Saved card: output\Umbralia.png
+2025-03-04 12:21:26,611 - INFO - Saved card: output\Yrelthar.png
+2025-03-04 12:21:27,761 - INFO - Saved card: output\Xarotharok Blightflame.png
+2025-03-04 12:21:29,899 - INFO - Saved card: output\Vexmordis Shadowvein.png
+2025-03-04 12:21:31,220 - INFO - Saved card: output\Kivaraya Ollant.png
+2025-03-04 12:21:32,363 - INFO - Saved card: output\Barathrum.png
+2025-03-04 12:21:33,736 - INFO - Saved card: output\Eldryn.png
+2025-03-04 12:21:35,425 - INFO - Saved card: output\Seraphyx Ankhara.png
+2025-03-04 12:21:36,954 - INFO - Saved card: output\Talie Chimue.png
+2025-03-04 12:21:38,386 - INFO - Saved card: output\Sylvoxar.png
+2025-03-04 12:21:39,802 - INFO - Saved card: output\Zola Thalindra.png
+2025-03-04 12:21:41,290 - INFO - Saved card: output\Calantheya Tiah_2.png
+2025-03-04 12:21:42,690 - INFO - Saved card: output\Lyraea Nightwalker.png
+2025-03-04 12:21:44,103 - INFO - Saved card: output\Zethraxar Grimspell.png
+2025-03-04 12:21:45,545 - INFO - Saved card: output\Azarathys Blackthorn_1.png
+2025-03-04 12:21:46,930 - INFO - Saved card: output\Khaos Blackwood.png
+2025-03-04 12:21:48,332 - INFO - Saved card: output\Arachne Blackwood.png
+2025-03-04 12:21:49,775 - INFO - Saved card: output\Zha'zix Shadowfire_1.png
+2025-03-04 12:21:51,152 - INFO - Saved card: output\Isolthra Maevox_1.png
+2025-03-04 12:21:52,705 - INFO - Saved card: output\Daire Stormbreaker.png
+2025-03-04 12:21:54,172 - INFO - Saved card: output\Idrie Yupie.png
+2025-03-04 12:21:55,814 - INFO - Saved card: output\Xarotharokath Soulthorn.png
+2025-03-04 12:21:57,209 - INFO - Saved card: output\Dionethra Ankhit.png
+2025-03-04 12:21:58,686 - INFO - Saved card: output\Selene Elowen_1.png
+2025-03-04 12:22:00,174 - INFO - Saved card: output\Galenira EmeraldEye.png
+2025-03-04 12:22:01,762 - INFO - Saved card: output\Xara Elowen.png
+2025-03-04 12:22:03,682 - INFO - Saved card: output\Zephyris Luluna_1.png
+2025-03-04 12:22:04,928 - INFO - Saved card: output\Aerithya Tlaloc.png
+2025-03-04 12:22:06,300 - INFO - Saved card: output\Vyrkos.png
+2025-03-04 12:22:08,441 - INFO - Saved card: output\Nova Thalindra.png
+2025-03-04 12:22:09,697 - INFO - Saved card: output\Zola Elowen_1.png
+2025-03-04 12:22:10,917 - INFO - Saved card: output\Xylara Nightshade_1.png
+2025-03-04 12:22:12,151 - INFO - Saved card: output\Mirabelle Nyxara.png
+2025-03-04 12:22:13,603 - INFO - Saved card: output\Glanis Srdjan.png
+2025-03-04 12:22:14,858 - INFO - Saved card: output\Jaraxus.png
+2025-03-04 12:22:16,122 - INFO - Saved card: output\Vorgash Bloodveil_1.png
+2025-03-04 12:22:17,648 - INFO - Saved card: output\Pyri Sekhette_1.png
+2025-03-04 12:22:18,861 - INFO - Saved card: output\Eiravynne Starlighter.png
+2025-03-04 12:22:20,287 - INFO - Saved card: output\Aerithya Tlaloc_1.png
+2025-03-04 12:22:22,125 - INFO - Saved card: output\Liribelle Tawette.png
+2025-03-04 12:22:23,626 - INFO - Saved card: output\Nyrgoth.png
+2025-03-04 12:22:24,709 - INFO - Saved card: output\Perynnya Tumi.png
+2025-03-04 12:22:26,132 - INFO - Saved card: output\Nyrathul.png
+2025-03-04 12:22:28,080 - INFO - Saved card: output\Arachne Spiderqueen.png
+2025-03-04 12:22:29,464 - INFO - Saved card: output\Vryxarion Frostrend.png
+2025-03-04 12:22:30,571 - INFO - Saved card: output\Maevi Puffora.png
+2025-03-04 12:22:31,710 - INFO - Saved card: output\Falchior.png
+2025-03-04 12:22:33,228 - INFO - Saved card: output\Eiravynne Starlighter_1.png
+2025-03-04 12:22:34,918 - INFO - Saved card: output\Sylvarus.png
+2025-03-04 12:22:36,479 - INFO - Saved card: output\Callista Seraphine.png
+2025-03-04 12:22:37,944 - INFO - Saved card: output\Morgana Thalindra.png
+2025-03-04 12:22:39,346 - INFO - Saved card: output\Ivor Warflame.png
+2025-03-04 12:22:40,847 - INFO - Saved card: output\Thornguarda Blackthorn_1.png
+2025-03-04 12:22:42,422 - INFO - Saved card: output\Thalia Moonflower_1.png
+2025-03-04 12:22:44,775 - INFO - Saved card: output\Lythor.png
+2025-03-04 12:22:46,339 - INFO - Saved card: output\Zytheris Blightveil_1.png
+2025-03-04 12:22:47,838 - INFO - Saved card: output\Cressie Ysmie.png
+2025-03-04 12:22:49,246 - INFO - Saved card: output\Pyri Sekhette_2.png
+2025-03-04 12:22:50,876 - INFO - Saved card: output\Xara Seraphine.png
+2025-03-04 12:22:52,747 - INFO - Saved card: output\Caelgrim.png
+2025-03-04 12:22:54,289 - INFO - Saved card: output\Nyxaria Soulthief.png
+2025-03-04 12:22:55,769 - INFO - Saved card: output\Wrenie Huancie.png
+2025-03-04 12:22:57,211 - INFO - Saved card: output\Eiravyn Starweaver.png
+2025-03-04 12:22:58,600 - INFO - Saved card: output\Thoroldira Stormbringer.png
+2025-03-04 12:23:00,494 - INFO - Saved card: output\Ciaran Matej.png
+2025-03-04 12:23:02,432 - INFO - Saved card: output\Zephyra Nyxara_1.png
+2025-03-04 12:23:04,250 - INFO - Saved card: output\Celeste Isolde_2.png
+2025-03-04 12:23:05,936 - INFO - Saved card: output\Nerys Ptahbelle.png
+2025-03-04 12:23:07,512 - INFO - Saved card: output\Quinn Seraphine.png
+2025-03-04 12:23:08,923 - INFO - Saved card: output\Selene Zephyra.png
+2025-03-04 12:23:11,049 - INFO - Saved card: output\Vynvoxis.png
+2025-03-04 12:23:12,788 - INFO - Saved card: output\Ophelia Morwenna.png
+2025-03-04 12:23:14,489 - INFO - Saved card: output\Gwythor Supie.png
+2025-03-04 12:23:16,382 - INFO - Saved card: output\Xanthessa Grimvein.png
+2025-03-04 12:23:17,732 - INFO - Saved card: output\Zylphara Doomspire.png
+2025-03-04 12:23:18,826 - INFO - Saved card: output\Brontie Tlaltie_1.png
+2025-03-04 12:23:19,956 - INFO - Saved card: output\Talindrya Chimu.png
+2025-03-04 12:23:21,053 - INFO - Saved card: output\Halcyone Tiahua_1.png
+2025-03-04 12:23:22,110 - INFO - Saved card: output\Elunette Tlalli.png
+2025-03-04 12:23:23,193 - INFO - Saved card: output\Ilie Qoripie_1.png
+2025-03-04 12:23:24,281 - INFO - Saved card: output\Hecatara Soulscourge.png
+2025-03-04 12:23:25,371 - INFO - Saved card: output\Nyktoria Shadowdancer.png
+2025-03-04 12:23:26,419 - INFO - Saved card: output\Kaelvora.png
+2025-03-04 12:23:27,510 - INFO - Saved card: output\Khaos Blackwood_1.png
+2025-03-04 12:23:28,568 - INFO - Saved card: output\Tharrosa Bloodfury.png
+2025-03-04 12:23:29,647 - INFO - Saved card: output\Ravyntha.png
+2025-03-04 12:23:30,694 - INFO - Saved card: output\Pyralith Sekhmet_1.png
+2025-03-04 12:23:31,808 - INFO - Saved card: output\Liliandra Wraithmaw.png
+2025-03-04 12:23:32,871 - INFO - Saved card: output\Thalia Moonflower_2.png
+2025-03-04 12:23:33,991 - INFO - Saved card: output\Cressidra Ysmera.png
+2025-03-04 12:23:35,113 - INFO - Saved card: output\Vexylla_1.png
+2025-03-04 12:23:36,164 - INFO - Saved card: output\Lysandra Stargazer.png
+2025-03-04 12:23:37,274 - INFO - Saved card: output\Vorgalyss Dreadspell.png
+2025-03-04 12:23:38,351 - INFO - Saved card: output\Morthos.png
+2025-03-04 12:23:39,417 - INFO - Saved card: output\Sablethra.png
+2025-03-04 12:23:40,505 - INFO - Saved card: output\Isolily Mayvox.png
+2025-03-04 12:23:41,581 - INFO - Saved card: output\Kaelie Micti.png
+2025-03-04 12:23:42,683 - INFO - Saved card: output\Kaelie Mictie_1.png
+2025-03-04 12:23:43,790 - INFO - Saved card: output\Galadie Intibee_2.png
+2025-03-04 12:23:44,848 - INFO - Saved card: output\Wistie Yanie.png
+2025-03-04 12:23:45,911 - INFO - Saved card: output\Eirwynne Calithra_1.png
+2025-03-04 12:23:46,996 - INFO - Saved card: output\Vorthyssa Dreadmaw_1.png
+2025-03-04 12:23:48,095 - INFO - Saved card: output\Zola Elowen_2.png
+2025-03-04 12:23:49,175 - INFO - Saved card: output\Sylumbra.png
+2025-03-04 12:23:50,399 - INFO - Saved card: output\Wrenarith Huanc_2.png
+2025-03-04 12:23:51,736 - INFO - Saved card: output\Thalzrakulath Grimspell.png
+2025-03-04 12:23:52,889 - INFO - Saved card: output\Lyraxa Frostweaver.png
+2025-03-04 12:23:54,214 - INFO - Saved card: output\Orithor Apocie.png
+2025-03-04 12:23:55,266 - INFO - Saved card: output\Nocturnys Viledusk_1.png
+2025-03-04 12:23:56,351 - INFO - Saved card: output\Bellor Xibie.png
+2025-03-04 12:23:57,418 - INFO - Saved card: output\Vyntheris.png
+2025-03-04 12:23:58,491 - INFO - Saved card: output\Ravynvox.png
+2025-03-04 12:23:59,575 - INFO - Saved card: output\Belphoena Rotbloom.png
+2025-03-04 12:24:00,775 - INFO - Saved card: output\Sarixara Necroshade.png
+2025-03-04 12:24:02,119 - INFO - Saved card: output\Morgtharathar Vileflame.png
+2025-03-04 12:24:03,342 - INFO - Saved card: output\Wisterith Yana.png
+2025-03-04 12:24:04,627 - INFO - Saved card: output\Zoryssis Fellshade.png
+2025-03-04 12:24:05,795 - INFO - Saved card: output\Yllarithys Grimspire.png
+2025-03-04 12:24:07,100 - INFO - Saved card: output\Xanphine Mourngaze_1.png
+2025-03-04 12:24:08,200 - INFO - Saved card: output\Ozryth.png
+2025-03-04 12:24:09,267 - INFO - Saved card: output\Eirabell Battleborn.png
+2025-03-04 12:24:10,417 - INFO - Saved card: output\Franco Thunderstrike.png
+2025-03-04 12:24:11,510 - INFO - Saved card: output\Morvithra.png
+2025-03-04 12:24:12,602 - INFO - Saved card: output\Hecatie Neffie_2.png
+2025-03-04 12:24:13,757 - INFO - Saved card: output\Irybelle Qhap.png
+2025-03-04 12:24:14,824 - INFO - Saved card: output\Xalindra Nightshriek_1.png
+2025-03-04 12:24:15,950 - INFO - Saved card: output\Nyxaria Soulthief_1.png
+2025-03-04 12:24:17,126 - INFO - Saved card: output\Ophelia Morwenna_1.png
+2025-03-04 12:24:18,495 - INFO - Saved card: output\Raven Thalindra.png
+2025-03-04 12:24:19,811 - INFO - Saved card: output\Uma Aelindra_2.png
+2025-03-04 12:24:21,271 - INFO - Saved card: output\Ophelia Zephyra.png
+2025-03-04 12:24:22,830 - INFO - Saved card: output\Sarixel Witherthorn_1.png
+2025-03-04 12:24:24,358 - INFO - Saved card: output\Dravox.png
+2025-03-04 12:24:26,486 - INFO - Saved card: output\Saphie Sekhmie_1.png
+2025-03-04 12:24:29,208 - INFO - Saved card: output\Aelindra Seraphine.png
+2025-03-04 12:24:30,757 - INFO - Saved card: output\Selene Elowen_2.png
+2025-03-04 12:24:32,171 - INFO - Saved card: output\Xantheia Supayra.png
+2025-03-04 12:24:33,656 - INFO - Saved card: output\Vynvoxis_1.png
+2025-03-04 12:24:35,200 - INFO - Saved card: output\Cythereya Anqet.png
+2025-03-04 12:24:36,765 - INFO - Saved card: output\Talia Lysandra.png
+2025-03-04 12:24:38,311 - INFO - Saved card: output\Vespythra Soulash_1.png
+2025-03-04 12:24:39,866 - INFO - Saved card: output\Umbrivox.png
+2025-03-04 12:24:41,518 - INFO - Saved card: output\Elara Zephyra_1.png
+2025-03-04 12:24:43,089 - INFO - Saved card: output\Xarotharok Blightflame_1.png
+2025-03-04 12:24:44,668 - INFO - Saved card: output\Noctrynia.png
+2025-03-04 12:24:46,225 - INFO - Saved card: output\Cazimir.png
+2025-03-04 12:24:47,612 - INFO - Saved card: output\Hecatie Neffie_3.png
+2025-03-04 12:24:49,008 - INFO - Saved card: output\Neryssia Ptahra_1.png
+2025-03-04 12:24:50,475 - INFO - Saved card: output\Briseith Qetzal.png
+2025-03-04 12:24:51,500 - INFO - Saved card: output\Vorgalyss Dreadspell_1.png
+2025-03-04 12:24:52,481 - INFO - Saved card: output\Morgana Thalindra_1.png
+2025-03-04 12:24:53,420 - INFO - Saved card: output\Glorianith Intir.png
+2025-03-04 12:24:54,389 - INFO - Saved card: output\Elthie Qhapie_1.png
+2025-03-04 12:24:55,467 - INFO - Saved card: output\Xeridiana Moonlit.png
+2025-03-04 12:24:56,673 - INFO - Saved card: output\Ravynvox_1.png
+2025-03-04 12:24:57,866 - INFO - Saved card: output\Eriolira Starweaver_1.png
+2025-03-04 12:24:58,939 - INFO - Saved card: output\Galadrielle Silverleaf_1.png
+2025-03-04 12:25:00,023 - INFO - Saved card: output\Miralithra Topac_1.png
+2025-03-04 12:25:01,294 - INFO - Saved card: output\Netharva.png
+2025-03-04 12:25:02,467 - INFO - Saved card: output\Aelie Anubie_1.png
+2025-03-04 12:25:03,623 - INFO - Saved card: output\Galenira EmeraldEye_1.png
+2025-03-04 12:25:04,761 - INFO - Saved card: output\Azrithia_1.png
+2025-03-04 12:25:05,823 - INFO - Saved card: output\Rynelleth Intiq_1.png
+2025-03-04 12:25:06,906 - INFO - Saved card: output\Xypharok Grimspire.png
+2025-03-04 12:25:07,977 - INFO - Saved card: output\Ysmi Qoribee.png
+2025-03-04 12:25:09,058 - INFO - Saved card: output\Skolvox.png
+2025-03-04 12:25:10,167 - INFO - Saved card: output\Seraphthora Grimhymn.png
+2025-03-04 12:25:11,228 - INFO - Saved card: output\Xylonia Wulfguard.png
+2025-03-04 12:25:12,360 - INFO - Saved card: output\Thestryl.png
+2025-03-04 12:25:13,454 - INFO - Saved card: output\Xarenza Dragonheart.png
+2025-03-04 12:25:14,488 - INFO - Saved card: output\Xanthorae Witherspell.png
+2025-03-04 12:25:15,564 - INFO - Saved card: output\Xylvoria_1.png
+2025-03-04 12:25:16,619 - INFO - Saved card: output\Lyriquin Darkmagic.png
+2025-03-04 12:25:17,756 - INFO - Saved card: output\Elunette Tlalli_1.png
+2025-03-04 12:25:18,906 - INFO - Saved card: output\Neryssia Ptahra_2.png
+2025-03-04 12:25:19,970 - INFO - Saved card: output\Brontie Tlaltie_2.png
+2025-03-04 12:25:21,004 - INFO - Saved card: output\Xanphira Necrospell.png
+2025-03-04 12:25:22,053 - INFO - Saved card: output\Hecatara Soulscourge_1.png
+2025-03-04 12:25:23,208 - INFO - Saved card: output\Zelumbra.png
+2025-03-04 12:25:24,272 - INFO - Saved card: output\Zovrynia.png
+2025-03-04 12:25:25,367 - INFO - Saved card: output\Sylvarith Coya.png
+2025-03-04 12:25:26,469 - INFO - Saved card: output\Lyriquin Darkmagic_1.png
+2025-03-04 12:25:27,484 - INFO - Saved card: output\Vrykolak Mournshade_1.png
+2025-03-04 12:25:28,551 - INFO - Saved card: output\Ophelia Morwenna_2.png
+2025-03-04 12:25:29,603 - INFO - Saved card: output\Saphirith Sekhm_1.png
+2025-03-04 12:25:30,725 - INFO - Saved card: output\Talia Nyxara_2.png
+2025-03-04 12:25:31,796 - INFO - Saved card: output\Namarie Dusktreader.png
+2025-03-04 12:25:32,870 - INFO - Saved card: output\Melwyn Darkhunter.png
+2025-03-04 12:25:34,136 - INFO - Saved card: output\Jyrgal.png
+2025-03-04 12:25:35,465 - INFO - Saved card: output\Baelroth.png
+2025-03-04 12:25:36,617 - INFO - Saved card: output\Noctvoxa_1.png
+2025-03-04 12:25:37,893 - INFO - Saved card: output\Nymbralia.png
+2025-03-04 12:25:38,960 - INFO - Saved card: output\Nyxthora Ghoulroot.png
+2025-03-04 12:25:40,013 - INFO - Saved card: output\Phaedie Tumie_1.png
+2025-03-04 12:25:41,092 - INFO - Saved card: output\Thoroldira Stormbringer_1.png
+2025-03-04 12:25:42,173 - INFO - Saved card: output\Vaeloryth Khonsu_1.png
+2025-03-04 12:25:43,284 - INFO - Saved card: output\Kaeltharok Netherveil.png
+2025-03-04 12:25:44,336 - INFO - Saved card: output\Saphirith Sekhm_2.png
+2025-03-04 12:25:45,431 - INFO - Saved card: output\Delphie Qhapie_2.png
+2025-03-04 12:25:46,513 - INFO - Saved card: output\Maeloryth Qetz.png
+2025-03-04 12:25:47,588 - INFO - Saved card: output\Azrithia_2.png
+2025-03-04 12:25:48,644 - INFO - Saved card: output\Fionor Intibee.png
+2025-03-04 12:25:49,744 - INFO - Saved card: output\Vynvox.png
+2025-03-04 12:25:50,823 - INFO - Saved card: output\Olynie Pachie.png
+2025-03-04 12:25:51,871 - INFO - Saved card: output\Azvorynn.png
+2025-03-04 12:25:53,030 - INFO - Saved card: output\Hecatie Neffie_4.png
+2025-03-04 12:25:54,174 - INFO - Saved card: output\Seamus Vlado.png
+2025-03-04 12:25:55,718 - INFO - Saved card: output\Nyssandra Bloodroot.png
+2025-03-04 12:25:57,106 - INFO - Saved card: output\Aerithya Tlaloc_2.png
+2025-03-04 12:25:58,479 - INFO - Saved card: output\Olyndor Pachie.png
+2025-03-04 12:25:59,798 - INFO - Saved card: output\Sylvi Coyette.png
+2025-03-04 12:26:01,140 - INFO - Saved card: output\Zynthera_1.png
+2025-03-04 12:26:02,479 - INFO - Saved card: output\Zynvyrathar Necroflayer_1.png
+2025-03-04 12:26:03,939 - INFO - Saved card: output\Nemesys.png
+2025-03-04 12:26:05,295 - INFO - Saved card: output\Lithyssa.png
+2025-03-04 12:26:06,659 - INFO - Saved card: output\Hellebor.png
+2025-03-04 12:26:07,981 - INFO - Saved card: output\Hexodus.png
+2025-03-04 12:26:09,253 - INFO - Saved card: output\Ysennarae Ghoulhymn_1.png
+2025-03-04 12:26:10,526 - INFO - Saved card: output\Nyxara_1.png
+2025-03-04 12:26:11,854 - INFO - Saved card: output\Calantheya Tiah_3.png
+2025-03-04 12:26:13,128 - INFO - Saved card: output\Heliorith Neith.png
+2025-03-04 12:26:14,429 - INFO - Saved card: output\Velrith.png
+2025-03-04 12:26:15,737 - INFO - Saved card: output\Faelrynia.png
+2025-03-04 12:26:17,058 - INFO - Saved card: output\Vynthera_1.png
+2025-03-04 12:26:18,404 - INFO - Saved card: output\Ariniel Starseed_2.png
+2025-03-04 12:26:19,769 - INFO - Saved card: output\Thalzrakathion Grimspell.png
+2025-03-04 12:26:21,013 - INFO - Saved card: output\Myrvoxis.png
+2025-03-04 12:26:22,417 - INFO - Saved card: output\Typhor.png
+2025-03-04 12:26:23,691 - INFO - Saved card: output\Sarixara Necroshade_1.png
+2025-03-04 12:26:24,923 - INFO - Saved card: output\Elowenya Tawat.png
+2025-03-04 12:26:26,219 - INFO - Saved card: output\Ishtarae Abyssgaze.png
+2025-03-04 12:26:27,476 - INFO - Saved card: output\Seamus Thunderfist.png
+2025-03-04 12:26:28,706 - INFO - Saved card: output\Xanthette Suppi_1.png
+2025-03-04 12:26:30,075 - INFO - Saved card: output\Vyntheris_1.png
+2025-03-04 12:26:31,393 - INFO - Saved card: output\Ysmerith Qorihu.png
+2025-03-04 12:26:32,671 - INFO - Saved card: output\Calanthira Forestheart.png
+2025-03-04 12:26:34,138 - INFO - Saved card: output\Thalzrakulion Grimflayer.png
+2025-03-04 12:26:35,517 - INFO - Saved card: output\Kaelis Micti.png
+2025-03-04 12:26:36,842 - INFO - Saved card: output\Declan Warstrike.png
+2025-03-04 12:26:38,140 - INFO - Saved card: output\Neryssia Ptahra_3.png
+2025-03-04 12:26:39,500 - INFO - Saved card: output\Valacyssa Boneveil_1.png
+2025-03-04 12:26:40,794 - INFO - Saved card: output\Vorindel.png
+2025-03-04 12:26:42,152 - INFO - Saved card: output\Rynelleth Intiq_2.png
+2025-03-04 12:26:43,441 - INFO - Saved card: output\Nyktoria Shadowglow.png
+2025-03-04 12:26:44,749 - INFO - Saved card: output\Quinie Apocute_1.png
+2025-03-04 12:26:46,050 - INFO - Saved card: output\Ulvanyth Qhapa.png
+2025-03-04 12:26:47,326 - INFO - Saved card: output\Grimthar.png
+2025-03-04 12:26:48,649 - INFO - Saved card: output\Grimoire.png
+2025-03-04 12:26:49,957 - INFO - Saved card: output\Wrenarith Huanc_3.png
+2025-03-04 12:26:51,261 - INFO - Saved card: output\Nocturnys Viledusk_2.png
+2025-03-04 12:26:52,619 - INFO - Saved card: output\Hesperie Anulette_1.png
+2025-03-04 12:26:53,914 - INFO - Saved card: output\Vorgalyss Dreadspell_2.png
+2025-03-04 12:26:55,301 - INFO - Saved card: output\Umbrivox_1.png
+2025-03-04 12:26:56,590 - INFO - Saved card: output\Zorynthra Fellspell.png
+2025-03-04 12:26:57,856 - INFO - Saved card: output\Gwythie Supie.png
+2025-03-04 12:26:59,241 - INFO - Saved card: output\Ravynvox_2.png
+2025-03-04 12:27:00,725 - INFO - Saved card: output\Throkkmora Battleborn_1.png
+2025-03-04 12:27:02,185 - INFO - Saved card: output\Azrythea.png
+2025-03-04 12:27:03,651 - INFO - Saved card: output\Kethriana Shadowfire_1.png
+2025-03-04 12:27:05,082 - INFO - Saved card: output\Gharnetharulion Ashthorn.png
+2025-03-04 12:27:06,444 - INFO - Saved card: output\Vrykkar Ashthorn.png
+2025-03-04 12:27:07,902 - INFO - Saved card: output\Gino Srdjan.png
+2025-03-04 12:27:09,293 - INFO - Saved card: output\Melwyn Darkhunter_1.png
+2025-03-04 12:27:10,602 - INFO - Saved card: output\Vynarith Titic_2.png
+2025-03-04 12:27:11,980 - INFO - Saved card: output\Iliarith Qoril.png
+2025-03-04 12:27:13,262 - INFO - Saved card: output\Nefertem Witchfire.png
+2025-03-04 12:27:14,526 - INFO - Saved card: output\Baldassare Ironfury.png
+2025-03-04 12:27:15,831 - INFO - Saved card: output\Wisterith Yana_1.png
+2025-03-04 12:27:17,139 - INFO - Saved card: output\Kaelithra Mictlan.png
+2025-03-04 12:27:18,413 - INFO - Saved card: output\Mirabelle Lysandra.png
+2025-03-04 12:27:19,785 - INFO - Saved card: output\Azryvoxa.png
+2025-03-04 12:27:21,040 - INFO - Saved card: output\Wynter Morwenna.png
+2025-03-04 12:27:22,290 - INFO - Saved card: output\Iarla Jaromir.png
+2025-03-04 12:27:23,590 - INFO - Saved card: output\Sythrixa Netherspire.png
+2025-03-04 12:27:24,876 - INFO - Saved card: output\Zeraphis Blightwind_1.png
+2025-03-04 12:27:26,252 - INFO - Saved card: output\Seraphis Ankhie.png
+2025-03-04 12:27:27,536 - INFO - Saved card: output\Thalrynia.png
+2025-03-04 12:27:28,829 - INFO - Saved card: output\Duskvoxis.png
+2025-03-04 12:27:30,083 - INFO - Saved card: output\Myrvoxis Amaru.png
+2025-03-04 12:27:31,362 - INFO - Saved card: output\Zorvath.png
+2025-03-04 12:27:32,599 - INFO - Saved card: output\Cythereya Anqet_1.png
+2025-03-04 12:27:34,042 - INFO - Saved card: output\Talrynia.png
+2025-03-04 12:27:35,372 - INFO - Saved card: output\Sablevoria_2.png
+2025-03-04 12:27:36,725 - INFO - Saved card: output\Ulvanyth Qhapa_1.png
+2025-03-04 12:27:38,107 - INFO - Saved card: output\Melisarae Frostshade.png
+2025-03-04 12:27:39,458 - INFO - Saved card: output\Zynvyrathar Necroflayer_2.png
+2025-03-04 12:37:51,644 - INFO - Saved card: output\Vorgathia Mirestalker_1.png
+2025-03-04 12:37:51,684 - ERROR - Character image not found: noobaiXLNAIXL_vPred065SVersion-Euler-35-6-3157027203-2025-01-14
+2025-03-04 12:37:52,624 - INFO - Saved card: output\Rynelleth Intiq_3.png
+2025-03-04 12:37:52,664 - ERROR - Character image not found: noobaiXLNAIXL_vPred065SVersion-Euler-35-6-3157027205-2025-01-14
+2025-03-04 12:37:53,575 - INFO - Saved card: output\Elthie Qhapie_2.png
+2025-03-04 12:37:53,613 - ERROR - Character image not found: noobaiXLNAIXL_vPred065SVersion-Euler-35-6-3157027207-2025-01-14
+2025-03-04 12:37:54,520 - INFO - Saved card: output\Vynarith Titic_3.png
+2025-03-04 12:37:54,557 - ERROR - Character image not found: noobaiXLNAIXL_vPred065SVersion-Euler-35-6-3157027208-2025-01-14
+2025-03-04 12:38:01,310 - INFO - Saved card: output\Elystris Wraithbloom_2.png
+2025-03-04 12:39:01,973 - INFO - Saved card: output\Ysmerith Qorih.png
+2025-03-04 12:39:03,009 - INFO - Saved card: output\Uvaniath Wiraq.png
+2025-03-04 12:39:04,018 - INFO - Saved card: output\Phaedrya Tumi.png
+2025-03-04 12:39:05,000 - INFO - Saved card: output\Melwyn Darkhunter.png
+2025-03-04 12:39:06,080 - INFO - Saved card: output\Halcyone Tiahua.png
+2025-03-04 12:39:07,054 - INFO - Saved card: output\Cynric.png
+2025-03-04 12:39:08,015 - INFO - Saved card: output\Faerindis Huascar.png
+2025-03-04 12:39:08,963 - INFO - Saved card: output\Xalthora Voidscream.png
+2025-03-04 12:39:09,958 - INFO - Saved card: output\Gwythrya Supa.png
+2025-03-04 12:39:10,909 - INFO - Saved card: output\Malvethis.png
+2025-03-04 12:39:11,879 - INFO - Saved card: output\Wrenie Huancie.png
+2025-03-04 12:39:12,965 - INFO - Saved card: output\Jyndie Serkie.png
+2025-03-04 12:39:13,937 - INFO - Saved card: output\Celeste Isolde.png
+2025-03-04 12:39:14,921 - INFO - Saved card: output\Mirabelle Nyxara.png
+2025-03-04 12:39:15,865 - INFO - Saved card: output\Morgwynn Vilethorn.png
+2025-03-04 12:39:16,844 - INFO - Saved card: output\Vexmora Soulspire.png
+2025-03-04 12:39:17,816 - INFO - Saved card: output\Wrenie Huancie_1.png
+2025-03-04 12:39:18,784 - INFO - Saved card: output\Olynie Pachie.png
+2025-03-04 12:39:19,829 - INFO - Saved card: output\Thalia Moonwhisper.png
+2025-03-04 12:39:20,854 - INFO - Saved card: output\Nyxara.png
+2025-03-04 12:39:21,861 - INFO - Saved card: output\Melwyn Darkstalker.png
+2025-03-04 12:39:22,853 - INFO - Saved card: output\Vaelie Khonsie.png
+2025-03-04 12:39:23,783 - INFO - Saved card: output\Talia Lysandra.png
+2025-03-04 12:39:24,735 - INFO - Saved card: output\Morgathra Fellshriek.png
+2025-03-04 12:39:25,699 - INFO - Saved card: output\Vorgulthrakathar Blightspire.png
+2025-03-04 12:39:26,840 - INFO - Saved card: output\Quindor Apocute.png
+2025-03-04 12:39:28,280 - INFO - Saved card: output\Wisterith Yana.png
+2025-03-04 12:39:29,533 - INFO - Saved card: output\Kalandra Vileheart.png
+2025-03-04 12:39:30,809 - INFO - Saved card: output\Arachne Blackwood.png
+2025-03-04 12:39:32,217 - INFO - Saved card: output\Kethril Moonhunter.png
+2025-03-04 12:39:33,724 - INFO - Saved card: output\Lythari Moonwhisper.png
+2025-03-04 12:39:35,160 - INFO - Saved card: output\Xanphira Necrospell.png
+2025-03-04 12:39:36,653 - INFO - Saved card: output\Brynhildr Ironshield.png
+2025-03-04 12:39:38,093 - INFO - Saved card: output\Gwythrya Supa_1.png
+2025-03-04 12:39:39,493 - INFO - Saved card: output\Eirbelle Calily.png
+2025-03-04 12:39:40,978 - INFO - Saved card: output\Arachnia Webweaver.png
+2025-03-04 12:39:42,443 - INFO - Saved card: output\Wynter Morwenna.png
+2025-03-04 12:39:43,874 - INFO - Saved card: output\Juno Seraphine.png
+2025-03-04 12:39:45,253 - INFO - Saved card: output\Pyri Sekhette.png
+2025-03-04 12:39:46,700 - INFO - Saved card: output\Zelvoxa.png
+2025-03-04 12:39:48,081 - INFO - Saved card: output\Zynestra Darkhymn.png
+2025-03-04 12:39:49,599 - INFO - Saved card: output\Joraelith Chaska.png
+2025-03-04 12:39:51,134 - INFO - Saved card: output\Umbrivox.png
+2025-03-04 12:39:52,532 - INFO - Saved card: output\Umbravoxis.png
+2025-03-04 12:39:53,927 - INFO - Saved card: output\Teo Branimir.png
+2025-03-04 12:39:55,305 - INFO - Saved card: output\Kethriana Shadowstep.png
+2025-03-04 12:39:56,654 - INFO - Saved card: output\Nyxarae Abyssmaw.png
+2025-03-04 12:39:58,041 - INFO - Saved card: output\Miralithra Topac.png
+2025-03-04 12:39:59,492 - INFO - Saved card: output\Lyra Elowen.png
+2025-03-04 12:40:01,005 - INFO - Saved card: output\Vexor.png
+2025-03-04 12:40:02,535 - INFO - Saved card: output\Lyrielle Tazara.png
+2025-03-04 12:40:03,959 - INFO - Saved card: output\Nyktara Shadowglow.png
+2025-03-04 12:40:05,440 - INFO - Saved card: output\Maeloryth Qetz.png
+2025-03-04 12:40:07,127 - INFO - Saved card: output\Zytheris Blightveil.png
+2025-03-04 12:40:08,673 - INFO - Saved card: output\Aelie Anubie.png
+2025-03-04 12:40:10,149 - INFO - Saved card: output\Andromeda Zephyra.png
+2025-03-04 12:40:11,600 - INFO - Saved card: output\Morgtharath Ashflame.png
+2025-03-04 12:40:13,013 - INFO - Saved card: output\Xylonia Wulfguard.png
+2025-03-04 12:40:14,745 - INFO - Saved card: output\Duskara.png
+2025-03-04 12:40:16,400 - INFO - Saved card: output\Poppy Nyxara.png
+2025-03-04 12:40:18,102 - INFO - Saved card: output\Joraelith Chaska_1.png
+2025-03-04 12:40:19,734 - INFO - Saved card: output\Xalindra Nightshriek.png
+2025-03-04 12:40:21,414 - INFO - Saved card: output\Xalindrae Soulvein.png
+2025-03-04 12:40:23,098 - INFO - Saved card: output\Myrkulthra Boneweaver.png
+2025-03-04 12:40:24,859 - INFO - Saved card: output\Ylvi Huacie.png
+2025-03-04 12:40:26,523 - INFO - Saved card: output\Maevor Puffis.png
+2025-03-04 12:40:28,315 - INFO - Saved card: output\Vespythra Soulash.png
+2025-03-04 12:40:29,973 - INFO - Saved card: output\Dravenarokulion Skullflame.png
+2025-03-04 12:40:31,662 - INFO - Saved card: output\Ophie Huancie.png
+2025-03-04 12:40:33,275 - INFO - Saved card: output\Zha'zix Shadowfire.png
+2025-03-04 12:40:34,910 - INFO - Saved card: output\Xalie Qoyllie.png
+2025-03-04 12:40:36,528 - INFO - Saved card: output\Myrvoxis Amaru.png
+2025-03-04 12:40:38,034 - INFO - Saved card: output\Vorgulthrakar Rotveil.png
+2025-03-04 12:40:39,005 - INFO - Saved card: output\Sylvi Coyette.png
+2025-03-04 12:40:39,971 - INFO - Saved card: output\Xyvaris.png
+2025-03-04 12:40:40,973 - INFO - Saved card: output\Elara Zephyra.png
+2025-03-04 12:40:41,949 - INFO - Saved card: output\Morvayne.png
+2025-03-04 12:40:42,888 - INFO - Saved card: output\Iskandor.png
+2025-03-04 12:40:43,837 - INFO - Saved card: output\Lirio Ironflame.png
+2025-03-04 12:40:44,809 - INFO - Saved card: output\Matteo Ognjen.png
+2025-03-04 12:40:45,784 - INFO - Saved card: output\Azarathra Mournfire.png
+2025-03-04 12:40:46,730 - INFO - Saved card: output\Olyndryth Pacha.png
+2025-03-04 12:40:47,748 - INFO - Saved card: output\Vexthara Wraithveil.png
+2025-03-04 12:40:48,696 - INFO - Saved card: output\Zelumbra.png
+2025-03-04 12:40:49,678 - INFO - Saved card: output\Wrenarith Huanc.png
+2025-03-04 12:40:50,638 - INFO - Saved card: output\Xyphera.png
+2025-03-04 12:40:51,608 - INFO - Saved card: output\Vorgulthrakul Blightclaw.png
+2025-03-04 12:40:52,574 - INFO - Saved card: output\Phaedie Tumie.png
+2025-03-04 12:40:53,509 - INFO - Saved card: output\Dravyntha.png
+2025-03-04 12:40:54,493 - INFO - Saved card: output\Yara Lysandra.png
+2025-03-04 12:40:55,416 - INFO - Saved card: output\Zovrynia.png
+2025-03-04 12:40:56,363 - INFO - Saved card: output\Rhianthra Rimac.png
+2025-03-04 12:40:57,317 - INFO - Saved card: output\Yllarissa Mournthorn.png
+2025-03-04 12:40:58,244 - INFO - Saved card: output\Lyris Tazzy.png
+2025-03-04 12:40:59,195 - INFO - Saved card: output\Zorynthra Fellspell.png
+2025-03-04 12:41:00,191 - INFO - Saved card: output\Nyxara_1.png
+2025-03-04 12:41:01,148 - INFO - Saved card: output\Vorgul Ashspire.png
+2025-03-04 12:41:02,108 - INFO - Saved card: output\Veylumbra.png
+2025-03-04 12:41:03,067 - INFO - Saved card: output\Daemorn.png
+2025-03-04 12:41:04,120 - INFO - Saved card: output\Eriolira Starseeker.png
+2025-03-04 12:41:05,128 - INFO - Saved card: output\Khaos Blackwood.png
+2025-03-04 12:41:06,079 - INFO - Saved card: output\Yara Lysandra_1.png
+2025-03-04 12:41:07,006 - INFO - Saved card: output\Tyrael.png
+2025-03-04 12:41:08,021 - INFO - Saved card: output\Xanthea Emberfell.png
+2025-03-04 12:41:08,965 - INFO - Saved card: output\Drusie Neffie.png
+2025-03-04 12:41:09,935 - INFO - Saved card: output\Jessalyth.png
+2025-03-04 12:41:10,858 - INFO - Saved card: output\Hagan Steelspear.png
+2025-03-04 12:41:11,832 - INFO - Saved card: output\Duskrynia.png
+2025-03-04 12:41:12,892 - INFO - Saved card: output\Olynie Pachie_1.png
+2025-03-04 12:41:13,898 - INFO - Saved card: output\Daphne Morwenna.png
+2025-03-04 12:41:14,924 - INFO - Saved card: output\Poppy Nyxara_1.png
+2025-03-04 12:41:15,882 - INFO - Saved card: output\Dravynne.png
+2025-03-04 12:41:16,928 - INFO - Saved card: output\Dravoxa.png
+2025-03-04 12:41:18,038 - INFO - Saved card: output\Namarie Dusktreader.png
+2025-03-04 12:41:19,360 - INFO - Saved card: output\Brontëya Tlalte.png
+2025-03-04 12:41:20,437 - INFO - Saved card: output\Lysandra Stargazer.png
+2025-03-04 12:41:21,411 - INFO - Saved card: output\Xylonia Wulfric.png
+2025-03-04 12:41:22,361 - INFO - Saved card: output\Astarie Xolani.png
+2025-03-04 12:41:23,351 - INFO - Saved card: output\Lyssie Huayrie.png
+2025-03-04 12:41:24,339 - INFO - Saved card: output\Vera Zephyra.png
+2025-03-04 12:41:25,282 - INFO - Saved card: output\Eriol Starweaver.png
+2025-03-04 12:41:26,242 - INFO - Saved card: output\Lythor.png
+2025-03-04 12:41:27,136 - INFO - Saved card: output\Xara Elowen.png
+2025-03-04 12:41:28,085 - INFO - Saved card: output\Calie Xipip.png
+2025-03-04 12:41:29,045 - INFO - Saved card: output\Zarie Intipie.png
+2025-03-04 12:41:30,050 - INFO - Saved card: output\Brynhildr Ironfist.png
+2025-03-04 12:41:31,015 - INFO - Saved card: output\Pyri Sekhette_1.png
+2025-03-04 12:41:31,931 - INFO - Saved card: output\Vespythra Soulash_1.png
+2025-03-04 12:41:32,900 - INFO - Saved card: output\Brynja Battlequeen.png
+2025-03-04 12:41:33,903 - INFO - Saved card: output\Calanthir Forestspirit.png
+2025-03-04 12:41:34,870 - INFO - Saved card: output\Daemion.png
+2025-03-04 12:41:35,804 - INFO - Saved card: output\Ysmi Qoripuff.png
+2025-03-04 12:41:36,756 - INFO - Saved card: output\Ophie Huancie_1.png
+2025-03-04 12:41:37,718 - INFO - Saved card: output\Juno Seraphine_1.png
+2025-03-04 12:41:38,637 - INFO - Saved card: output\Namarie Duskwraith.png
+2025-03-04 12:41:39,530 - INFO - Saved card: output\Thalvryssa Deathspire.png
+2025-03-04 12:41:40,499 - INFO - Saved card: output\Zultharokar Frostflayer.png
+2025-03-04 12:41:41,436 - INFO - Saved card: output\Morvayne_1.png
+2025-03-04 12:41:42,428 - INFO - Saved card: output\Xanthorae Witherspell.png
+2025-03-04 12:41:43,408 - INFO - Saved card: output\Vorgathia Mirewitch.png
+2025-03-04 12:41:44,395 - INFO - Saved card: output\Lilithyssa Darkhymn.png
+2025-03-04 12:41:45,441 - INFO - Saved card: output\Drenvora.png
+2025-03-04 12:41:46,407 - INFO - Saved card: output\Azarathys Blackhymn.png
+2025-03-04 12:41:47,323 - INFO - Saved card: output\Poppy Nyxara_2.png
+2025-03-04 12:41:48,292 - INFO - Saved card: output\Lirienn.png
+2025-03-04 12:41:49,253 - INFO - Saved card: output\Noxumbra.png
+2025-03-04 12:41:50,237 - INFO - Saved card: output\Morvane Darkmagic.png
+2025-03-04 12:41:51,226 - INFO - Saved card: output\Throkkmora Battleborn.png
+2025-03-04 12:41:52,206 - INFO - Saved card: output\Olyndryth Pacha_1.png
+2025-03-04 12:41:53,216 - INFO - Saved card: output\Thalindra Zephyra.png
+2025-03-04 12:41:54,188 - INFO - Saved card: output\Zynie Mawk.png
+2025-03-04 12:41:55,150 - INFO - Saved card: output\Zola Elowen.png
+2025-03-04 12:41:56,074 - INFO - Saved card: output\Arachne Spiderqueen.png
+2025-03-04 12:41:57,005 - INFO - Saved card: output\Nivie Huayrie.png
+2025-03-04 12:41:58,123 - INFO - Saved card: output\Vexarathulion Rotspell.png
+2025-03-04 12:41:59,105 - INFO - Saved card: output\Miralithra Topac_1.png
+2025-03-04 12:42:00,116 - INFO - Saved card: output\Xanthur Wraithveil.png
+2025-03-04 12:42:01,142 - INFO - Saved card: output\Vexmora Soulspire_1.png
+2025-03-04 12:42:02,096 - INFO - Saved card: output\Zeraphis Blightwind.png
+2025-03-04 12:42:03,015 - INFO - Saved card: output\Eirabell Battleborn.png
+2025-03-04 12:42:03,967 - INFO - Saved card: output\Calanthir Forestspirit_1.png
+2025-03-04 12:42:04,899 - INFO - Saved card: output\Velithra Quetzal.png
+2025-03-04 12:42:05,815 - INFO - Saved card: output\Tarynnya Ptah.png
+2025-03-04 12:42:06,780 - INFO - Saved card: output\Velibee Quetzie.png
+2025-03-04 12:42:07,716 - INFO - Saved card: output\Ylvi Huacie_1.png
+2025-03-04 12:42:08,652 - INFO - Saved card: output\Eirwynne Calithra.png
+2025-03-04 12:42:09,629 - INFO - Saved card: output\Xalvryssa Deathroot.png
+2025-03-04 12:42:10,582 - INFO - Saved card: output\Zoryndra Blackveil.png
+2025-03-04 12:42:11,550 - INFO - Saved card: output\Xymerthra Voidbloom.png
+2025-03-04 12:42:12,476 - INFO - Saved card: output\Dravynne_1.png
+2025-03-04 12:42:13,405 - INFO - Saved card: output\Tenebrys.png
+2025-03-04 12:42:14,409 - INFO - Saved card: output\Raxus.png
+2025-03-04 12:42:15,390 - INFO - Saved card: output\Uvanie Wiraqie.png
+2025-03-04 12:42:16,307 - INFO - Saved card: output\Zelumbra_1.png
+2025-03-04 12:42:17,202 - INFO - Saved card: output\Ulvi Qhapie.png
+2025-03-04 12:42:18,244 - INFO - Saved card: output\Xarenza Dragonheart.png
+2025-03-04 12:42:19,205 - INFO - Saved card: output\Nefertem Witchfire.png
+2025-03-04 12:42:20,170 - INFO - Saved card: output\Galenira Emerald.png
+2025-03-04 12:42:21,169 - INFO - Saved card: output\Lirvoxis.png
+2025-03-04 12:42:22,144 - INFO - Saved card: output\Cryonara.png
+2025-03-04 12:42:23,095 - INFO - Saved card: output\Callista Seraphine.png
+2025-03-04 12:42:24,031 - INFO - Saved card: output\Jorie Chaskie.png
+2025-03-04 12:42:24,959 - INFO - Saved card: output\Melwyn Darkhunter_1.png
+2025-03-04 12:42:25,972 - INFO - Saved card: output\Khaosara Nightshade.png
+2025-03-04 12:42:26,941 - INFO - Saved card: output\Rhaenie Viracue.png
+2025-03-04 12:42:27,918 - INFO - Saved card: output\Bellonith Xibal.png
+2025-03-04 12:42:28,879 - INFO - Saved card: output\Tharrosa Bloodfury.png
+2025-03-04 12:42:29,795 - INFO - Saved card: output\Saelirith Urqu.png
+2025-03-04 12:42:30,719 - INFO - Saved card: output\Kethril Moonhunter_1.png
+2025-03-04 12:42:31,634 - INFO - Saved card: output\Sylrynia.png
+2025-03-04 12:42:32,691 - INFO - Saved card: output\Iliarith Qoril.png
+2025-03-04 12:42:33,606 - INFO - Saved card: output\Faelindra Machara.png
+2025-03-04 12:42:34,552 - INFO - Saved card: output\Qilvarith Cusi.png
+2025-03-04 12:42:35,477 - INFO - Saved card: output\Eriolira Starseeker_1.png
+2025-03-04 12:42:36,391 - INFO - Saved card: output\Umbrivox_1.png
+2025-03-04 12:42:37,324 - INFO - Saved card: output\Zivie Suppie.png
+2025-03-04 12:42:38,251 - INFO - Saved card: output\Xanthea Emberfell_1.png
+2025-03-04 12:42:39,190 - INFO - Saved card: output\Lyraea Nightwalker.png
+2025-03-04 12:42:40,121 - INFO - Saved card: output\Tindie Bastie.png
+2025-03-04 12:42:41,062 - INFO - Saved card: output\Zivaraya Supay.png
+2025-03-04 12:42:42,004 - INFO - Saved card: output\Drusie Neffie_1.png
+2025-03-04 12:42:42,924 - INFO - Saved card: output\Perynnya Tumi.png
+2025-03-04 12:42:43,846 - INFO - Saved card: output\Nefertem Witchwood.png
+2025-03-04 12:42:44,744 - INFO - Saved card: output\Vespera Duskbane.png
+2025-03-04 12:42:45,662 - INFO - Saved card: output\Eltharith Qhapa.png
+2025-03-04 12:42:46,625 - INFO - Saved card: output\Lirio Borna.png
+2025-03-04 12:42:47,552 - INFO - Saved card: output\Xylonia Wulfric_1.png
+2025-03-04 12:42:48,471 - INFO - Saved card: output\Thalgorok Soulspire.png
+2025-03-04 12:42:49,400 - INFO - Saved card: output\Myrkurissa Bonegaze..png
+2025-03-04 12:42:50,356 - INFO - Saved card: output\Dionethra Ankhit.png
+2025-03-04 12:42:51,261 - INFO - Saved card: output\Jyndrith Serket.png
+2025-03-04 12:42:52,178 - INFO - Saved card: output\Callista Seraphine_1.png
+2025-03-04 12:42:53,118 - INFO - Saved card: output\Karthos Blightshade.png
+2025-03-04 12:42:54,023 - INFO - Saved card: output\Vaelie Mawk.png
+2025-03-04 12:42:54,953 - INFO - Saved card: output\Brontëya Tlalte_1.png
+2025-03-04 12:42:55,893 - INFO - Saved card: output\Galadie Intibee.png
+2025-03-04 12:42:56,810 - INFO - Saved card: output\Zultharion Netherveil.png
+2025-03-04 12:42:57,733 - INFO - Saved card: output\Aethryna Huayna.png
+2025-03-04 12:42:58,661 - INFO - Saved card: output\Delphie Qhapie.png
+2025-03-04 12:42:59,583 - INFO - Saved card: output\Uma Thalindra.png
+2025-03-04 12:43:00,549 - INFO - Saved card: output\Iliarith Qoril_1.png
+2025-03-04 12:43:01,530 - INFO - Saved card: output\Thalindra.png
+2025-03-04 12:43:02,487 - INFO - Saved card: output\Vera Zephyra_1.png
+2025-03-04 12:43:03,458 - INFO - Saved card: output\Ebonrynia.png
+2025-03-04 12:43:04,383 - INFO - Saved card: output\Raven Thalindra.png
+2025-03-04 12:43:05,348 - INFO - Saved card: output\Grimvox.png
+2025-03-04 12:43:06,291 - INFO - Saved card: output\Celeste Isolde_1.png
+2025-03-04 12:43:07,259 - INFO - Saved card: output\Lyrielle Tazara_1.png
+2025-03-04 12:43:08,190 - INFO - Saved card: output\Fionnualith Inti.png
+2025-03-04 12:43:09,125 - INFO - Saved card: output\Quinn Lysandra.png
+2025-03-04 12:43:10,062 - INFO - Saved card: output\Veythira.png
+2025-03-04 12:43:10,987 - INFO - Saved card: output\Melwyn Darkstalker_1.png
+2025-03-04 12:43:11,905 - INFO - Saved card: output\Maeloryth Qetz_1.png
+2025-03-04 12:43:12,792 - INFO - Saved card: output\Xymerthra Voidbloom_1.png
+2025-03-04 12:43:13,701 - INFO - Saved card: output\Morbax.png
+2025-03-04 12:43:14,637 - INFO - Saved card: output\Emilio Warflame.png
+2025-03-04 12:43:15,566 - INFO - Saved card: output\Tenebrys_1.png
+2025-03-04 12:43:16,475 - INFO - Saved card: output\Vespara Nightthorn.png
+2025-03-04 12:43:17,386 - INFO - Saved card: output\Lirvox.png
+2025-03-04 12:43:18,298 - INFO - Saved card: output\Drazghan.png
+2025-03-04 12:43:19,242 - INFO - Saved card: output\Nyxarae Abyssmaw_1.png
+2025-03-04 12:43:20,191 - INFO - Saved card: output\Morwen Darkwater.png
+2025-03-04 12:43:21,145 - INFO - Saved card: output\Ronan Ljubo.png
+2025-03-04 12:43:22,074 - INFO - Saved card: output\Tindrith Bastet.png
+2025-03-04 12:43:23,016 - INFO - Saved card: output\Ulvanyth Qhapa.png
+2025-03-04 12:43:23,937 - INFO - Saved card: output\Arachnia Webweaver_1.png
+2025-03-04 12:43:24,888 - INFO - Saved card: output\Eldryn.png
+2025-03-04 12:43:25,832 - INFO - Saved card: output\Myrvoxis Amaru_1.png
+2025-03-04 12:43:26,739 - INFO - Saved card: output\Helie Neithie.png
+2025-03-04 12:43:27,658 - INFO - Saved card: output\Xylonia Wulfguard_1.png
+2025-03-04 12:43:28,604 - INFO - Saved card: output\Aerithya Tlaloc.png
+2025-03-04 12:43:29,517 - INFO - Saved card: output\Thalia Moonwhisper_1.png
+2025-03-04 12:43:30,455 - INFO - Saved card: output\Declan Marko.png
+2025-03-04 12:43:31,358 - INFO - Saved card: output\Xalie Qoyllie_1.png
+2025-03-04 12:43:32,269 - INFO - Saved card: output\Zynor Mawk.png
+2025-03-04 12:43:33,191 - INFO - Saved card: output\Skolvyn.png
+2025-03-04 12:43:34,117 - INFO - Saved card: output\Sylvara.png
+2025-03-04 12:43:35,079 - INFO - Saved card: output\Brisie Qetzie.png
+2025-03-04 12:43:36,001 - INFO - Saved card: output\Juno Seraphine_2.png
+2025-03-04 12:43:36,984 - INFO - Saved card: output\Xylonia Wulfric_2.png
+2025-03-04 12:43:37,904 - INFO - Saved card: output\Elystris Wraithbloom.png
+2025-03-04 12:43:38,833 - INFO - Saved card: output\Zalthyr Doomspell.png
+2025-03-04 12:43:39,786 - INFO - Saved card: output\Myrvie Amarue.png
+2025-03-04 12:43:40,725 - INFO - Saved card: output\Vaelithra Mawk.png
+2025-03-04 12:43:41,633 - INFO - Saved card: output\Jyndie Serkie_1.png
+2025-03-04 12:43:42,555 - INFO - Saved card: output\Uvaniath Wiraq_1.png
+2025-03-04 12:43:43,457 - INFO - Saved card: output\Branislav Dante.png
+2025-03-04 12:43:44,349 - INFO - Saved card: output\Jynessa.png
+2025-03-04 12:43:45,271 - INFO - Saved card: output\Saelirith Urqu_1.png
+2025-03-04 12:43:46,196 - INFO - Saved card: output\Kethril Moonhunter_2.png
+2025-03-04 12:43:47,120 - INFO - Saved card: output\Aerithya Tlaloc_1.png
+2025-03-04 12:43:48,065 - INFO - Saved card: output\Xanthira Bonecry.png
+2025-03-04 12:43:49,013 - INFO - Saved card: output\Xara Seraphine.png
+2025-03-04 12:43:49,965 - INFO - Saved card: output\Nythrax.png
+2025-03-04 12:43:50,904 - INFO - Saved card: output\Velrith.png
+2025-03-04 12:43:51,889 - INFO - Saved card: output\Vexor_1.png
+2025-03-04 12:43:52,827 - INFO - Saved card: output\Yara Morwenna.png
+2025-03-04 12:43:53,751 - INFO - Saved card: output\Vynvoxar.png
+2025-03-04 12:43:54,705 - INFO - Saved card: output\Saelirith Urqu_2.png
+2025-03-04 12:43:55,713 - INFO - Saved card: output\Vryxarok Boneflame.png
+2025-03-04 12:43:56,687 - INFO - Saved card: output\Melwyn Darkstalker_2.png
+2025-03-04 12:43:57,707 - INFO - Saved card: output\Faelthar.png
+2025-03-04 12:43:58,670 - INFO - Saved card: output\Zyntheris.png
+2025-03-04 12:43:59,616 - INFO - Saved card: output\Elowie Tawtie.png
+2025-03-04 12:44:00,617 - INFO - Saved card: output\Morgorath.png
+2025-03-04 12:44:01,585 - INFO - Saved card: output\Elrythia.png
+2025-03-04 12:44:02,520 - INFO - Saved card: output\Seraphie Ankhette.png
+2025-03-04 12:44:03,471 - INFO - Saved card: output\Quorath.png
+2025-03-04 12:44:04,428 - INFO - Saved card: output\Ophelia Morwenna.png
+2025-03-04 12:44:05,357 - INFO - Saved card: output\Brynhildr Ironfist_1.png
+2025-03-04 12:44:06,271 - INFO - Saved card: output\Indira Elowen.png
+2025-03-04 12:44:07,258 - INFO - Saved card: output\Phaedie Tumie_1.png
+2025-03-04 12:44:08,167 - INFO - Saved card: output\Orlando Radovan.png
+2025-03-04 12:44:09,108 - INFO - Saved card: output\Maevoryn Hathora.png
+2025-03-04 12:44:10,048 - INFO - Saved card: output\Kaelvora.png
+2025-03-04 12:44:11,016 - INFO - Saved card: output\Talie Chimue.png
+2025-03-04 12:44:11,970 - INFO - Saved card: output\Eclipsia.png
+2025-03-04 12:44:12,937 - INFO - Saved card: output\Dravox.png
+2025-03-04 12:44:13,926 - INFO - Saved card: output\Phaedrya Tumi_1.png
+2025-03-04 12:44:14,926 - INFO - Saved card: output\Morumbra.png
+2025-03-04 12:44:15,886 - INFO - Saved card: output\Kaeltharulath Doomspire.png
+2025-03-04 12:44:16,836 - INFO - Saved card: output\Morwen Darkshore.png
+2025-03-04 12:44:17,778 - INFO - Saved card: output\Elara Elowen.png
+2025-03-04 12:44:18,781 - INFO - Saved card: output\Ultan Srecko.png
+2025-03-04 12:44:19,797 - INFO - Saved card: output\Erynie Qetzie.png
+2025-03-04 12:44:20,751 - INFO - Saved card: output\Umbrathar.png
+2025-03-04 12:44:21,771 - INFO - Saved card: output\Vorgathia Mirewitch_1.png
+2025-03-04 12:44:22,728 - INFO - Saved card: output\Vrykora Doomthorn.png
+2025-03-04 12:44:23,738 - INFO - Saved card: output\Phaedrya Tumi_2.png
+2025-03-04 12:44:24,727 - INFO - Saved card: output\Ulrie Pachie.png
+2025-03-04 12:44:25,702 - INFO - Saved card: output\Morgwynthra Ashspire.png
+2025-03-04 12:44:26,606 - INFO - Saved card: output\Astarie Xolani_1.png
+2025-03-04 12:44:27,584 - INFO - Saved card: output\Maeloryth Qetz_2.png
+2025-03-04 12:44:28,566 - INFO - Saved card: output\Xanthessa Grimvein.png
+2025-03-04 12:44:29,527 - INFO - Saved card: output\Phaedrya Tumi_3.png
+2025-03-04 12:44:30,482 - INFO - Saved card: output\Umbrivox_2.png
+2025-03-04 12:44:31,436 - INFO - Saved card: output\Ebonrynia_1.png
+2025-03-04 12:44:32,388 - INFO - Saved card: output\Vespythra Soulash_2.png
+2025-03-04 12:44:33,348 - INFO - Saved card: output\Nyxara_2.png
+2025-03-04 12:44:34,315 - INFO - Saved card: output\Sylvarith Coya.png
+2025-03-04 12:44:35,317 - INFO - Saved card: output\Thalia Moonflower.png
+2025-03-04 12:44:36,266 - INFO - Saved card: output\Pyralith Sekhmet.png
+2025-03-04 12:44:37,242 - INFO - Saved card: output\Throkkmora Battleborn_1.png
+2025-03-04 12:44:38,212 - INFO - Saved card: output\Irythor Qhap.png
+2025-03-04 12:44:39,122 - INFO - Saved card: output\Zivaraya Supay_1.png
+2025-03-04 12:44:40,090 - INFO - Saved card: output\Lyriquin Darkmagic.png
+2025-03-04 12:44:41,071 - INFO - Saved card: output\Xalgaratharokar Vilegaze.png
+2025-03-04 12:44:42,004 - INFO - Saved card: output\Morumbra_1.png
+2025-03-04 12:44:42,938 - INFO - Saved card: output\Xanthorae Witherspell_1.png
+2025-03-04 12:44:43,856 - INFO - Saved card: output\Morgana Thalindra.png
+2025-03-04 12:44:44,783 - INFO - Saved card: output\Ilie Qoripie.png
+2025-03-04 12:44:45,686 - INFO - Saved card: output\Heliorith Neith.png
+2025-03-04 12:44:46,592 - INFO - Saved card: output\Tharrosa Bloodfury_1.png
+2025-03-04 12:44:47,531 - INFO - Saved card: output\Namarie Dusktreader_1.png
+2025-03-04 12:44:48,454 - INFO - Saved card: output\Vaelie Mawk_1.png
+2025-03-04 12:44:49,405 - INFO - Saved card: output\Jorvynith Chimu.png
+2025-03-04 12:44:50,341 - INFO - Saved card: output\Vyrthalia.png
+2025-03-04 12:44:51,264 - INFO - Saved card: output\Qwynarith Coya.png
+2025-03-04 12:44:52,245 - INFO - Saved card: output\Nethvox.png
+2025-03-04 12:44:53,192 - INFO - Saved card: output\Diomirith Huay.png
+2025-03-04 12:44:54,169 - INFO - Saved card: output\Ashteroth.png
+2025-03-04 12:44:55,122 - INFO - Saved card: output\Helie Neithie_1.png
+2025-03-04 12:44:56,052 - INFO - Saved card: output\Yrelthar.png
+2025-03-04 12:44:56,968 - INFO - Saved card: output\Joraelith Chaska_2.png
+2025-03-04 12:44:57,911 - INFO - Saved card: output\Umbralia.png
+2025-03-04 12:44:58,872 - INFO - Saved card: output\Faelie Machi.png
+2025-03-04 12:44:59,827 - INFO - Saved card: output\Morvayne_2.png
+2025-03-04 12:45:00,797 - INFO - Saved card: output\Kaelor Mictie.png
+2025-03-04 12:45:01,759 - INFO - Saved card: output\Delphie Qhapie_1.png
+2025-03-04 12:45:02,774 - INFO - Saved card: output\Aerie Tlallie.png
+2025-03-04 12:45:03,740 - INFO - Saved card: output\Xalindra Nightshriek_1.png
+2025-03-04 12:45:04,698 - INFO - Saved card: output\Dravoxa_1.png
+2025-03-04 12:45:05,691 - INFO - Saved card: output\Hexaris.png
+2025-03-04 12:45:06,658 - INFO - Saved card: output\Dionethra Ankhit_1.png
+2025-03-04 12:45:07,583 - INFO - Saved card: output\Ashteroth_1.png
+2025-03-04 12:45:08,553 - INFO - Saved card: output\Hesperith Anubis.png
+2025-03-04 12:45:09,522 - INFO - Saved card: output\Aelindryth Anub.png
+2025-03-04 12:45:10,471 - INFO - Saved card: output\Xyndrith Tlal.png
+2025-03-04 12:45:11,396 - INFO - Saved card: output\Nethvoxis.png
+2025-03-04 12:45:12,340 - INFO - Saved card: output\Daphne Morwenna_1.png
+2025-03-04 12:45:13,281 - INFO - Saved card: output\Elthie Qhapie.png
+2025-03-04 12:45:14,252 - INFO - Saved card: output\Nocturnys Viledusk.png
+2025-03-04 12:45:15,188 - INFO - Saved card: output\Irythiel Qhapaq.png
+2025-03-04 12:45:16,101 - INFO - Saved card: output\Nyxthora Ghoulroot.png
+2025-03-04 12:45:17,057 - INFO - Saved card: output\Nyktoria Shadowdancer.png
+2025-03-04 12:45:17,984 - INFO - Saved card: output\Faelan.png
+2025-03-04 12:45:18,967 - INFO - Saved card: output\Isolily Mayvox.png
+2025-03-04 12:45:19,895 - INFO - Saved card: output\Uma Thalindra_1.png
+2025-03-04 12:45:20,856 - INFO - Saved card: output\Dionethra Ankhit_2.png
+2025-03-04 12:45:21,774 - INFO - Saved card: output\Quinn Seraphine.png
+2025-03-04 12:45:22,713 - INFO - Saved card: output\Cythereya Anqet.png
+2025-03-04 12:45:23,621 - INFO - Saved card: output\Faelvoxis.png
+2025-03-04 12:45:24,605 - INFO - Saved card: output\Velrith_1.png
+2025-03-04 12:45:25,595 - INFO - Saved card: output\Thalassira Darkcoven.png
+2025-03-04 12:45:26,572 - INFO - Saved card: output\Thalvoxa.png
+2025-03-04 12:45:27,572 - INFO - Saved card: output\Myrvoxis Amaru_2.png
+2025-03-04 12:45:28,520 - INFO - Saved card: output\Tadhg Warspike.png
+2025-03-04 12:45:29,453 - INFO - Saved card: output\Faelrynia.png
+2025-03-04 12:45:30,418 - INFO - Saved card: output\Ulthura.png
+2025-03-04 12:45:31,356 - INFO - Saved card: output\Kethril Moonhunter_3.png
+2025-03-04 12:45:32,295 - INFO - Saved card: output\Myrkurra Plagueveil.png
+2025-03-04 12:45:33,243 - INFO - Saved card: output\Dionethra Ankhit_3.png
+2025-03-04 12:45:34,268 - INFO - Saved card: output\Lilithyssa Darkhymn_1.png
+2025-03-04 12:45:35,326 - INFO - Saved card: output\Thalumbra.png
+2025-03-04 12:45:36,293 - INFO - Saved card: output\Lyrielle Tazara_2.png
+2025-03-04 12:45:37,294 - INFO - Saved card: output\Xalie Qoyllie_2.png
+2025-03-04 12:45:38,256 - INFO - Saved card: output\Wyllie Suppie.png
+2025-03-04 12:45:39,317 - INFO - Saved card: output\Azarathra Mournfire_1.png
+2025-03-04 12:45:40,252 - INFO - Saved card: output\Jyndrith Serket_1.png
+2025-03-04 12:45:41,222 - INFO - Saved card: output\Zynthera.png
+2025-03-04 12:45:42,158 - INFO - Saved card: output\Juno Seraphine_3.png
+2025-03-04 12:45:43,119 - INFO - Saved card: output\Elystris Wraithbloom_1.png
+2025-03-04 12:45:44,102 - INFO - Saved card: output\Kethriana Shadowstep_1.png
+2025-03-04 12:45:45,242 - INFO - Saved card: output\Noctivyn.png
+2025-03-04 12:45:46,240 - INFO - Saved card: output\Delphie Qhapie_2.png
+2025-03-04 12:45:47,176 - INFO - Saved card: output\Malchara Fleshbinder.png
+2025-03-04 12:45:48,179 - INFO - Saved card: output\Azryth.png
+2025-03-04 12:45:49,190 - INFO - Saved card: output\Vorgathia Mirestalker.png
+2025-03-04 12:45:50,181 - INFO - Saved card: output\Vexarathulok Rotgaze.png
+2025-03-04 12:45:51,188 - INFO - Saved card: output\Lirienya Tawaret.png
+2025-03-04 12:45:52,170 - INFO - Saved card: output\Dravynne_2.png
+2025-03-04 12:45:53,154 - INFO - Saved card: output\Zulthor Grimroot.png
+2025-03-04 12:45:54,138 - INFO - Saved card: output\Ysmi Qoripuff_1.png
+2025-03-04 12:45:55,069 - INFO - Saved card: output\Tindrith Bastet_1.png
+2025-03-04 12:45:56,027 - INFO - Saved card: output\Xymerthra Voidbloom_2.png
+2025-03-04 12:45:56,963 - INFO - Saved card: output\Hecatith Nefer.png
+2025-03-04 12:45:57,994 - INFO - Saved card: output\Vespyrra Doomchant.png
+2025-03-04 12:45:59,001 - INFO - Saved card: output\Vaelie Mawk_2.png
+2025-03-04 12:45:59,953 - INFO - Saved card: output\Lysandra Stargazer_1.png
+2025-03-04 12:46:01,027 - INFO - Saved card: output\Zoryntha.png
+2025-03-04 12:46:01,997 - INFO - Saved card: output\Azarathys Blackthorn.png
+2025-03-04 12:46:03,073 - INFO - Saved card: output\Ultan Srecko_1.png
+2025-03-04 12:46:04,003 - INFO - Saved card: output\Belphoena Rotbloom.png
+2025-03-04 12:46:04,951 - INFO - Saved card: output\Nerysie Ptahbelle.png
+2025-03-04 12:46:05,910 - INFO - Saved card: output\Drakara.png
+2025-03-04 12:46:06,832 - INFO - Saved card: output\Morglyth Skullshade.png
+2025-03-04 12:46:07,772 - INFO - Saved card: output\Myrvie Amarue_1.png
+2025-03-04 12:46:08,709 - INFO - Saved card: output\Vynlota Frostweaver.png
+2025-03-04 12:46:09,693 - INFO - Saved card: output\Morvayne_3.png
+2025-03-04 12:46:10,640 - INFO - Saved card: output\Xarindra.png
+2025-03-04 12:46:11,553 - INFO - Saved card: output\Veylumbra_1.png
+2025-03-04 12:46:12,499 - INFO - Saved card: output\Veylthar.png
+2025-03-04 12:46:13,438 - INFO - Saved card: output\Sylvaris.png
+2025-03-04 12:46:14,365 - INFO - Saved card: output\Xeridiana Moonlit.png
+2025-03-04 12:46:15,298 - INFO - Saved card: output\Liribelle Tawette.png
+2025-03-04 12:46:16,241 - INFO - Saved card: output\Thalrynia.png
+2025-03-04 12:46:17,173 - INFO - Saved card: output\Xyraena Darkbloom.png
+2025-03-04 12:46:18,103 - INFO - Saved card: output\Galadriel Thalindra.png
+2025-03-04 12:46:19,075 - INFO - Saved card: output\Wynter Morwenna_1.png
+2025-03-04 12:46:20,142 - INFO - Saved card: output\Vaelgrim.png
+2025-03-04 12:46:21,118 - INFO - Saved card: output\Nethrynia.png
+2025-03-04 12:46:22,105 - INFO - Saved card: output\Gwythrya Supa_2.png
+2025-03-04 12:46:23,083 - INFO - Saved card: output\Dahlia Morgana.png
+2025-03-04 12:46:24,058 - INFO - Saved card: output\Galenira EmeraldEye.png
+2025-03-04 12:46:25,093 - INFO - Saved card: output\Cressian Ysmie.png
+2025-03-04 12:46:26,105 - INFO - Saved card: output\Urzael.png
+2025-03-04 12:46:27,138 - INFO - Saved card: output\Onyxara.png
+2025-03-04 12:46:28,094 - INFO - Saved card: output\Talindrya Chimu.png
+2025-03-04 12:46:29,087 - INFO - Saved card: output\Elowie Tawtie_1.png
+2025-03-04 12:46:30,079 - INFO - Saved card: output\Zynvrakar Frostshade.png
+2025-03-04 12:46:31,111 - INFO - Saved card: output\Aelindryth Anub_1.png
+2025-03-04 12:46:32,118 - INFO - Saved card: output\Idrie Yupie.png
+2025-03-04 12:46:33,115 - INFO - Saved card: output\Thalvox.png
+2025-03-04 12:46:34,116 - INFO - Saved card: output\Nyssandra Bloodroot.png
+2025-03-04 12:46:35,130 - INFO - Saved card: output\Umbrynne.png
+2025-03-04 12:46:36,104 - INFO - Saved card: output\Baelroth.png
+2025-03-04 12:46:37,093 - INFO - Saved card: output\Yvannis.png
+2025-03-04 12:46:38,055 - INFO - Saved card: output\Baelnor.png
+2025-03-04 12:46:39,029 - INFO - Saved card: output\Zynvolkar Doomthorn.png
+2025-03-04 12:46:39,989 - INFO - Saved card: output\Grimsylle.png
+2025-03-04 12:46:40,964 - INFO - Saved card: output\Nyktoria Shadowglow.png
+2025-03-04 12:46:41,909 - INFO - Saved card: output\Umbrvoxis.png
+2025-03-04 12:46:42,895 - INFO - Saved card: output\Eriolira Starweaver.png
+2025-03-04 12:46:43,880 - INFO - Saved card: output\Sylvara_1.png
+2025-03-04 12:46:44,884 - INFO - Saved card: output\Zylphine Witherveil.png
+2025-03-04 12:46:45,897 - INFO - Saved card: output\Ysmi Qoripuff_2.png
+2025-03-04 12:46:46,882 - INFO - Saved card: output\Talindrya Chimu_1.png
+2025-03-04 12:46:47,867 - INFO - Saved card: output\Xeridian Nightshade.png
+2025-03-04 12:46:48,843 - INFO - Saved card: output\Caelgrim.png
+2025-03-04 12:46:49,746 - INFO - Saved card: output\Vespara Nightcry.png
+2025-03-04 12:46:50,753 - INFO - Saved card: output\Veylvox.png
+2025-03-04 12:46:51,680 - INFO - Saved card: output\Duskara_1.png
+2025-03-04 12:46:52,576 - INFO - Saved card: output\Xantheia Supayra.png
+2025-03-04 12:46:53,510 - INFO - Saved card: output\Eriol Starweaver_1.png
+2025-03-04 12:46:54,417 - INFO - Saved card: output\Rathma.png
+2025-03-04 12:46:55,307 - INFO - Saved card: output\Lyris Tazzy_1.png
+2025-03-04 12:46:56,273 - INFO - Saved card: output\Valtorina Darkfury.png
+2025-03-04 12:46:57,191 - INFO - Saved card: output\Ysenneth Voidrend.png
+2025-03-04 12:46:58,120 - INFO - Saved card: output\Zha'zix Shadowfire_1.png
+2025-03-04 12:46:59,051 - INFO - Saved card: output\Xaroth Vileveil.png
+2025-03-04 12:46:59,954 - INFO - Saved card: output\Vynumbra.png
+2025-03-04 12:47:00,928 - INFO - Saved card: output\Orithor Apocie.png
+2025-03-04 12:47:01,934 - INFO - Saved card: output\Thalassira Darkcoven_1.png
+2025-03-04 12:47:02,948 - INFO - Saved card: output\Delphie Qhapie_3.png
+2025-03-04 12:47:03,941 - INFO - Saved card: output\Xara Elowen_1.png
+2025-03-04 12:47:04,942 - INFO - Saved card: output\Vyntheris.png
+2025-03-04 12:47:05,930 - INFO - Saved card: output\Ylvethra.png
+2025-03-04 12:47:06,924 - INFO - Saved card: output\Brisie Qetzie_1.png
+2025-03-04 12:47:07,870 - INFO - Saved card: output\Jorie Chaskie_1.png
+2025-03-04 12:47:08,865 - INFO - Saved card: output\Xyrmorghul Fellhymn.png
+2025-03-04 12:47:09,879 - INFO - Saved card: output\Xypharathion Witherflame.png
+2025-03-04 12:47:10,879 - INFO - Saved card: output\Zelphira.png
+2025-03-04 12:47:11,834 - INFO - Saved card: output\Luthienya Tawap.png
+2025-03-04 12:47:12,814 - INFO - Saved card: output\Galadrielle Silvermist.png
+2025-03-04 12:47:13,769 - INFO - Saved card: output\Ophirith Huanca.png
+2025-03-04 12:47:14,901 - INFO - Saved card: output\Vexthara Wraithveil_1.png
+2025-03-04 12:47:15,905 - INFO - Saved card: output\Valacyssa Boneveil.png
+2025-03-04 12:47:16,860 - INFO - Saved card: output\Nocthara.png
+2025-03-04 12:47:17,885 - INFO - Saved card: output\Hecathra Plagueveil.png
+2025-03-04 12:47:18,913 - INFO - Saved card: output\Lilithyssa Darkhymn_2.png
+2025-03-04 12:47:19,849 - INFO - Saved card: output\Delphie Qhapie_4.png
+2025-03-04 12:47:20,830 - INFO - Saved card: output\Maevoryn Hathora_1.png
+2025-03-04 12:47:21,797 - INFO - Saved card: output\Morgtharulathar Dreadflame.png
+2025-03-04 12:47:22,735 - INFO - Saved card: output\Veylumbra_2.png
+2025-03-04 12:47:23,740 - INFO - Saved card: output\Thraegar.png
+2025-03-04 12:47:24,770 - INFO - Saved card: output\Morgana Thalindra_1.png
+2025-03-04 12:47:25,686 - INFO - Saved card: output\Nocturnys Viledusk_1.png
+2025-03-04 12:47:26,691 - INFO - Saved card: output\Nivie Huayrie_1.png
+2025-03-04 12:47:27,641 - INFO - Saved card: output\Myrkulyssa Bonehymn.png
+2025-03-04 12:47:28,582 - INFO - Saved card: output\Dravenath Blightgaze.png
+2025-03-04 12:47:29,541 - INFO - Saved card: output\Faelindra Machara_1.png
+2025-03-04 12:47:30,483 - INFO - Saved card: output\Ylvanyth Huaca.png
+2025-03-04 12:47:31,422 - INFO - Saved card: output\Ysmi Qoribee.png
+2025-03-04 12:47:32,459 - INFO - Saved card: output\Poppy Nyxara_3.png
+2025-03-04 12:47:33,383 - INFO - Saved card: output\Joraelith Chaska_3.png
+2025-03-04 12:47:34,313 - INFO - Saved card: output\Mael Thunderbolt.png
+2025-03-04 12:47:35,285 - INFO - Saved card: output\Xynie Tlallie.png
+2025-03-04 12:47:36,225 - INFO - Saved card: output\Thalia Moonflower_1.png
+2025-03-04 12:47:37,219 - INFO - Saved card: output\Zultharokar Frostflayer_1.png
+2025-03-04 12:47:38,158 - INFO - Saved card: output\Taryvox.png
+2025-03-04 12:47:39,094 - INFO - Saved card: output\Vynthera.png
+2025-03-04 12:47:40,020 - INFO - Saved card: output\Isolde Lysandra.png
+2025-03-04 12:47:40,985 - INFO - Saved card: output\Nethvox_1.png
+2025-03-04 12:47:41,883 - INFO - Saved card: output\Myrkurissa Bonegaze._1.png
+2025-03-04 12:47:42,808 - INFO - Saved card: output\Lyriquin Darkweaver.png
+2025-03-04 12:47:43,760 - INFO - Saved card: output\Cythie Anqie.png
+2025-03-04 12:47:44,685 - INFO - Saved card: output\Qwynarith Coya_1.png
+2025-03-04 12:47:45,631 - INFO - Saved card: output\Thalassira Darkcoven_2.png
+2025-03-04 12:47:46,638 - INFO - Saved card: output\Finnian Stormrider.png
+2025-03-04 13:19:52,692 - INFO - Saved card: output\Kryonvox.png
+2025-03-04 13:19:53,641 - INFO - Saved card: output\Noctrynia.png
+2025-03-04 13:19:54,607 - INFO - Saved card: output\Morwenna Elowen.png
+2025-03-04 13:19:55,571 - INFO - Saved card: output\Faelie Machi.png
+2025-03-04 13:19:56,593 - INFO - Saved card: output\Kethril Moonflower.png
+2025-03-04 13:19:57,585 - INFO - Saved card: output\Uvanie Wiraqie.png
+2025-03-04 13:19:58,562 - INFO - Saved card: output\Duskara.png
+2025-03-04 13:19:59,519 - INFO - Saved card: output\Sephissa Rotthorn.png
+2025-03-04 13:20:00,543 - INFO - Saved card: output\Uma Aelindra.png
+2025-03-04 13:20:01,544 - INFO - Saved card: output\Noctvoxa.png
+2025-03-04 13:20:02,561 - INFO - Saved card: output\Gwyneirith Manco.png
+2025-03-04 13:20:03,608 - INFO - Saved card: output\Talrynia.png
+2025-03-04 13:20:04,579 - INFO - Saved card: output\Sablevyn.png
+2025-03-04 13:20:05,577 - INFO - Saved card: output\Nocthara.png
+2025-03-04 13:20:06,606 - INFO - Saved card: output\Brynhildr Ironfist.png
+2025-03-04 13:20:07,682 - INFO - Saved card: output\Galadriel Thalindra.png
+2025-03-04 13:20:08,634 - INFO - Saved card: output\Bellonith Xibal.png
+2025-03-04 13:20:09,618 - INFO - Saved card: output\Indira Elowen.png
+2025-03-04 13:20:10,615 - INFO - Saved card: output\Seraphyx Ankhara.png
+2025-03-04 13:20:11,617 - INFO - Saved card: output\Veylvoxis.png
+2025-03-04 13:20:12,648 - INFO - Saved card: output\Rynelleth Intiq.png
+2025-03-04 13:20:13,615 - INFO - Saved card: output\Morgwynthra Ashspire.png
+2025-03-04 13:20:14,646 - INFO - Saved card: output\Astrid Zephyra.png
+2025-03-04 13:20:15,586 - INFO - Saved card: output\Thalina Zephyr.png
+2025-03-04 13:20:16,501 - INFO - Saved card: output\Delphinyth Qhapa.png
+2025-03-04 13:20:17,497 - INFO - Saved card: output\Jorie Chaskie.png
+2025-03-04 13:20:18,459 - INFO - Saved card: output\Ariniel Starseeker.png
+2025-03-04 13:20:19,450 - INFO - Saved card: output\Miralithra Topac.png
+2025-03-04 13:20:20,394 - INFO - Saved card: output\Elunarya Tlaloca.png
+2025-03-04 13:20:21,393 - INFO - Saved card: output\Aelindra Seraphine.png
+2025-03-04 13:20:22,424 - INFO - Saved card: output\Vynlota Frostweaver.png
+2025-03-04 13:20:23,402 - INFO - Saved card: output\Melwyn Darkstalker.png
+2025-03-04 13:20:24,451 - INFO - Saved card: output\Xylara Nightshade.png
+2025-03-04 13:20:25,398 - INFO - Saved card: output\Fionnualith Inti.png
+2025-03-04 13:20:26,352 - INFO - Saved card: output\Selene Zephyra.png
+2025-03-04 13:20:27,367 - INFO - Saved card: output\Taryvox.png
+2025-03-04 13:20:28,380 - INFO - Saved card: output\Halcyone Tiahua.png
+2025-03-04 13:20:29,452 - INFO - Saved card: output\Phaedie Tumie.png
+2025-03-04 13:20:30,397 - INFO - Saved card: output\Skarlena.png
+2025-03-04 13:20:31,454 - INFO - Saved card: output\Ophirith Huanca.png
+2025-03-04 13:20:32,496 - INFO - Saved card: output\Galenira Emerald.png
+2025-03-04 13:20:33,532 - INFO - Saved card: output\Xalindrae Soulvein.png
+2025-03-04 13:20:34,538 - INFO - Saved card: output\Eriol Starweaver.png
+2025-03-04 13:20:35,533 - INFO - Saved card: output\Eirwynne Calithra.png
+2025-03-04 13:20:36,558 - INFO - Saved card: output\Velithra Quetzal.png
+2025-03-04 13:20:37,551 - INFO - Saved card: output\Sarixara Necroshade.png
+2025-03-04 13:20:38,645 - INFO - Saved card: output\Xeridian Nightwalker.png
+2025-03-04 13:20:39,720 - INFO - Saved card: output\Xalthora Voidscream.png
+2025-03-04 13:20:40,698 - INFO - Saved card: output\Myrkulyssa Bonehymn.png
+2025-03-04 13:20:41,675 - INFO - Saved card: output\Calantheya Tiah.png
+2025-03-04 13:20:42,632 - INFO - Saved card: output\Morvane Darkmagic.png
+2025-03-04 13:20:43,712 - INFO - Saved card: output\Brynhildr Ironshield.png
+2025-03-04 13:20:44,682 - INFO - Saved card: output\Ysenneth Voidrend.png
+2025-03-04 13:20:45,707 - INFO - Saved card: output\Indira Elowen_1.png
+2025-03-04 13:20:46,674 - INFO - Saved card: output\Zivie Suppie.png
+2025-03-04 13:20:47,676 - INFO - Saved card: output\Valacyssa Boneveil.png
+2025-03-04 13:20:48,630 - INFO - Saved card: output\Eltharith Qhapa.png
+2025-03-04 13:20:49,638 - INFO - Saved card: output\Lyraxa Frostweaver.png
+2025-03-04 13:20:50,608 - INFO - Saved card: output\Xylara Darksong.png
+2025-03-04 13:20:51,595 - INFO - Saved card: output\Thalvryssa Deathspire.png
+2025-03-04 13:20:52,575 - INFO - Saved card: output\Melisphira Rotspell.png
+2025-03-04 13:20:53,549 - INFO - Saved card: output\Zivie Suppie_1.png
+2025-03-04 13:20:54,625 - INFO - Saved card: output\Nethrynia.png
+2025-03-04 13:20:55,656 - INFO - Saved card: output\Indira Nyxara.png
+2025-03-04 13:20:56,597 - INFO - Saved card: output\Xylara Darksong_1.png
+2025-03-04 13:20:57,563 - INFO - Saved card: output\Wisterith Yana.png
+2025-03-04 13:20:58,556 - INFO - Saved card: output\Perynie Tumie.png
+2025-03-04 13:20:59,542 - INFO - Saved card: output\Orithie Apocie.png
+2025-03-04 13:21:00,530 - INFO - Saved card: output\Yllarithys Grimspire.png
+2025-03-04 13:21:01,515 - INFO - Saved card: output\Nyxara.png
+2025-03-04 13:21:02,480 - INFO - Saved card: output\Namarie Dusktreader.png
+2025-03-04 13:21:03,546 - INFO - Saved card: output\Zynvyrath Blightthorn.png
+2025-03-04 13:21:04,616 - INFO - Saved card: output\Xarkul.png
+2025-03-04 13:21:05,662 - INFO - Saved card: output\Thalor Zephy.png
+2025-03-04 13:21:06,655 - INFO - Saved card: output\Wrenor Huancie.png
+2025-03-04 13:21:07,791 - INFO - Saved card: output\Lycurgus.png
+2025-03-04 13:21:08,807 - INFO - Saved card: output\Daire Stormbreaker.png
+2025-03-04 13:21:09,841 - INFO - Saved card: output\Nethumbra.png
+2025-03-04 13:21:11,118 - INFO - Saved card: output\Xyndor Tlallie.png
+2025-03-04 13:21:12,642 - INFO - Saved card: output\Eldrath.png
+2025-03-04 13:21:13,653 - INFO - Saved card: output\Sylthar.png
+2025-03-04 13:21:14,784 - INFO - Saved card: output\Kaelzar Wraiththorn.png
+2025-03-04 13:21:15,958 - INFO - Saved card: output\Eirabell Battlecry.png
+2025-03-04 13:21:17,357 - INFO - Saved card: output\Xarothrakul Blightgaze.png
+2025-03-04 13:21:18,803 - INFO - Saved card: output\Shadryn.png
+2025-03-04 13:21:20,421 - INFO - Saved card: output\Xalgarion Dreadspell.png
+2025-03-04 13:21:21,862 - INFO - Saved card: output\Zynvolkarath Necrospell.png
+2025-03-04 13:21:23,360 - INFO - Saved card: output\Zylphara Doomspire.png
+2025-03-04 13:21:24,894 - INFO - Saved card: output\Ivo Frostreaver.png
+2025-03-04 13:21:26,392 - INFO - Saved card: output\Xancor.png
+2025-03-04 13:21:27,904 - INFO - Saved card: output\Gavan Ironthorn.png
+2025-03-04 13:21:29,408 - INFO - Saved card: output\Morvithra.png
+2025-03-04 13:21:30,566 - INFO - Saved card: output\Lorcan Stanko.png
+2025-03-04 13:21:31,824 - INFO - Saved card: output\Phaedron.png
+2025-03-04 13:21:33,011 - INFO - Saved card: output\Iain Warspike.png
+2025-03-04 13:21:34,270 - INFO - Saved card: output\Ophir Huancie.png
+2025-03-04 13:21:35,510 - INFO - Saved card: output\Eryndryth Qetzal.png
+2025-03-04 13:21:36,896 - INFO - Saved card: output\Daire Stormbreaker_1.png
+2025-03-04 13:21:38,029 - INFO - Saved card: output\Ciaran Matej.png
+2025-03-04 13:21:39,168 - INFO - Saved card: output\Kaelthar Venomspell.png
+2025-03-04 13:21:40,375 - INFO - Saved card: output\Thalzrakulath Grimspell.png
+2025-03-04 13:21:41,810 - INFO - Saved card: output\Evanys.png
+2025-03-04 13:21:43,299 - INFO - Saved card: output\Yvannis.png
+2025-03-04 13:21:44,749 - INFO - Saved card: output\Drakthar.png
+2025-03-04 13:21:46,405 - INFO - Saved card: output\Cino Warflame.png
+2025-03-04 13:21:47,833 - INFO - Saved card: output\Gharneth Soulflayer.png
+2025-03-04 13:21:49,465 - INFO - Saved card: output\Orlando Thunderblade.png
+2025-03-04 13:21:50,953 - INFO - Saved card: output\Finnian Stormrider.png
+2025-03-04 13:21:52,366 - INFO - Saved card: output\Kaelthas.png
+2025-03-04 13:21:53,784 - INFO - Saved card: output\Zynarith Mawk.png
+2025-03-04 13:21:55,173 - INFO - Saved card: output\Elara Elowen.png
+2025-03-04 13:21:56,633 - INFO - Saved card: output\Skarvex.png
+2025-03-04 13:21:58,150 - INFO - Saved card: output\Grimvox.png
+2025-03-04 13:21:59,659 - INFO - Saved card: output\Vexarathion Blightclaw.png
+2025-03-04 13:22:01,180 - INFO - Saved card: output\Balzephon.png
+2025-03-04 13:22:02,566 - INFO - Saved card: output\Zultharokion Frostspell.png
+2025-03-04 13:22:03,787 - INFO - Saved card: output\Cythor Anqie.png
+2025-03-04 13:22:05,073 - INFO - Saved card: output\Idrith Yupie.png
+2025-03-04 13:22:06,656 - INFO - Saved card: output\Senan Warhowl.png
+2025-03-04 13:22:07,824 - INFO - Saved card: output\Syrax.png
+2025-03-04 13:22:09,117 - INFO - Saved card: output\Vaermina.png
+2025-03-04 13:22:10,441 - INFO - Saved card: output\Faelthar.png
+2025-03-04 13:22:11,764 - INFO - Saved card: output\Uldrath.png
+2025-03-04 13:22:13,066 - INFO - Saved card: output\Lauro Zeljko.png
+2025-03-04 13:22:14,421 - INFO - Saved card: output\Mario Zoran.png
+2025-03-04 13:22:15,580 - INFO - Saved card: output\Iliarith Qoril.png
+2025-03-04 13:22:16,712 - INFO - Saved card: output\Ebonumbra.png
+2025-03-04 13:22:17,838 - INFO - Saved card: output\Nethrax.png
+2025-03-04 13:22:19,061 - INFO - Saved card: output\Kyrak.png
+2025-03-04 13:22:20,153 - INFO - Saved card: output\Qilvie Cusie.png
+2025-03-04 13:22:21,428 - INFO - Saved card: output\Gharnethrak Doomflame.png
+2025-03-04 13:22:22,607 - INFO - Saved card: output\Yvannis_1.png
+2025-03-04 13:22:23,686 - INFO - Saved card: output\Zynumbra.png
+2025-03-04 13:22:24,778 - INFO - Saved card: output\Vaelie Khonsie.png
+2025-03-04 13:22:25,981 - INFO - Saved card: output\Erynie Qetzie.png
+2025-03-04 13:22:27,084 - INFO - Saved card: output\Xypherus.png
+2025-03-04 13:22:28,172 - INFO - Saved card: output\Zephyros Soulthorn.png
+2025-03-04 13:22:29,283 - INFO - Saved card: output\Zultharathion Frostthorn.png
+2025-03-04 13:22:30,392 - INFO - Saved card: output\Astrid Zephyra_1.png
+2025-03-04 13:22:31,600 - INFO - Saved card: output\Dravenarokulion Skullflame.png
+2025-03-04 13:22:32,783 - INFO - Saved card: output\Erykthos.png
+2025-03-04 13:22:34,027 - INFO - Saved card: output\Qorthax.png
+2025-03-04 13:22:35,419 - INFO - Saved card: output\Tenevox.png
+2025-03-04 13:22:36,771 - INFO - Saved card: output\Xarothrakul Rotspire.png
+2025-03-04 13:22:37,969 - INFO - Saved card: output\Xalgaratharok Vileshade.png
+2025-03-04 13:22:39,123 - INFO - Saved card: output\Elara Elowen_1.png
+2025-03-04 13:22:40,332 - INFO - Saved card: output\Galadrielle Silverleaf.png
+2025-03-04 13:22:41,468 - INFO - Saved card: output\Elowen Tawtie.png
+2025-03-04 13:22:42,521 - INFO - Saved card: output\Lauro Zeljko_1.png
+2025-03-04 13:22:43,767 - INFO - Saved card: output\Xara Elowen.png
+2025-03-04 13:22:45,027 - INFO - Saved card: output\Vorgath Soulreaper.png
+2025-03-04 13:22:46,260 - INFO - Saved card: output\Isolthe.png
+2025-03-04 13:22:47,423 - INFO - Saved card: output\Zorvath.png
+2025-03-04 13:22:48,643 - INFO - Saved card: output\Hagan Dobry.png
+2025-03-04 13:22:49,857 - INFO - Saved card: output\Kazadrax.png
+2025-03-04 13:22:51,068 - INFO - Saved card: output\Xalgarathar Bonehymn.png
+2025-03-04 13:22:52,245 - INFO - Saved card: output\Faelrynn.png
+2025-03-04 13:22:53,439 - INFO - Saved card: output\Vynor Titie.png
+2025-03-04 13:22:54,615 - INFO - Saved card: output\Rhaenor Viracue.png
+2025-03-04 13:22:55,879 - INFO - Saved card: output\Zhaedrus.png
+2025-03-04 13:22:57,073 - INFO - Saved card: output\Balzephon_1.png
+2025-03-04 13:22:58,890 - INFO - Saved card: output\Baelroth.png
+2025-03-04 13:23:00,029 - INFO - Saved card: output\Ebonrynia.png
+2025-03-04 13:23:01,562 - INFO - Saved card: output\Uilliam Thunderblade.png
+2025-03-04 13:23:03,445 - INFO - Saved card: output\Vorgulthrakathar Blightspire.png
+2025-03-04 13:23:05,541 - INFO - Saved card: output\Gharnethion Soulspire.png
+2025-03-04 13:23:07,257 - INFO - Saved card: output\Lirio Ironflame.png
+2025-03-04 13:23:08,780 - INFO - Saved card: output\Vorgulthrak Bonehymn.png
+2025-03-04 13:23:10,384 - INFO - Saved card: output\Ailbe Ironstorm.png
+2025-03-04 13:23:11,958 - INFO - Saved card: output\Lucanor.png
+2025-03-04 13:23:13,482 - INFO - Saved card: output\Dravoxar.png
+2025-03-04 13:23:15,070 - INFO - Saved card: output\Morgtharath Ashflame.png
+2025-03-04 13:23:16,745 - INFO - Saved card: output\Xalgarulathion Vilethorn.png
+2025-03-04 13:23:18,171 - INFO - Saved card: output\Gharnethrakion Ashflame.png
+2025-03-04 13:23:19,793 - INFO - Saved card: output\Zethrax Abyssgaze.png
+2025-03-04 13:23:21,281 - INFO - Saved card: output\Lilithra Skullspire.png
+2025-03-04 13:23:22,843 - INFO - Saved card: output\Tindrith Bastet.png
+2025-03-04 13:23:24,244 - INFO - Saved card: output\Glanis Srdjan.png
+2025-03-04 13:23:25,708 - INFO - Saved card: output\Dravenarathok Rotthorn.png
+2025-03-04 13:23:27,298 - INFO - Saved card: output\Idrith Yupie_1.png
+2025-03-04 13:23:28,884 - INFO - Saved card: output\Daemion.png
+2025-03-04 13:23:30,560 - INFO - Saved card: output\Veylvoxis_1.png
+2025-03-04 13:23:32,195 - INFO - Saved card: output\Aedan Bozidar.png
+2025-03-04 13:23:33,580 - INFO - Saved card: output\Orlando Radovan.png
+2025-03-04 13:23:35,143 - INFO - Saved card: output\Wrathok.png
+2025-03-04 13:23:36,208 - INFO - Saved card: output\Skarvex_1.png
+2025-03-04 13:23:37,328 - INFO - Saved card: output\Xyroth.png
+2025-03-04 13:23:38,396 - INFO - Saved card: output\Brendan Ironwrath.png
+2025-03-04 13:23:39,843 - INFO - Saved card: output\Zynvolkarathul Necrospire.png
+2025-03-04 13:23:41,221 - INFO - Saved card: output\Saelirith Urqu.png
+2025-03-04 13:23:42,732 - INFO - Saved card: output\Vyrelle.png
+2025-03-04 13:23:44,258 - INFO - Saved card: output\Mordrakarok Netherveil.png
+2025-03-04 13:23:45,798 - INFO - Saved card: output\Thestryl.png
+2025-03-04 13:23:47,336 - INFO - Saved card: output\Santino Niko.png
+2025-03-04 13:23:48,842 - INFO - Saved card: output\Kieran Vuk.png
+2025-03-04 13:23:50,393 - INFO - Saved card: output\Melwyn Darkhunter.png
+2025-03-04 13:23:51,923 - INFO - Saved card: output\Xarothraxion Skullveil.png
+2025-03-04 13:23:53,381 - INFO - Saved card: output\Hecatith Nefer.png
+2025-03-04 13:23:54,882 - INFO - Saved card: output\Jaxor.png
+2025-03-04 13:23:56,440 - INFO - Saved card: output\Lyraxa Frostbite.png
+2025-03-04 13:23:57,856 - INFO - Saved card: output\Xalvyr Grimshade.png
+2025-03-04 13:23:59,407 - INFO - Saved card: output\Vexarathokar Soulshade.png
+2025-03-04 13:24:01,048 - INFO - Saved card: output\Vrykkarath Rotgaze.png
+2025-03-04 13:24:02,546 - INFO - Saved card: output\Ravynne.png
+2025-03-04 13:24:04,102 - INFO - Saved card: output\Xalgaratharokar Vilegaze.png
+2025-03-04 13:24:05,541 - INFO - Saved card: output\Luthie Tawpie.png
+2025-03-04 13:24:07,014 - INFO - Saved card: output\Morrigana.png
+2025-03-04 13:24:08,556 - INFO - Saved card: output\Xylaris.png
+2025-03-04 13:24:10,108 - INFO - Saved card: output\Krios Bloodhymn.png
+2025-03-04 13:24:11,596 - INFO - Saved card: output\Xyphora.png
+2025-03-04 13:24:13,059 - INFO - Saved card: output\Daemion_1.png
+2025-03-04 13:24:14,551 - INFO - Saved card: output\Zethraxulath Plaguemaw.png
+2025-03-04 13:24:16,085 - INFO - Saved card: output\Thalzrakulok Grimveil.png
+2025-03-04 13:24:17,523 - INFO - Saved card: output\Morgtharathul Dreadspell.png
+2025-03-04 13:24:19,049 - INFO - Saved card: output\Dravenarokulion Skullflame_1.png
+2025-03-04 13:24:20,561 - INFO - Saved card: output\Thandrina.png
+2025-03-04 13:24:22,095 - INFO - Saved card: output\Gharnethulion Wraithveil.png
+2025-03-04 13:24:23,545 - INFO - Saved card: output\Valacyssa Boneveil_1.png
+2025-03-04 13:24:25,028 - INFO - Saved card: output\Morgtharathar Vileflame.png
+2025-03-04 13:24:26,488 - INFO - Saved card: output\Xymerthra Voidbloom.png
+2025-03-04 13:24:27,994 - INFO - Saved card: output\Uldrath_1.png
+2025-03-04 13:24:29,498 - INFO - Saved card: output\Thalzrakathion Grimspell.png
+2025-03-04 13:24:31,029 - INFO - Saved card: output\Kaeltharok Netherveil.png
+2025-03-04 13:24:32,744 - INFO - Saved card: output\Hesperis Anup.png
+2025-03-04 13:24:34,153 - INFO - Saved card: output\Sylthia.png
+2025-03-04 13:24:35,666 - INFO - Saved card: output\Jarethor.png
+2025-03-04 13:24:37,309 - INFO - Saved card: output\Aerithya Tlaloc.png
+2025-03-04 13:24:38,901 - INFO - Saved card: output\Malgrym.png
+2025-03-04 13:24:40,318 - INFO - Saved card: output\Erebethra Soulflayer.png
+2025-03-04 13:24:41,773 - INFO - Saved card: output\Grimoire.png
+2025-03-04 13:24:43,315 - INFO - Saved card: output\Korthos Blightfang.png
+2025-03-04 13:24:44,943 - INFO - Saved card: output\Vexarathar Duskbane.png
+2025-03-04 13:24:46,495 - INFO - Saved card: output\Kaeltharathar Doomflame.png
+2025-03-04 13:24:48,034 - INFO - Saved card: output\Rhaegal.png
+2025-03-04 13:24:49,510 - INFO - Saved card: output\Wistie Yanie.png
+2025-03-04 13:24:51,069 - INFO - Saved card: output\Wrathok_1.png
+2025-03-04 13:24:52,651 - INFO - Saved card: output\Ebonvoxa.png
+2025-03-04 13:24:54,084 - INFO - Saved card: output\Saelor Urquie.png
+2025-03-04 13:24:55,325 - INFO - Saved card: output\Vynarith Titic.png
+2025-03-04 13:24:56,735 - INFO - Saved card: output\Thalzrakathion Grimspell_1.png
+2025-03-04 13:24:58,182 - INFO - Saved card: output\Jaxanor.png
+2025-03-04 13:24:59,459 - INFO - Saved card: output\Calypsor.png
+2025-03-04 13:25:00,751 - INFO - Saved card: output\Valkor.png
+2025-03-04 13:25:02,220 - INFO - Saved card: output\Naoise Warforge.png
+2025-03-04 13:25:03,408 - INFO - Saved card: output\Xanthessa Grimvein.png
+2025-03-04 13:25:04,788 - INFO - Saved card: output\Jazrael.png
+2025-03-04 13:25:05,856 - INFO - Saved card: output\Malachy Sasa.png
+2025-03-04 13:25:07,235 - INFO - Saved card: output\Talia Lysandra.png
+2025-03-04 13:25:08,386 - INFO - Saved card: output\Oisin Flameheart.png
+2025-03-04 13:25:10,357 - INFO - Saved card: output\Draegor.png
+2025-03-04 13:25:11,606 - INFO - Saved card: output\Keegan Thunderclaw.png
+2025-03-04 13:25:12,831 - INFO - Saved card: output\Zynvolkarion Ashhymn.png
+2025-03-04 13:25:14,264 - INFO - Saved card: output\Xypharion Nethergaze.png
+2025-03-04 13:25:15,312 - INFO - Saved card: output\Thalvryssa Deathspire_1.png
+2025-03-04 13:25:17,173 - INFO - Saved card: output\Vorgulthrakion Frostshade.png
+2025-03-04 13:25:18,497 - INFO - Saved card: output\Cazadrax.png
+2025-03-04 13:25:19,805 - INFO - Saved card: output\Nerezza.png
+2025-03-04 13:25:20,981 - INFO - Saved card: output\Nerys Ptahbelle.png
+2025-03-04 13:25:22,931 - INFO - Saved card: output\Briseith Qetzal.png
+2025-03-04 13:25:24,109 - INFO - Saved card: output\Gharnetharul Ashspell.png
+2025-03-04 13:25:25,404 - INFO - Saved card: output\Mirabelle Nyxara.png
+2025-03-04 13:25:26,738 - INFO - Saved card: output\Calanthir Forestspirit.png
+2025-03-04 13:25:27,951 - INFO - Saved card: output\Jaxanor_1.png
+2025-03-04 13:25:29,130 - INFO - Saved card: output\Taralynn.png
+2025-03-04 13:25:30,394 - INFO - Saved card: output\Xythera.png
+2025-03-04 13:25:31,837 - INFO - Saved card: output\Nerezza_1.png
+2025-03-04 13:25:32,977 - INFO - Saved card: output\Ronan Bladestorm.png
+2025-03-04 13:25:34,266 - INFO - Saved card: output\Beppo Thunderfury.png
+2025-03-04 13:25:35,384 - INFO - Saved card: output\Nerys Ptahbelle_1.png
+2025-03-04 13:25:36,749 - INFO - Saved card: output\Naoise Warforge_1.png
+2025-03-04 13:25:38,213 - INFO - Saved card: output\Synrax.png
+2025-03-04 13:25:39,944 - INFO - Saved card: output\Zethraxarokath Plaguehymn.png
+2025-03-04 13:25:41,473 - INFO - Saved card: output\Ciaran Thunderfury.png
+2025-03-04 13:25:42,855 - INFO - Saved card: output\Tomas Frostreaver.png
+2025-03-04 13:25:44,308 - INFO - Saved card: output\Wyzrael.png
+2025-03-04 13:25:45,759 - INFO - Saved card: output\Azumbra.png
+2025-03-04 13:25:47,326 - INFO - Saved card: output\Eamon Bloodfang.png
+2025-03-04 13:25:48,956 - INFO - Saved card: output\Paolo Warspike.png
+2025-03-04 13:25:50,609 - INFO - Saved card: output\Vorgulthrakion Dreadflame.png
+2025-03-04 13:25:52,169 - INFO - Saved card: output\Ysmer Qoribee.png
+2025-03-04 13:25:53,621 - INFO - Saved card: output\Thestryl_1.png
+2025-03-04 13:25:55,283 - INFO - Saved card: output\Vrykkarokion Boneflame.png
+2025-03-04 13:25:56,742 - INFO - Saved card: output\Xyraphon.png
+2025-03-04 13:25:58,229 - INFO - Saved card: output\Faelgrim.png
+2025-03-04 13:25:59,741 - INFO - Saved card: output\Malgrym_1.png
+2025-03-04 13:26:01,385 - INFO - Saved card: output\Vexaratharion Soulveil.png
+2025-03-04 13:26:02,964 - INFO - Saved card: output\Zynvyrion Ghoulspell.png
+2025-03-04 13:26:04,469 - INFO - Saved card: output\Xarotharath Soulmaw.png
+2025-03-04 13:26:06,039 - INFO - Saved card: output\Korthan Blackvein.png
+2025-03-04 13:26:07,521 - INFO - Saved card: output\Caelgrim.png
+2025-03-04 13:26:09,001 - INFO - Saved card: output\Uzark.png
+2025-03-04 13:26:10,612 - INFO - Saved card: output\Xalgarulokar Vilethorn.png
+2025-03-04 13:26:12,109 - INFO - Saved card: output\Zynvolkarul Necroshade.png
+2025-03-04 13:26:13,485 - INFO - Saved card: output\Xyroth_1.png
+2025-03-04 13:26:14,842 - INFO - Saved card: output\Zivor Suppie.png
+2025-03-04 13:26:16,337 - INFO - Saved card: output\Elio Ironfury.png
+2025-03-04 13:26:17,643 - INFO - Saved card: output\Vornash Darkhymn.png
+2025-03-04 13:26:19,029 - INFO - Saved card: output\Malachy Sasa_1.png
+2025-03-04 13:26:20,448 - INFO - Saved card: output\Lithyssa.png
+2025-03-04 13:26:21,905 - INFO - Saved card: output\Teo Warshadow.png
+2025-03-04 13:26:23,463 - INFO - Saved card: output\Kaeltharathion Doomgaze.png
+2025-03-04 13:26:24,959 - INFO - Saved card: output\Zynvyrathion Necroshade.png
+2025-03-04 13:26:26,434 - INFO - Saved card: output\Ulrak.png
+2025-03-04 13:26:27,805 - INFO - Saved card: output\Phaedris.png
+2025-03-04 13:26:29,288 - INFO - Saved card: output\Oisin Flameheart_1.png
+2025-03-04 13:26:30,656 - INFO - Saved card: output\Thalzrakathul Grimspire.png
+2025-03-04 13:26:32,213 - INFO - Saved card: output\Ozymandis.png
+2025-03-04 13:26:33,663 - INFO - Saved card: output\Mystyss.png
+2025-03-04 13:26:35,036 - INFO - Saved card: output\Zultharathar Frostspell.png
+2025-03-04 13:26:36,515 - INFO - Saved card: output\Quillan Ironmight.png
+2025-03-04 13:26:37,913 - INFO - Saved card: output\Calior Tiahette.png
+2025-03-04 13:26:39,259 - INFO - Saved card: output\Saelor Urquie_1.png
+2025-03-04 13:26:40,710 - INFO - Saved card: output\Vynther.png
+2025-03-04 13:26:42,023 - INFO - Saved card: output\Vornash Darkhymn_1.png
+2025-03-04 13:26:43,445 - INFO - Saved card: output\Vexarion Dreadshriek.png
+2025-03-04 13:26:44,955 - INFO - Saved card: output\Osirion.png
+2025-03-04 13:26:46,397 - INFO - Saved card: output\Qilvor Cusie.png
+2025-03-04 13:26:47,898 - INFO - Saved card: output\Zephyris Quill.png
+2025-03-04 13:26:49,341 - INFO - Saved card: output\Iraelynn.png
+2025-03-04 13:26:50,929 - INFO - Saved card: output\Ravynumbra.png
+2025-03-04 13:26:52,431 - INFO - Saved card: output\Veylithra.png
+2025-03-04 13:26:53,918 - INFO - Saved card: output\Zelvox.png
+2025-03-04 13:26:55,255 - INFO - Saved card: output\Ciaran Matej_1.png
+2025-03-04 13:26:56,656 - INFO - Saved card: output\Valtorina Darkdream.png
+2025-03-04 13:26:58,097 - INFO - Saved card: output\Nyxara Seraphine.png
+2025-03-04 13:26:59,610 - INFO - Saved card: output\Kivaraya Ollant.png
+2025-03-04 13:27:01,136 - INFO - Saved card: output\Phaedie Tumie_1.png
+2025-03-04 13:27:02,661 - INFO - Saved card: output\Vaelor Khonsie.png
+2025-03-04 13:27:04,146 - INFO - Saved card: output\Melisarae Frostshade.png
+2025-03-04 13:27:05,651 - INFO - Saved card: output\Xypharokul Wraithspell.png
+2025-03-04 13:27:07,106 - INFO - Saved card: output\Myrvoxis Amaru.png
+2025-03-04 13:27:08,675 - INFO - Saved card: output\Sarixara Necroshade_1.png
+2025-03-04 13:27:10,144 - INFO - Saved card: output\Hellebor.png
+2025-03-04 13:27:11,515 - INFO - Saved card: output\Zorana.png
+2025-03-04 13:27:12,996 - INFO - Saved card: output\Eriolira Starweaver.png
+2025-03-04 13:27:14,597 - INFO - Saved card: output\Galathor.png
+2025-03-04 13:27:16,005 - INFO - Saved card: output\Xanthessa Grimvein_1.png
+2025-03-04 13:27:17,500 - INFO - Saved card: output\Mordrix.png
+2025-03-04 13:27:18,978 - INFO - Saved card: output\Xarumbra.png
+2025-03-04 13:27:20,386 - INFO - Saved card: output\Vynvoxis.png
+2025-03-04 13:27:21,812 - INFO - Saved card: output\Erynie Qetzie_1.png
+2025-03-04 13:27:23,307 - INFO - Saved card: output\Juno Seraphine.png
+2025-03-04 13:27:24,814 - INFO - Saved card: output\Vexenya Corpsebloom.png
+2025-03-04 13:27:26,303 - INFO - Saved card: output\Kethriana Shadowfire.png
+2025-03-04 13:27:27,780 - INFO - Saved card: output\Nythrax.png
+2025-03-04 13:27:29,194 - INFO - Saved card: output\Arachne Blackwidow.png
+2025-03-04 13:27:30,705 - INFO - Saved card: output\Hecatys.png
+2025-03-04 13:27:32,185 - INFO - Saved card: output\Eclipsia.png
+2025-03-04 13:27:33,784 - INFO - Saved card: output\Malachy Sasa_2.png
+2025-03-04 13:27:35,288 - INFO - Saved card: output\Vaelthar Fellshade.png
+2025-03-04 13:27:36,847 - INFO - Saved card: output\Xypharul Witherflame.png
+2025-03-04 13:27:38,354 - INFO - Saved card: output\Morvane Darkfate.png
+2025-03-04 13:27:39,788 - INFO - Saved card: output\Brontie Tlaltie.png
+2025-03-04 13:27:41,271 - INFO - Saved card: output\Grimvayne.png
+2025-03-04 13:27:42,791 - INFO - Saved card: output\Zynvyrion Ghoulspell_1.png
+2025-03-04 13:27:44,362 - INFO - Saved card: output\Melwynn Darkfire.png
+2025-03-04 13:27:46,011 - INFO - Saved card: output\Matteo Ironvalor.png
+2025-03-04 13:27:47,486 - INFO - Saved card: output\Drakthar_1.png
+2025-03-04 13:27:49,044 - INFO - Saved card: output\Arachnia Webmistress.png
+2025-03-04 13:27:50,585 - INFO - Saved card: output\Duskumbra.png
+2025-03-04 13:27:52,102 - INFO - Saved card: output\Morgwynn Vilethorn.png
+2025-03-04 13:27:53,538 - INFO - Saved card: output\Orlando Thunderblade_1.png
+2025-03-04 13:27:54,967 - INFO - Saved card: output\Delphie Qhapie.png
+2025-03-04 13:27:56,465 - INFO - Saved card: output\Tenevox_1.png
+2025-03-04 13:27:57,937 - INFO - Saved card: output\Wraithor.png
+2025-03-04 13:27:59,466 - INFO - Saved card: output\Mirion Topie.png
+2025-03-04 13:28:01,067 - INFO - Saved card: output\Ravynvox.png
+2025-03-04 13:28:02,582 - INFO - Saved card: output\Tenevoxar.png
+2025-03-04 13:28:04,085 - INFO - Saved card: output\Thalzur Skullspire.png
+2025-03-04 13:28:05,579 - INFO - Saved card: output\Zola Elowen.png
+2025-03-04 13:28:07,037 - INFO - Saved card: output\Jorie Chaskie_1.png
+2025-03-04 13:28:08,493 - INFO - Saved card: output\Thalumbra.png
+2025-03-04 13:28:09,987 - INFO - Saved card: output\Uvanis Wiraqie.png
+2025-03-04 13:28:11,508 - INFO - Saved card: output\Zytherix Blightmaw.png
+2025-03-04 13:28:12,940 - INFO - Saved card: output\Giorgio Frostbane.png
+2025-03-04 13:28:14,283 - INFO - Saved card: output\Ebonumbra_1.png
+2025-03-04 13:28:15,745 - INFO - Saved card: output\Zola Elowen_1.png
+2025-03-04 13:28:17,182 - INFO - Saved card: output\Nyktoria Shadowglow.png
+2025-03-04 13:28:18,678 - INFO - Saved card: output\Hecatie Neffie.png
+2025-03-04 13:28:20,219 - INFO - Saved card: output\Alaric Thunderlord.png
+2025-03-04 13:28:21,663 - INFO - Saved card: output\Sylvara.png
+2025-03-04 13:28:23,206 - INFO - Saved card: output\Zethraxarokar Plagueclaw.png
+2025-03-04 13:28:24,826 - INFO - Saved card: output\Xanthorae Witherspell.png
+2025-03-04 13:28:26,347 - INFO - Saved card: output\Tharrosa Bloodrose.png
+2025-03-04 13:28:27,790 - INFO - Saved card: output\Cythereya Anqet.png
+2025-03-04 13:28:29,434 - INFO - Saved card: output\Noctivyn.png
+2025-03-04 13:28:31,103 - INFO - Saved card: output\Ebonthra.png
+2025-03-04 13:28:32,659 - INFO - Saved card: output\Zola Thalindra.png
+2025-03-04 13:28:34,317 - INFO - Saved card: output\Wynter Morwenna.png
+2025-03-04 13:28:35,933 - INFO - Saved card: output\Qwynnie Coyette.png
+2025-03-04 13:28:37,384 - INFO - Saved card: output\Vorgathia Mirestalker.png
+2025-03-04 13:28:38,962 - INFO - Saved card: output\Keira Thalindra.png
+2025-03-04 13:28:40,470 - INFO - Saved card: output\Eirabell Battlecry_1.png
+2025-03-04 13:28:41,936 - INFO - Saved card: output\Xylonia Wulfric.png
+2025-03-04 13:28:43,460 - INFO - Saved card: output\Vorthyssa Dreadmaw.png
+2025-03-04 13:28:44,895 - INFO - Saved card: output\Elara Elowen_2.png
+2025-03-04 13:28:46,378 - INFO - Saved card: output\Duskara_1.png
+2025-03-04 13:28:47,903 - INFO - Saved card: output\Morwenna Elowen_1.png
+2025-03-04 13:28:49,486 - INFO - Saved card: output\Eriolira Starweaver_1.png
+2025-03-04 13:28:51,027 - INFO - Saved card: output\Maevi Puffora.png
+2025-03-04 13:28:52,537 - INFO - Saved card: output\Fauna Aelindra.png
+2025-03-04 13:28:54,015 - INFO - Saved card: output\Eiravyn Starweaver.png
+2025-03-04 13:28:55,460 - INFO - Saved card: output\Xanphira Necrospell.png
+2025-03-04 13:28:57,032 - INFO - Saved card: output\Elrythia.png
+2025-03-04 13:28:58,641 - INFO - Saved card: output\Karthos Blightshade.png
+2025-03-04 13:29:00,153 - INFO - Saved card: output\Faelindra Machara.png
+2025-03-04 13:29:01,835 - INFO - Saved card: output\Brynja Battlequeen.png
+2025-03-04 13:29:03,389 - INFO - Saved card: output\Zarie Intipie.png
+2025-03-04 13:29:04,890 - INFO - Saved card: output\Throkkmora Battlecry.png
+2025-03-04 13:29:06,566 - INFO - Saved card: output\Fionn Skybreaker.png
+2025-03-04 13:29:08,006 - INFO - Saved card: output\Xypharokarion Wraiththorn.png
+2025-03-04 13:29:09,534 - INFO - Saved card: output\Cian Thunderlord.png
+2025-03-04 13:29:11,100 - INFO - Saved card: output\Iarla Jaromir.png
+2025-03-04 13:29:12,607 - INFO - Saved card: output\Xarothos Necroflame.png
+2025-03-04 13:29:14,125 - INFO - Saved card: output\Helena Zephyra.png
+2025-03-04 13:29:15,624 - INFO - Saved card: output\Xanphira Necrospell_1.png
+2025-03-04 13:29:17,166 - INFO - Saved card: output\Thalgorion Frostspire.png
+2025-03-04 13:29:18,649 - INFO - Saved card: output\Ebonvoxa_1.png
+2025-03-04 13:29:20,147 - INFO - Saved card: output\Vexor.png
+2025-03-04 13:29:21,627 - INFO - Saved card: output\Tiziano Stormreaver.png
+2025-03-04 13:29:23,038 - INFO - Saved card: output\Brendan Ironwrath_1.png
+2025-03-04 13:29:24,553 - INFO - Saved card: output\Erykthos_1.png
+2025-03-04 13:29:26,079 - INFO - Saved card: output\Eiravynne Starlight.png
+2025-03-04 13:29:27,594 - INFO - Saved card: output\Eirlys Sunblaze.png
+2025-03-04 13:29:29,111 - INFO - Saved card: output\Lyraxa Frostbite_1.png
+2025-03-04 13:29:30,683 - INFO - Saved card: output\Nova Thalindra.png
+2025-03-04 13:29:32,230 - INFO - Saved card: output\Galadryth Intiq.png
+2025-03-04 13:29:33,800 - INFO - Saved card: output\Nyxara Seraphine_1.png
+2025-03-04 13:29:35,303 - INFO - Saved card: output\Yara Morwenna.png
+2025-03-04 13:29:36,943 - INFO - Saved card: output\Gharnethrakul Ashveil.png
+2025-03-04 13:29:38,432 - INFO - Saved card: output\Xymerthra Voidbloom_1.png
+2025-03-04 13:29:39,935 - INFO - Saved card: output\Arachnea Venomspire.png
+2025-03-04 13:29:41,451 - INFO - Saved card: output\Celeste Isolde.png
+2025-03-04 13:29:43,017 - INFO - Saved card: output\Lyrielle Tazara.png
+2025-03-04 13:29:44,580 - INFO - Saved card: output\Vorgulthrakath Blighthymn.png
+2025-03-04 13:29:46,039 - INFO - Saved card: output\Krios Bloodhymn_1.png
+2025-03-04 13:29:47,484 - INFO - Saved card: output\Morgwynthra Ashspire_1.png
+2025-03-04 13:29:48,903 - INFO - Saved card: output\Glorie Intipie.png
+2025-03-04 13:29:50,403 - INFO - Saved card: output\Thestryl_2.png
+2025-03-04 13:29:51,905 - INFO - Saved card: output\Aerie Tlallie.png
+2025-03-04 13:29:53,408 - INFO - Saved card: output\Valacara Deathspell.png
+2025-03-04 13:29:54,850 - INFO - Saved card: output\Milo Thunderforge.png
+2025-03-04 13:29:56,368 - INFO - Saved card: output\Saphie Sekhmie.png
+2025-03-04 13:29:57,886 - INFO - Saved card: output\Zynvyrathion Necroshade_1.png
+2025-03-04 13:29:59,444 - INFO - Saved card: output\Jormax.png
+2025-03-04 13:30:01,031 - INFO - Saved card: output\Xarenza Dragonheart.png
+2025-03-04 13:30:02,474 - INFO - Saved card: output\Pyri Sekhette.png
+2025-03-04 13:30:04,181 - INFO - Saved card: output\Faelie Mancie.png
+2025-03-04 13:30:05,752 - INFO - Saved card: output\Glorianith Intir.png
+2025-03-04 13:30:07,335 - INFO - Saved card: output\Saphirith Sekhm.png
+2025-03-04 13:30:08,824 - INFO - Saved card: output\Fauna Aelindra_1.png
+2025-03-04 13:30:10,346 - INFO - Saved card: output\Uvaniath Wiraq.png
+2025-03-04 13:30:11,848 - INFO - Saved card: output\Freya Lysandra.png
+2025-03-04 13:30:13,483 - INFO - Saved card: output\Vryxarok Soulshriek.png
+2025-03-04 13:30:15,256 - INFO - Saved card: output\Morwenna Elowen_2.png
+2025-03-04 13:30:16,796 - INFO - Saved card: output\Myrkulthra Boneweaver.png
+2025-03-04 13:30:18,363 - INFO - Saved card: output\Gharnetharok Ashgaze.png
+2025-03-04 13:30:19,727 - INFO - Saved card: output\Jaraxus.png
+2025-03-04 13:30:21,231 - INFO - Saved card: output\Qinvaris.png
+2025-03-04 13:30:22,690 - INFO - Saved card: output\Vrykolak Mournshade.png
+2025-03-04 13:30:24,148 - INFO - Saved card: output\Vorgulthrakath Blightshriek.png
+2025-03-04 13:30:25,452 - INFO - Saved card: output\Lirvoxis.png
+2025-03-04 13:30:26,892 - INFO - Saved card: output\Hecatara Soulscourge.png
+2025-03-04 13:30:28,303 - INFO - Saved card: output\Morvane Darkmagic_1.png
+2025-03-04 13:30:29,805 - INFO - Saved card: output\Niall Radoslav.png
+2025-03-04 13:30:31,261 - INFO - Saved card: output\Xalgaratharion Vilespire.png
+2025-03-04 13:30:32,748 - INFO - Saved card: output\Nyktoria Shadowdancer.png
+2025-03-04 13:30:34,403 - INFO - Saved card: output\Lithyssa_1.png
+2025-03-04 13:30:36,112 - INFO - Saved card: output\Xanthorae Witherspell_1.png
+2025-03-04 13:30:37,658 - INFO - Saved card: output\Lirvoxis_1.png
+2025-03-04 13:30:39,198 - INFO - Saved card: output\Ixidor.png
+2025-03-04 13:30:40,640 - INFO - Saved card: output\Delphie Qhapie_1.png
+2025-03-04 13:30:42,103 - INFO - Saved card: output\Maelor Qetzie.png
+2025-03-04 13:30:43,571 - INFO - Saved card: output\Seraphis Ankhie.png
+2025-03-04 13:30:45,056 - INFO - Saved card: output\Naevyssa Quilla.png
+2025-03-04 13:30:46,520 - INFO - Saved card: output\Calanthira Forestheart.png
+2025-03-04 13:30:48,040 - INFO - Saved card: output\Tadhg Warspike.png
+2025-03-04 13:30:49,533 - INFO - Saved card: output\Xarothraxion Skullveil_1.png
+2025-03-04 13:30:50,994 - INFO - Saved card: output\Zarie Intipie_1.png
+2025-03-04 13:30:52,488 - INFO - Saved card: output\Tarynie Ptahie.png
+2025-03-04 13:30:54,063 - INFO - Saved card: output\Xeridian Nightshade.png
+2025-03-04 13:30:55,557 - INFO - Saved card: output\Azrithia.png
+2025-03-04 13:30:57,140 - INFO - Saved card: output\Umberto Ironclad.png
+2025-03-04 13:30:58,627 - INFO - Saved card: output\Xarvoxar.png
+2025-03-04 13:31:00,110 - INFO - Saved card: output\Xyraphon_1.png
+2025-03-04 13:31:01,803 - INFO - Saved card: output\Yara Morwenna_1.png
+2025-03-04 13:31:03,639 - INFO - Saved card: output\Sarixel Witherthorn.png
+2025-03-04 13:31:05,450 - INFO - Saved card: output\Kavan Zoran.png
+2025-03-04 13:31:07,138 - INFO - Saved card: output\Aurora Zephyra.png
+2025-03-04 13:31:08,712 - INFO - Saved card: output\Zelthar.png
+2025-03-04 13:31:10,139 - INFO - Saved card: output\Thestryl_3.png
+2025-03-04 13:31:11,645 - INFO - Saved card: output\Erebethra Soulflayer_1.png
+2025-03-04 13:31:13,211 - INFO - Saved card: output\Glorian Intipie.png
+2025-03-04 13:31:14,689 - INFO - Saved card: output\Umbrivox.png
+2025-03-04 13:31:16,122 - INFO - Saved card: output\Eirabell Battleborn.png
+2025-03-04 13:31:17,674 - INFO - Saved card: output\Callista Seraphine.png
+2025-03-04 13:31:19,151 - INFO - Saved card: output\Sylvi Coyette.png
+2025-03-04 13:31:20,637 - INFO - Saved card: output\Heliorith Neith.png
+2025-03-04 13:31:22,121 - INFO - Saved card: output\Throkkmora Battlecry_1.png
+2025-03-04 13:31:23,656 - INFO - Saved card: output\Hellebor_1.png
+2025-03-04 13:31:25,110 - INFO - Saved card: output\Azarathys Blackthorn.png
+2025-03-04 13:31:26,582 - INFO - Saved card: output\Ophie Huancie.png
+2025-03-04 13:31:28,029 - INFO - Saved card: output\Umbrathar.png
+2025-03-04 13:31:29,534 - INFO - Saved card: output\Noctvox.png
+2025-03-04 13:31:31,051 - INFO - Saved card: output\Zultharion Ashspire.png
+2025-03-04 13:31:32,464 - INFO - Saved card: output\Isolthra Maevox.png
+2025-03-04 13:31:33,957 - INFO - Saved card: output\Indira Nyxara_1.png
+2025-03-04 13:31:35,413 - INFO - Saved card: output\Padrig Stormfury.png
+2025-03-04 13:31:36,860 - INFO - Saved card: output\Thalina Zephyr_1.png
+2025-03-04 13:31:38,497 - INFO - Saved card: output\Zelphira.png
+2025-03-04 13:31:39,963 - INFO - Saved card: output\Hadruk.png
+2025-03-04 13:31:41,393 - INFO - Saved card: output\Gharnethion Soulspire_1.png
+2025-03-04 13:31:42,797 - INFO - Saved card: output\Evokar.png
+2025-03-04 13:31:44,381 - INFO - Saved card: output\Ophie Huancie_1.png
+2025-03-04 13:31:45,874 - INFO - Saved card: output\Kortharion Blightflame.png
+2025-03-04 13:31:47,279 - INFO - Saved card: output\Throkkmora Battlecry_2.png
+2025-03-04 13:31:48,754 - INFO - Saved card: output\Eirbelle Calily.png
+2025-03-04 13:31:50,258 - INFO - Saved card: output\Thalzrak Doomveil.png
+2025-03-04 13:31:52,074 - INFO - Saved card: output\Wrathok_2.png
+2025-03-04 13:31:53,640 - INFO - Saved card: output\Uma Thalindra.png
+2025-03-04 13:31:55,216 - INFO - Saved card: output\Irkulth.png
+2025-03-04 13:31:56,673 - INFO - Saved card: output\Maelie Qetzie.png
+2025-03-04 13:31:58,185 - INFO - Saved card: output\Nihlarae Soulrend.png
+2025-03-04 13:31:59,707 - INFO - Saved card: output\Arachnia Webweaver.png
+2025-03-04 13:32:01,345 - INFO - Saved card: output\Ravynvox_1.png
+2025-03-04 13:32:03,293 - INFO - Saved card: output\Thalia Moonwhisper.png
+2025-03-04 13:32:05,122 - INFO - Saved card: output\Eoghan Nemanja.png
+2025-03-04 13:32:06,657 - INFO - Saved card: output\Morglyth Skullshade.png
+2025-03-04 13:32:08,188 - INFO - Saved card: output\Jazrael_1.png
+2025-03-04 13:32:09,609 - INFO - Saved card: output\Sylvarith Coya.png
+2025-03-04 13:32:11,078 - INFO - Saved card: output\Vexmordis Shadowvein.png
+2025-03-04 13:32:12,479 - INFO - Saved card: output\Mystyss_1.png
+2025-03-04 13:32:13,957 - INFO - Saved card: output\Talie Chimue.png
+2025-03-04 13:32:15,456 - INFO - Saved card: output\Thalzrakar Frostthorn.png
+2025-03-04 13:32:16,950 - INFO - Saved card: output\Lyric Tazzie.png
+2025-03-04 13:32:18,515 - INFO - Saved card: output\Faelvoxis.png
+2025-03-04 13:32:20,047 - INFO - Saved card: output\Xalgarathar Bonehymn_1.png
+2025-03-04 13:32:21,533 - INFO - Saved card: output\Azvorynn.png
+2025-03-04 13:32:23,066 - INFO - Saved card: output\Teneumbra.png
+2025-03-04 13:32:24,517 - INFO - Saved card: output\Gwynnie Mancie.png
+2025-03-04 13:32:26,025 - INFO - Saved card: output\Nocthar.png
+2025-03-04 13:32:27,559 - INFO - Saved card: output\Grythok.png
+2025-03-04 13:32:29,053 - INFO - Saved card: output\Xypharathul Witherfire.png
+2025-03-04 13:32:30,492 - INFO - Saved card: output\Tharrosa Bloodrose_1.png
+2025-03-04 13:32:31,951 - INFO - Saved card: output\Dionethra Ankhit.png
+2025-03-04 13:32:33,415 - INFO - Saved card: output\Elara Elowen_3.png
+2025-03-04 13:32:35,143 - INFO - Saved card: output\Nephyssa Plaguesong.png
+2025-03-04 13:32:36,787 - INFO - Saved card: output\Uvanie Wiraqie_1.png
+2025-03-04 13:32:38,516 - INFO - Saved card: output\Cythereya Anqet_1.png
+2025-03-04 13:32:39,935 - INFO - Saved card: output\Gharnethrakulion Ashflayer.png
+2025-03-04 13:32:41,345 - INFO - Saved card: output\Aedan Bozidar_1.png
+2025-03-04 13:32:42,760 - INFO - Saved card: output\Fabio Branko.png
+2025-03-04 13:32:44,243 - INFO - Saved card: output\Thalgor Dreadmaw.png
+2025-03-04 13:32:45,740 - INFO - Saved card: output\Drusian Neffie.png
+2025-03-04 13:32:47,199 - INFO - Saved card: output\Faelithya Manco.png
+2025-03-04 13:32:48,594 - INFO - Saved card: output\Hecatith Nefer_1.png
+2025-03-04 13:32:50,141 - INFO - Saved card: output\Maraxus.png
+2025-03-04 13:32:51,577 - INFO - Saved card: output\Helie Neithie.png
+2025-03-04 13:32:52,978 - INFO - Saved card: output\Hecathyssa Rotmaw.png
+2025-03-04 13:32:54,421 - INFO - Saved card: output\Zha'zix Shadowfire.png
+2025-03-04 13:32:55,965 - INFO - Saved card: output\Veylvoxis_2.png
+2025-03-04 13:32:57,558 - INFO - Saved card: output\Damarok.png
+2025-03-04 13:32:58,974 - INFO - Saved card: output\Zola Thalindra_1.png
+2025-03-04 13:33:00,431 - INFO - Saved card: output\Kaelor Mictie.png
+2025-03-04 13:33:02,118 - INFO - Saved card: output\Duskvox.png
+2025-03-04 13:33:03,918 - INFO - Saved card: output\Xyphora_1.png
+2025-03-04 13:33:05,821 - INFO - Saved card: output\Lyzandor.png
+2025-03-04 13:33:07,643 - INFO - Saved card: output\Xeridiana Moonlit.png
+2025-03-04 13:33:09,302 - INFO - Saved card: output\Sareth.png
+2025-03-04 13:33:10,773 - INFO - Saved card: output\Faerie Huascie.png
+2025-03-04 13:33:12,381 - INFO - Saved card: output\Vaelthar Fellshade_1.png
+2025-03-04 13:33:13,943 - INFO - Saved card: output\Urdessa.png
+2025-03-04 13:33:15,354 - INFO - Saved card: output\Tarynie Ptahie_1.png
+2025-03-04 13:33:16,837 - INFO - Saved card: output\Grimvoxa.png
+2025-03-04 13:33:18,424 - INFO - Saved card: output\Halcyone Tiahua_1.png
+2025-03-04 13:33:19,992 - INFO - Saved card: output\Thalina Zephyr_2.png
+2025-03-04 13:33:21,561 - INFO - Saved card: output\Sylvar Coyette.png
+2025-03-04 13:33:22,994 - INFO - Saved card: output\Grythok_1.png
+2025-03-04 13:33:24,507 - INFO - Saved card: output\Galenira EmeraldEye.png
+2025-03-04 13:33:25,915 - INFO - Saved card: output\Joraelith Chaska.png
+2025-03-04 13:33:27,416 - INFO - Saved card: output\Vorgathia Mirestalker_1.png
+2025-03-04 13:33:28,973 - INFO - Saved card: output\Giorgio Frostbane_1.png
+2025-03-04 13:33:30,464 - INFO - Saved card: output\Gareth Frostwolf.png
+2025-03-04 13:33:31,864 - INFO - Saved card: output\Poppy Nyxara.png
+2025-03-04 13:33:33,340 - INFO - Saved card: output\Gharnethul Frostmaw.png
+2025-03-04 13:33:34,951 - INFO - Saved card: output\Thalassira Darkcoven.png
+2025-03-04 13:33:36,472 - INFO - Saved card: output\Valacara Deathspell_1.png
+2025-03-04 13:33:37,959 - INFO - Saved card: output\Ophie Huancie_2.png
+2025-03-04 13:33:39,461 - INFO - Saved card: output\Sablevoria.png
+2025-03-04 13:33:41,009 - INFO - Saved card: output\Irythiel Qhapaq.png
+2025-03-04 13:33:42,473 - INFO - Saved card: output\Morgath.png
+2025-03-04 13:33:44,057 - INFO - Saved card: output\Vrykkarion Grimveil.png
+2025-03-04 13:33:45,417 - INFO - Saved card: output\Umberto Stjepan.png
+2025-03-04 13:33:46,905 - INFO - Saved card: output\Ilior Qoripie.png
+2025-03-04 13:33:48,579 - INFO - Saved card: output\Morgrimm Bonefiend.png
+2025-03-04 13:33:50,154 - INFO - Saved card: output\Xarenza Dragonfire.png
+2025-03-04 13:33:51,666 - INFO - Saved card: output\Samael.png
+2025-03-04 13:33:53,048 - INFO - Saved card: output\Azathor.png
+2025-03-04 13:33:54,562 - INFO - Saved card: output\Ebonvoxa_2.png
+2025-03-04 13:33:56,111 - INFO - Saved card: output\Quinn Lysandra.png
+2025-03-04 13:33:57,491 - INFO - Saved card: output\Xeridian Nightshade_1.png
+2025-03-04 13:33:58,978 - INFO - Saved card: output\Isolthra Maevox_1.png
+2025-03-04 13:34:00,473 - INFO - Saved card: output\Aelindryth Anub.png
+2025-03-04 13:34:02,276 - INFO - Saved card: output\Cian Darko.png
+2025-03-04 13:34:03,975 - INFO - Saved card: output\Xylonia Wulfguard.png
+2025-03-04 13:34:05,535 - INFO - Saved card: output\Briseith Qetzal_1.png
+2025-03-04 13:34:06,936 - INFO - Saved card: output\Kethril Moonhunter.png
+2025-03-04 13:34:08,425 - INFO - Saved card: output\Delphinyth Qhapa_1.png
+2025-03-04 13:34:09,941 - INFO - Saved card: output\Xyndrith Tlal.png
+2025-03-04 13:34:11,475 - INFO - Saved card: output\Lilithyssa Darkhymn.png
+2025-03-04 13:34:13,008 - INFO - Saved card: output\Morgtharulath Dreadthorn.png
+2025-03-04 13:34:14,490 - INFO - Saved card: output\Piero Stormvalor.png
+2025-03-04 13:34:16,086 - INFO - Saved card: output\Kaelthar Venomspell_1.png
+2025-03-04 13:34:17,574 - INFO - Saved card: output\Zultharathar Frostspell_1.png
+2025-03-04 13:34:19,057 - INFO - Saved card: output\Lirienn.png
+2025-03-04 13:34:20,568 - INFO - Saved card: output\Iarla Jaromir_1.png
+2025-03-04 13:34:22,078 - INFO - Saved card: output\Xeridiana Moonwhisper.png
+2025-03-04 13:34:23,619 - INFO - Saved card: output\Elthie Qhapie.png
+2025-03-04 13:34:25,142 - INFO - Saved card: output\Hearn Vinko.png
+2025-03-04 13:34:26,698 - INFO - Saved card: output\Malgrim Plaguefire.png
+2025-03-04 13:34:28,154 - INFO - Saved card: output\Dravenarokulath Skullshade.png
+2025-03-04 13:34:29,721 - INFO - Saved card: output\Wisterith Yana_1.png
+2025-03-04 13:34:31,226 - INFO - Saved card: output\Eirabell Battlecry_2.png
+2025-03-04 13:34:32,728 - INFO - Saved card: output\Azarathra Mournfire.png
+2025-03-04 13:34:34,294 - INFO - Saved card: output\Malphas.png
+2025-03-04 13:34:36,128 - INFO - Saved card: output\Eldazyr.png
+2025-03-04 13:34:37,943 - INFO - Saved card: output\Belladonna.png
+2025-03-04 13:34:39,477 - INFO - Saved card: output\Xyphera.png
+2025-03-04 13:34:41,025 - INFO - Saved card: output\Vaelie Mawk.png
+2025-03-04 13:34:42,612 - INFO - Saved card: output\Zelumbra.png
+2025-03-04 13:34:44,166 - INFO - Saved card: output\Wyllor Suppie.png
+2025-03-04 13:34:45,721 - INFO - Saved card: output\Kavan Stormfang.png
+2025-03-04 13:34:47,385 - INFO - Saved card: output\Zynvoxis.png
+2025-03-04 13:34:48,894 - INFO - Saved card: output\Ysenneth Voidrend_1.png
+2025-03-04 13:34:50,347 - INFO - Saved card: output\Xanthessa Grimvein_2.png
+2025-03-04 13:34:51,833 - INFO - Saved card: output\Callista Seraphine_1.png
+2025-03-04 13:34:53,382 - INFO - Saved card: output\Ysmer Qoribee_1.png
+2025-03-04 13:34:54,859 - INFO - Saved card: output\Zoryssis Fellshade.png
+2025-03-04 13:34:56,330 - INFO - Saved card: output\Tadhg Goran.png
+2025-03-04 13:34:57,814 - INFO - Saved card: output\Zhaedrus_1.png
+2025-03-04 13:34:59,519 - INFO - Saved card: output\Noctvoxar.png
+2025-03-04 13:35:01,009 - INFO - Saved card: output\Kaelie Micti.png
+2025-03-04 13:35:02,586 - INFO - Saved card: output\Kaeltharok Netherveil_1.png
+2025-03-04 13:35:04,514 - INFO - Saved card: output\Thalamar.png
+2025-03-04 13:35:06,304 - INFO - Saved card: output\Qrazgul.png
+2025-03-04 13:35:07,960 - INFO - Saved card: output\Xarumbra_1.png
+2025-03-04 13:35:09,357 - INFO - Saved card: output\Elystris Wraithbloom.png
+2025-03-04 13:35:10,918 - INFO - Saved card: output\Uzark_1.png
+2025-03-04 13:35:12,453 - INFO - Saved card: output\Mordrakarok Netherhymn.png
+2025-03-04 13:35:14,024 - INFO - Saved card: output\Korrath.png
+2025-03-04 13:35:15,578 - INFO - Saved card: output\Brynhildr Ironshield_1.png
+2025-03-04 13:35:17,075 - INFO - Saved card: output\Keira Thalindra_1.png
+2025-03-04 13:35:18,617 - INFO - Saved card: output\Faelor Machie.png
+2025-03-04 13:35:20,096 - INFO - Saved card: output\Diomie Huay.png
+2025-03-04 13:35:21,724 - INFO - Saved card: output\Zultharathion Frostthorn_1.png
+2025-03-04 13:35:23,244 - INFO - Saved card: output\Zynie Mawk.png
+2025-03-04 13:35:24,687 - INFO - Saved card: output\Grimoire_1.png
+2025-03-04 13:35:26,170 - INFO - Saved card: output\Beatrix Nyxara.png
+2025-03-04 13:35:27,633 - INFO - Saved card: output\Ivor Warflame.png
+2025-03-04 13:35:29,084 - INFO - Saved card: output\Uvaniath Wiraq_1.png
+2025-03-04 13:35:30,669 - INFO - Saved card: output\Morgathra Fellshriek.png
+2025-03-04 13:35:32,159 - INFO - Saved card: output\Enzo Andrija.png
+2025-03-04 13:35:33,769 - INFO - Saved card: output\Delphie Qhapie_2.png
+2025-03-04 13:35:35,499 - INFO - Saved card: output\Xalindra Nightshriek.png
+2025-03-04 13:35:37,171 - INFO - Saved card: output\Tenevoxis.png
+2025-03-04 13:35:38,760 - INFO - Saved card: output\Freya Lysandra_1.png
+2025-03-04 13:35:40,272 - INFO - Saved card: output\Morgthul Rotveil.png
+2025-03-04 13:35:41,920 - INFO - Saved card: output\Malgrym_2.png
+2025-03-04 13:35:43,402 - INFO - Saved card: output\Thalassira Darkcoven_1.png
+2025-03-04 13:35:44,982 - INFO - Saved card: output\Xylander.png
+2025-03-04 13:35:46,579 - INFO - Saved card: output\Vorgulthrakion Blightveil.png
+2025-03-04 13:35:48,026 - INFO - Saved card: output\Lirio Ironflame_1.png
+2025-03-04 13:35:49,506 - INFO - Saved card: output\Gharnethulion Wraithveil_1.png
+2025-03-04 13:35:51,074 - INFO - Saved card: output\Aelindra Seraphine_1.png
+2025-03-04 13:35:52,556 - INFO - Saved card: output\Umbrynne.png
+2025-03-04 13:35:54,065 - INFO - Saved card: output\Kortharath Necroshriek.png
+2025-03-04 13:35:55,552 - INFO - Saved card: output\Sylthar_1.png
+2025-03-04 13:35:57,246 - INFO - Saved card: output\Szandor.png
+2025-03-04 13:35:58,665 - INFO - Saved card: output\Morumbra.png
+2025-03-04 13:36:00,170 - INFO - Saved card: output\Ylvi Huacie.png
+2025-03-04 13:36:01,870 - INFO - Saved card: output\Lyssie Huayrie.png
+2025-03-04 13:36:03,655 - INFO - Saved card: output\Tarynnya Ptah.png
+2025-03-04 13:36:05,495 - INFO - Saved card: output\Lyriquin Darkmagic.png
+2025-03-04 13:36:07,253 - INFO - Saved card: output\Wyrax.png
+2025-03-04 13:36:08,772 - INFO - Saved card: output\Oisin Milos.png
+2025-03-04 13:36:10,448 - INFO - Saved card: output\Enzo Andrija_1.png
+2025-03-04 13:36:11,862 - INFO - Saved card: output\Taryvox_1.png
+2025-03-04 13:36:13,355 - INFO - Saved card: output\Zylphina.png
+2025-03-04 13:36:14,924 - INFO - Saved card: output\Vaelthar Fellshade_2.png
+2025-03-04 13:36:16,453 - INFO - Saved card: output\Gian Frostbane.png
+2025-03-04 13:36:17,927 - INFO - Saved card: output\Luminyss Voidshriek.png
+2025-03-04 13:36:19,462 - INFO - Saved card: output\Pythor.png
+2025-03-04 13:36:21,097 - INFO - Saved card: output\Xyris Mawkis.png
+2025-03-04 13:36:22,639 - INFO - Saved card: output\Xantheia Supayra.png
+2025-03-04 13:36:24,140 - INFO - Saved card: output\Lyraea Nightingale.png
+2025-03-04 13:36:25,665 - INFO - Saved card: output\Mordrakarok Netherhymn_1.png
+2025-03-04 13:36:27,195 - INFO - Saved card: output\Barathrum.png
+2025-03-04 13:36:28,718 - INFO - Saved card: output\Nefertem Witchwood.png
+2025-03-04 13:36:30,235 - INFO - Saved card: output\Draelith.png
+2025-03-04 13:36:31,677 - INFO - Saved card: output\Daphne Morwenna.png
+2025-03-04 13:36:33,277 - INFO - Saved card: output\Zola Elowen_2.png
+2025-03-04 13:36:34,905 - INFO - Saved card: output\Vexthara Wraithveil.png
+2025-03-04 13:36:36,311 - INFO - Saved card: output\Xylaraeth Darksong.png
+2025-03-04 13:36:37,773 - INFO - Saved card: output\Sylthira.png
+2025-03-04 13:36:39,294 - INFO - Saved card: output\Krystara.png
+2025-03-04 13:36:40,874 - INFO - Saved card: output\Hesperith Anubis.png
+2025-03-04 13:36:42,284 - INFO - Saved card: output\Zivaraya Supay.png
+2025-03-04 13:36:43,864 - INFO - Saved card: output\Ysmer Qoripuff.png
+2025-03-04 13:36:45,404 - INFO - Saved card: output\Zorvath Ghoulfire.png
+2025-03-04 13:36:46,932 - INFO - Saved card: output\Calanthir Forestguard.png
+2025-03-04 13:36:48,485 - INFO - Saved card: output\Noctumbra.png
+2025-03-04 13:36:49,996 - INFO - Saved card: output\Eirabell Battleborn_1.png
+2025-03-04 13:36:51,790 - INFO - Saved card: output\Vespyrra Doomchant.png
+2025-03-04 13:36:53,554 - INFO - Saved card: output\Zynvolkarathul Necrospire_1.png
+2025-03-04 13:36:55,236 - INFO - Saved card: output\Uvaniath Wiraq_2.png
+2025-03-04 13:36:56,844 - INFO - Saved card: output\Eriolira Starweaver_2.png
+2025-03-04 13:36:58,393 - INFO - Saved card: output\Damarok_1.png
+2025-03-04 13:36:59,880 - INFO - Saved card: output\Xanphine Mourngaze.png
+2025-03-04 13:37:01,485 - INFO - Saved card: output\Naevyssa Quilla_1.png
+2025-03-04 13:37:03,213 - INFO - Saved card: output\Kethril Moonhunter_1.png
+2025-03-04 13:37:05,023 - INFO - Saved card: output\Nymira.png
+2025-03-04 13:37:06,602 - INFO - Saved card: output\Beatrix Nyxara_1.png
+2025-03-04 13:37:08,283 - INFO - Saved card: output\Hecatys_1.png
+2025-03-04 13:37:09,807 - INFO - Saved card: output\Vexthara Wraithveil_1.png
+2025-03-04 13:37:11,304 - INFO - Saved card: output\Morgtharathul Dreadgaze.png
+2025-03-04 13:37:12,833 - INFO - Saved card: output\Xalindrya Qoyll.png
+2025-03-04 13:37:14,464 - INFO - Saved card: output\Kryonvar.png
+2025-03-04 13:37:15,946 - INFO - Saved card: output\Ignifera.png
+2025-03-04 13:37:17,578 - INFO - Saved card: output\Jyndor Serkie.png
+2025-03-04 13:37:19,118 - INFO - Saved card: output\Tenebrys.png
+2025-03-04 13:37:20,608 - INFO - Saved card: output\Niall Radoslav_1.png
+2025-03-04 13:37:22,200 - INFO - Saved card: output\Fyrandil.png
+2025-03-04 13:37:23,785 - INFO - Saved card: output\Saelor Urquie_2.png
+2025-03-04 13:37:25,376 - INFO - Saved card: output\Zalthyr Doomspell.png
+2025-03-04 13:37:26,962 - INFO - Saved card: output\Kivie Ollie.png
+2025-03-04 13:37:28,544 - INFO - Saved card: output\Grimvoxis.png
+2025-03-04 13:37:30,138 - INFO - Saved card: output\Zorynthra Fellspell.png
+2025-03-04 13:37:31,778 - INFO - Saved card: output\Hadruk_1.png
+2025-03-04 13:37:33,205 - INFO - Saved card: output\Xanthorae Witherspell_2.png
+2025-03-04 13:37:34,785 - INFO - Saved card: output\Ilie Qoripie.png
+2025-03-04 13:37:36,390 - INFO - Saved card: output\Mordrakarathar Netherspell.png
+2025-03-04 13:37:37,973 - INFO - Saved card: output\Galenira EmeraldEye_1.png
+2025-03-04 13:37:39,653 - INFO - Saved card: output\Ebonthar.png
+2025-03-04 13:37:41,688 - INFO - Saved card: output\Zephyris Luluna.png
+2025-03-04 13:37:43,732 - INFO - Saved card: output\Heliorith Neith_1.png
+2025-03-04 13:37:46,147 - INFO - Saved card: output\Isolily Mayvox.png
+2025-03-04 13:37:48,335 - INFO - Saved card: output\Seraphie Ankhette.png
+2025-03-04 13:37:50,304 - INFO - Saved card: output\Lughan Ironvalor.png
+2025-03-04 13:37:51,943 - INFO - Saved card: output\Morgtharok Vilethorn.png
+2025-03-04 13:37:53,537 - INFO - Saved card: output\Karlo Thunderfury.png
+2025-03-04 13:37:55,032 - INFO - Saved card: output\Urdessa_1.png
+2025-03-04 13:37:56,511 - INFO - Saved card: output\Xypharok Soulrend.png
+2025-03-04 13:37:58,184 - INFO - Saved card: output\Azarathys Blackthorn_1.png
+2025-03-04 13:37:59,837 - INFO - Saved card: output\Hesperie Anulette.png
+2025-03-04 13:38:01,752 - INFO - Saved card: output\Drusillia.png
+2025-03-04 13:38:03,478 - INFO - Saved card: output\Liliandra Wraithmaw.png
+2025-03-04 13:38:04,758 - INFO - Saved card: output\Juno Seraphine_1.png
+2025-03-04 13:38:05,805 - INFO - Saved card: output\Lythari Moonwhisper.png
+2025-03-04 13:38:06,980 - INFO - Saved card: output\Calanthira Forestheart_1.png
+2025-03-04 13:38:08,406 - INFO - Saved card: output\Umbrynne_1.png
+2025-03-04 13:38:09,818 - INFO - Saved card: output\Eriolira Starseeker.png
+2025-03-04 13:38:11,474 - INFO - Saved card: output\Maeloryth Qetz.png
+2025-03-04 13:38:13,287 - INFO - Saved card: output\Zultharathar Frostspell_2.png
+2025-03-04 13:38:14,739 - INFO - Saved card: output\Nocthara_1.png
+2025-03-04 13:38:16,958 - INFO - Saved card: output\Mysandra.png
+2025-03-04 13:38:18,994 - INFO - Saved card: output\Morglyth Skullshade_1.png
+2025-03-04 13:38:20,922 - INFO - Saved card: output\Dravenarokul Vilespire.png
+2025-03-04 13:38:22,992 - INFO - Saved card: output\Brisie Qetzie.png
+2025-03-04 13:38:24,735 - INFO - Saved card: output\Lysandra Starseed.png
+2025-03-04 13:38:26,772 - INFO - Saved card: output\Zephyrion Voidrend.png
+2025-03-04 13:38:28,936 - INFO - Saved card: output\Vespera.png
+2025-03-04 13:38:30,912 - INFO - Saved card: output\Rhianthra Rimac.png
+2025-03-04 13:38:33,163 - INFO - Saved card: output\Zynvoria.png
+2025-03-04 13:38:35,308 - INFO - Saved card: output\Pyreth.png
+2025-03-04 13:38:37,802 - INFO - Saved card: output\Kaeltharathion Doomgaze_1.png
+2025-03-04 13:38:40,524 - INFO - Saved card: output\Velrith.png
+2025-03-04 13:38:42,629 - INFO - Saved card: output\Faelvox.png
+2025-03-04 13:38:45,033 - INFO - Saved card: output\Fyrandil_1.png
+2025-03-04 13:38:47,241 - INFO - Saved card: output\Vaermina_1.png
+2025-03-04 13:38:49,637 - INFO - Saved card: output\Sythraxis Doomroot.png
+2025-03-04 13:38:52,246 - INFO - Saved card: output\Kaelthas_1.png
+2025-03-04 13:38:54,621 - INFO - Saved card: output\Erebor.png
+2025-03-04 13:38:56,925 - INFO - Saved card: output\Zyrantha.png
+2025-03-04 13:38:59,192 - INFO - Saved card: output\Vexthara Wraithveil_2.png
+2025-03-04 13:39:01,294 - INFO - Saved card: output\Xalindrya Qoyll_1.png
+2025-03-04 13:39:03,187 - INFO - Saved card: output\Zarok.png
+2025-03-04 13:39:05,014 - INFO - Saved card: output\Kieran Stormhowl.png
+2025-03-04 13:39:06,737 - INFO - Saved card: output\Zha'zix Shadowfire_1.png
+2025-03-04 13:39:08,643 - INFO - Saved card: output\Brynhildr Ironfist_1.png
+2025-03-04 13:39:10,999 - INFO - Saved card: output\Phaedron_1.png
+2025-03-04 13:39:12,899 - INFO - Saved card: output\Faelrynia.png
+2025-03-04 13:39:14,789 - INFO - Saved card: output\Zorvath Ghoulfire_1.png
+2025-03-04 13:39:16,641 - INFO - Saved card: output\Zynvolkarul Necroshade_1.png
+2025-03-04 13:39:18,495 - INFO - Saved card: output\Elthie Qhapie_1.png
+2025-03-04 13:39:20,182 - INFO - Saved card: output\Aethie Huaynie.png
+2025-03-04 13:39:21,899 - INFO - Saved card: output\Melwyn Darkstalker_1.png
+2025-03-04 13:39:23,563 - INFO - Saved card: output\Lyrumbra.png
+2025-03-04 13:39:25,329 - INFO - Saved card: output\Zha'thik Shadowstep.png
+2025-03-04 13:39:27,045 - INFO - Saved card: output\Tiziano Ranko.png
+2025-03-04 13:39:29,251 - INFO - Saved card: output\Morvath.png
+2025-03-04 13:39:31,020 - INFO - Saved card: output\Azryth.png
+2025-03-04 13:39:32,314 - INFO - Saved card: output\Jyrgal.png
+2025-03-04 13:39:33,637 - INFO - Saved card: output\Draegor_1.png
+2025-03-04 13:39:35,156 - INFO - Saved card: output\Maeloryth Qetz_1.png
+2025-03-04 13:39:36,678 - INFO - Saved card: output\Talrynia_1.png
+2025-03-04 13:39:38,142 - INFO - Saved card: output\Faelrynn_1.png
+2025-03-04 13:39:39,539 - INFO - Saved card: output\Zylphine Witherveil.png
+2025-03-04 13:39:40,818 - INFO - Saved card: output\Olyndryth Pacha.png
+2025-03-04 13:39:42,105 - INFO - Saved card: output\Vynvoxis_1.png
+2025-03-04 13:39:43,526 - INFO - Saved card: output\Aurora Zephyra_1.png
+2025-03-04 13:39:44,710 - INFO - Saved card: output\Uvanie Wiraqie_2.png
+2025-03-04 13:39:46,002 - INFO - Saved card: output\Lirvoxar.png
+2025-03-04 13:39:47,230 - INFO - Saved card: output\Mirabelle Nyxara_1.png
+2025-03-04 13:39:48,470 - INFO - Saved card: output\Thalzrakulath Grimspell_1.png
+2025-03-04 13:39:49,765 - INFO - Saved card: output\Lyraxa Frostweaver_1.png
+2025-03-04 13:39:51,066 - INFO - Saved card: output\Myrvoxis.png
+2025-03-04 13:39:52,347 - INFO - Saved card: output\Gwynor Mancie.png
+2025-03-04 13:39:53,611 - INFO - Saved card: output\Dravoxis.png
+2025-03-04 13:39:54,821 - INFO - Saved card: output\Ronan Bladestorm_1.png
+2025-03-04 13:39:56,058 - INFO - Saved card: output\Rhianor Rimie.png
+2025-03-04 13:39:57,304 - INFO - Saved card: output\Olyndryth Pacha_1.png
+2025-03-04 13:39:58,628 - INFO - Saved card: output\Fendrel.png
+2025-03-04 13:39:59,970 - INFO - Saved card: output\Noctivyn_1.png
+2025-03-04 13:40:01,431 - INFO - Saved card: output\Xalvyr Grimshade_1.png
+2025-03-04 13:40:02,869 - INFO - Saved card: output\Xarenza Dragonfire_1.png
+2025-03-04 13:40:04,057 - INFO - Saved card: output\Azryvoxa.png
+2025-03-04 13:40:05,387 - INFO - Saved card: output\Maelora.png
+2025-03-04 13:40:06,674 - INFO - Saved card: output\Ariniel Starseeker_1.png
+2025-03-04 13:40:07,911 - INFO - Saved card: output\Rhaegal_1.png
+2025-03-04 13:40:09,136 - INFO - Saved card: output\Xyrran.png
+2025-03-04 13:40:10,390 - INFO - Saved card: output\Sephissa Rotthorn_1.png
+2025-03-04 13:40:11,664 - INFO - Saved card: output\Nefertem Witchfire.png
+2025-03-04 13:40:12,895 - INFO - Saved card: output\Nyrgoth.png
+2025-03-04 13:40:14,078 - INFO - Saved card: output\Wrythos.png
+2025-03-04 13:40:15,305 - INFO - Saved card: output\Thoroldira Stormbringer.png
+2025-03-04 13:40:16,665 - INFO - Saved card: output\Luminyss Voidshriek_1.png
+2025-03-04 13:40:18,066 - INFO - Saved card: output\Lauro Stormfist.png
+2025-03-04 13:40:19,394 - INFO - Saved card: output\Zivie Suppie_2.png
+2025-03-04 13:40:20,572 - INFO - Saved card: output\Urvath.png
+2025-03-04 13:40:21,828 - INFO - Saved card: output\Pyri Sekhette_1.png
+2025-03-04 13:40:23,101 - INFO - Saved card: output\Thalzrakar Frostthorn_1.png
+2025-03-04 13:40:24,388 - INFO - Saved card: output\Thalzrakon Grimflayer.png
+2025-03-04 13:40:25,631 - INFO - Saved card: output\Morgtharul Dreadhymn.png
+2025-03-04 13:40:27,235 - INFO - Saved card: output\Valtoraea Darkhunter.png
+2025-03-04 13:40:28,696 - INFO - Saved card: output\Uma Aelindra_1.png
+2025-03-04 13:40:29,916 - INFO - Saved card: output\Brontie Tlaltie_1.png
+2025-03-04 13:40:31,502 - INFO - Saved card: output\Miralithra Topac_1.png
+2025-03-04 13:40:32,996 - INFO - Saved card: output\Zynvolkar Doomthorn.png
+2025-03-04 13:40:34,325 - INFO - Saved card: output\Izaroth.png
+2025-03-04 13:40:35,664 - INFO - Saved card: output\Skarlena_1.png
+2025-03-04 13:40:37,099 - INFO - Saved card: output\Xylara Darksong_2.png
+2025-03-04 13:40:38,736 - INFO - Saved card: output\Vynlota Frostweaver_1.png
+2025-03-04 13:40:40,192 - INFO - Saved card: output\Nethvoxar.png
+2025-03-04 13:40:41,760 - INFO - Saved card: output\Ultan Srecko.png
+2025-03-04 13:40:43,306 - INFO - Saved card: output\Lyraea Nightdancer.png
+2025-03-04 13:40:44,691 - INFO - Saved card: output\Nova Thalindra_1.png
+2025-03-04 13:40:46,300 - INFO - Saved card: output\Nocturnys Viledusk.png
+2025-03-04 13:40:47,755 - INFO - Saved card: output\Kalandra Vileheart.png
+2025-03-04 13:40:49,160 - INFO - Saved card: output\Isolthra Maevox_2.png
+2025-03-04 13:40:50,724 - INFO - Saved card: output\Indira Nyxara_2.png
+2025-03-04 13:40:52,240 - INFO - Saved card: output\Ignifera_1.png
+2025-03-04 13:40:53,907 - INFO - Saved card: output\Nephyssa Plaguesong_1.png
+2025-03-04 13:40:55,298 - INFO - Saved card: output\Nyxthora Ghoulroot.png
+2025-03-04 13:40:56,786 - INFO - Saved card: output\Elunor Tlalli.png
+2025-03-04 13:40:58,233 - INFO - Saved card: output\Liribelle Tawette.png
+2025-03-04 13:40:59,731 - INFO - Saved card: output\Olynie Pachie.png
+2025-03-04 13:41:01,226 - INFO - Saved card: output\Xalindra Nightshriek_1.png
+2025-03-04 13:41:02,829 - INFO - Saved card: output\Nefertem Witchwood_1.png
+2025-03-04 13:41:04,334 - INFO - Saved card: output\Thalia Moonwhisper_1.png
+2025-03-04 13:41:06,170 - INFO - Saved card: output\Ylvi Huacie_1.png
+2025-03-04 13:41:07,601 - INFO - Saved card: output\Morumbra_1.png
+2025-03-04 13:41:09,225 - INFO - Saved card: output\Pyris Sekhie.png
+2025-03-04 13:41:10,951 - INFO - Saved card: output\Vorgulthrakulion Blightshriek.png
+2025-03-04 13:41:12,311 - INFO - Saved card: output\Lyrax.png
+2025-03-04 13:41:13,708 - INFO - Saved card: output\Vrykkarokion Boneflame_1.png
+2025-03-04 13:41:14,991 - INFO - Saved card: output\Ysmi Qoripuff.png
+2025-03-04 13:41:16,322 - INFO - Saved card: output\Ysmer Qoripuff_1.png
+2025-03-04 13:41:17,696 - INFO - Saved card: output\Ylthar.png
+2025-03-04 13:41:18,925 - INFO - Saved card: output\Xalie Qoyllie.png
+2025-03-04 13:41:20,134 - INFO - Saved card: output\Aethie Huaynie_1.png
+2025-03-04 13:41:21,389 - INFO - Saved card: output\Zhuldan.png
+2025-03-04 13:41:22,626 - INFO - Saved card: output\Xyraphon_2.png
+2025-03-04 13:41:23,930 - INFO - Saved card: output\Vespera Duskbane.png
+2025-03-04 13:41:25,150 - INFO - Saved card: output\Cythie Anqie.png
+2025-03-04 13:41:26,349 - INFO - Saved card: output\Yara Morwenna_2.png
+2025-03-04 13:41:27,586 - INFO - Saved card: output\Nefarian.png
+2025-03-04 13:41:28,832 - INFO - Saved card: output\Kryonvoxar.png
+2025-03-04 13:41:30,036 - INFO - Saved card: output\Rhaenie Viracue.png
+2025-03-04 13:41:31,335 - INFO - Saved card: output\Xeridiana Moonwhisper_1.png
+2025-03-04 13:41:32,551 - INFO - Saved card: output\Dravenarokath Skullveil.png
+2025-03-04 13:41:33,716 - INFO - Saved card: output\Ciro Stormfury.png
+2025-03-04 13:41:35,024 - INFO - Saved card: output\Nocturna Vilemaw.png
+2025-03-04 13:41:36,353 - INFO - Saved card: output\Ignatius.png
+2025-03-04 13:41:37,630 - INFO - Saved card: output\Urdessa_2.png
+2025-03-04 13:41:38,920 - INFO - Saved card: output\Duskvox_1.png
+2025-03-04 13:41:40,163 - INFO - Saved card: output\Elystris Wraithbloom_1.png
+2025-03-04 13:41:41,415 - INFO - Saved card: output\Vexenya Corpsebloom_1.png
+2025-03-04 13:41:42,787 - INFO - Saved card: output\Kethriana Shadowstep.png
+2025-03-04 13:41:43,993 - INFO - Saved card: output\Nefertem Witchfire_1.png
+2025-03-04 13:41:45,379 - INFO - Saved card: output\Quirino Ironfist.png
+2025-03-04 13:41:46,668 - INFO - Saved card: output\Brontis Tlaltie.png
+2025-03-04 13:41:47,842 - INFO - Saved card: output\Umbravox.png
+2025-03-04 13:41:49,145 - INFO - Saved card: output\Xalthora Voidscream_1.png
+2025-03-04 13:41:50,403 - INFO - Saved card: output\Vynarith Titic_1.png
+2025-03-04 13:41:51,592 - INFO - Saved card: output\Yara Morwenna_3.png
+2025-03-04 13:41:52,884 - INFO - Saved card: output\Sylvarith Coya_1.png
+2025-03-04 13:41:54,144 - INFO - Saved card: output\Mordrakul Soulflayer.png
+2025-03-04 13:41:55,306 - INFO - Saved card: output\Tindor Bastie.png
+2025-03-04 13:41:56,466 - INFO - Saved card: output\Yara Lysandra.png
+2025-03-04 13:41:57,806 - INFO - Saved card: output\Luthien Tawpie.png
+2025-03-04 13:41:59,056 - INFO - Saved card: output\Zultharokar Frostflayer.png
+2025-03-04 13:42:00,334 - INFO - Saved card: output\Aurelio Warbringer.png
+2025-03-04 13:42:01,649 - INFO - Saved card: output\Vorgrimm Skullbane.png
+2025-03-04 13:42:02,940 - INFO - Saved card: output\Lirienya Tawaret.png
+2025-03-04 13:42:04,042 - INFO - Saved card: output\Ysennarae Ghoulhymn.png
+2025-03-04 13:42:05,240 - INFO - Saved card: output\Iskarius.png
+2025-03-04 13:42:06,466 - INFO - Saved card: output\Lyssor Huayrie.png
+2025-03-04 13:42:07,707 - INFO - Saved card: output\Skolvox.png
+2025-03-04 13:42:08,884 - INFO - Saved card: output\Daphne Morwenna_1.png
+2025-03-04 13:42:10,068 - INFO - Saved card: output\Vespera Duskbane_1.png
+2025-03-04 13:42:11,261 - INFO - Saved card: output\Aelwynne Pippit.png
+2025-03-04 13:42:12,423 - INFO - Saved card: output\Ravyntha.png
+2025-03-04 13:42:13,654 - INFO - Saved card: output\Wrenarith Huanc.png
+2025-03-04 13:42:14,794 - INFO - Saved card: output\Gharneth Soulflayer_1.png
+2025-03-04 13:42:16,044 - INFO - Saved card: output\Vryxarok Soulshriek_1.png
+2025-03-04 13:42:17,410 - INFO - Saved card: output\Xarenza Dragonfire_2.png
+2025-03-04 13:42:18,768 - INFO - Saved card: output\Diomie Huay_1.png
+2025-03-04 13:42:19,943 - INFO - Saved card: output\Skarlena_2.png
+2025-03-04 13:42:21,314 - INFO - Saved card: output\Lirvoxa.png
+2025-03-04 13:42:22,606 - INFO - Saved card: output\Dravumbra.png
+2025-03-04 13:42:23,859 - INFO - Saved card: output\Phaedor Tumie.png
+2025-03-04 13:42:25,171 - INFO - Saved card: output\Fenryth.png
+2025-03-04 13:42:26,442 - INFO - Saved card: output\Indira Elowen_2.png
+2025-03-04 13:42:27,735 - INFO - Saved card: output\Mirie Topie.png
+2025-03-04 13:42:28,945 - INFO - Saved card: output\Rory Dalibor.png
+2025-03-04 13:42:30,234 - INFO - Saved card: output\Maeloryth Qetz_2.png
+2025-03-04 13:42:31,445 - INFO - Saved card: output\Ravynne_1.png
+2025-03-04 13:42:32,743 - INFO - Saved card: output\Nethumbra_1.png
+2025-03-04 13:42:33,929 - INFO - Saved card: output\Pyraxus.png
+2025-03-04 13:42:35,082 - INFO - Saved card: output\Brisor Qetzie.png
+2025-03-04 13:42:36,346 - INFO - Saved card: output\Wrenie Huancie.png
+2025-03-04 13:42:37,626 - INFO - Saved card: output\Thalzrakath Blightspell.png
+2025-03-04 13:42:38,824 - INFO - Saved card: output\Ylvethra.png
+2025-03-04 13:42:40,033 - INFO - Saved card: output\Zyrantha_1.png
+2025-03-04 13:42:41,252 - INFO - Saved card: output\Drakthar_2.png
+2025-03-04 13:42:42,470 - INFO - Saved card: output\Gwythie Supie.png
+2025-03-04 13:42:43,647 - INFO - Saved card: output\Grimvayne_1.png
+2025-03-04 13:42:44,986 - INFO - Saved card: output\Vornash Darkhymn_2.png
+2025-03-04 13:42:46,256 - INFO - Saved card: output\Nyktoria Shadowglow_1.png
+2025-03-04 13:42:47,572 - INFO - Saved card: output\Nemesys.png
+2025-03-04 13:42:48,946 - INFO - Saved card: output\Xalindrae Soulvein_1.png
+2025-03-04 13:42:50,215 - INFO - Saved card: output\Dravenarathion Skullthorn.png
+2025-03-04 13:42:51,554 - INFO - Saved card: output\Italo Jadranko.png
+2025-03-04 13:42:52,843 - INFO - Saved card: output\Thalzrakath Blightspell_1.png
+2025-03-04 13:42:54,150 - INFO - Saved card: output\Solthar.png
+2025-03-04 13:42:55,329 - INFO - Saved card: output\Xalgaratharok Vileshade_1.png
+2025-03-04 13:42:56,570 - INFO - Saved card: output\Abyssian.png
+2025-03-04 13:42:57,853 - INFO - Saved card: output\Xypharul Witherflame_1.png
+2025-03-04 13:42:59,068 - INFO - Saved card: output\Draelith_1.png
+2025-03-04 13:43:00,422 - INFO - Saved card: output\Qyrath.png
+2025-03-04 13:43:01,685 - INFO - Saved card: output\Morgathra Fellshriek_1.png
+2025-03-04 13:43:02,977 - INFO - Saved card: output\Faerind Huascie.png
+2025-03-04 13:43:04,204 - INFO - Saved card: output\Nythor.png
+2025-03-04 13:43:05,425 - INFO - Saved card: output\Caelan.png
+2025-03-04 13:43:06,619 - INFO - Saved card: output\Lirvoxis_2.png
+2025-03-04 13:43:07,794 - INFO - Saved card: output\Necressa.png
+2025-03-04 13:43:08,954 - INFO - Saved card: output\Zynestra Darkhymn.png
+2025-03-04 13:43:10,124 - INFO - Saved card: output\Zola Thalindra_2.png
+2025-03-04 13:43:11,282 - INFO - Saved card: output\Erebethra Soulflayer_2.png
+2025-03-04 13:43:12,487 - INFO - Saved card: output\Xylvoxa.png
+2025-03-04 13:43:13,699 - INFO - Saved card: output\Aethryna Huayna.png
+2025-03-04 13:43:14,868 - INFO - Saved card: output\Sythraxis Doomroot_1.png
+2025-03-04 13:43:16,072 - INFO - Saved card: output\Zephyris Luluna_1.png
+2025-03-04 13:43:17,418 - INFO - Saved card: output\Liliandra Wraithmaw_1.png
+2025-03-04 13:43:18,763 - INFO - Saved card: output\Lyriquin Darkweaver.png
+2025-03-04 13:43:20,039 - INFO - Saved card: output\Grimvayne_2.png
+2025-03-04 13:43:21,465 - INFO - Saved card: output\Zoryndra Blackveil.png
+2025-03-04 13:43:22,887 - INFO - Saved card: output\Noctivyn_2.png
+2025-03-04 13:43:24,178 - INFO - Saved card: output\Maelie Qetzie_1.png
+2025-03-04 13:43:25,492 - INFO - Saved card: output\Taryvox_2.png
+2025-03-04 13:43:26,695 - INFO - Saved card: output\Zynarith Mawk_1.png
+2025-03-04 13:43:27,966 - INFO - Saved card: output\Calie Xipip.png
+2025-03-04 13:43:29,266 - INFO - Saved card: output\Zynestra Darkhymn_1.png
+2025-03-04 13:43:30,523 - INFO - Saved card: output\Helena Zephyra_1.png
+2025-03-04 13:43:31,888 - INFO - Saved card: output\Melwyn Darkhunter_1.png
+2025-03-04 13:43:33,107 - INFO - Saved card: output\Xantheia Supayra_1.png
+2025-03-04 13:43:34,424 - INFO - Saved card: output\Thoroldira Stormbringer_1.png
+2025-03-04 13:43:35,764 - INFO - Saved card: output\Morgwynthra Ashspire_2.png
+2025-03-04 13:43:37,017 - INFO - Saved card: output\Nethrynia_1.png
+2025-03-04 13:43:38,209 - INFO - Saved card: output\Delphie Qhapie_3.png
+2025-03-04 13:43:39,525 - INFO - Saved card: output\Lyra Zephyra.png
+2025-03-04 13:43:40,824 - INFO - Saved card: output\Rynelleth Intiq_1.png
+2025-03-04 13:43:42,039 - INFO - Saved card: output\Uma Aelindra_2.png
+2025-03-04 13:43:43,745 - INFO - Saved card: output\Ulricaya Pachac.png
+2025-03-04 13:43:45,121 - INFO - Saved card: output\Tarynie Ptahie_2.png
+2025-03-04 13:43:46,372 - INFO - Saved card: output\Diomie Huay_2.png
+2025-03-04 13:43:47,765 - INFO - Saved card: output\Olynie Pachie_1.png
+2025-03-04 13:43:49,038 - INFO - Saved card: output\Lirvoxis_3.png
+2025-03-04 13:43:50,372 - INFO - Saved card: output\Mirabelle Lysandra.png
+2025-03-04 13:43:51,647 - INFO - Saved card: output\Beatrix Nyxara_2.png
+2025-03-04 13:43:52,926 - INFO - Saved card: output\Eirwynne Calithra_1.png
+2025-03-04 13:43:54,286 - INFO - Saved card: output\Vespythra Soulash.png
+2025-03-04 13:43:55,702 - INFO - Saved card: output\Kalandra Vileheart_1.png
+2025-03-04 13:43:56,911 - INFO - Saved card: output\Myrvoxis Amaru_1.png
+2025-03-04 13:43:58,259 - INFO - Saved card: output\Lyriquin Darkweaver_1.png
+2025-03-04 13:43:59,676 - INFO - Saved card: output\Xylvoria.png
+2025-03-04 13:44:01,049 - INFO - Saved card: output\Nihlarae Soulrend_1.png
+2025-03-04 13:44:02,603 - INFO - Saved card: output\Cythereya Anqet_2.png
+2025-03-04 13:44:04,077 - INFO - Saved card: output\Nivie Huayrie.png
+2025-03-04 13:44:05,452 - INFO - Saved card: output\Cythie Anqie_1.png
+2025-03-04 13:44:06,793 - INFO - Saved card: output\Selene Elowen.png
+2025-03-04 13:44:08,138 - INFO - Saved card: output\Ulrie Pachie.png
+2025-03-04 13:44:09,354 - INFO - Saved card: output\Wynter Morwenna_1.png
+2025-03-04 13:44:10,609 - INFO - Saved card: output\Xylvoxa_1.png
+2025-03-04 13:44:11,855 - INFO - Saved card: output\Naevyssa Quilla_2.png
+2025-03-04 13:44:13,014 - INFO - Saved card: output\Naevie Quillue.png
+2025-03-04 13:44:14,208 - INFO - Saved card: output\Skarlena_3.png
+2025-03-04 13:44:15,522 - INFO - Saved card: output\Eirabell Battleborn_2.png
+2025-03-04 13:44:16,807 - INFO - Saved card: output\Brontie Tlaltie_2.png
+2025-03-04 13:44:18,145 - INFO - Saved card: output\Amara Celestia.png
+2025-03-04 13:44:19,473 - INFO - Saved card: output\Jarethor_1.png
+2025-03-04 13:44:20,690 - INFO - Saved card: output\Morwen Darkshore.png
+2025-03-04 13:44:21,675 - INFO - Saved card: output\Eriselle.png
+2025-03-04 13:44:22,703 - INFO - Saved card: output\Jessalyth.png
+2025-03-04 13:44:23,861 - INFO - Saved card: output\Mordrakarath Netherspire.png
+2025-03-04 13:44:25,189 - INFO - Saved card: output\Idrie Yupie.png
+2025-03-04 13:44:26,281 - INFO - Saved card: output\Tenevoxis_1.png
+2025-03-04 13:44:27,479 - INFO - Saved card: output\Ultan Frostbane.png
+2025-03-04 13:44:28,626 - INFO - Saved card: output\Niall Radoslav_2.png
+2025-03-04 13:44:29,592 - INFO - Saved card: output\Fyrandil_2.png
+2025-03-04 13:44:30,645 - INFO - Saved card: output\Lythor.png
+2025-03-04 13:44:31,692 - INFO - Saved card: output\Erykthos_2.png
+2025-03-04 13:44:32,674 - INFO - Saved card: output\Dravenarok Plaguethorn.png
+2025-03-04 13:44:33,664 - INFO - Saved card: output\Iraelynn_1.png
+2025-03-04 13:44:34,768 - INFO - Saved card: output\Morvane Darkfate_1.png
+2025-03-04 13:44:35,840 - INFO - Saved card: output\Fergal Roko.png
+2025-03-04 13:44:36,988 - INFO - Saved card: output\Arachnia Webmistress_1.png
+2025-03-04 13:44:37,976 - INFO - Saved card: output\Astraea.png
+2025-03-04 13:44:39,014 - INFO - Saved card: output\Zulthrak Witherhymn.png
+2025-03-04 13:44:40,026 - INFO - Saved card: output\Umberto Stjepan_1.png
+2025-03-04 13:44:41,084 - INFO - Saved card: output\Uziel.png
+2025-03-04 13:44:42,166 - INFO - Saved card: output\Khelborne.png
+2025-03-04 13:44:43,213 - INFO - Saved card: output\Ylvor Huacie.png
+2025-03-04 13:44:44,311 - INFO - Saved card: output\Giorgio Frostbane_2.png
+2025-03-04 13:44:45,393 - INFO - Saved card: output\Olyndor Pachie.png
+2025-03-04 13:44:46,395 - INFO - Saved card: output\Milo Thunderforge_1.png
+2025-03-04 13:44:47,423 - INFO - Saved card: output\Zethraxulath Plaguemaw_1.png
+2025-03-04 13:44:48,407 - INFO - Saved card: output\Ilystria.png
+2025-03-04 13:44:49,398 - INFO - Saved card: output\Gharnetharulok Ashspire.png
+2025-03-04 13:44:50,405 - INFO - Saved card: output\Elystris Wraithbloom_2.png
+2025-03-04 13:44:51,411 - INFO - Saved card: output\Helie Neithie_1.png
+2025-03-04 13:44:52,335 - INFO - Saved card: output\Ossyra.png
+2025-03-04 13:44:53,324 - INFO - Saved card: output\Glorian Intipie_1.png
+2025-03-04 13:44:54,330 - INFO - Saved card: output\Xarindus.png
+2025-03-04 13:44:55,411 - INFO - Saved card: output\Zargoth.png
+2025-03-04 13:44:56,508 - INFO - Saved card: output\Kethril Moonhunter_2.png
+2025-03-04 13:44:57,489 - INFO - Saved card: output\Fionor Intibee.png
+2025-03-04 13:44:58,442 - INFO - Saved card: output\Phelan Thunderstrike.png
+2025-03-04 13:44:59,439 - INFO - Saved card: output\Kazadrax_1.png
+2025-03-04 13:45:00,471 - INFO - Saved card: output\Lyris Tazzy.png
+2025-03-04 13:45:01,493 - INFO - Saved card: output\Malthrax Duskbane.png
+2025-03-04 13:45:02,596 - INFO - Saved card: output\Quinn Seraphine.png
+2025-03-04 13:45:03,729 - INFO - Saved card: output\Ophir Huancie_1.png
+2025-03-04 13:45:04,859 - INFO - Saved card: output\Zynvrakar Frostshade.png
+2025-03-04 13:45:05,873 - INFO - Saved card: output\Xypharokarion Wraiththorn_1.png
+2025-03-04 13:45:07,005 - INFO - Saved card: output\Kaelthar Venomspell_2.png
+2025-03-04 13:45:07,997 - INFO - Saved card: output\Vrykkarulath Bonehymn.png
+2025-03-04 13:45:09,073 - INFO - Saved card: output\Ixidor_1.png
+2025-03-04 13:45:10,137 - INFO - Saved card: output\Vrykkarul Wraithflame.png
+2025-03-04 13:45:11,145 - INFO - Saved card: output\Kyrion.png
+2025-03-04 13:45:12,137 - INFO - Saved card: output\Ivo Frostreaver_1.png
+2025-03-04 13:45:13,179 - INFO - Saved card: output\Vorenth.png
+2025-03-04 13:45:14,231 - INFO - Saved card: output\Ythrak.png
+2025-03-04 13:45:15,257 - INFO - Saved card: output\Eldryn.png
+2025-03-04 13:45:16,237 - INFO - Saved card: output\Lyra Zephyra_1.png
+2025-03-04 13:45:17,268 - INFO - Saved card: output\Kryonumbra.png
+2025-03-04 13:45:18,224 - INFO - Saved card: output\Erebor_1.png
+2025-03-04 13:45:19,196 - INFO - Saved card: output\Vynvoxis_2.png
+2025-03-04 13:45:20,182 - INFO - Saved card: output\Xara Elowen_1.png
+2025-03-04 13:45:21,159 - INFO - Saved card: output\Calanthir Forestspirit_1.png
+2025-03-04 13:45:22,134 - INFO - Saved card: output\Azarathys Blackthorn_2.png
+2025-03-04 13:45:23,111 - INFO - Saved card: output\Thalassira Darkcoven_2.png
+2025-03-04 13:45:24,094 - INFO - Saved card: output\Vorgash Bloodveil.png
+2025-03-04 13:45:25,077 - INFO - Saved card: output\Grimvayne_3.png
+2025-03-04 13:45:26,037 - INFO - Saved card: output\Zytheris Blightveil.png
+2025-03-04 13:45:27,057 - INFO - Saved card: output\Ulvi Qhapie.png
+2025-03-04 13:45:28,097 - INFO - Saved card: output\Vera Seraphine.png
+2025-03-04 13:45:29,101 - INFO - Saved card: output\Nyxara Seraphine_2.png
+2025-03-04 13:45:30,110 - INFO - Saved card: output\Wyllie Suppie.png
+2025-03-04 13:45:31,166 - INFO - Saved card: output\Nyktoria Shadowdancer_1.png
+2025-03-04 13:45:32,102 - INFO - Saved card: output\Valisarae Doomgaze.png
+2025-03-04 13:45:33,148 - INFO - Saved card: output\Drenvora.png
+2025-03-04 13:45:34,184 - INFO - Saved card: output\Vespythra Soulash_1.png
+2025-03-04 13:45:35,304 - INFO - Saved card: output\Kivaraya Ollant_1.png
+2025-03-04 13:45:36,308 - INFO - Saved card: output\Eirabell Battlecry_3.png
+2025-03-04 13:45:37,349 - INFO - Saved card: output\Ylvi Huacie_2.png
+2025-03-04 13:45:38,358 - INFO - Saved card: output\Nocturnys Viledusk_1.png
+2025-03-04 13:45:39,362 - INFO - Saved card: output\Orithyith Apoca.png
+2025-03-04 13:45:40,614 - INFO - Saved card: output\Quinie Apocute.png
+2025-03-04 13:45:41,802 - INFO - Saved card: output\Vynvoxis_3.png
+2025-03-04 13:45:43,180 - INFO - Saved card: output\Vorgalyss Dreadspell.png
+2025-03-04 13:45:44,527 - INFO - Saved card: output\Dionethra Ankhit_1.png
+2025-03-04 13:45:45,714 - INFO - Saved card: output\Sablevoria_1.png
+2025-03-04 13:45:46,782 - INFO - Saved card: output\Vexthara Wraithveil_3.png
+2025-03-04 13:45:48,278 - INFO - Saved card: output\Hesperie Anulette_1.png
+2025-03-04 13:45:49,639 - INFO - Saved card: output\Thornguarda Blackthorn.png
+2025-03-04 13:45:51,687 - INFO - Saved card: output\Myrkurra Plagueveil.png
+2025-03-04 13:45:53,153 - INFO - Saved card: output\Thoroldira Stormbringer_2.png
+2025-03-04 13:45:54,184 - INFO - Saved card: output\Diomirith Huay.png
+2025-03-04 13:45:55,233 - INFO - Saved card: output\Yllarithys Grimspire_1.png
+2025-03-04 13:45:56,593 - INFO - Saved card: output\Raven Thalindra.png
+2025-03-04 13:45:57,968 - INFO - Saved card: output\Erebor_2.png
+2025-03-04 13:45:59,476 - INFO - Saved card: output\Melisarae Frostshade_1.png
+2025-03-04 13:46:01,282 - INFO - Saved card: output\Franco Thunderstrike.png
+2025-03-04 13:46:02,820 - INFO - Saved card: output\Vrykkarulathar Bonehymn.png
+2025-03-04 13:46:04,036 - INFO - Saved card: output\Namarie Dusktreader_1.png
+2025-03-04 13:46:05,078 - INFO - Saved card: output\Helior Neithie.png
+2025-03-04 13:46:06,326 - INFO - Saved card: output\Ultan Srecko_1.png
+2025-03-04 13:46:07,623 - INFO - Saved card: output\Tarynie Ptahie_3.png
+2025-03-04 13:46:08,753 - INFO - Saved card: output\Zelvox_1.png
+2025-03-04 13:46:09,802 - INFO - Saved card: output\Zhaedrus_2.png
+2025-03-04 13:46:10,877 - INFO - Saved card: output\Nymira_1.png
+2025-03-04 13:46:11,870 - INFO - Saved card: output\Branislav Ironfist.png
+2025-03-04 13:46:12,920 - INFO - Saved card: output\Xarenza Dragonheart_1.png
+2025-03-04 13:46:13,988 - INFO - Saved card: output\Olyndor Pachie_1.png
+2025-03-04 13:46:15,026 - INFO - Saved card: output\Morwenna Elowen_3.png
+2025-03-04 13:46:16,026 - INFO - Saved card: output\Ciaran Matej_2.png
+2025-03-04 13:46:17,098 - INFO - Saved card: output\Zynumbra_1.png
+2025-03-04 13:46:18,074 - INFO - Saved card: output\Ophir Huancie_2.png
+2025-03-04 13:46:19,063 - INFO - Saved card: output\Thalgorok Soulspire.png
+2025-03-04 13:46:20,139 - INFO - Saved card: output\Elystris Wraithbloom_3.png
+2025-03-04 13:46:21,168 - INFO - Saved card: output\Branislav Ironfist_1.png
+2025-03-04 13:46:22,212 - INFO - Saved card: output\Luminara.png
+2025-03-04 13:46:23,204 - INFO - Saved card: output\Wrenarith Huanc_1.png
+2025-03-04 13:46:24,187 - INFO - Saved card: output\Vespyrra Doomchant_1.png
+2025-03-04 13:46:25,297 - INFO - Saved card: output\Cian Darko_1.png
+2025-03-04 13:46:26,297 - INFO - Saved card: output\Kaelthas_2.png
+2025-03-04 13:46:27,378 - INFO - Saved card: output\Ignatius_1.png
+2025-03-04 13:46:28,412 - INFO - Saved card: output\Ravynvoxis.png
+2025-03-04 13:46:29,460 - INFO - Saved card: output\Iain Warspike_1.png
+2025-03-04 13:46:30,482 - INFO - Saved card: output\Belthara.png
+2025-03-04 13:46:31,495 - INFO - Saved card: output\Faelthar_1.png
+2025-03-04 13:46:32,535 - INFO - Saved card: output\Drusie Neffie.png
+2025-03-04 13:46:33,591 - INFO - Saved card: output\Uvanie Wiraqie_3.png
+2025-03-04 13:46:34,632 - INFO - Saved card: output\Vynlota Frostmaiden.png
+2025-03-04 13:46:35,621 - INFO - Saved card: output\Thalrynia.png
+2025-03-04 13:46:36,628 - INFO - Saved card: output\Nemesys_1.png
+2025-03-04 13:46:37,659 - INFO - Saved card: output\Xyrithia Mawkis.png
+2025-03-04 13:46:38,670 - INFO - Saved card: output\Dario Novak.png
+2025-03-04 13:46:39,693 - INFO - Saved card: output\Itharel.png
+2025-03-04 13:46:40,732 - INFO - Saved card: output\Drusian Neffie_1.png
+2025-03-04 13:46:41,787 - INFO - Saved card: output\Thornguarda Blackthorn_1.png
+2025-03-04 13:46:42,775 - INFO - Saved card: output\Azgalor.png
+2025-03-04 13:46:43,814 - INFO - Saved card: output\Aurora Zephyra_2.png
+2025-03-04 13:46:44,837 - INFO - Saved card: output\Arachne Blackwood.png
+2025-03-04 13:46:45,835 - INFO - Saved card: output\Xypharathar Witherclaw.png
+2025-03-04 13:46:46,882 - INFO - Saved card: output\Wraithyn.png
+2025-03-04 13:46:47,910 - INFO - Saved card: output\Vexithra Dreadshade.png
+2025-03-04 13:46:48,953 - INFO - Saved card: output\Galadriel Thalindra_1.png
+2025-03-04 13:46:50,052 - INFO - Saved card: output\Lirio Ironflame_2.png
+2025-03-04 13:46:51,061 - INFO - Saved card: output\Jorvie Chimie.png
+2025-03-04 13:46:52,175 - INFO - Saved card: output\Morgtharathar Vileflame_1.png
+2025-03-04 13:46:53,192 - INFO - Saved card: output\Fyrandil_3.png
