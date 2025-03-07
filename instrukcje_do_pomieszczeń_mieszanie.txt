@@ -1,0 +1,744 @@
+Rh'loq + Common
+Królewskie Archiwum Runicznych Tajemnic: Kamienna komnata w klasycznym zamkowym stylu, ale z runami świecącymi na ścianach. Tradycyjne drewniane regały przeplatają się z lewitującymi półkami. Pergaminy i księgi są zabezpieczone zarówno łańcuchami jak i magicznymi pieczęciami. Herby królestwa mają wbudowane runiczne symbole ochronne. Stoły do studiowania z magicznymi kręgami wspomagającymi tłumaczenie starożytnych tekstów.
+
+Rh'loq + Ancient_Runes
+Sanktuarium Zakazanej Pramagii: Mroczne, kamienne pomieszczenie gdzie runiczne symbole pulsują złowrogim światłem. Księgi przykute łańcuchami lewitują kilka centymetrów nad półkami. Czaszki dawnych czarodziejów z runami wyrytymi na czołach służą jako strażnicy wiedzy. Magiczne kręgi na podłodze i suficie tworzą barierę przeciwko niekontrolowanemu uwolnieniu mocy podczas czytania niebezpiecznych tekstów. Kryształowe pojemniki zawierają esencje demonicznych bytów do badań.
+
+Rh'loq + Kristalion
+Archiwum Pierwotnych Instynktów: Naturalna jaskinia z runicznymi symbolami wyrytymi pazurami na ścianach. Wiedza przechowywana jest zarówno w tradycyjnych runicznych tablicach jak i w kryształach pamięci reagujących na zapach. Totemy zwierzęcych bóstw z runicznymi symbolami strzegą najcenniejszych zwojów. Hierarchia wiedzy odzwierciedla hierarchię stada - najważniejsze teksty znajdują się na podwyższeniach. Magiczne baseny pokazują wizje przeszłości gdy zanurzysz w nich łapę lub dłoń.
+
+Rh'loq + Durmali
+Runiczne Hale Wiedzy Klanowej: Masywna kamienna sala z precyzyjnie wykutymi runami tworzącymi geometryczne wzory. Kamienne tablice z pradawną wiedzą są ustawione na runicznych piedestałach. Kowadła służą jako pulpity do studiowania ciężkich ksiąg. Kryształowe lampy zasilane magią oświetlają salę. Każda sekcja wiedzy jest oznaczona herbem odpowiedniego klanu magów. Mechaniczne i magiczne zabezpieczenia współpracują, chroniąc najcenniejsze tomy.
+
+Rh'loq + Fae'lin
+Ogród Świetlistych Run: Biblioteka w gigantycznym, magicznie powiększonym kwiecie, którego płatki są pokryte świecącymi runami. Książki ukryte są w pąkach mniejszych kwiatów, otwierających się na hasło. Motyle z runicznymi wzorami na skrzydłach służą jako przewodnicy po zbiorach. Magiczne światełka dostosowują jasność do potrzeb czytelnika. Krople magicznej rosy na liściach przechowują fragmenty starożytnych zaklęć.
+
+Rh'loq + Kyo'ren
+Labirynt Wypaczonych Run: Biblioteka o niemożliwej geometrii, gdzie korytarze między regałami prowadzą do miejsc, które nie powinny istnieć. Runy na ścianach zmieniają kształt i znaczenie podczas patrzenia. Księgi są częściowo żywe, pulsujące w rytm bicia niewidzialnego serca. Czytelnicy muszą nosić specjalne amulety, by nie stracić zmysłów wśród wiedzy wypaczającej rzeczywistość. Strażnicy o wielu oczach i runicznych tatuażach patrolują korytarze.
+
+Rh'loq + Mijero
+Pawilon Harmonijnych Run: Elegancka drewniana konstrukcja z papierowymi ścianami pokrytymi kaligraficznie zapisanymi runami. Zwoje są przechowywane w bambusowych tubach oznaczonych runicznymi symbolami. Kryształowe dzwonki wydają dźwięki kierujące czytelnika do poszukiwanej wiedzy. Centralny staw z runami na dnie służy do medytacji i wizualizacji skomplikowanych zaklęć. Kaligraficzne pędzle nasączone magią pozwalają kopiować starożytne teksty.
+
+Rh'loq + Nekrothol
+Obserwatorium Kosmicznych Run: Biblioteka, gdzie kopuła sufitu pokazuje gwiezdne konstelacje z runicznymi symbolami. Księgi lewitują w zerowej grawitacji wokół centralnego kryształu. Wiedza jest zapisywana zarówno w tradycyjnych runach jak i w kod astralny widoczny tylko podczas określonych układów gwiazd. Portale w ścianach prowadzą do mniejszych komnat reprezentujących różne wymiary wiedzy. Strażnicy-konstrukty z runami wyrytymi w metalowych ciałach.
+
+Rh'loq + Heu'ia
+Piramida Runicznych Hieroglifów: Biblioteka w kształcie piramidy z komorami na różnych poziomach reprezentującymi różne dziedziny wiedzy. Ściany pokryte są mieszanką run i hieroglifów tworzących magiczne formuły. Sarkofagi z mumiami dawnych mędrców, którzy mogą być przebudzeni by odpowiedzieć na pytania. Światło słoneczne wpada przez specjalne otwory, aktywując różne runy w zależności od pory dnia i roku. Posągi z runicznymi oczami śledzą ruchy intruzów.
+
+Biblioteki - Hybrydy Common z innymi językami
+Common + Ancient_Runes
+Królewskie Archiwum Zakazanej Wiedzy: Elegancka biblioteka zamkowa z ukrytą sekcją za ruchomym regałem. Księgi o czarnej magii są przykute łańcuchami i opatrzone królewskimi pieczęciami zakazu. Czaszki zdrajców królestwa służą jako magiczne lampy. Wizerunki bohaterów walczących z demonami zdobią ściany jako ostrzeżenie. Specjalna sekcja z instrukcjami dotyczącymi zwalczania niebezpiecznych magicznych stworzeń.
+
+Common + Kristalion
+Menażeria Wiedzy: Biblioteka łącząca ludzką metodologię katalogowania z instynktownym podejściem zwierzoludzi. Książki oznaczone są zarówno tytułami jak i zapachowymi znacznikami. Gniazda do czytania zamiast tradycyjnych stołów. Wiedza o polowaniach i terytoriach zajmuje honorowe miejsce obok rycerskich kronik. Totemy plemienne sąsiadują z herbami szlacheckimi. Specjalne półki dostosowane do różnych rozmiarów i kształtów użytkowników.
+
+Common + Durmali
+Archiwum Sojuszu Krasnoludów i Ludzi: Solidna kamienna konstrukcja z drewnianymi elementami. Księgi i kamienne tablice współistnieją na wzmocnionych półkach. Kroniki wojen i traktatów pokojowych zajmują centralne miejsce. Kuźnia do naprawy opraw książkowych i tworzenia metalowych stronic. Herby obu ras zdobiące wejścia do różnych sekcji. Wielkie mapy kopalni i fortec na ścianach.
+
+Common + Fae'lin
+Biblioteka Zaczarowanego Dworu: Elegancka królewska biblioteka, gdzie regały są częściowo utworzone z żywych, magicznie ukształtowanych drzew. Książki o wróżkach i magicznych stworzeniach mienią się i zmieniają kolor. Motyle-przewodnicy pomagają znaleźć poszukiwane tomy. Fontanna z magiczną wodą pozwalającą na wizualizację opisywanych w książkach wydarzeń. Małe drzwiczki w ścianach dla wróżek-bibliotekarzy.
+
+Common + Kyo'ren
+Archiwum Niezbadanych Krain: Tradycyjna biblioteka zamkowa, której tylne sekcje stopniowo zniekształcają się w niemożliwą geometrię. Mapy pokazujące zarówno znane królestwa jak i niemożliwe, obce wymiary. Księgi o potworach, które zmieniają kształt podczas czytania. Magiczne bariery oddzielające bezpieczną wiedzę od tej, która może zniekształcić umysł czytelnika. Strażnicy wyposażeni zarówno w miecze jak i amulety chroniące przed szaleństwem.
+
+Common + Mijero
+Pawilon Dyplomatycznej Mądrości: Elegancka biblioteka łącząca zachodnie i wschodnie style architektoniczne. Zwoje i księgi ułożone z idealnym porządkiem. Sekcja poświęcona sztuce negocjacji i protokołowi dyplomatycznemu. Kaligraficznie zapisane traktaty pokojowe w ozdobnych gablotach. Ceremonialny stół do herbaty pośrodku sali, gdzie dyplomaci mogą dyskutować o przeczytanych tekstach. Broń ceremonialna różnych kultur na ścianach.
+
+Common + Nekrothol
+Obserwatorium Królewskich Astrologów: Biblioteka z kopułą pokazującą ruch gwiazd. Księgi o wpływie ciał niebieskich na losy królestwa. Magiczne teleskopy i astrolabia do badania kosmosu. Kryształy przechowujące obrazy rzadkich kosmicznych zjawisk. Mapy gwiazdozbiorów z zaznaczonymi miejscami lądowań obiektów z kosmosu. Portrety królewskich astrologów, którzy przewidzieli ważne wydarzenia.
+
+Common + Heu'ia
+Archiwum Starożytnych Ekspedycji: Biblioteka dokumentująca wyprawy królestwa do starożytnych ruin. Hieroglify i ich tłumaczenia na tablicach. Gabloty z artefaktami przywiezionymi z ekspedycji. Mapy zaginionych miast i piramid. Dzienniki podróżników z opisami starożytnych rytuałów. Ostrzeżenia dotyczące przeklętych przedmiotów i sposobów neutralizacji klątw.
+
+Ancient_Runes + Kristalion
+Bestialska Biblioteka Zakazanej Magii: Mroczna jaskinia z półkami wykutymi w skale. Księgi o demonologii i nekromancji są strzeżone przez zmutowane zwierzęce chimery. Kryształy pamięci aktywowane krwią różnych gatunków. Totemy demonicznych zwierząt służą jako strażnicy sekcji. Rytualne kręgi do bezpiecznego przywoływania i badania magicznych bestii. Mapy pokazujące terytoria potężnych demonicznych stworzeń.
+
+Ancient_Runes + Durmali
+Kuźnia Zakazanych Artefaktów: Kamienna biblioteka z kuźnią pośrodku, gdzie wiedza teoretyczna jest od razu przekuwana w praktykę. Runiczne tablice z zaklęciami nekromancji i demonologii. Kowadła do tworzenia magicznych broni nasyconych mroczną energią. Czaszki nieudanych eksperymentatorów jako przestroga. Szczegółowe plany konstrukcji golemów i magicznych konstruktów. Klatki z demonami używanymi do nasycania broni mocą.
+
+Ancient_Runes + Fae'lin
+Ogród Mrocznych Iluzji: Biblioteka ukryta w gigantycznych, częściowo martwych kwiatach. Księgi o zakazanej magii ukryte w trujących pąkach. Magiczne motyle wysysające wspomnienia intruzów. Iluzoryczne ścieżki prowadzące do pułapek. Połączenie piękna i grozy - kwiaty o hipnotycznych wzorach i oszałamiających zapachach skrywające niebezpieczną wiedzę. Zmiennokształtne istoty udające elementy ogrodu.
+
+Ancient_Runes + Kyo'ren
+Biblioteka Wypaczonych Umysłów: Pomieszczenie, którego geometria przeczy prawom fizyki. Księgi napisane językiem wywołującym halucynacje. Portale do wymiarów koszmarów używane do badań. Inkaust z esencji szaleństwa używany do zapisywania najbardziej niebezpiecznych zaklęć. Strażnicy o wielu twarzach, zmieniający formę zależnie od lęków intruza. Rytualne kręgi do bezpiecznego studiowania wiedzy wypaczającej umysł.
+
+Ancient_Runes + Mijero
+Pawilon Zakazanych Sztuk: Elegancka wschodnia konstrukcja skrywająca mroczne sekrety. Zwoje z zaklęciami zapisanymi kaligraficznym pismem, które ożywa podczas czytania. Sekcja poświęcona magicznym sztyletom i truciznom. Medytacyjne kręgi do bezpiecznego badania demonicznych bytów. Maski rytualne pozwalające na komunikację z duchami. Precyzyjne diagramy punktów życiowych i śmiertelnych na ludzkim ciele.
+
+Ancient_Runes + Nekrothol
+Mauzoleum Kosmicznej Nekromancji: Biblioteka, gdzie wiedza o śmierci i kosmosie się przenika. Księgi zapisane atramentem z esencji czarnych dziur. Kryształy zawierające dusze istot z innych planet. Portale do martwych wymiarów. Mapy pokazujące miejsca w kosmosie, gdzie bariera między życiem a śmiercią jest najcieńsza. Zmumifikowane szczątki istot pozaziemskich z opisami ich anatomii i mocy.
+
+Ancient_Runes + Heu'ia
+Piramida Zakazanych Rytuałów: Stopniowa konstrukcja z komorami poświęconymi coraz bardziej niebezpiecznym aspektom magii. Hieroglify opisujące rytuały przywracania życia. Sarkofagi z eksperymentalnymi mumiami. Kanopskie słoje z organami nasycone magiczną mocą. Ołtarze do demonstracji rytuałów nekromantycznych. Posągi demonicznych bóstw z komorami na ofiary w podstawach.
+
+Biblioteki - Hybrydy Kristalion z innymi językami
+Kristalion + Durmali
+Archiwum Bestii Gór: Biblioteka wykuta w zboczu góry, łącząca instynktowne podejście zwierzoludzi z krasnoludzkimi technikami przechowywania wiedzy. Kamienne tablice z wyrytymi ścieżkami migracji i terytoriami klanów. Totemy plemienne obok herbów krasnoludów. Mapy kopalni i naturalnych jaskiń używanych przez oba gatunki. Kute w metalu historie wielkich łowów i batalii. Sale treningowe do praktycznego przekazywania wiedzy o walce.
+
+Kristalion + Fae'lin
+Gniazdo Naturalnych Sekretów: Biblioteka w gigantycznym drzewie, gdzie wiedza jest przechowywana zarówno w formie zapisków jak i żywych pamięci roślin i zwierząt. Książki z liści zapisanych naturalnym barwnikiem. Magiczne motyle przenoszące wspomnienia między różnymi częściami gniazda. Baseny z wodą pokazujące wizje podczas picia. Żywe rzeźby z roślin przybierające kształt opisywanych stworzeń. Różne poziomy biblioteki dostępne przez wspinaczkę lub lot.
+
+Kristalion + Kyo'ren
+Legowisko Mutacji: Jaskinia, gdzie zapiski o naturalnym świecie mieszają się z wiedzą o nienaturalnych transformacjach. Księgi oprawione w zmutowaną skórę. Kryształy pamięci pokazujące proces ewolucji i mutacji różnych gatunków. Baseny z mutagenną substancją do kontrolowanych eksperymentów. Klatki z częściowo przemienionymi istotami jako żywe przykłady. Totemy przedstawiające stopniową transformację z naturalnych form w obce, niepokojące kształty.
+
+Kristalion + Mijero
+Pawilon Bestii i Harmonii: Elegancka konstrukcja wkomponowana w naturalne otoczenie. Zwoje z kaligraficznymi ilustracjami różnych gatunków. Medytacyjne przestrzenie do komunikacji z duchami zwierząt. Mapy szlaków migracyjnych i terytoriów różnych gatunków. Posągi przedstawiające idealne formy różnych bestii. Baseny z wodą do obserwacji zachowań wodnych stworzeń. Ogród z roślinami używanymi do leczenia zwierząt.
+
+Kristalion + Nekrothol
+Obserwatorium Kosmicznej Ewolucji: Biblioteka badająca wpływ kosmosu na rozwój ziemskich gatunków. Holograficzne modele pokazujące ewolucję pod wpływem różnych gwiezdnych radiacji. Kryształy z DNA istot zmienionych przez kosmiczne promieniowanie. Mapy miejsc, gdzie spadły meteoryty przynosząc obce formy życia. Portale obserwacyjne do innych planet z rozwiniętym życiem zwierzęcym. Żywe próbki istot z kosmicznymi mutacjami.
+
+Kristalion + Heu'ia
+Świątynia Zwierzęcych Bóstw: Biblioteka w kształcie piramidy z komorami poświęconymi różnym gatunkom zwierząt. Hieroglify i malowidła przedstawiające święte bestie. Mumie rzadkich i wymarłych gatunków z opisami ich mocy i znaczenia. Rytualne maski zwierzęce pozwalające na przyjęcie cech danego gatunku. Ołtarze do składania ofiar zwierzęcym bóstwom. Mapy pokazujące święte terytoria różnych gatunków.
+
+Biblioteki - Hybrydy Durmali z innymi językami
+Durmali + Fae'lin
+Kuźnia Naturalnych Cudów: Kamienna biblioteka z żywymi roślinami wyrastającymi między półkami. Kowadła do tworzenia delikatnych metalowych konstrukcji naśladujących naturalne formy. Plany magicznych mechanizmów zasilanych energią natury. Kryształowe lampy zawierające schwytane wróżkowe światełka. Fontanny z magiczną wodą używaną do hartowania specjalnych stopów. Modele mostów i konstrukcji integrujących się z żywą przyrodą.
+
+Durmali + Kyo'ren
+Archiwum Zakazanej Inżynierii: Kamienna biblioteka stopniowo przechodząca w niepokojące, organiczne formy. Plany konstruktów łączących metal, kamień i żywą tkankę. Kuźnia do eksperymentów z niestabilnymi stopami i obcymi materiałami. Szczegółowe rysunki anatomiczne pokazujące, jak integrować mechanizmy z ciałem. Prototypy niemożliwych maszyn łamiących prawa fizyki. Klatki z nieudanymi eksperymentami - pół maszynami, pół żywymi istotami.
+
+Durmali + Mijero
+Pawilon Mistrzów Rzemiosła: Elegancka kamienna konstrukcja z drewnianymi elementami w wschodnim stylu. Zwoje z kaligraficznymi instrukcjami tworzenia precyzyjnych mechanizmów. Warsztat do tworzenia delikatnych, artystycznych przedmiotów z metalu. Medytacyjna przestrzeń do planowania złożonych projektów. Modele różnych typów broni z całego świata z analizą ich konstrukcji. Diagramy punktów równowagi i harmonii w konstrukcjach mechanicznych.
+
+Durmali + Nekrothol
+Kuźnia Gwiezdnych Metali: Biblioteka z kuźnią przystosowaną do pracy z metalami z meteorytów. Kamienne tablice z wiedzą o materiałach z kosmosu. Plany urządzeń do obserwacji i komunikacji z odległymi gwiazdami. Modele statków zdolnych do podróży między planetami. Próbki różnych metali z kosmosu z opisami ich właściwości. Schematy maszyn wykorzystujących nieznane na Ziemi źródła energii.
+
+Durmali + Heu'ia
+Hala Starożytnych Konstruktorów: Biblioteka dokumentująca techniki budowy monumentalnych konstrukcji. Modele piramid i świątyń z analizą ich konstrukcji. Narzędzia i plany do precyzyjnego cięcia i transportu ogromnych bloków kamiennych. Hieroglify opisujące zapomniane techniki inżynieryjne. Warsztat do reprodukcji starożytnych mechanizmów. Mapy podziemnych kompleksów i ukrytych komór w znanych monumentach.
+
+Biblioteki - Hybrydy Fae'lin z innymi językami
+Fae'lin + Kyo'ren
+Ogród Koszmarnych Iluzji: Biblioteka w gigantycznych, częściowo zmutowanych kwiatach. Księgi zmieniające kształt i zawartość podczas czytania. Ścieżki, które prowadzą do niemożliwych miejsc. Magiczne motyle, których dotknięcie wywołuje halucynacje. Fontanny z płynem wywołującym wizje alternatywnych rzeczywistości. Żywe rzeźby z roślin przybierające niepokojące, obce formy.
+
+Fae'lin + Mijero
+Pawilon Harmonii Natury: Elegancka drewniana konstrukcja wtopiona w żywe drzewa. Zwoje zapisane atramentem z magicznych kwiatów. Bonsai o niezwykłych właściwościach magicznych. Medytacyjny ogród z roślinami reagującymi na emocje odwiedzających. Ceremonialny pawilon do picia herbaty z magicznych ziół dających wgląd w tajemnice natury. Mostki nad strumieniami, których woda pokazuje fragmenty przyszłości.
+
+Fae'lin + Nekrothol
+Ogród Kosmicznych Kwiatów: Biblioteka w ogrodzie roślin mutujących pod wpływem energii kosmicznej. Kwiaty, które otwierają się tylko podczas określonych układów gwiazd, ujawniając zapisane w nich informacje. Magiczne motyle przenoszące wiadomości między planetami. Fontanny z wodą pokazującą odległe światy. Portale do innych wymiarów ukryte w sercu gigantycznych kwiatów. Żywe konstelacje utworzone przez świecące rośliny.
+
+Fae'lin + Heu'ia
+Wiszące Ogrody Starożytnej Wiedzy: Biblioteka w tarasowych ogrodach inspirowanych starożytnymi cudami architektury. Hieroglify wyryte na liściach magicznych roślin. Fontanny z wodą pamięci pozwalającą na przypomnienie sobie poprzednich wcieleń. Kwiaty otwierające się, by ujawnić starożytne artefakty. Ścieżki prowadzące przez iluzoryczne pustynie i piramidy. Magiczne motyle przenoszące dusze między światem żywych a umarłych.
+
+Biblioteki - Hybrydy Kyo'ren z innymi językami
+Kyo'ren + Mijero
+Pawilon Zakazanych Transformacji: Elegancka konstrukcja, której wnętrze przeczy prawom fizyki. Zwoje zapisane atramentem zmieniającym kolor i znaczenie. Medytacyjne kręgi do bezpiecznego badania obcych wymiarów. Maski rytualne transformujące noszącego czasowo w obce istoty. Kaligraficzne symbole, które reorganizują przestrzeń wokół siebie. Bonsai wyhodowane z nasion z innych wymiarów, przybierające niemożliwe kształty.
+
+Kyo'ren + Nekrothol
+Biblioteka Kosmicznego Chaosu: Pomieszczenie, gdzie wpływy kosmosu i obcych wymiarów się przenikają. Księgi zapisane w językach innych wymiarów. Portale pokazujące odległe, umierające gwiazdy. Artefakty z czarnych dziur wypaczające przestrzeń wokół siebie. Hologramy istot zbyt obcych, by pojąć ich anatomię. Kryształy pamięci zawierające wspomnienia istot, które doświadczyły końca swoich światów.
+
+Kyo'ren + Heu'ia
+______________----____________
+
+Kyo'ren + Heu'ia
+Piramida Obcych Bóstw: Konstrukcja, której wnętrze jest większe niż zewnętrze. Hieroglify zmieniające znaczenie zależnie od kąta patrzenia. Sarkofagi zawierające istoty nie z tego świata. Rytualne maski transformujące noszącego w hybrydę człowieka i obcego bytu. Portale ukryte w posągach, prowadzące do wymiarów starożytnych, obcych bóstw. Baseny z cieczą pokazującą wizje przeszłości i przyszłości zbyt obce, by je pojąć.
+
+Biblioteki - Hybrydy Mijero z innymi językami
+Mijero + Nekrothol
+Obserwatorium Gwiezdnej Harmonii: Elegancka wschodnia konstrukcja z kopułą pokazującą gwiazdy. Zwoje z kaligraficznymi mapami kosmosu. Medytacyjne kręgi do astralne projekcji na inne planety. Kryształowe dzwonki wydające dźwięki harmonizujące z kosmicznym tłem mikrofalowym. Precyzyjne modele układów planetarnych z mechanizmami przewidującymi zaćmienia i koniunkcje. Bonsai hodowane w warunkach symulujących inne planety.
+
+Mijero + Heu'ia
+Pawilon Starożytnych Skrybów: Elegancka konstrukcja łącząca wschodnie i starożytne style architektoniczne. Zwoje z kaligraficznymi tłumaczeniami hieroglifów. Warsztaty do tworzenia papirusu i specjalnych atramentów. Medytacyjne przestrzenie do komunikacji z duchami dawnych pisarzy. Posągi pisarzy i mędrców z różnych epok. Ceremonialny stół do studiowania i kopiowania starożytnych tekstów.
+
+Biblioteki - Hybrydy Nekrothol z innymi językami
+Nekrothol + Heu'ia
+Grobowiec Kosmicznych Faraonów: Piramidalna konstrukcja z obserwatorium na szczycie. Hieroglify opisujące wpływ gwiazd na losy cywilizacji. Sarkofagi władców z ciałami zakonserwowanymi dzięki kosmicznej energii. Portale do grobowców na innych planetach. Mapy gwiazdozbiorów z zaznaczonymi świętymi miejscami. Artefakty z meteorytu używane w rytuałach przejścia do zaświatów.
+
+Miejsca Bitwy - Hybrydy Rh'loq z innymi językami
+Rh'loq + Common
+Arena Magicznych Rycerzy: Klasyczna piaszczysta arena otoczona kamiennymi trybunami, ale z runicznymi kręgami aktywującymi się podczas walki. Magiczne bariery ochronne dla widzów. Posągi dawnych czempionów z runicznymi inskrypcjami opisującymi ich największe osiągnięcia. Specjalne miejsca dla magów-sędziów kontrolujących poziom magii używanej podczas pojedynków.
+
+Rh'loq + Ancient_Runes
+Krąg Zakazanych Pojedynków: Arena z czarnego kamienia, gdzie runiczne symbole na podłodze aktywują się krwią walczących. Pentagramy przyzwań pozwalające na walkę z przywołanymi demonami. Czaszki pokonanych magów jako ozdoby i ostrzeżenia. Magiczne więzienia dla przegranych, których dusze są używane do zasilania areny. Ołtarze do składania ofiar przed walką dla zwiększenia mocy.
+
+Rh'loq + Kristalion
+Arena Pierwotnych Instynktów: Naturalna dolina z runicznymi symbolami wyrytymi na otaczających skałach. Magiczne kręgi aktywujące bestialskie instynkty walczących. Totemy wzmacniające siłę i zwinność wojowników. Różne strefy terenu - od piaszczystej areny po skaliste wzniesienia - do testowania różnych stylów walki. Specjalne miejsca dla szamanów kontrolujących duchy natury podczas pojedynków.
+
+Rh'loq + Durmali
+Kuźnia Bojowa: Wielka kamienna arena z kuźnią na obrzeżach, gdzie można naprawiać broń między rundami. Runiczne symbole wzmacniające wytrzymałość broni i zbroi. Mechaniczne pułapki aktywowane runami podczas walki. Posągi wielkich wojowników-kowali z runicznymi inskrypcjami. Specjalne kowadła do rytualnego przygotowania broni przed pojedynkiem.
+
+Rh'loq + Fae'lin
+Polana Iluzorycznych Pojedynków: Leśna arena otoczona magicznymi grzybami i kwiatami. Runiczne symbole tworzące iluzje i zmieniające otoczenie podczas walki. Świetliste motyle rozpraszające walczących. Magiczne kręgi teleportujące wojowników w różne części areny. Naturalne przeszkody zmieniające położenie i właściwości pod wpływem run.
+
+Rh'loq + Kyo'ren
+Nexus Wymiarowych Pojedynków: Arena istniejąca jednocześnie w kilku wymiarach, z runicznymi portalami między nimi. Walczący mogą znikać w jednym miejscu i pojawiać się w innym. Części areny mają zmienione zasady fizyki - grawitacja, czas, gęstość powietrza. Obce istoty obserwujące walkę z wymiarowych szczelin. Runiczne symbole chroniące walczących przed całkowitym rozpadem w miejscach styku wymiarów.
+
+Rh'loq + Mijero
+Pawilon Magicznych Sztuk Walki: Elegancka drewniana arena z runicznymi symbolami wzmacniającymi techniki walki. Medytacyjne kręgi do przygotowania przed pojedynkiem. Magiczne bronie ceremonialnie przechowywane na stojakach. Runiczne diagramy pokazujące przepływ energii chi wzmocnionej magią. Posągi mistrzów łączących sztuki walki z magią run.
+
+Rh'loq + Nekrothol
+Arena Astralnych Pojedynków: Platforma zawieszona w symulowanej przestrzeni kosmicznej. Runiczne symbole umożliwiające oddychanie i poruszanie się w próżni. Gwiazdy i planety jako widzowie. Magiczne pola siłowe definiujące granice areny. Portale do innych wymiarów otwierane podczas szczególnie intensywnych starć. Broń nasycona energią gwiezdną.
+
+Rh'loq + Heu'ia
+Świątynia Bojowych Prób: Piramidalna arena z runicznymi hieroglifami aktywującymi się podczas walki. Promienie słoneczne padające przez specjalne otwory, wzmacniające określone runy w zależności od pory dnia. Posągi bóstw wojny z runicznymi oczami śledzącymi walkę. Magiczne pułapki i przeszkody pojawiające się na arenie jako próby dla walczących.
+
+Miejsca Bitwy - Hybrydy Common z innymi językami
+Common + Ancient_Runes
+Arena Mrocznych Rycerzy: Klasyczna rycerska arena z elementami mrocznej magii. Pentagramy ukryte pod piaskiem, aktywujące się podczas intensywnej walki. Królewska loża chroniona magicznymi barierami przed klątwami. Czaszki zdrajców królestwa jako ozdoby na włóczniach. Specjalne miejsca dla kapłanów gotowych do egzorcyzmowania opętanych wojowników.
+
+Common + Kristalion
+Arena Dzikich Łowów: Piaszczysta arena otoczona drewnianymi palisadami, z elementami naturalnego terenu. Platformy obserwacyjne dla arystokracji i platformy dla wodzów klanów zwierzoludzi. Strefy polowania z ukrytymi przejściami i kryjówkami. Trofea z wielkich łowów zdobiące arenę. Klatki z dzikimi zwierzętami gotowymi do wypuszczenia podczas walki.
+
+Common + Durmali
+Arena Sojuszniczych Turniejów: Solidna kamienna konstrukcja z elementami fortyfikacji. Królewska loża obok tronu dla krasnoludzkich władców. Kuźnie polowe do naprawy broni i zbroi. Różne strefy areny symulujące warunki bitewne - od otwartego pola po wąskie przejścia w stylu kopalni. Posągi bohaterów obu ras, którzy walczyli ramię w ramię.
+
+Common + Fae'lin
+Zaczarowany Dziedziniec Turniejowy: Klasyczna arena rycerska otoczona magicznymi roślinami i iluzjami. Królewska loża udekorowana żywymi kwiatami zmieniającymi kolor zależnie od intensywności walki. Magiczne fontanny leczące rannych wojowników. Iluzoryczne przeszkody pojawiające się i znikające podczas pojedynku. Motyle i świetliki jako magiczne oświetlenie nocnych walk.
+
+Common + Kyo'ren
+Arena Koszmarnych Prób: Początkowo klasyczna arena rycerska, która podczas walki stopniowo zniekształca się w niepokojące formy. Widzowie chronieni magicznymi barierami przed efektami zniekształceń. Portale czasami otwierające się podczas intensywnej walki, ukazujące obce wymiary. Posągi wojowników zniekształcone w sposób sugerujący wpływ obcych mocy.
+
+Common + Mijero
+Pawilon Honorowych Pojedynków: Elegancka arena łącząca zachodnie i wschodnie style. Piaszczyste koło do walki otoczone drewnianą konstrukcją z ozdobnymi dachami. Miejsca dla sędziów oceniających zarówno skuteczność jak i styl walki. Ceremonialny gong oznajmiający początek i koniec walki. Królewska loża obok pawilonu dla mistrzów sztuk walki.
+
+Common + Nekrothol
+Arena Gwiezdnych Czempionów: Klasyczna arena z obserwatorium astrologicznym. Gwiezdne mapy na podłożu areny, z kryształami świecącymi jak gwiazdy podczas nocnych walk. Królewska loża z teleskopami do obserwacji nieba. Magiczne efekty naśladujące zjawiska kosmiczne podczas szczególnie widowiskowych pojedynków. Broń ceremonialna wykuta z metali meteorytowych.
+
+Common + Heu'ia
+Arena Starożytnych Tradycji: Klasyczna arena z elementami starożytnej architektury. Hieroglify opisujące zasady honorowej walki. Królewska loża stylizowana na tron faraona. Piasek sprowadzony ze świętych pustyń. Posągi dawnych czempionów w pozach bojowych. Obeliski wyznaczające granice areny, rzucające symboliczne cienie wskazujące najlepszy czas na rozpoczęcie walki.
+
+Ancient_Runes + Kristalion
+Krąg Bestialskich Rytuałów: Mroczna arena otoczona czaszkami i kośćmi drapieżników. Pentagramy przyzwań namalowane krwią różnych gatunków. Totemy demonicznych zwierząt emitujące aurę strachu. Klatki z opętanymi bestiami gotowymi do wypuszczenia. Ołtarze do składania ofiar z pokonanych, wzmacniające bestialskie instynkty walczących. Szamani-nekromanci przyzywający duchy zmarłych drapieżników.
+
+Ancient_Runes + Durmali
+Kuźnia Przeklętych Broni: Kamienna arena z wielką kuźnią, gdzie wykuwane są bronie nasycone demonicznymi mocami. Pentagramy kontrolujące uwolnioną energię podczas walki. Posągi demonicznych kowali z oczami świecącymi podczas intensywnych pojedynków. Specjalne kowadła do wykuwania broni z dusz pokonanych. Runiczne pieczęcie na ścianach więziące demony używane do nasycania broni.
+
+Ancient_Runes + Fae'lin
+Ogród Mrocznych Iluzji: Arena w centrum martwego lasu, gdzie magiczne, zniekształcone rośliny reagują na krew przelaną podczas walki. Iluzoryczne demony pojawiające się jako widzowie. Magiczne kwiaty wydzielające halucynogenny pyłek podczas walki. Pnącza chwytające i unieruchamiające przegrywających. Centralna fontanna z czarną wodą pokazującą wizje śmierci walczących.
+
+Ancient_Runes + Kyo'ren
+Jama Wymiarowych Abominacji: Arena istniejąca częściowo w wymiarze demonów. Podłoże pulsujące jak żywy organizm. Portale otwierające się losowo, wypuszczające obce istoty jako dodatkowe zagrożenie. Grawitacja i czas funkcjonujące nieprzewidywalnie. Widzowie-demony obserwujący z wymiarowych szczelin, czasem ingerujący w walkę. Pokonani są wciągani w portale zamiast ginąć.
+
+Ancient_Runes + Mijero
+Świątynia Zakazanych Sztuk Walki: Elegancka arena z mroczną atmosferą. Demoniczne maski rytualne na ścianach, ożywające podczas walki. Pentagramy ukryte pod matami do walki. Broń ceremonialna nasycona duszami poprzednich właścicieli. Czarne świece i kadzidła tworzące hipnotyczną atmosferę. Mistrzowie sztuk walki opętani przez demony jako sędziowie.
+
+Ancient_Runes + Nekrothol
+Arena Kosmicznego Zniszczenia: Platforma zawieszona nad pozorną przepaścią prowadzącą do gwiezdnej otchłani. Pentagramy przyzywające istoty z odległych wymiarów kosmosu. Meteoryty z uwięzionymi demonami jako element areny. Portale pokazujące umierające światy i czarne dziury. Energia z kosmicznej pustki wzmacniająca nekromantyczne zdolności walczących.
+
+Ancient_Runes + Heu'ia
+Świątynia Zakazanych Rytuałów: Piramidalna arena z hieroglifami opisującymi demoniczne rytuały. Ołtarz ofiarny w centrum, gdzie krew pokonanych spływa kanałami, aktywując magiczne symbole. Posągi hybryd ludzi i demonów jako strażnicy. Sarkofagi z zapieczętowanymi demonami na obrzeżach areny. Kapłani w maskach zwierzęcych kierujący rytuałami walki.
+
+Miejsca Bitwy - Hybrydy Kristalion z innymi językami
+Kristalion + Durmali
+Arena Klanowych Wyzwań: Naturalna dolina przekształcona w arenę, z kamiennymi umocnieniami i jaskiniami. Totemy klanowe wyznaczające terytoria na arenie. Kuźnie polowe do naprawy broni i wytwarzania prostych pułapek. Platformy obserwacyjne dla wodzów klanów i mistrzów kowali. Różne strefy terenu do testowania zarówno zwierzęcych instynktów jak i technicznych umiejętności walki.
+
+Kristalion + Fae'lin
+Polana Dzikich Łowów: Leśna arena z magicznymi roślinami reagującymi na przebieg walki. Totemy zwierzęce emitujące aury wzmacniające naturalne zdolności. Iluzoryczne zwierzęta jako dodatkowe wyzwania dla walczących. Strumienie i małe jeziorka z magiczną wodą leczącą lub wzmacniającą. Platformy na drzewach dla obserwatorów preferujących wysokie miejsca.
+
+Kristalion + Kyo'ren
+Jama Bestialskich Mutacji: Naturalna arena stopniowo przechodząca w obce, niepokojące formy. Totemy zmutowanych zwierząt emanujące dziwną energią. Części areny, gdzie walczący częściowo transformują się w hybrydowe istoty. Portale do wymiarów zamieszkanych przez obce, drapieżne formy życia. Baseny z mutagenną substancją jako element strategiczny i zagrożenie.
+
+Kristalion + Mijero
+Pawilon Bestii i Harmonii: Elegancka arena w stylu wschodnim, otoczona naturalnymi elementami. Totemy zwierzęcych duchów jako sędziowie. Medytacyjne przestrzenie do komunii z duchami zwierząt przed walką. Różne strefy reprezentujące terytoria różnych gatunków. Ceremonialny gong wykonany z kłów i rogów legendarnych bestii. Mistrzowie sztuk walki inspirowanych ruchami zwierząt jako trenerzy.
+
+Kristalion + Nekrothol
+Arena Kosmicznych Drapieżców: Naturalna arena pod otwartym niebem, gdzie gwiazdy wydają się nienaturalnie blisko. Totemy zwierząt z kosmicznymi motywami. Meteoryty jako elementy areny, emanujące dziwną energią wpływającą na instynkty. Portale pokazujące drapieżniki z innych światów. Zmutowane zwierzęta z kosmicznymi cechami jako strażnicy areny.
+
+Kristalion + Heu'ia
+Świątynia Zwierzęcych Bóstw: Arena w kształcie amfiteatru z posągami bóstw o zwierzęcych głowach. Hieroglify opisujące święte łowy i rytuały inicjacyjne. Różne strefy reprezentujące święte terytoria różnych gatunków. Ołtarze do składania ofiar przed walką dla uzyskania błogosławieństwa zwierzęcych bóstw. Kapłani w maskach zwierzęcych jako sędziowie i komentatorzy walk.
+
+Miejsca Bitwy - Hybrydy Durmali z innymi językami
+Durmali + Fae'lin
+Arena Metalicznego Lasu: Kuźnia otoczona metalowymi konstrukcjami przypominającymi drzewa i rośliny. Kowadła do szybkiej naprawy broni podczas walki. Iluzoryczne przeszkody pojawiające się i znikające. Magiczne fontanny hartujące broń i leczące rany. Mechaniczne pułapki ukryte pod iluzjami naturalnego terenu. Mistrzowie kowale i iluzjoniści jako wspólni sędziowie.
+
+Durmali + Kyo'ren
+Kuźnia Niemożliwych Konstrukcji: Kamienna arena z kuźnią, której architektura przeczy prawom fizyki. Bronie wykuwane podczas walki zmieniają kształt i właściwości. Mechaniczne pułapki działające według alternatywnych zasad fizyki. Części areny, gdzie metal zachowuje się jak ciecz lub gaz. Kowale specjalizujący się w wykuwaniu broni z materiałów z innych wymiarów jako mistrzowie ceremonii.
+
+Durmali + Mijero
+Pawilon Mistrzów Rzemiosła: Elegancka arena łącząca krasnoludzką solidność z wschodnią precyzją. Broń ceremonialna na honorowych stojakach. Kuźnia do naprawy i dostosowywania broni między rundami. Różne strefy areny testujące różne style walki i typy broni. Mistrzowie kowale i mistrzowie sztuk walki jako wspólna rada sędziowska. Gong wykuty z rzadkiego metalu oznajmiający rundy.
+
+Durmali + Nekrothol
+Arena Kosmicznej Kuźni: Kamienna konstrukcja z kuźnią wykorzystującą energię z kosmosu. Meteoryty jako surowiec do wykuwania broni podczas walki. Mechaniczne planetarium pokazujące układy gwiazd wpływające na właściwości metali. Różne strefy areny symulujące warunki panujące na różnych planetach. Kowale specjalizujący się w obróbce materiałów z kosmosu jako mistrzowie ceremonii.
+
+Durmali + Heu'ia
+Świątynia Boskich Kowali: Arena z wielką kuźnią w centrum, otoczona obeliskami i posągami. Hieroglify opisujące święte techniki kowalskie. Ołtarze do błogosławienia broni przed walką. Różne strefy areny reprezentujące etapy obróbki metalu - od wydobycia rudy po wykuwanie mistrzowskiej broni. Kapłani-kowale jako sędziowie oceniający zarówno walkę jak i jakość używanej broni.
+
+Miejsca Bitwy - Hybrydy Fae'lin z innymi językami
+Fae'lin + Kyo'ren
+Ogród Koszmarnych Iluzji: Leśna arena, gdzie rośliny przybierają niepokojące, obce formy. Iluzje zmieniające się w częściowo materialne koszmary. Magiczne kwiaty wydzielające pyłek powodujący halucynacje i częściowe transformacje. Ścieżki prowadzące do kieszeniowych wymiarów, gdzie walczący muszą stawić czoła swoim lękom. Świetliki o hipnotyzujących wzorach jako nieprzewidywalny element taktyczny.
+
+Fae'lin + Mijero
+Pawilon Harmonii i Natury: Elegancka drewniana arena otoczona magicznym ogrodem. Żywe rośliny reagujące na przepływ energii chi podczas walki. Iluzoryczne przeszkody testujące zwinność i adaptację walczących. Ceremonialny pawilon do medytacji i przygotowania przed walką. Fontanny z magiczną wodą przywracającą równowagę energetyczną. Mistrzowie sztuk walki i natury jako wspólni sędziowie.
+
+Fae'lin + Nekrothol
+Ogród Kosmicznych Wizji: Magiczna polana pod niebem pełnym gwiazd, które wydają się nienaturalnie blisko. Rośliny świecące kosmicznym światłem, zmieniające kształt podczas określonych układów gwiazd. Iluzoryczne portale pokazujące odległe światy i możliwe przyszłości. Magiczne fontanny z wodą zawierającą esencję gwiezdnego pyłu, dającą tymczasowe moce. Obserwatorium astralne zintegrowane z naturalnym otoczeniem.
+
+Fae'lin + Heu'ia
+Ogród Starożytnych Iluzji: Magiczna arena otoczona roślinami stylizowanymi na starożytne motywy. Iluzoryczne hieroglify unoszące się w powietrzu, wpływające na przebieg walki. Fontanny z wodą pamięci pokazującą fragmenty przeszłych bitew. Magiczne kwiaty otwierające się, by ujawnić starożytne artefakty wzmacniające walczących. Kapłani natury w maskach zwierzęcych jako mistrzowie ceremonii.
+
+Miejsca Bitwy - Hybrydy Kyo'ren z innymi językami
+Kyo'ren + Mijero
+Pawilon Zakazanych Transformacji: Elegancka arena, która podczas walki zniekształca się w niepokojące formy. Maski rytualne pozwalające na częściową kontrolę nad transformacjami ciała. Medytacyjne kręgi do przygotowania umysłu na kontakt z obcymi wymiarami. Bronie ceremonialne zmieniające kształt i funkcję podczas walki. Mistrzowie sztuk walki, którzy poddali się kontrolowanym mutacjom jako sędziowie.
+
+Kyo'ren + Nekrothol
+Arena Kosmicznego Chaosu: Platforma zawieszona w przestrzeni, gdzie wpływy kosmosu i obcych wymiarów się przenikają. Portale do umierających gwiazd i czarnych dziur jako element strategiczny. Grawitacja i czas funkcjonujące nieprzewidywalnie w różnych częściach areny. Istoty z kosmosu i innych wymiarów jako widzowie, czasem wpływające na przebieg walki. Broń wykonana z materiałów nie z tego świata.
+
+Kyo'ren + Heu'ia
+Świątynia Obcych Bóstw: Piramidalna arena, której wnętrze jest większe niż sugeruje zewnętrze. Hieroglify zmieniające znaczenie i położenie podczas walki. Posągi hybryd ludzi i obcych istot, ożywające podczas intensywnych pojedynków. Portale do wymiarów zamieszkanych przez starożytne, obce bóstwa. Kapłani, którzy przeszli częściową transformację w obce istoty jako mistrzowie ceremonii.
+
+Miejsca Bitwy - Hybrydy Mijero z innymi językami
+Mijero + Nekrothol
+Pawilon Kosmicznej Harmonii: Elegancka arena pod otwartym niebem, gdzie gwiazdy wydają się być na wyciągnięcie ręki. Medytacyjne kręgi do komunii z kosmiczną energią przed walką. Strefy areny reprezentujące różne ciała niebieskie i ich wpływy. Ceremonialny gong, którego dźwięk rezonuje z kosmicznym tłem mikrofalowym
+
+Mijero + Heu'ia
+Pawilon Starożytnych Mistrzów: Elegancka arena z elementami starożytnej architektury. Hieroglify opisujące zapomniane techniki walki. Medytacyjne przestrzenie do komunikacji z duchami dawnych mistrzów. Broń ceremonialna wzorowana na starożytnych artefaktach. Różne strefy areny reprezentujące historyczny rozwój sztuk walki. Kapłani-wojownicy w tradycyjnych maskach jako sędziowie.
+
+Miejsca Bitwy - Hybrydy Nekrothol z innymi językami
+Nekrothol + Heu'ia
+Świątynia Gwiezdnych Faraonów: Piramidalna arena z obserwatorium astronomicznym na szczycie. Hieroglify opisujące wpływ gwiazd na techniki walki. Promienie słoneczne i gwiezdne, padające przez specjalne otwory, aktywujące różne moce na arenie. Posągi władców z kosmicznymi atrybutami jako sędziowie. Portale do grobowców na innych planetach jako element strategiczny. Broń ceremonialna nasycona energią kosmiczną.
+
+Świątynie - Hybrydy Rh'loq z innymi językami
+Rh'loq + Common
+Katedra Runicznych Błogosławieństw: Klasyczna, gotycka katedra z witrażami przedstawiającymi runiczne symbole zamiast tradycyjnych scen religijnych. Ołtarz z kryształem koncentrującym magiczną energię. Posągi rycerzy z runicznymi inskrypcjami na zbrojach. Krypta z grobowcami dawnych magów-kapłanów. Dzwony emitujące dźwięki harmonizujące z magicznymi częstotliwościami.
+
+Rh'loq + Ancient_Runes
+Świątynia Zakazanych Mocy: Mroczna katedra z czarnego kamienia, gdzie runiczne symbole pulsują złowrogim światłem. Ołtarz do rytuałów łączących pradawną i demoniczną magię. Posągi hybryd ludzi i demonów z runicznymi symbolami kontroli. Krypta z sarkofagami dawnych czarodziejów, których dusze są uwięzione w runicznych pieczęciach. Portale do wymiarów demonów kontrolowane przez runiczne klucze.
+
+Rh'loq + Kristalion
+Sanktuarium Pierwotnych Instynktów: Świątynia w naturalnej jaskini z runicznymi symbolami wyrytymi pazurami na ścianach. Ołtarz z kryształem wzmacniającym więź między ludźmi a zwierzęcymi duchami. Totemy z runicznymi symbolami reprezentującymi różne aspekty natury. Baseny z wodą pokazującą wizje przeszłości i przyszłości po dodaniu krwi. Runiczne bramy do duchowych terytoriów łowieckich.
+
+Rh'loq + Durmali
+Kuźnia Świętych Run: Świątynia z wielką kuźnią w centrum, gdzie wykuwane są magiczne artefakty. Ołtarz w kształcie kowadła z runicznymi symbolami wzmacniającymi właściwości metali. Posągi wielkich kowali-magów z runicznymi młotami. Runiczne pieczęcie na ścianach chroniące przed niestabilną magią. Krypta z grobowcami dawnych mistrzów, których narzędzia są nadal używane w ceremonialnych wykuwaniach.
+
+Rh'loq + Fae'lin
+Gaj Świetlistych Run: Świątynia w sercu magicznego lasu, gdzie drzewa mają runiczne symbole na korze. Ołtarz z żywego drzewa, którego liście zmieniają kolor podczas rytuałów. Magiczne fontanny z wodą wzmacniającą efekty run. Świetliste motyle z runicznymi wzorami na skrzydłach jako posłańcy bóstw. Portale do zaczarowanych krain ukryte wśród korzeni starożytnych drzew.
+
+Rh'loq + Kyo'ren
+Świątynia Wypaczonych Run: Budowla o niemożliwej geometrii, gdzie runiczne symbole zmieniają znaczenie i położenie. Ołtarz istniejący jednocześnie w kilku wymiarach. Posągi istot o obcej anatomii z runicznymi symbolami wyrytymi na ciałach. Portale do wymiarów, których prawa fizyki przeczą naszym. Rytualne maski transformujące noszącego w hybrydę człowieka i istoty z innego wymiaru.
+
+Rh'loq + Mijero
+Pawilon Harmonijnych Run: Elegancka świątynia z papierowymi ścianami pokrytymi kaligraficznie zapisanymi runami. Ołtarz z kryształem balansującym energie żywiołów. Medytacyjne kręgi do komunii z magiczną energią run. Kadzielnice z ziołami wzmacniającymi koncentrację podczas rytuałów. Zwoje z kaligraficznymi runami aktywującymi się podczas ceremonialnej recytacji.
+
+Rh'loq + Nekrothol
+Obserwatorium Kosmicznych Run: Świątynia z kopułą pokazującą gwiazdy z runicznymi konstelacjami. Ołtarz z meteorytem pokrytym nieznanymi runami. Portale do różnych części kosmosu kontrolowane runicznymi kluczami. Posągi istot z gwiazd z runicznymi symbolami na ciałach. Rytualne instrumenty emitujące dźwięki harmonizujące z kosmicznym tłem mikrofalowym.
+
+Rh'loq + Heu'ia
+Piramida Runicznych Hieroglifów: Stopniowa świątynia z komnatami na różnych poziomach reprezentującymi różne aspekty magii. Ściany pokryte mieszanką run i hieroglifów tworzących potężne zaklęcia. Ołtarz, na który promienie słoneczne padają przez specjalne otwory, aktywując różne runy. Sarkofagi z mumiami dawnych magów, którzy mogą być przebudzeni podczas ważnych rytuałów. Obeliski z runicznymi inskrypcjami kanalizujące energię słońca i księżyca.
+
+Świątynie - Hybrydy Common z innymi językami
+Common + Ancient_Runes
+Katedra Mrocznego Oświecenia: Gotycka katedra z elementami mrocznej magii ukrytymi przed zwykłymi wiernymi. Ołtarz z białego marmuru, pod którym znajduje się tajny pentagram. Witraże przedstawiające walkę świętych z demonami, z ukrytymi demonicznymi symbolami. Krypta z grobowcami inkwizytorów, którzy studiowali mroczną magię, by ją zwalczać. Tajne przejścia prowadzące do biblioteki zakazanych tekstów.
+
+Common + Kristalion
+Katedra Natury i Cywilizacji: Świątynia łącząca architekturę gotycką z elementami naturalnymi. Ołtarz częściowo wykonany z kamienia, częściowo żywy - z rosnącego drzewa. Witraże przedstawiające harmonijną koegzystencję ludzi i zwierzoludzi. Posągi świętych z atrybutami zwierząt symbolizującymi ich cechy. Kaplice boczne poświęcone różnym ekosystemom i ich duchowym aspektom.
+
+Common + Durmali
+Świątynia Boskiego Rzemiosła: Solidna kamienna katedra z elementami kuźni. Ołtarz w kształcie kowadła z religijnymi symbolami. Witraże przedstawiające boskich kowali tworzących świat. Kaplice poświęcone różnym rzemiosłom i ich patronom. Podziemna kuźnia do tworzenia świętych artefaktów i broni dla paladynów. Posągi świętych wojowników z doskonale wykonaną bronią i zbroją.
+
+Common + Fae'lin
+Katedra Zaczarowanego Światła: Gotycka świątynia, gdzie elementy konstrukcyjne są częściowo zastąpione przez żywe, magicznie ukształtowane drzewa. Witraże z magicznego szkła zmieniającego kolory zależnie od pory dnia. Ołtarz otoczony magicznymi fontannami i kwiatami, które kwitną podczas modlitw. Świetliste motyle i wróżki jako pomocnicy kapłanów. Organy grające muzykę, która wywołuje delikatne iluzje ilustrujące święte historie.
+
+Common + Kyo'ren
+Katedra Niepoznawalnego: Klasyczna świątynia, której tylne części stopniowo przechodzą w architekturę łamiącą prawa fizyki. Główny ołtarz tradycyjny, ale w kryptach znajdują się portale do innych wymiarów. Witraże przedstawiające istoty, których wygląd zmienia się podczas patrzenia. Posągi świętych, których twarze wydają się śledzić odwiedzających. Dzwony emitujące dźwięki, które zdają się dochodzić z innego wymiaru.
+
+Common + Mijero
+Katedra Harmonii Wschodu i Zachodu: Świątynia łącząca gotyckie sklepienia z elementami wschodniej architektury. Ołtarz z symbolami religijnymi obu kultur. Witraże przedstawiające historie święte z różnych tradycji. Medytacyjne ogrody wewnątrz budowli. Kaplice poświęcone różnym aspektom harmonii i równowagi. Ceremonialny gong obok tradycyjnych dzwonów, używany podczas wspólnych rytuałów.
+
+Common + Nekrothol
+Katedra Gwiezdnej Mądrości: Gotycka świątynia z obserwatorium astronomicznym. Ołtarz z meteorytu uważanego za dar z niebios. Witraże przedstawiające konstelacje i ciała niebieskie. Zegar astronomiczny pokazujący ruch planet jako manifestację boskiego porządku. Krypta z grobowcami astrologów i astronomów uważanych za świętych. Rytuały synchronizowane z ruchami ciał niebieskich.
+
+Common + Heu'ia
+Katedra Starożytnych Tajemnic: Gotycka świątynia z elementami starożytnej architektury. Ołtarz stylizowany na starożytny monument. Witraże przedstawiające odkrycie świętych artefaktów w starożytnych ruinach. Krypta z sarkofagami w stylu starożytnych grobowców. Obeliski z inskrypcjami religijnymi w stylizowanym, archaicznym języku. Rytuały łączące tradycyjne modlitwy z elementami starożytnych ceremonii.
+
+Ancient_Runes + Kristalion
+Świątynia Bestialskich Bóstw: Mroczna jaskinia z ołtarzami poświęconymi demonicznym, zwierzęcym bóstwom. Pentagramy przyzwań namalowane krwią różnych gatunków. Totemy z czaszkami drapieżników nasycone mroczną magią. Baseny z krwią do rytuałów transformacji w hybrydowe bestie. Tunele prowadzące do podziemnych legowisk opętanych stworzeń. Szamani-nekromanci przyzywający duchy zmarłych drapieżników podczas krwawych ceremonii.
+
+Ancient_Runes + Durmali
+Kuźnia Przeklętych Artefaktów: Świątynia z wielką kuźnią w centrum, gdzie wykuwane są przedmioty nasycone demoniczną mocą. Ołtarz w kształcie kowadła z pentagramem do wiązania dusz z metalem. Piece hutnicze płonące piekielnym ogniem. Klatki z demonami, których esencja jest używana do nasycania broni. Podziemna kopalnia prowadząca do żył metali o magicznych właściwościach. Kapłani-kowale z ciałami częściowo przekształconymi w metal.
+
+Ancient_Runes + Fae'lin
+Gaj Mrocznych Iluzji: Świątynia w martwym lesie, gdzie zniekształcone, magiczne rośliny reagują na mroczne rytuały. Ołtarz z czarnego drewna, który kwitnie krwistymi kwiatami podczas ofiar. Trujące grzyby tworzące halucynogenne opary używane podczas ceremonii. Magiczne pnącza chwytające ofiary rytuałów. Iluzoryczne demony manifestujące się wśród gałęzi. Kapłani zdolni do transformacji w hybrydowe, roślinno-demoniczne formy.
+
+Ancient_Runes + Kyo'ren
+Świątynia Obcego Szaleństwa: Budowla o niemożliwej geometrii, gdzie demoniczne i obce wpływy się przenikają. Ołtarz istniejący jednocześnie w naszym wymiarze i w wymiarze demonów. Portale do koszmarnych światów otwierane podczas rytuałów. Posągi istot zbyt obcych, by je pojąć, wywołujące szaleństwo u patrzących. Kapłani poddani częściowej transformacji w obce istoty. Rytuały wymagające ofiar z części umysłu lub wspomnień zamiast krwi.
+
+Ancient_Runes + Mijero
+Świątynia Zakazanych Sztuk: Elegancka konstrukcja skrywająca mroczne sekrety. Ołtarz z czarnego kamienia z kaligraficznymi inskrypcjami, które ożywają podczas rytuałów. Medytacyjne kręgi do kontrolowanego opętania przez duchy. Kadzielnice z ziołami wywołującymi trans i otwierającymi umysł na wpływy demonów. Zwoje z zaklęciami zapisanymi krwią w eleganckim, kaligraficznym stylu. Kapłani praktykujący sztuki walki nasycone mroczną energią.
+
+Ancient_Runes + Nekrothol
+Mauzoleum Kosmicznej Nekromancji: Świątynia, gdzie kult śmierci i kosmosu się przenika. Ołtarz z meteorytu zawierającego esencje obcych istot. Portale do martwych wymiarów i umierających gwiazd. Sarkofagi z ciałami nasycone energią kosmicznej pustki. Rytuały synchronizowane z kosmicznymi anomaliami. Kapłani częściowo nieumarli, podtrzymywani przy życiu energią z czarnych dziur. Obserwatorium do wypatrywania znaków kosmicznej apokalipsy.
+
+Ancient_Runes + Heu'ia
+Piramida Zakazanych Rytuałów: Stopniowa świątynia z komnatami poświęconymi coraz bardziej mrocznym rytuałom. Ołtarz ofiarny w kształcie sarkofagu z hieroglifami i demonicznymi symbolami. Kanały na krew aktywujące magiczne symbole na ścianach. Mumie kapłanów ożywiane podczas najważniejszych ceremonii. Podziemne komnaty z portalami do zaświatów. Obeliski z zaklęciami wiążącymi dusze zmarłych w służbie kapłanów.
+
+Świątynie - Hybrydy Kristalion z innymi językami
+Kristalion + Durmali
+Świątynia Totemicznych Kowali: Jaskinia przekształcona w świątynię-kuźnię. Ołtarz w kształcie wielkiego kowadła otoczonego totemami plemiennymi. Kuźnie do tworzenia rytualnej broni i totemów. Posągi przodków z metalowymi elementami symbolizującymi ich osiągnięcia. Rytualne tatuaże wykonywane rozgrzanym metalem. Szamani-kowale prowadzący ceremonie łączące siłę metalu i dzikich instynktów.
+
+Kristalion + Fae'lin
+Sanktuarium Dzikiej Natury: Świątynia w sercu pradawnego lasu, gdzie potężne drzewa i skały tworzą naturalną katedrę. Ołtarz z żywego kamienia porośniętego magicznym mchem. Totemy zwierzęce emitujące aury wzmacniające naturalne zdolności. Magiczne baseny z wodą pokazującą wizje podczas rytualnych kąpieli. Świetliste istoty natury jako pomocnicy szamanów. Bramy do duchowych terytoriów łowieckich otwierane podczas pełni księżyca.
+
+Kristalion + Kyo'ren
+Świątynia Prymitywnych Transformacji: Jaskinia z organicznymi formacjami przybierającymi niepokojące kształty. Ołtarz z pulsującej, żywej skały. Totemy przedstawiające różne stadia transformacji z człowieka w bestię i dalej w obce formy. Baseny z mutagenną substancją używaną podczas rytuałów przejścia. Szamani zdolni do kontrolowanej transformacji w hybrydowe istoty. Portale do wymiarów zamieszkanych przez pierwotne, obce drapieżniki.
+
+Kristalion + Mijero
+Pawilon Duchów Natury: Elegancka świątynia wkomponowana w naturalne otoczenie. Ołtarz z kamienia i drewna, symbolizujący równowagę żywiołów. Totemy zwierzęce wykonane z precyzyjną, artystyczną dbałością o szczegóły. Medytacyjne przestrzenie do komunii z duchami zwierząt. Kadzielnice z ziołami otwierającymi umysł na instynktowne mądrości. Kaligraficzne zwoje z naukami wielkich szamanów. Ceremonialny gong wykonany z kłów i rogów legendarnych bestii.
+
+Kristalion + Nekrothol
+Świątynia Kosmicznych Bestii: Jaskinia z kryształami emitującymi światło imitujące gwiazdy. Ołtarz z meteorytu w kształcie czaszki pradawnego drapieżnika. Totemy zwierząt z kosmicznymi motywami. Baseny z wodą odbijającą gwiazdy, używane do rytuałów komunikacji z kosmicznymi istotami. Portale do wymiarów zamieszkanych przez kosmiczne drapieżniki. Szamani z ciałami zmodyfikowanymi przez kosmiczną energię.
+
+Kristalion + Heu'ia
+Świątynia Zwierzęcych Bóstw: Jaskinia z komnatami ozdobionymi w stylu starożytnych grobowców. Ołtarz w kształcie wielkiego zwierzęcego bóstwa. Hieroglify przedstawiające święte łowy i rytuały transformacji. Mumie świętych zwierząt w ozdobnych sarkofagach. Rytualne maski zwierzęce pozwalające na komunię z bóstwami. Szamani w strojach łączących elementy zwierzęce ze starożytnymi symbolami władzy.
+
+Świątynie - Hybrydy Durmali z innymi językami
+Durmali + Fae'lin
+Kuźnia Naturalnych Cudów: Świątynia łącząca solidną, kamienną architekturę z żywymi, magicznymi roślinami. Ołtarz z kowadła oplecionego świetlistymi pnączami. Magiczne piece kuźnicze zasilane energią natury zamiast węglem. Fontanny z magiczną wodą używaną do hartowania rytualnych przedmiotów. Kowale-druidzi tworzący artefakty łączące metal i żywe drewno. Rytuały synchronizowane z porami roku i cyklami wzrostu roślin.
+
+Durmali + Kyo'ren
+Kuźnia Niemożliwych Form: Kamienna świątynia, której wnętrze przeczy prawom fizyki. Ołtarz-kowadło wykonane z metalu, który zmienia stan skupienia podczas rytuałów. Piece kuźnicze płonące ogniem o niemożliwych kolorach. Narzędzia zmieniające kształt i funkcję w rękach kowali. Rytualne tatuaże z metalu, który integruje się z ciałem. Kapłani-kowale zdolni do przekształcania części swojego ciała w metal i z powrotem w ciało.
+
+Durmali + Mijero
+Pawilon Boskiego Rzemiosła: Elegancka świątynia łącząca solidność krasnoludzką z wschodnią precyzją. Ołtarz-kowadło z kaligraficznymi inskrypcjami. Medytacyjne przestrzenie do planowania doskonałych dzieł. Kadzielnice z ziołami wzmacniającymi koncentrację podczas pracy. Kaligraficzne zwoje z instrukcjami tworzenia mistrzowskich przedmiotów. Ceremonialne młoty i dłuta na honorowych stojakach. Kapłani-kowale praktykujący sztuki walki inspirowane ruchami przy kuźni.
+
+Durmali + Nekrothol
+Kuźnia Gwiezdnych Metali: Świątynia wykuta w kraterze po meteorycie. Ołtarz-kowadło wykonane z meteorytu. Piece kuźnicze zasilane energią kosmiczną zamiast zwykłym ogniem. Rytuały synchronizowane z ruchami określonych gwiazd i planet. Kapłani-kowale studiujący wpływ kosmicznych energii na właściwości metali. Artefakty tworzone z metali z kosmosu, posiadające niezwykłe właściwości. Obserwatorium do wypatrywania kosmicznych ciał, które mogą dostarczyć nowych materiałów.
+
+Durmali + Heu'ia
+Świątynia Boskich Konstruktorów: Masywna kamienna świątynia inspirowana starożytnymi monumentami. Ołtarz-kowadło z hieroglificznymi inskrypcjami. Posągi bogów-kowali z różnych epok. Warsztaty do reprodukcji starożytnych artefaktów. Rytualne narzędzia wzorowane na starożytnych technikach. Kapłani-kowale studiujący zapomniane metody obróbki metali i kamienia. Podziemne komnaty z modelami wielkich konstrukcji inżynieryjnych z przeszłości i planowanych na przyszłość.
+
+Świątynie - Hybrydy Fae'lin z innymi językami
+Fae'lin + Kyo'ren
+Ogród Koszmarnych Cudów: Świątynia w magicznym lesie, gdzie rośliny przybierają niepokojące, obce formy. Ołtarz z żywego, pulsującego kwiatu o niemożliwej anatomii. Magiczne fontanny z płynem wywołującym wizje alternatywnych rzeczywistości. Ścieżki prowadzące do kieszeniowych wymiarów ukrytych wśród korzeni drzew. Kapłani-druidzi zdolni do transformacji w hybrydowe, roślinno-obce formy. Rytuały wykorzystujące pyłek kwiatów wywołujący kontrolowane halucynacje i częściowe transformacje.
+
+Fae'lin + Mijero
+Pawilon Harmonii Natury: Elegancka drewniana świątynia wtopiona w żywy las. Ołtarz z kwitnącego drzewa otoczonego wodą. Medytacyjne ogrody z roślinami reagującymi na emocje odwiedzających. Kadzielnice z ziołami otwierającymi umysł na głosy natury. Ceremonialny pawilon do picia herbaty z magicznych ziół. Kapłani-druidzi praktykujący sztuki walki inspirowane ruchami zwierząt i roślin. Kaligraficzne zwoje zapisane naturalnym atramentem na liściach.
+
+Fae'lin + Nekrothol
+Ogród Kosmicznych Wizji: Świątynia w magicznym lesie pod niebem pełnym gwiazd, które wydają się być na wyciągnięcie ręki. Ołtarz z kryształu odbijającego gwiazdy i pokazującego wizje odległych światów. Magiczne drzewa z liśćmi świecącymi jak gwiazdy. Fontanny z wodą zawierającą esencję gwiezdnego pyłu. Portale do innych planet ukryte w sercu gigantycznych kwiatów. Kapłani-druidzi zdolni do astralne projekcji na inne światy. Rytuały synchronizowane z ruchami gwiazd i kosmicznymi zjawiskami.
+
+Fae'lin + Heu'ia
+Ogród Starożytnych Tajemnic: Świątynia w magicznym lesie z elementami starożytnej architektury porośniętymi magicznymi roślinami. Ołtarz z żywego kamienia pokrytego hieroglifami i kwitnącymi pnączami. Fontanny z wodą pamięci pozwalającą na przypomnienie sobie poprzednich wcieleń. Magiczne kwiaty otwierające się, by ujawnić starożytne artefakty.
+
+Świątynie - Hybrydy Fae'lin z innymi językami (kontynuacja)
+Fae'lin + Heu'ia (kontynuacja)
+Ogród Starożytnych Tajemnic: Świątynia w magicznym lesie z elementami starożytnej architektury porośniętymi magicznymi roślinami. Ołtarz z żywego kamienia pokrytego hieroglifami i kwitnącymi pnączami. Fontanny z wodą pamięci pozwalającą na przypomnienie sobie poprzednich wcieleń. Magiczne kwiaty otwierające się, by ujawnić starożytne artefakty. Kapłani-druidzi w strojach inspirowanych starożytnymi kulturami. Rytuały łączące cykle natury z astronomicznymi zjawiskami ważnymi dla starożytnych cywilizacji. Obeliski porośnięte magicznym bluszczem, którego wzory układają się w hieroglify.
+
+Świątynie - Hybrydy Kyo'ren z innymi językami
+Kyo'ren + Mijero
+Pawilon Zakazanych Transformacji: Elegancka świątynia, której wnętrze stopniowo przeczy prawom fizyki. Ołtarz zmieniający kształt podczas rytuałów. Medytacyjne kręgi do kontrolowanego otwierania umysłu na obce wpływy. Kaligraficzne symbole na ścianach, które reorganizują przestrzeń wokół siebie. Rytualne maski transformujące noszącego czasowo w obce istoty. Kapłani praktykujący sztuki walki inspirowane ruchami istot z innych wymiarów. Ceremonialny gong, którego dźwięk otwiera tymczasowe portale do innych rzeczywistości.
+
+Kyo'ren + Nekrothol
+Świątynia Kosmicznego Chaosu: Budowla, której architektura przeczy prawom fizyki, otwarta na przestrzeń kosmiczną. Ołtarz z czarnej dziury w miniaturze, pochłaniający ofiary. Portale do umierających gwiazd i odległych galaktyk. Posągi istot zbyt obcych, by je pojąć, wykonane z materiałów nie z tego świata. Kapłani częściowo przekształceni przez kosmiczne energie. Rytuały synchronizowane z kosmicznymi anomaliami i pulsarami. Obserwatorium do wypatrywania znaków kosmicznej transformacji wszechświata.
+
+Kyo'ren + Heu'ia
+Piramida Obcych Bóstw: Świątynia w kształcie piramidy, której wnętrze jest większe niż zewnętrze. Ołtarz z materiału, który wydaje się być jednocześnie stały i płynny. Hieroglify zmieniające znaczenie i położenie podczas rytuałów. Posągi hybryd ludzi i obcych istot, ożywające podczas ceremonii. Sarkofagi z mumifikowanymi istotami nie z tego świata. Kapłani noszący maski transformujące ich percepcję rzeczywistości. Rytuały otwierające portale do wymiarów zamieszkanych przez starożytne, obce bóstwa.
+
+Świątynie - Hybrydy Mijero z innymi językami
+Mijero + Nekrothol
+Pawilon Kosmicznej Harmonii: Elegancka świątynia z kopułą pokazującą gwiazdy i planety. Ołtarz z meteorytu otoczony wodą odbijającą gwiazdy. Medytacyjne kręgi do astralne projekcji na inne planety. Kadzielnice z ziołami otwierającymi umysł na kosmiczne energie. Kaligraficzne zwoje z mapami gwiazd i instrukcjami do komunikacji z kosmicznymi bytami. Kapłani praktykujący sztuki walki inspirowane ruchami ciał niebieskich. Ceremonialny gong, którego dźwięk rezonuje z kosmicznym tłem mikrofalowym.
+
+Mijero + Heu'ia
+Pawilon Starożytnej Harmonii: Elegancka świątynia łącząca wschodnie i starożytne style architektoniczne. Ołtarz z kaligraficznymi hieroglifami. Medytacyjne ogrody inspirowane starożytnymi wiszącymi ogrodami. Kadzielnice z ziołami używanymi w starożytnych rytuałach. Kaligraficzne zwoje z tłumaczeniami starożytnych tekstów. Kapłani praktykujący sztuki walki inspirowane postaciami z hieroglifów. Ceremonialny gong, którego dźwięk harmonizuje z akustyką starożytnych świątyń.
+
+Świątynie - Hybrydy Nekrothol z innymi językami
+Nekrothol + Heu'ia
+Piramida Gwiezdnych Faraonów: Świątynia w kształcie piramidy z obserwatorium astronomicznym na szczycie. Ołtarz z meteorytu w kształcie sarkofagu. Hieroglify opisujące wpływ gwiazd na losy duszy po śmierci. Sarkofagi z ciałami zakonserwowanymi dzięki kosmicznej energii. Mumie kapłanów ożywiane podczas astronomicznych koniunkcji. Rytuały synchronizowane z zaćmieniami i przejściami komet. Portale do grobowców na innych planetach, otwierane podczas określonych układów gwiazd.
+
+Grobowce - Hybrydy Rh'loq z innymi językami
+Rh'loq + Common
+Krypta Magicznych Rycerzy: Klasyczne kamienne mauzoleum z runicznymi symbolami ochronnymi na ścianach. Sarkofagi rycerzy z runicznymi inskrypcjami na zbrojach. Magiczne światło emanujące z kryształów w ścianach. Posągi strażników ożywające, gdy intruz narusza spokój zmarłych. Centralna komora z grobowcem najważniejszego maga-rycerza, otoczona magicznymi barierami. Runy pozwalające na komunikację z duchami pochowanych wojowników podczas ważnych ceremonii.
+
+Rh'loq + Ancient_Runes
+Mauzoleum Zakazanych Mocy: Mroczny grobowiec z czarnego kamienia, gdzie runiczne symbole pulsują złowrogim światłem. Sarkofagi czarodziejów z demonicznymi pieczęciami wiążącymi ich dusze. Portale do zaświatów kontrolowane runicznymi kluczami. Pułapki nekromantyczne aktywowane naruszeniem runicznych zabezpieczeń. Centralna komora z ołtarzem do nekromantycznych rytuałów wykorzystujących energię pochowanych magów. Księgi zakazanej wiedzy pochowane wraz z ich autorami.
+
+Rh'loq + Kristalion
+Jaskinia Pradawnych Szamanów: Naturalna jaskinia z runicznymi symbolami wyrytymi pazurami na ścianach. Ciała szamanów zmumifikowane w pozycjach zwierzęcych. Totemy z runicznymi symbolami strzegące poszczególnych komór. Magiczne baseny z wodą pokazującą wizje przeszłości i przyszłości po dodaniu krwi. Centralna komora z najważniejszym szamanem, którego ciało częściowo przekształciło się w kamień nasycony magią. Runiczne bramy do duchowych terytoriów łowieckich.
+
+Rh'loq + Durmali
+Krypta Runicznych Kowali: Grobowiec wykuty głęboko w górze, z precyzyjnie dopasowanymi kamiennymi blokami. Sarkofagi kowali-magów z ich najważniejszymi dziełami. Runiczne symbole wzmacniające trwałość konstrukcji. Mechaniczne i magiczne pułapki chroniące spokój zmarłych. Centralna kuźnia-grobowiec z kowadłem, które nadal jest używane podczas rytuałów ku czci zmarłych. Magiczne młoty i narzędzia zdolne do samodzielnego wykonywania pracy, gdy zostaną aktywowane odpowiednimi runami.
+
+Rh'loq + Fae'lin
+Gaj Uśpionych Magów: Magiczny las, gdzie ciała czarodziejów są pochowane w korzeniach starożytnych drzew z runicznymi symbolami na korze. Iluzoryczne bariery ukrywające grobowiec przed niepowołanymi. Świetliste motyle z runicznymi wzorami na skrzydłach jako strażnicy. Magiczne kwiaty wyrastające z grobów, których nektar daje wizje wspomnień pochowanych. Centralne drzewo-grobowiec z najpotężniejszym magiem, którego duch może manifestować się jako świetlista postać wśród gałęzi.
+
+Rh'loq + Kyo'ren
+Mauzoleum Wypaczonych Wymiarów: Grobowiec, którego wewnętrzna geometria przeczy prawom fizyki. Sarkofagi magów badających obce wymiary, z runicznymi zabezpieczeniami powstrzymującymi to, co w nich uwięziono. Portale do wymiarów, w których część świadomości zmarłych nadal istnieje. Runiczne symbole stabilizujące rzeczywistość wokół grobowca. Centralna komora istniejąca jednocześnie w kilku wymiarach, gdzie pochowano maga, który stał się hybrydą człowieka i istoty z innego wymiaru.
+
+Rh'loq + Mijero
+Pawilon Uśpionych Mędrców: Elegancki grobowiec z papierowymi ścianami pokrytymi kaligraficznie zapisanymi runami. Ciała mędrców w pozycjach medytacyjnych, zakonserwowane magią run. Kadzielnice z ziołami wzmacniającymi kontakt z duchami zmarłych. Zwoje z ostatnimi myślami pochowanych, aktywujące się w obecności godnych następców. Centralna komora medytacyjna, gdzie można komuniować się z połączoną mądrością wszystkich pochowanych mędrców.
+
+Rh'loq + Nekrothol
+Mauzoleum Międzygwiezdnych Podróżników: Grobowiec z kopułą pokazującą gwiazdy z runicznymi konstelacjami. Ciała magów badających kosmos, zakonserwowane energią gwiezdną. Portale do różnych części kosmosu, gdzie części świadomości zmarłych nadal eksplorują nieznane. Meteoryty z runicznymi inskrypcjami jako strażnicy. Centralna komora z ciałem maga, który fizycznie podróżował między gwiazdami, otoczonym miniaturowym układem planetarnym.
+
+Rh'loq + Heu'ia
+Piramida Runicznych Władców: Stopniowy grobowiec z komnatami na różnych poziomach dla magów różnej rangi. Ściany pokryte mieszanką run i hieroglifów opisujących życie i osiągnięcia pochowanych. Magiczne pułapki aktywowane naruszeniem runicznych pieczęci. Mumie magów z runicznymi amuletami pozwalającymi na czasowe przebudzenie podczas ważnych ceremonii. Centralna komora grobowa najwyższego maga-władcy, gdzie promienie słoneczne padają przez specjalny otwór, aktywując runiczne symbole w dniu jego śmierci.
+
+Grobowce - Hybrydy Common z innymi językami
+Common + Ancient_Runes
+Krypta Inkwizytorów: Klasyczne kamienne mauzoleum z ukrytymi demonicznymi symbolami. Sarkofagi rycerzy-inkwizytorów z mieczami i świętymi symbolami. Tajne komnaty z zakazanymi artefaktami zdobytymi podczas polowań na czarownice. Magiczne bariery powstrzymujące uwięzione demony. Centralna kaplica z grobowcem najwyższego inkwizytora, otoczonym pentagramem ochronnym. Dzienniki opisujące walkę z siłami ciemności pochowane wraz z ich autorami.
+
+Common + Kristalion
+Mauzoleum Pogranicza: Grobowiec łączący ludzką architekturę z elementami naturalnymi. Sarkofagi rycerzy walczących u boku zwierzoludzi, z płaskorzeźbami przedstawiającymi ich wspólne bitwy. Totemy plemienne obok herbów szlacheckich. Wspólna kaplica, gdzie ludzie i zwierzoludzie mogą oddawać cześć zmarłym bohaterom obu ras. Centralna komora z grobowcami przywódców obu społeczności, symbolizująca ich przymierze nawet po śmierci.
+
+Common + Durmali
+Krypta Sojuszniczych Bohaterów: Solidny kamienny grobowiec z elementami architektury obronnej. Sarkofagi rycerzy i krasnoludów z ich bronią i zbroją. Mechaniczne pułapki chroniące spokój zmarłych. Płaskorzeźby przedstawiające wspólne bitwy i osiągnięcia. Centralna sala z grobowcami najważniejszych przywódców obu ras, otoczonymi symbolami sojuszu. Kuźnia ceremonialna, gdzie tworzy się pamiątkowe bronie ku czci zmarłych.
+
+Common + Fae'lin
+Krypta Zaczarowanych Rycerzy: Grobowiec, gdzie kamienne elementy przeplatają się z żywymi, magicznymi roślinami. Sarkofagi rycerzy z kryształami przechowującymi fragmenty ich wspomnień. Iluzoryczni strażnicy aktywujący się, gdy ktoś narusza spokój zmarłych. Magiczne fontanny z wodą o właściwościach leczniczych, wypływające z grobowców szczególnie szlachetnych rycerzy. Centralna komora z grobowcem legendarnego rycerza-czarodzieja, otoczona magicznymi kwiatami, które kwitną w rocznicę jego śmierci.
+
+Common + Kyo'ren
+Mauzoleum Zapomnianej Wyprawy: Klasyczny grobowiec, którego tylne komnaty stopniowo przechodzą w niepokojącą, obcą architekturę. Sarkofagi rycerzy, którzy zginęli podczas eksploracji portalu do innego wymiaru. Dzienniki opisujące ich ostatnią wyprawę i to, co tam znaleźli. Magiczne bariery powstrzymujące obce wpływy przed rozprzestrzenieniem się. Centralna komora z grobowcem przywódcy ekspedycji
+Kontynuuję tworzenie hybryd świątyń dla pozostałych kombinacji języków:
+
+Świątynie - Hybrydy Ancient_Runes z innymi językami
+Ancient_Runes + Kristalion
+Świątynia Bestialskich Bóstw: Mroczna jaskinia z ołtarzami poświęconymi demonicznym, zwierzęcym bóstwom. Pentagramy przyzwań namalowane krwią różnych gatunków. Totemy z czaszkami drapieżników nasycone mroczną magią. Baseny z krwią do rytuałów transformacji w hybrydowe bestie. Tunele prowadzące do podziemnych legowisk opętanych stworzeń. Szamani-nekromanci przyzywający duchy zmarłych drapieżników podczas krwawych ceremonii.
+
+Ancient_Runes + Durmali
+Kuźnia Przeklętych Artefaktów: Świątynia z wielką kuźnią w centrum, gdzie wykuwane są przedmioty nasycone demoniczną mocą. Ołtarz w kształcie kowadła z pentagramem do wiązania dusz z metalem. Piece hutnicze płonące piekielnym ogniem. Klatki z demonami, których esencja jest używana do nasycania broni. Podziemna kopalnia prowadząca do żył metali o magicznych właściwościach. Kapłani-kowale z ciałami częściowo przekształconymi w metal.
+
+Ancient_Runes + Fae'lin
+Gaj Mrocznych Iluzji: Świątynia w martwym lesie, gdzie zniekształcone, magiczne rośliny reagują na mroczne rytuały. Ołtarz z czarnego drewna, który kwitnie krwistymi kwiatami podczas ofiar. Trujące grzyby tworzące halucynogenne opary używane podczas ceremonii. Magiczne pnącza chwytające ofiary rytuałów. Iluzoryczne demony manifestujące się wśród gałęzi. Kapłani zdolni do transformacji w hybrydowe, roślinno-demoniczne formy.
+
+Ancient_Runes + Kyo'ren
+Świątynia Obcego Szaleństwa: Budowla o niemożliwej geometrii, gdzie demoniczne i obce wpływy się przenikają. Ołtarz istniejący jednocześnie w naszym wymiarze i w wymiarze demonów. Portale do koszmarnych światów otwierane podczas rytuałów. Posągi istot zbyt obcych, by je pojąć, wywołujące szaleństwo u patrzących. Kapłani poddani częściowej transformacji w obce istoty. Rytuały wymagające ofiar z części umysłu lub wspomnień zamiast krwi.
+
+Ancient_Runes + Mijero
+Świątynia Zakazanych Sztuk: Elegancka konstrukcja skrywająca mroczne sekrety. Ołtarz z czarnego kamienia z kaligraficznymi inskrypcjami, które ożywają podczas rytuałów. Medytacyjne kręgi do kontrolowanego opętania przez duchy. Kadzielnice z ziołami wywołującymi trans i otwierającymi umysł na wpływy demonów. Zwoje z zaklęciami zapisanymi krwią w eleganckim, kaligraficznym stylu. Kapłani praktykujący sztuki walki nasycone mroczną energią.
+
+Ancient_Runes + Nekrothol
+Mauzoleum Kosmicznej Nekromancji: Świątynia, gdzie kult śmierci i kosmosu się przenika. Ołtarz z meteorytu zawierającego esencje obcych istot. Portale do martwych wymiarów i umierających gwiazd. Sarkofagi z ciałami nasycone energią kosmicznej pustki. Rytuały synchronizowane z kosmicznymi anomaliami. Kapłani częściowo nieumarli, podtrzymywani przy życiu energią z czarnych dziur. Obserwatorium do wypatrywania znaków kosmicznej apokalipsy.
+
+Ancient_Runes + Heu'ia
+Piramida Zakazanych Rytuałów: Stopniowa świątynia z komnatami poświęconymi coraz bardziej mrocznym rytuałom. Ołtarz ofiarny w kształcie sarkofagu z hieroglifami i demonicznymi symbolami. Kanały na krew aktywujące magiczne symbole na ścianach. Mumie kapłanów ożywiane podczas najważniejszych ceremonii. Podziemne komnaty z portalami do zaświatów. Obeliski z zaklęciami wiążącymi dusze zmarłych w służbie kapłanów.
+
+Świątynie - Hybrydy Kristalion z innymi językami
+Kristalion + Durmali
+Świątynia Totemicznych Kowali: Jaskinia przekształcona w świątynię-kuźnię. Ołtarz w kształcie wielkiego kowadła otoczonego totemami plemiennymi. Kuźnie do tworzenia rytualnej broni i totemów. Posągi przodków z metalowymi elementami symbolizującymi ich osiągnięcia. Rytualne tatuaże wykonywane rozgrzanym metalem. Szamani-kowale prowadzący ceremonie łączące siłę metalu i dzikich instynktów.
+
+Kristalion + Fae'lin
+Sanktuarium Dzikiej Natury: Świątynia w sercu pradawnego lasu, gdzie potężne drzewa i skały tworzą naturalną katedrę. Ołtarz z żywego kamienia porośniętego magicznym mchem. Totemy zwierzęce emitujące aury wzmacniające naturalne zdolności. Magiczne baseny z wodą pokazującą wizje podczas rytualnych kąpieli. Świetliste istoty natury jako pomocnicy szamanów. Bramy do duchowych terytoriów łowieckich otwierane podczas pełni księżyca.
+
+Kristalion + Kyo'ren
+Świątynia Prymitywnych Transformacji: Jaskinia z organicznymi formacjami przybierającymi niepokojące kształty. Ołtarz z pulsującej, żywej skały. Totemy przedstawiające różne stadia transformacji z człowieka w bestię i dalej w obce formy. Baseny z mutagenną substancją używaną podczas rytuałów przejścia. Szamani zdolni do kontrolowanej transformacji w hybrydowe istoty. Portale do wymiarów zamieszkanych przez pierwotne, obce drapieżniki.
+
+Kristalion + Mijero
+Pawilon Duchów Natury: Elegancka świątynia wkomponowana w naturalne otoczenie. Ołtarz z kamienia i drewna, symbolizujący równowagę żywiołów. Totemy zwierzęce wykonane z precyzyjną, artystyczną dbałością o szczegóły. Medytacyjne przestrzenie do komunii z duchami zwierząt. Kadzielnice z ziołami otwierającymi umysł na instynktowne mądrości. Kaligraficzne zwoje z naukami wielkich szamanów. Ceremonialny gong wykonany z kłów i rogów legendarnych bestii.
+
+Kristalion + Nekrothol
+Świątynia Kosmicznych Bestii: Jaskinia z kryształami emitującymi światło imitujące gwiazdy. Ołtarz z meteorytu w kształcie czaszki pradawnego drapieżnika. Totemy zwierząt z kosmicznymi motywami. Baseny z wodą odbijającą gwiazdy, używane do rytuałów komunikacji z kosmicznymi istotami. Portale do wymiarów zamieszkanych przez kosmiczne drapieżniki. Szamani z ciałami zmodyfikowanymi przez kosmiczną energię.
+
+Kristalion + Heu'ia
+Świątynia Zwierzęcych Bóstw: Jaskinia z komnatami ozdobionymi w stylu starożytnych grobowców. Ołtarz w kształcie wielkiego zwierzęcego bóstwa. Hieroglify przedstawiające święte łowy i rytuały transformacji. Mumie świętych zwierząt w ozdobnych sarkofagach. Rytualne maski zwierzęce pozwalające na komunię z bóstwami. Szamani w strojach łączących elementy zwierzęce ze starożytnymi symbolami władzy.
+
+Świątynie - Hybrydy Durmali z innymi językami
+Durmali + Fae'lin
+Kuźnia Naturalnych Cudów: Świątynia łącząca solidną, kamienną architekturę z żywymi, magicznymi roślinami. Ołtarz z kowadła oplecionego świetlistymi pnączami. Magiczne piece kuźnicze zasilane energią natury zamiast węglem. Fontanny z magiczną wodą używaną do hartowania rytualnych przedmiotów. Kowale-druidzi tworzący artefakty łączące metal i żywe drewno. Rytuały synchronizowane z porami roku i cyklami wzrostu roślin.
+
+Durmali + Kyo'ren
+Kuźnia Niemożliwych Form: Kamienna świątynia, której wnętrze przeczy prawom fizyki. Ołtarz-kowadło wykonane z metalu, który zmienia stan skupienia podczas rytuałów. Piece kuźnicze płonące ogniem o niemożliwych kolorach. Narzędzia zmieniające kształt i funkcję w rękach kowali. Rytualne tatuaże z metalu, który integruje się z ciałem. Kapłani-kowale zdolni do przekształcania części swojego ciała w metal i z powrotem w ciało.
+
+Durmali + Mijero
+Pawilon Boskiego Rzemiosła: Elegancka świątynia łącząca solidność krasnoludzką z wschodnią precyzją. Ołtarz-kowadło z kaligraficznymi inskrypcjami. Medytacyjne przestrzenie do planowania doskonałych dzieł. Kadzielnice z ziołami wzmacniającymi koncentrację podczas pracy. Kaligraficzne zwoje z instrukcjami tworzenia mistrzowskich przedmiotów. Ceremonialne młoty i dłuta na honorowych stojakach. Kapłani-kowale praktykujący sztuki walki inspirowane ruchami przy kuźni.
+
+Durmali + Nekrothol
+Kuźnia Gwiezdnych Metali: Świątynia wykuta w kraterze po meteorycie. Ołtarz-kowadło wykonane z meteorytu. Piece kuźnicze zasilane energią kosmiczną zamiast zwykłym ogniem. Rytuały synchronizowane z ruchami określonych gwiazd i planet. Kapłani-kowale studiujący wpływ kosmicznych energii na właściwości metali. Artefakty tworzone z metali z kosmosu, posiadające niezwykłe właściwości. Obserwatorium do wypatrywania kosmicznych ciał, które mogą dostarczyć nowych materiałów.
+
+Durmali + Heu'ia
+Świątynia Boskich Konstruktorów: Masywna kamienna świątynia inspirowana starożytnymi monumentami. Ołtarz-kowadło z hieroglificznymi inskrypcjami. Posągi bogów-kowali z różnych epok. Warsztaty do reprodukcji starożytnych artefaktów. Rytualne narzędzia wzorowane na starożytnych technikach. Kapłani-kowale studiujący zapomniane metody obróbki metali i kamienia. Podziemne komnaty z modelami wielkich konstrukcji inżynieryjnych z przeszłości i planowanych na przyszłość.
+
+Świątynie - Hybrydy Fae'lin z innymi językami
+Fae'lin + Kyo'ren
+Ogród Koszmarnych Cudów: Świątynia w magicznym lesie, gdzie rośliny przybierają niepokojące, obce formy. Ołtarz z żywego, pulsującego kwiatu o niemożliwej anatomii. Magiczne fontanny z płynem wywołującym wizje alternatywnych rzeczywistości. Ścieżki prowadzące do kieszeniowych wymiarów ukrytych wśród korzeni drzew. Kapłani-druidzi zdolni do transformacji w hybrydowe, roślinno-obce formy. Rytuały wykorzystujące pyłek kwiatów wywołujący kontrolowane halucynacje i częściowe transformacje.
+
+Fae'lin + Mijero
+Pawilon Harmonii Natury: Elegancka drewniana świątynia wtopiona w żywy las. Ołtarz z kwitnącego drzewa otoczonego wodą. Medytacyjne ogrody z roślinami reagującymi na emocje odwiedzających. Kadzielnice z ziołami otwierającymi umysł na głosy natury. Ceremonialny pawilon do picia herbaty z magicznych ziół. Kapłani-druidzi praktykujący sztuki walki inspirowane ruchami zwierząt i roślin. Kaligraficzne zwoje zapisane naturalnym atramentem na liściach.
+
+Fae'lin + Nekrothol
+Ogród Kosmicznych Wizji: Świątynia w magicznym lesie pod niebem pełnym gwiazd, które wydają się być na wyciągnięcie ręki. Ołtarz z kryształu odbijającego gwiazdy i pokazującego wizje odległych światów. Magiczne drzewa z liśćmi świecącymi jak gwiazdy. Fontanny z wodą zawierającą esencję gwiezdnego pyłu. Portale do innych planet ukryte w sercu gigantycznych kwiatów. Kapłani-druidzi zdolni do astralne projekcji na inne światy. Rytuały synchronizowane z ruchami gwiazd i kosmicznymi zjawiskami.
+
+Fae'lin + Heu'ia
+Ogród Starożytnych Tajemnic: Świątynia w magicznym lesie z elementami starożytnej architektury porośniętymi magicznymi roślinami. Ołtarz z żywego kamienia pokrytego hieroglifami i kwitnącymi pnączami. Fontanny z wodą pamięci pozwalającą na przypomnienie sobie poprzednich wcieleń. Magiczne kwiaty otwierające się, by ujawnić starożytne artefakty. Kapłani
+
+
+
+continue
+
+
+
+Świątynie - Hybrydy Fae'lin z innymi językami (kontynuacja)
+Fae'lin + Heu'ia (kontynuacja)
+Ogród Starożytnych Tajemnic: Świątynia w magicznym lesie z elementami starożytnej architektury porośniętymi magicznymi roślinami. Ołtarz z żywego kamienia pokrytego hieroglifami i kwitnącymi pnączami. Fontanny z wodą pamięci pozwalającą na przypomnienie sobie poprzednich wcieleń. Magiczne kwiaty otwierające się, by ujawnić starożytne artefakty. Kapłani-druidzi w strojach inspirowanych starożytnymi kulturami. Rytuały łączące cykle natury z astronomicznymi zjawiskami ważnymi dla starożytnych cywilizacji. Obeliski porośnięte magicznym bluszczem, którego wzory układają się w hieroglify.
+
+Świątynie - Hybrydy Kyo'ren z innymi językami
+Kyo'ren + Mijero
+Pawilon Zakazanych Transformacji: Elegancka świątynia, której wnętrze stopniowo przeczy prawom fizyki. Ołtarz zmieniający kształt podczas rytuałów. Medytacyjne kręgi do kontrolowanego otwierania umysłu na obce wpływy. Kaligraficzne symbole na ścianach, które reorganizują przestrzeń wokół siebie. Rytualne maski transformujące noszącego czasowo w obce istoty. Kapłani praktykujący sztuki walki inspirowane ruchami istot z innych wymiarów. Ceremonialny gong, którego dźwięk otwiera tymczasowe portale do innych rzeczywistości.
+
+Kyo'ren + Nekrothol
+Świątynia Kosmicznego Chaosu: Budowla, której architektura przeczy prawom fizyki, otwarta na przestrzeń kosmiczną. Ołtarz z czarnej dziury w miniaturze, pochłaniający ofiary. Portale do umierających gwiazd i odległych galaktyk. Posągi istot zbyt obcych, by je pojąć, wykonane z materiałów nie z tego świata. Kapłani częściowo przekształceni przez kosmiczne energie. Rytuały synchronizowane z kosmicznymi anomaliami i pulsarami. Obserwatorium do wypatrywania znaków kosmicznej transformacji wszechświata.
+
+Kyo'ren + Heu'ia
+Piramida Obcych Bóstw: Świątynia w kształcie piramidy, której wnętrze jest większe niż zewnętrze. Ołtarz z materiału, który wydaje się być jednocześnie stały i płynny. Hieroglify zmieniające znaczenie i położenie podczas rytuałów. Posągi hybryd ludzi i obcych istot, ożywające podczas ceremonii. Sarkofagi z mumifikowanymi istotami nie z tego świata. Kapłani noszący maski transformujące ich percepcję rzeczywistości. Rytuały otwierające portale do wymiarów zamieszkanych przez starożytne, obce bóstwa.
+
+Świątynie - Hybrydy Mijero z innymi językami
+Mijero + Nekrothol
+Pawilon Kosmicznej Harmonii: Elegancka świątynia z kopułą pokazującą gwiazdy i planety. Ołtarz z meteorytu otoczony wodą odbijającą gwiazdy. Medytacyjne kręgi do astralne projekcji na inne planety. Kadzielnice z ziołami otwierającymi umysł na kosmiczne energie. Kaligraficzne zwoje z mapami gwiazd i instrukcjami do komunikacji z kosmicznymi bytami. Kapłani praktykujący sztuki walki inspirowane ruchami ciał niebieskich. Ceremonialny gong, którego dźwięk rezonuje z kosmicznym tłem mikrofalowym.
+
+Mijero + Heu'ia
+Pawilon Starożytnej Harmonii: Elegancka świątynia łącząca wschodnie i starożytne style architektoniczne. Ołtarz z kaligraficznymi hieroglifami. Medytacyjne ogrody inspirowane starożytnymi wiszącymi ogrodami. Kadzielnice z ziołami używanymi w starożytnych rytuałach. Kaligraficzne zwoje z tłumaczeniami starożytnych tekstów. Kapłani praktykujący sztuki walki inspirowane postaciami z hieroglifów. Ceremonialny gong, którego dźwięk harmonizuje z akustyką starożytnych świątyń.
+
+Świątynie - Hybrydy Nekrothol z innymi językami
+Nekrothol + Heu'ia
+Piramida Gwiezdnych Faraonów: Świątynia w kształcie piramidy z obserwatorium astronomicznym na szczycie. Ołtarz z meteorytu w kształcie sarkofagu. Hieroglify opisujące wpływ gwiazd na losy duszy po śmierci. Sarkofagi z ciałami zakonserwowanymi dzięki kosmicznej energii. Mumie kapłanów ożywiane podczas astronomicznych koniunkcji. Rytuały synchronizowane z zaćmieniami i przejściami komet. Portale do grobowców na innych planetach, otwierane podczas określonych układów gwiazd.
+
+Grobowce - Hybrydy Rh'loq z innymi językami
+Rh'loq + Common
+Krypta Magicznych Rycerzy: Klasyczne kamienne mauzoleum z runicznymi symbolami ochronnymi na ścianach. Sarkofagi rycerzy z runicznymi inskrypcjami na zbrojach. Magiczne światło emanujące z kryształów w ścianach. Posągi strażników ożywające, gdy intruz narusza spokój zmarłych. Centralna komora z grobowcem najważniejszego maga-rycerza, otoczona magicznymi barierami. Runy pozwalające na komunikację z duchami pochowanych wojowników podczas ważnych ceremonii.
+
+Rh'loq + Ancient_Runes
+Mauzoleum Zakazanych Mocy: Mroczny grobowiec z czarnego kamienia, gdzie runiczne symbole pulsują złowrogim światłem. Sarkofagi czarodziejów z demonicznymi pieczęciami wiążącymi ich dusze. Portale do zaświatów kontrolowane runicznymi kluczami. Pułapki nekromantyczne aktywowane naruszeniem runicznych zabezpieczeń. Centralna komora z ołtarzem do nekromantycznych rytuałów wykorzystujących energię pochowanych magów. Księgi zakazanej wiedzy pochowane wraz z ich autorami.
+
+Rh'loq + Kristalion
+Jaskinia Pradawnych Szamanów: Naturalna jaskinia z runicznymi symbolami wyrytymi pazurami na ścianach. Ciała szamanów zmumifikowane w pozycjach zwierzęcych. Totemy z runicznymi symbolami strzegące poszczególnych komór. Magiczne baseny z wodą pokazującą wizje przeszłości i przyszłości po dodaniu krwi. Centralna komora z najważniejszym szamanem, którego ciało częściowo przekształciło się w kamień nasycony magią. Runiczne bramy do duchowych terytoriów łowieckich.
+
+Rh'loq + Durmali
+Krypta Runicznych Kowali: Grobowiec wykuty głęboko w górze, z precyzyjnie dopasowanymi kamiennymi blokami. Sarkofagi kowali-magów z ich najważniejszymi dziełami. Runiczne symbole wzmacniające trwałość konstrukcji. Mechaniczne i magiczne pułapki chroniące spokój zmarłych. Centralna kuźnia-grobowiec z kowadłem, które nadal jest używane podczas rytuałów ku czci zmarłych. Magiczne młoty i narzędzia zdolne do samodzielnego wykonywania pracy, gdy zostaną aktywowane odpowiednimi runami.
+
+Rh'loq + Fae'lin
+Gaj Uśpionych Magów: Magiczny las, gdzie ciała czarodziejów są pochowane w korzeniach starożytnych drzew z runicznymi symbolami na korze. Iluzoryczne bariery ukrywające grobowiec przed niepowołanymi. Świetliste motyle z runicznymi wzorami na skrzydłach jako strażnicy. Magiczne kwiaty wyrastające z grobów, których nektar daje wizje wspomnień pochowanych. Centralne drzewo-grobowiec z najpotężniejszym magiem, którego duch może manifestować się jako świetlista postać wśród gałęzi.
+
+Rh'loq + Kyo'ren
+Mauzoleum Wypaczonych Wymiarów: Grobowiec, którego wewnętrzna geometria przeczy prawom fizyki. Sarkofagi magów badających obce wymiary, z runicznymi zabezpieczeniami powstrzymującymi to, co w nich uwięziono. Portale do wymiarów, w których część świadomości zmarłych nadal istnieje. Runiczne symbole stabilizujące rzeczywistość wokół grobowca. Centralna komora istniejąca jednocześnie w kilku wymiarach, gdzie pochowano maga, który stał się hybrydą człowieka i istoty z innego wymiaru.
+
+Rh'loq + Mijero
+Pawilon Uśpionych Mędrców: Elegancki grobowiec z papierowymi ścianami pokrytymi kaligraficznie zapisanymi runami. Ciała mędrców w pozycjach medytacyjnych, zakonserwowane magią run. Kadzielnice z ziołami wzmacniającymi kontakt z duchami zmarłych. Zwoje z ostatnimi myślami pochowanych, aktywujące się w obecności godnych następców. Centralna komora medytacyjna, gdzie można komuniować się z połączoną mądrością wszystkich pochowanych mędrców.
+
+Rh'loq + Nekrothol
+Mauzoleum Międzygwiezdnych Podróżników: Grobowiec z kopułą pokazującą gwiazdy z runicznymi konstelacjami. Ciała magów badających kosmos, zakonserwowane energią gwiezdną. Portale do różnych części kosmosu, gdzie części świadomości zmarłych nadal eksplorują nieznane. Meteoryty z runicznymi inskrypcjami jako strażnicy. Centralna komora z ciałem maga, który fizycznie podróżował między gwiazdami, otoczonym miniaturowym układem planetarnym.
+
+Rh'loq + Heu'ia
+Piramida Runicznych Władców: Stopniowy grobowiec z komnatami na różnych poziomach dla magów różnej rangi. Ściany pokryte mieszanką run i hieroglifów opisujących życie i osiągnięcia pochowanych. Magiczne pułapki aktywowane naruszeniem runicznych pieczęci. Mumie magów z runicznymi amuletami pozwalającymi na czasowe przebudzenie podczas ważnych ceremonii. Centralna komora grobowa najwyższego maga-władcy, gdzie promienie słoneczne padają przez specjalny otwór, aktywując runiczne symbole w dniu jego śmierci.
+
+Grobowce - Hybrydy Common z innymi językami
+Common + Ancient_Runes
+Krypta Inkwizytorów: Klasyczne kamienne mauzoleum z ukrytymi demonicznymi symbolami. Sarkofagi rycerzy-inkwizytorów z mieczami i świętymi symbolami. Tajne komnaty z zakazanymi artefaktami zdobytymi podczas polowań na czarownice. Magiczne bariery powstrzymujące uwięzione demony. Centralna kaplica z grobowcem najwyższego inkwizytora, otoczonym pentagramem ochronnym. Dzienniki opisujące walkę z siłami ciemności pochowane wraz z ich autorami.
+
+Common + Kristalion
+Mauzoleum Pogranicza: Grobowiec łączący ludzką architekturę z elementami naturalnymi. Sarkofagi rycerzy walczących u boku zwierzoludzi, z płaskorzeźbami przedstawiającymi ich wspólne bitwy. Totemy plemienne obok herbów szlacheckich. Wspólna kaplica, gdzie ludzie i zwierzoludzie mogą oddawać cześć zmarłym bohaterom obu ras. Centralna komora z grobowcami przywódców obu społeczności, symbolizująca ich przymierze nawet po śmierci.
+
+Common + Durmali
+Krypta Sojuszniczych Bohaterów: Solidny kamienny grobowiec z elementami architektury obronnej. Sarkofagi rycerzy i krasnoludów z ich bronią i zbroją. Mechaniczne pułapki chroniące spokój zmarłych. Płaskorzeźby przedstawiające wspólne bitwy i osiągnięcia. Centralna sala z grobowcami najważniejszych przywódców obu ras, otoczonymi symbolami sojuszu. Kuźnia ceremonialna, gdzie tworzy się pamiątkowe bronie ku czci zmarłych.
+
+Common + Fae'lin
+Krypta Zaczarowanych Rycerzy: Grobowiec, gdzie kamienne elementy przeplatają się z żywymi, magicznymi roślinami. Sarkofagi rycerzy z kryształami przechowującymi fragmenty ich wspomnień. Iluzoryczni strażnicy aktywujący się, gdy ktoś narusza spokój zmarłych. Magiczne fontanny z wodą o właściwościach leczniczych, wypływające z grobowców szczególnie szlachetnych rycerzy. Centralna komora z grobowcem legendarnego rycerza-czarodzieja, otoczona magicznymi kwiatami, które kwitną w rocznicę jego śmierci.
+
+Common + Kyo'ren
+Mauzoleum Zapomnianej Wyprawy: Klasyczny grobowiec, którego tylne komnaty stopniowo przechodzą w niepokojącą, obcą architekturę. Sarkofagi rycerzy, którzy zginęli podczas eksploracji portalu do innego wymiaru. Dzienniki opisujące ich ostatnią wyprawę i to, co tam znaleźli. Magiczne bariery powstrzymujące obce wpływy przed rozprzestrzenieniem się. Centralna komora z grobowcem przywódcy ekspedycji
+
+
+
+continue
+
+
+
+Grobowce - Hybrydy Common z innymi językami (kontynuacja)
+Common + Kyo'ren (kontynuacja)
+Mauzoleum Zapomnianej Wyprawy: Klasyczny grobowiec, którego tylne komnaty stopniowo przechodzą w niepokojącą, obcą architekturę. Sarkofagi rycerzy, którzy zginęli podczas eksploracji portalu do innego wymiaru. Dzienniki opisujące ich ostatnią wyprawę i to, co tam znaleźli. Magiczne bariery powstrzymujące obce wpływy przed rozprzestrzenieniem się. Centralna komora z grobowcem przywódcy ekspedycji, którego ciało częściowo przekształciło się w coś obcego. Portal, który badali, zapieczętowany i otoczony ostrzegawczymi symbolami.
+
+Common + Mijero
+Mauzoleum Dyplomatycznego Sojuszu: Elegancki grobowiec łączący zachodnie i wschodnie style architektoniczne. Sarkofagi rycerzy i wschodnich wojowników z ceremonialną bronią. Zwoje z traktatami pokojowymi i zapiskami dyplomatycznymi pochowane wraz z negocjatorami. Wspólna kaplica do modlitw w różnych stylach. Centralna komora z grobowcami władców, którzy zawarli pierwszy sojusz, ich posągi przedstawione w geście podania sobie rąk.
+
+Common + Nekrothol
+Mauzoleum Gwiezdnych Rycerzy: Klasyczny grobowiec z obserwatorium astronomicznym. Sarkofagi rycerzy z mieczami wykutymi z meteorytu. Płaskorzeźby przedstawiające walki z istotami z kosmosu. Magiczne teleskopy pozwalające zobaczyć miejsca w kosmosie związane z pochowanymi bohaterami. Centralna komora z grobowcem rycerza, który poświęcił się, by powstrzymać inwazję z kosmosu, jego ciało zakonserwowane energią gwiezdną.
+
+Common + Heu'ia
+Krypta Odkrywców: Grobowiec łączący klasyczną architekturę z elementami starożytnych stylów. Sarkofagi rycerzy-odkrywców z artefaktami przywiezionymi z dalekich wypraw. Mapy i dzienniki podróży pochowane wraz z ich autorami. Płaskorzeźby przedstawiające odkrycie starożytnych ruin i skarby tam znalezione. Centralna komora z grobowcem największego odkrywcy, otoczona modelami monumentów, które odnalazł i zbadał podczas swoich wypraw.
+
+Grobowce - Hybrydy Ancient_Runes z innymi językami
+Ancient_Runes + Kristalion
+Leże Bestialskich Nekromantów: Mroczna jaskinia z pentagramami i demonicznymi symbolami wyrytymi w skale. Zmumifikowane ciała szamanów-nekromantów w pozach przypominających drapieżniki. Totemy z czaszkami nasycone mroczną magią jako strażnicy. Ołtarze ofiarne do rytuałów wskrzeszania zmarłych łowców. Centralna komora z ciałem najpotężniejszego nekromanty, częściowo przekształconym w demoniczną bestię. Magiczne bariery powstrzymujące dusze pochowanych przed opętaniem żywych intruzów.
+
+Ancient_Runes + Durmali
+Kuźnia Przeklętych Dusz: Grobowiec wykuty głęboko w górze z demonicznymi symbolami na ścianach. Sarkofagi kowali, którzy zawarli pakty z demonami, by tworzyć przeklęte bronie. Kuźnie piekielne, nadal aktywne dzięki energii uwięzionych dusz. Przeklęte artefakty zbyt niebezpieczne, by je zniszczyć, zapieczętowane w magicznych skrzyniach. Centralna komora z ciałem mistrza kowala, którego dusza jest uwięziona w jego największym dziele - przeklętym mieczu wystawionym na piedestale.
+
+Ancient_Runes + Fae'lin
+Gaj Wypaczonych Iluzji: Martwy las, gdzie ciała nekromantów są pochowane w spaczonych drzewach z demonicznymi symbolami na korze. Iluzoryczne koszmary manifestujące się wokół grobów. Trujące grzyby wyrosłe z ciał zmarłych, których zarodniki wywołują halucynacje i szaleństwo. Magiczne pułapki wciągające nieostrożnych w wymiary koszmarów. Centralne drzewo-grobowiec z ciałem arcymaga iluzji, którego umysł nadal tworzy iluzje nawet po śmierci.
+
+Ancient_Runes + Kyo'ren
+Mauzoleum Międzywymiarowych Abominacji: Grobowiec istniejący częściowo w wymiarze demonów. Sarkofagi magów, którzy eksperymentowali z łączeniem demonicznej i obcej technologii. Portale do wymiarów zamieszkanych przez istoty zbyt obce, by je pojąć. Uwięzione demony i obce byty służące jako strażnicy. Centralna komora z ciałem maga, który stał się bramą między wymiarami, jego ciało ciągle transformuje się, mimo że jest martwe.
+
+Ancient_Runes + Mijero
+Sanktuarium Zakazanych Sztuk: Elegancki grobowiec z demonicznymi symbolami ukrytymi w kaligraficznych wzorach. Ciała mistrzów zakazanych sztuk walki w pozach medytacyjnych, zakonserwowane mroczną magią. Zwoje z zakazanymi technikami, które pozwalają na manipulowanie duszami przeciwników. Kadzielnice z ziołami wywołującymi trans i otwierającymi umysł na wpływy demonów. Centralna komora medytacyjna, gdzie można doświadczyć technik wszystkich pochowanych mistrzów jednocześnie, ryzykując opętanie.
+
+Ancient_Runes + Nekrothol
+Mauzoleum Kosmicznej Nekromancji: Grobowiec, gdzie wpływy demonów i kosmosu się przenikają. Ciała nekromantów badających związki między śmiercią a pustką kosmosu. Portale do martwych wymiarów i umierających gwiazd, skąd czerpali moc. Uwięzione istoty z kosmosu służące jako strażnicy. Centralna komora z ciałem arcynekromanty, który odkrył sposób na wskrzeszanie za pomocą energii z czarnych dziur, jego ciało jest częściowo niematerialne.
+
+Ancient_Runes + Heu'ia
+Piramida Przeklętych Faraonów: Stopniowy grobowiec z komnatami pełnymi demonicznych hieroglifów. Przeklęte mumie kapłanów, którzy zawarli pakty z mrocznymi bóstwami. Magiczne pułapki wysysające życie intruzów. Sarkofagi z ukrytymi demonami, którzy mogą opętać tych, którzy naruszą pieczęcie. Centralna komora grobowa władcy-nekromanty, którego mumia jest aktywowana podczas zaćmień, by wykonywać rytuały podtrzymujące jego pakty z siłami ciemności.
+
+Grobowce - Hybrydy Kristalion z innymi językami
+Kristalion + Durmali
+Jaskinia Klanowych Przodków: Naturalna jaskinia przekształcona w grobowiec, z kamiennymi konstrukcjami wzmacniającymi. Ciała wojowników w pozach bojowych, z bronią i totemami klanowymi. Mechaniczne pułapki ukryte wśród naturalnych formacji skalnych. Kuźnia ceremonialna do tworzenia broni nasyconych duchem przodków. Centralna komora z ciałami najważniejszych wodzów klanów, otoczonymi posągami ich duchowych zwierzęcych towarzyszy.
+
+Kristalion + Fae'lin
+Grobowiec Dzikich Strażników: Naturalna formacja skalna porośnięta magicznymi roślinami, tworzącymi żywy grobowiec. Ciała szamanów i druidów pochowane w korzeniach drzew, ich duchy manifestujące się jako świetliste zwierzęce formy. Iluzoryczne bariery ukrywające wejścia przed niepowołanymi. Magiczne baseny z wodą pokazującą wizje przeszłości i możliwych przyszłości. Centralna polana z ciałem najpotężniejszego szamana-zmiennokształtnego, którego duch może przybierać formę każdego zwierzęcia.
+
+Kristalion + Kyo'ren
+Jama Bestialskich Przemian: Jaskinia z organicznymi formacjami przypominającymi obce formy życia. Ciała szamanów, którzy eksperymantowali z mutacjami i transformacjami, ich szczątki zatrzymane w różnych stadiach przemiany. Totemy przedstawiające ewolucję od zwierzęcia do obcej istoty. Baseny z mutagenną substancją, w której zanurzono części ciał zmarłych. Centralna komora z ciałem szamana, który osiągnął "doskonałą" transformację w hybrydową istotę nie z tego świata.
+
+Kristalion + Mijero
+Sanktuarium Duchów Natury: Jaskinia przekształcona w elegancki grobowiec, gdzie naturalne elementy harmonizują z precyzyjnymi konstrukcjami. Ciała szamanów i mistrzów sztuk walki w pozach medytacyjnych, otoczone totemami ich duchowych zwierząt. Kaligraficzne inskrypcje opisujące ich osiągnięcia i nauki. Medytacyjne przestrzenie, gdzie można komuniować się z duchami zmarłych. Centralna komora z ciałem wielkiego mistrza-szamana, którego duch manifestuje się jako spokojny ogród z duchowymi manifestacjami zwierząt.
+
+Kristalion + Nekrothol
+Jaskinia Kosmicznych Bestii: Naturalna formacja skalna z kryształami emitującymi światło imitujące gwiazdy. Ciała szamanów badających wpływ kosmosu na ziemskie gatunki. Totemy przedstawiające zwierzęta z kosmicznymi cechami. Portale do wymiarów zamieszkanych przez kosmiczne drapieżniki. Centralna komora z ciałem szamana, który jako pierwszy nawiązał kontakt z kosmicznymi istotami, jego ciało częściowo przekształcone przez energię gwiezdną.
+
+Kristalion + Heu'ia
+Świątynia Zwierzęcych Bóstw: Jaskinia z komnatami ozdobionymi w stylu starożytnych grobowców. Mumie szamanów w pozach zwierzęcych, z maskami rytualnymi. Hieroglify przedstawiające ewolucję kultu zwierzęcych bóstw. Totemy i posągi hybryd ludzi i zwierząt jako strażnicy. Centralna komora z sarkofagiem najwyższego kapłana-szamana, którego maska pozwala duchowi przybierać formę świętego zwierzęcia.
+
+Grobowce - Hybrydy Durmali z innymi językami
+Durmali + Fae'lin
+Kuźnia Naturalnych Cykli: Grobowiec wykuty w skale, gdzie kamienne elementy przeplatają się z żywymi, magicznymi roślinami. Ciała kowali-druidów pochowane w specjalnych niszach, gdzie korzenie drzew oplatają ich narzędzia. Magiczne rudy i kryształy wyrastające z grobów, nasycone esencją zmarłych. Kuźnia ceremonialna, gdzie tworzy się artefakty łączące metal i żywe drewno. Centralna komora z ciałem mistrza-kowala, którego duch manifestuje się jako metaliczne, świetliste drzewo.
+
+Durmali + Kyo'ren
+Kuźnia Niemożliwych Form: Grobowiec wykuty w górze, którego wnętrze przeczy prawom fizyki. Ciała kowali-eksperymentatorów, którzy próbowali łączyć metal z obcą materią. Narzędzia i bronie o niemożliwej geometrii, zbyt niebezpieczne, by ich używać. Kuźnie, gdzie metal zachowuje się jak ciecz lub gaz pod wpływem obcych energii. Centralna komora z ciałem mistrza-kowala, którego ciało stopniowo przekształciło się w metal o niemożliwych właściwościach.
+
+Durmali + Mijero
+Mauzoleum Mistrzów Rzemiosła: Elegancki grobowiec wykuty w skale, łączący krasnoludzką solidność z wschodnią precyzją. Ciała mistrzów-kowali w pozach medytacyjnych, z ich najdoskonalszymi dziełami. Kaligraficzne inskrypcje opisujące sekrety ich rzemiosła. Kuźnia ceremonialna do tworzenia pamiątkowych przedmiotów ku czci zmarłych. Centralna komora z ciałem największego mistrza, otoczonego modelami jego najważniejszych konstrukcji i wynalazków.
+
+Durmali + Nekrothol
+Kuźnia Gwiezdnych Metali: Grobowiec wykuty w kraterze po meteorycie. Ciała kowali, którzy specjalizowali się w obróbce metali z kosmosu. Narzędzia i bronie wykonane z materiałów nie z tego świata. Kuźnia zasilana energią kosmiczną zamiast zwykłym ogniem. Centralna komora z ciałem mistrza-kowala, którego ciało zostało zakonserwowane przez właściwości meteorytu, w którym jest pochowany.
+
+Durmali + Heu'ia
+Mauzoleum Boskich Konstruktorów: Masywny grobowiec inspirowany starożytnymi monumentami. Ciała mistrzów-budowniczych z modelami ich największych dzieł. Hieroglify opisujące zapomniane techniki inżynieryjne. Warsztaty z narzędziami i planami konstrukcji, które nigdy nie zostały zrealizowane. Centralna komora z sarkofagiem wielkiego architekta, otoczona miniaturowym modelem idealnego miasta, które planował zbudować.
+
+Grobowce - Hybrydy Fae'lin z innymi językami
+Fae'lin + Kyo'ren
+**Ogró
+
+
+
+continue
+
+
+
+Grobowce - Hybrydy Fae'lin z innymi językami (kontynuacja)
+Fae'lin + Kyo'ren
+Ogród Koszmarnych Transformacji: Magiczny las, gdzie drzewa i rośliny przybierają niepokojące, obce formy. Ciała druidów-eksperymentatorów pochowane w kokonach z mutujących roślin. Iluzoryczne koszmary manifestujące się jako częściowo materialne byty. Magiczne kwiaty wydzielające pyłek wywołujący halucynacje i czasowe transformacje. Centralne drzewo-grobowiec z ciałem arcydruida, który próbował połączyć magię natury z obcymi energiami, jego ciało jest hybrydą człowieka, rośliny i czegoś obcego.
+
+Fae'lin + Mijero
+Ogród Spokojnego Przejścia: Elegancki grobowiec wtopiony w naturalne otoczenie, gdzie architektura harmonizuje z przyrodą. Ciała druidów i mistrzów sztuk walki pochowane w pozycjach medytacyjnych wśród kwitnących drzew. Kaligraficzne inskrypcje na liściach i korze, opisujące filozofię życia i śmierci. Spokojne ścieżki do medytacji i komunii z duchami zmarłych. Centralna polana z ciałem wielkiego mistrza-druida, którego duch manifestuje się jako delikatny, świetlisty ogród.
+
+Fae'lin + Nekrothol
+Ogród Kosmicznych Wizji: Magiczny las pod niebem pełnym gwiazd, które wydają się być na wyciągnięcie ręki. Ciała druidów badających wpływ kosmosu na życie roślinne, pochowane w korzeniach drzew świecących kosmicznym światłem. Magiczne kwiaty otwierające portale do innych światów, gdy kwitną. Baseny z wodą odbijającą gwiazdy, pokazujące wizje odległych planet. Centralne drzewo-grobowiec z ciałem arcydruida, który nauczył się używać energii gwiezdnej do zasilania magii natury.
+
+Fae'lin + Heu'ia
+Ogród Starożytnych Cykli: Magiczny las wyrosły wokół starożytnych ruin. Ciała druidów pochowane w sarkofagach porośniętych magicznymi roślinami. Hieroglify na drzewach i kamieniach, opisujące cykle natury i reinkarnacji. Magiczne fontanny z wodą pamięci, pozwalającą na przypomnienie sobie poprzednich wcieleń. Centralna polana z obeliskiem porośniętym magicznym bluszczem, u którego podstawy pochowany jest najwyższy druid-kapłan starożytnego kultu natury.
+
+Grobowce - Hybrydy Kyo'ren z innymi językami
+Kyo'ren + Mijero
+Mauzoleum Zakazanych Transformacji: Elegancki grobowiec, którego wnętrze stopniowo zniekształca się w niepokojące formy. Ciała mistrzów zakazanych sztuk walki w pozach medytacyjnych, ich ciała częściowo przekształcone przez obce energie. Kaligraficzne inskrypcje, które reorganizują się podczas czytania. Medytacyjne kręgi do bezpiecznego studiowania transformacyjnych technik zmarłych mistrzów. Centralna komora z ciałem wielkiego mistrza, którego transformacja była tak zaawansowana, że jego ciało nie może być w pełni postrzegane przez ludzki umysł.
+
+Kyo'ren + Nekrothol
+Mauzoleum Kosmicznego Chaosu: Grobowiec, którego architektura przeczy prawom fizyki, otwierający się na przestrzeń kosmiczną. Ciała badaczy obcych wymiarów i kosmosu, zakonserwowane energią z czarnych dziur. Portale do umierających gwiazd i odległych galaktyk. Artefakty z materiałów nie z tego świata. Centralna komora z ciałem najwyższego badacza, którego ciało jest częściowo niematerialne, istniejące jednocześnie w naszym wymiarze i w kosmicznej pustce.
+
+Kyo'ren + Heu'ia
+Piramida Obcych Bóstw: Grobowiec w kształcie piramidy, którego wnętrze jest większe niż zewnętrze. Mumie kapłanów z maskami przedstawiającymi obce istoty. Hieroglify zmieniające znaczenie i położenie, opisujące kontakt ze starożytnymi, obcymi bytami. Sarkofagi z ciałami częściowo przekształconymi przez obce wpływy. Centralna komora grobowa z sarkofagiem najwyższego kapłana-badacza, którego ciało jest hybrydą człowieka i czegoś całkowicie obcego.
+
+Grobowce - Hybrydy Mijero z innymi językami
+Mijero + Nekrothol
+Pawilon Kosmicznej Podróży: Elegancki grobowiec z kopułą pokazującą gwiazdy i planety. Ciała mistrzów astralnej projekcji w pozach medytacyjnych, ich dusze rzekomo nadal eksplorują kosmos. Kaligraficzne mapy gwiazd i instrukcje do astralnej podróży. Medytacyjne kręgi do komunii z energią kosmiczną. Centralna komora z ciałem wielkiego mistrza, który podobno osiągnął zdolność fizycznej podróży między gwiazdami poprzez medytację.
+
+Mijero + Heu'ia
+Pawilon Starożytnych Mędrców: Elegancki grobowiec łączący wschodnie i starożytne style architektoniczne. Ciała mistrzów i uczonych w pozach medytacyjnych, otoczone zwojami ich mądrości. Hieroglify i kaligraficzne inskrypcje opisujące filozoficzne nauki zmarłych. Medytacyjne ogrody inspirowane starożytnymi wiszącymi ogrodami. Centralna komora z ciałem najwyższego mędrca, który podobno poznał wszystkie tajemnice starożytnych cywilizacji.
+
+Grobowce - Hybrydy Nekrothol z innymi językami
+Nekrothol + Heu'ia
+Piramida Gwiezdnych Władców: Grobowiec w kształcie piramidy z obserwatorium astronomicznym na szczycie. Mumie władców zakonserwowane energią kosmiczną. Hieroglify opisujące wpływ gwiazd na losy cywilizacji. Sarkofagi z ciałami ustawione zgodnie z układem gwiazd w dniu śmierci pochowanych. Centralna komora grobowa z sarkofagiem najwyższego władcy-astronoma, gdzie promienie gwiezdnego światła padają przez specjalne otwory, aktywując starożytne mechanizmy w określonych momentach kosmicznych koniunkcji
