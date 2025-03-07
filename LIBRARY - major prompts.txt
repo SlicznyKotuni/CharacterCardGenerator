@@ -1,0 +1,115 @@
+LIBRARY - podstawowe style:
+Rh'lo:
+magical ancient library with floating books and crystals, levitating stone shelves with glowing runes, ethereal blue light streaming through crystal windows, arcane symbols pulsing on walls, mystical fog floating above floor, ornate magical circles, detailed fantasy art style, octane render, volumetric lighting
+Common:
+medieval fantasy library with wooden shelves and stone walls, tall stained glass windows, burning torches and chandeliers, leather-bound books and scrolls, heraldic banners hanging from ceiling, gothic architecture, warm ambient lighting, detailed realistic style, atmospheric rendering
+Ancient Runes:
+dark necromantic library with black stone shelves, glowing demonic runes, skull decorations and bone ornaments, dark crystal light sources, forbidden grimoires with chains, gothic horror architecture, dramatic shadows, dark fantasy art style, cinematic lighting
+Kristalion:
+natural cave library with organic rock formations, tribal totems and animal skulls, bioluminescent fungi lighting, leather scrolls and bone tablets, mystical cave paintings, primitive stone architecture, natural rock shelves, shamanic fantasy style, naturalistic lighting
+Durmali:
+dwarven engineering library with massive metal shelves, mechanical gears and pistons, forge-fire lighting through metal gratings, engraved runes on steel walls, steam pipes and pressure gauges, industrial fantasy architecture, warm metallic glow, detailed steampunk style
+Fae'lin:
+ethereal fairy library with crystal trees as bookshelves, glowing butterflies as light sources, flowing organic architecture, magical flowers and vines, iridescent crystal formations, floating light orbs, nature-inspired design, luminescent details, whimsical fantasy art style
+Kyo'ren:
+biomechanical horror library with pulsing organic walls, tentacle-like book holders, eerie bioluminescent lighting, mutated architectural features, impossible geometry, living tissue mixed with structure, eldritch horror style, unsettling atmosphere, dark sci-fi rendering
+Mijero:
+oriental zen library with paper walls and bamboo shelves, traditional Japanese architecture, paper lantern lighting, calligraphy scrolls and meditation areas, cherry blossom details, minimalist design, peaceful atmosphere, traditional Asian art style, soft natural lighting
+Nekrothol:
+cosmic void library with floating platforms in space, star-lit shelves holding ancient tomes, nebula lighting effects, astronomical symbols, floating debris and cosmic dust, otherworldly architecture, celestial phenomena, dark sci-fi fantasy style, ethereal space lighting
+Heu'ia:
+ancient Egyptian temple library with golden hieroglyphic walls, pyramid architecture, rays of sunlight through stone columns, ritual pools reflecting light, sacred symbols and statues, ceremonial spaces, mystical desert atmosphere, archaeological fantasy style, dramatic god rays
+Rh'lo + Common:
+magical medieval library with floating wooden shelves and stone arches, levitating books among gothic columns, stained glass windows with glowing runes, magical torches and crystal chandeliers, arcane circles mixed with heraldic symbols, ethereal mist around classical architecture, blend of mystical and medieval elements, detailed fantasy art style, volumetric lighting
+Rh'lo + Ancient Runes:
+dark magical library with floating obsidian shelves, necromantic runes pulsing with ethereal energy, black crystals emitting purple light, forbidden tomes suspended in magical fields, skull decorations with glowing arcane symbols, temporal distortions in gothic architecture, blend of arcane and dark magic, sinister fantasy style, dramatic magical lighting
+Rh'lo + Kristalion:
+primal magical library within crystalline cave system, floating tribal totems and magical stones, bioluminescent runes carved into natural rock, shamanic circles with levitating scrolls, spirit energies flowing through crystal formations, mystical cave paintings with moving elements, fusion of natural and arcane magic, primitive fantasy style, ethereal cave lighting
+Rh'lo + Durmali:
+techno-magical library with floating mechanical platforms, levitating metal shelves with glowing runes, magical energy flowing through copper pipes, crystalline power sources integrated with machinery, arcane-powered gears and mechanisms, dwarven runes pulsing with magic, steampunk-magic fusion style, industrial fantasy aesthetic, warm magical lighting
+Rh'lo + Fae'lin:
+ethereal magical library with crystal trees and floating spellbooks, luminous butterflies carrying scrolls through magical portals, living crystal formations with pulsing runes, magical flowers emitting arcane light, nature-infused magical circles, organic-magical architecture, whimsical enchanted style, iridescent fantasy lighting, dreamlike atmosphere
+Rh'lo + Kyo'ren:
+twisted magical library with biomechanical floating platforms, mutated crystal formations holding grimoires, tentacle-like magical energy streams, impossible geometric portals, pulsing runic flesh-walls, eldritch magical symbols, horror-fantasy fusion style, otherworldly magical lighting, unsettling arcane atmosphere
+Rh'lo + Mijero:
+zen magical library with floating paper scrolls and bamboo structures, oriental magical circles under levitating platforms, crystal lanterns with flowing runes, harmonious magical energy patterns, calligraphy spells in mid-air, peaceful arcane garden elements, eastern-magical fusion style, serene mystical lighting, balanced magical atmosphere
+Rh'lo + Nekrothol:
+cosmic magical library with constellation-etched floating platforms, star-powered magical portals, nebula-infused crystals, void-touched spellbooks, astronomical runes pulsing with stellar energy, space-warped magical architecture, cosmic-arcane fusion style, celestial magical lighting, otherworldly atmosphere
+Rh'lo + Heu'ia:
+ancient magical pyramid library with floating hieroglyphic tablets, solar-powered magical circles, golden runes flowing like sand, crystal obelisks channeling magical energy, sacred geometric patterns in levitating stones, pyramid-shaped magical portals, egyptian-arcane fusion style, divine magical lighting, mystical desert atmosphere
+Common + Ancient Runes:
+dark medieval library with gothic architecture and necromantic elements, black stone walls with corrupted stained glass, demonic runes glowing on wooden shelves, forbidden tomes chained to bone-decorated pedestals, corrupted heraldic symbols, blend of gothic and dark magic, sinister castle interior, dark fantasy art style, ominous torch lighting
+Common + Kristalion:
+medieval tribal library within castle walls, natural rock formations merging with stone architecture, wooden shelves carved with animal totems, torch-lit beast sculptures, primal symbols mixed with heraldic banners, hunting trophies on gothic walls, fusion of savage and noble elements, naturalistic medieval style, warm firelight atmosphere
+Common + Durmali:
+medieval dwarven library with stone and metal architecture, mechanized wooden shelves between gothic pillars, forge-lit stained glass windows, engineering schematics on castle walls, metal-bound tomes on reinforced shelves, blend of gothic and industrial elements, castle-forge aesthetic, detailed fantasy style, warm metallic lighting
+Common + Fae'lin:
+enchanted medieval library with living tree pillars, crystal-adorned gothic arches, magical flowers growing between wooden shelves, butterfly-decorated stained glass, nature-infused heraldic symbols, living vines on stone walls, whimsical castle interior, fairy tale fantasy style, magical natural lighting
+Common + Kyo'ren:
+corrupted medieval library with twisted gothic architecture, distorted wooden shelves with organic growths, mutated stained glass windows, tentacle-like ornaments on stone walls, warped heraldic symbols, horror-touched castle interior, gothic horror style, unsettling torch lighting, creepy atmosphere
+Common + Mijero:
+oriental-medieval fusion library, zen garden between gothic arches, paper screens with heraldic patterns, bamboo and stone mixed architecture, castle walls with calligraphy scrolls, eastern-influenced stained glass, peaceful castle interior, cultural fusion art style, balanced natural lighting
+Common + Nekrothol:
+cosmic medieval library with star-lit gothic arches, constellation patterns in stained glass, void-touched stone walls, astronomical symbols mixed with heraldry, floating castle architecture in space, stellar-medieval fusion design, celestial castle interior, dark fantasy style, ethereal space lighting
+Common + Heu'ia:
+egyptian-medieval fusion library, pyramid structures within castle walls, hieroglyph-decorated gothic arches, solar-themed stained glass, pharaonic statues between stone pillars, desert-castle fusion architecture, mystical royal interior, archaeological fantasy style, dramatic sunlight beams
+LIBRARY - Ancient Runes połączenia:
+Ancient Runes + Kristalion:
+primal necromantic library in dark caves, tribal bone structures with demonic runes, skull totems emitting dark energy, shamanic circles with necromantic symbols, corrupted cave paintings, dark tribal architecture, bone and stone shelves, dark primal fantasy style, ominous bioluminescent lighting
+Ancient Runes + Durmali:
+necro-mechanical library with black metal construction, skull-decorated machinery, demonic runes on steel plates, mechanical bone structures, dark forge fires, industrial horror architecture, corrupted engineering elements, dark steampunk style, infernal forge lighting
+Ancient Runes + Fae'lin:
+corrupted fairy library with twisted crystal trees, dark-touched butterflies, necromantic nature magic, black flowers with glowing runes, corrupted organic architecture, sinister beauty aesthetic, dark whimsical style, malevolent magical lighting, haunted garden atmosphere
+Ancient Runes + Kyo'ren:
+biomechanical horror library with necromantic elements, flesh-metal walls with dark runes, tentacle-bone structures, mutated demonic symbols, impossible dark geometry, living tissue mixed with dark magic, cosmic horror style, eldritch lighting, nightmarish atmosphere
+Ancient Runes + Mijero:
+dark oriental library with corrupted zen elements, demon-marked paper walls, necromantic calligraphy, dark magic circles in meditation spaces, corrupted bamboo structures, sinister eastern architecture, dark harmony style, shadows and paper lantern lighting
+Ancient Runes + Nekrothol:
+void-touched necromantic library, cosmic horror architecture, constellation of souls, star-runes of darkness, floating bone structures in space, astral-demonic fusion, dark cosmic style, nebula and void lighting, otherworldly horror atmosphere
+Ancient Runes + Heu'ia:
+dark egyptian library with necromantic hieroglyphs, corrupted pyramid architecture, undead pharaoh statues, black gold decorations, unholy ritual pools, fusion of death and solar magic, dark archaeological style, corrupted sun ray lighting
+Kristalion + Durmali:
+tribal-mechanical cave library, natural rock formations with metal reinforcements, forge-lit crystal caverns, totemic machinery and mechanical tribal markers, bone and metal hybrid shelves, industrial-primal fusion architecture, steam pipes through natural stone, primitive steampunk style, forge fire lighting through crystal formations
+Kristalion + Fae'lin:
+primal fairy cave library, crystalline tribal totems with butterfly wings, bioluminescent nature spirits, living rock formations with magical growth, shamanic crystal trees, organic cave architecture, tribal-fae fusion design, ethereal natural style, magical cave lighting with floating spores
+Kristalion + Kyo'ren:
+mutated tribal cave library, biomechanical totems, flesh-stone hybrid walls, twisted natural formations, primal horror elements, impossible tribal geometry, organic-savage fusion, body horror naturalistic style, pulsing bioluminescent lighting through mutated crystals
+Kristalion + Mijero:
+zen tribal cave library, bamboo and natural rock formations, peaceful shamanic meditation spaces, tribal calligraphy on stone walls, harmonious cave gardens, oriental-primal fusion, natural minimalist design, spiritual cave style, soft natural cave lighting
+Kristalion + Nekrothol:
+cosmic tribal cave library, star-lit crystal formations, void-touched totems, astronomical cave paintings, floating rock platforms in space, tribal-stellar fusion, primitive space architecture, cosmic cave style, nebula lighting through crystal clusters
+Kristalion + Heu'ia:
+tribal-egyptian cave library, hieroglyphic totems, pyramid structures in natural caverns, solar-tribal fusion symbols, shamanic ritual pools, primal-pharaonic architecture, cave temples design, ancient tribal style, mystical sunlight through crystal formations
+LIBRARY - Durmali połączenia:
+Durmali + Fae'lin:
+mechanical-fairy library, crystal-powered machinery, living metal trees, butterfly-decorated gears, nature-infused engineering, organic machinery design, whimsical industrial architecture, enchanted steampunk style, magical forge lighting through crystal pistons
+Durmali + Kyo'ren:
+biomechanical dwarven library, flesh-metal hybrid machinery, pulsing organic pistons, mutated gear systems, living metal architecture, industrial horror fusion, twisted engineering design, dark steampunk style, bioluminescent forge lighting
+Durmali + Mijero:
+zen-mechanical library, bamboo and metal fusion architecture, peaceful industrial spaces, calligraphy-etched machinery, harmonious engineering design, oriental-industrial fusion, minimal mechanical style, balanced forge lighting through paper screens
+Durmali + Nekrothol:
+cosmic engineering library, stellar-powered machinery, void-forged metal structures, astronomical engineering designs, space-industrial fusion, cosmic forge architecture, celestial mechanical style, nebula forge lighting through astral windows
+Durmali + Heu'ia:
+egyptian-mechanical library, hieroglyphic-etched machinery, solar-powered engineering, pyramid-shaped forge structures, pharaonic industrial design, ancient-mechanical fusion, golden machinery style, divine forge lighting through crystal obelisks
+LIBRARY - Fae'lin połączenia:
+Fae'lin + Kyo'ren:
+corrupted fairy library, mutated crystal trees, twisted butterfly wings, biomechanical nature elements, impossible organic growth, horror-whimsy fusion, dark enchanted architecture, twisted fairy tale style, corrupted bioluminescent lighting
+Fae'lin + Mijero:
+zen fairy library, peaceful enchanted gardens, oriental butterfly pavilions, harmonious crystal trees, magical bamboo structures, eastern-whimsy fusion, serene magical architecture, peaceful enchanted style, soft magical lighting through paper lanterns
+Fae'lin + Nekrothol:
+cosmic fairy library, stellar crystal trees, void butterflies, space-nature fusion, floating enchanted gardens in cosmos, astral-whimsy design, celestial organic architecture, space fairy tale style, nebula lighting through crystal formations
+Fae'lin + Heu'ia:
+egyptian fairy library, golden butterfly hieroglyphs, crystal pyramid gardens, solar-powered enchanted obelisks, magical ritual pools, pharaonic-whimsy fusion, ancient magical architecture, mystical fairy tale style, divine sunlight through crystal wings
+Kyo'ren + Mijero:
+corrupted zen library, biomechanical bamboo structures, mutated paper walls, twisted calligraphy symbols, organic-oriental fusion, horror-touched meditation spaces, impossible peaceful geometry, dark eastern architecture, unsettling paper lantern lighting through pulsing flesh walls, eldritch harmony style
+Kyo'ren + Nekrothol:
+cosmic horror library, biomechanical void structures, tentacled space anomalies, mutated stellar formations, living tissue in cosmic void, impossible space geometry, eldritch astronomical architecture, cosmic body horror style, pulsing nebula lighting through organic matter, otherworldly atmosphere
+Kyo'ren + Heu'ia:
+biomechanical egyptian library, mutated hieroglyphic walls, flesh-pyramid structures, twisted solar symbols, living tissue obelisks, horror-touched ritual pools, impossible pharaonic geometry, eldritch ancient architecture, corrupted sunlight through organic matter, twisted sacred atmosphere
+LIBRARY - Mijero połączenia:
+Mijero + Nekrothol:
+cosmic zen library, star-lit paper walls, void-touched bamboo structures, astronomical calligraphy, peaceful space gardens, meditation areas in cosmic void, oriental-space fusion, celestial eastern architecture, nebula lighting through paper screens, harmonious stellar atmosphere
+Mijero + Heu'ia:
+egyptian-oriental library, hieroglyphic paper screens, zen pyramid gardens, solar-themed bamboo structures, peaceful ritual pools, pharaonic meditation spaces, eastern-ancient fusion, harmonious sacred architecture, divine sunlight through paper walls, mystical peaceful atmosphere
+Nekrothol + Heu'ia:
+cosmic egyptian library, stellar hieroglyph walls, void-touched pyramids, astronomical ritual pools, space-pharaonic fusion, floating ancient temples in cosmos, solar-void architecture, celestial sacred style, nebula lighting through golden obelisks, divine cosmic atmosphere
