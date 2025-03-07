@@ -1,0 +1,394 @@
+1.Rh'loq (Starożytny, Tajemniczy)
+Biblioteka
+Archiwum Pradawnej Wiedzy: Kamienne ściany pokryte świecącymi runami, lewitujące zwoje unoszące się w powietrzu, kryształowe półki wypełnione księgami, które zmieniają treść zależnie od czytelnika. Magiczne sfery oświetlające pomieszczenie pulsują w rytm myśli obecnych osób.
+
+Pole Bitwy
+Arena Magicznych Pojedynków: Okrągła arena z runicznymi symbolami wyżłobionymi w podłodze, które aktywują się podczas walki. Starożytne magiczne bariery chronią widzów. Pozostałości dawnych pojedynków w postaci zastygłych magicznych eksplozji stanowią przerażające pomniki.
+
+Świątynia
+Sanktuarium Pierwotnej Magii: Masywne monolity z wyrytymi runami tworzą okrąg, w centrum którego znajduje się pulsujący kryształ. Podłoga pokryta jest wzorami reprezentującymi przepływ magii we wszechświecie. Ściany zdobią tajemnicze symbole zmieniające położenie.
+
+Grobowiec
+Krypta Zapomnianych Magów: Kamienne sarkofagi z runicznymi pieczęciami, które więzią dusze dawnych czarodziejów. Magiczne pułapki i strażnicy strzegą starożytnych artefaktów. Iluzoryczne obrazy pokazują fragmenty życia pochowanych tu magów.
+
+2. Common (Średniowieczny, Fantastyczny)
+Biblioteka
+Królewskie Archiwum: Kamienna komnata z drewnianymi regałami, zwoje i księgi uporządkowane według królestwa pochodzenia. Herby rodów szlacheckich zdobią ściany. Stoły do czytania z mapami różnych krain, oświetlone pochodniami i świecami.
+
+Pole Bitwy
+Rycerska Arena: Piaszczyste boisko otoczone drewnianymi trybunami, tarcze i proporce szlacheckich rodów. Stanowiska dla sędziów turniejowych, lance i broń treningowa na stojakach, manekiny ćwiczebne.
+
+Świątynia
+Katedra Światła: Witraże przedstawiające bohaterskie czyny, wysokie sklepienia, kamienne ołtarze z symbolami bóstw. Ławy dla wiernych, miejsce do składania ofiar, święte relikwie w ozdobnych relikwiarzach.
+
+Grobowiec
+Krypta Bohaterów: Marmurowe sarkofagi z rzeźbionymi podobiznami wielkich wojowników i władców. Broń i zbroje zmarłych zawieszone na ścianach jako pamiątki. Rodzinne herby i opisy heroicznych czynów wyryte w kamieniu.
+
+3. Ancient_Runes (Mroczna Magia)
+Biblioteka
+Księgozbiór Zakazanych Wiedzy: Księgi przykute łańcuchami do półek, niektóre zamknięte magicznymi pieczęciami. Czaszki poprzednich bibliotekarzy służące jako świeczniki. Magiczne kręgi chroniące przed uwolnieniem niebezpiecznych zaklęć.
+
+Pole Bitwy
+Arena Przywołań: Pentagramy i okręgi przyzwań wyryte w podłodze, ślady po walkach z demonami. Klatki z potworami gotowymi do wypuszczenia. Magiczne bariery powstrzymujące przywołane istoty przed ucieczką.
+
+Świątynia
+Świątynia Mrocznych Mocy: Ołtarz z czarnego kamienia, na którym składane są ofiary. Posągi demonów i smoków. Kanały na krew prowadzące do centralnego basenu. Magiczne kręgi do rytuałów nekromancji.
+
+Grobowiec
+Mauzoleum Nekromanty: Zmumifikowane zwłoki w różnych stadiach ożywienia. Laboratorium do eksperymentów na zmarłych. Urny z duszami uwięzionymi przez magię. Krypty z nieumarłymi sługami w stanie uśpienia.
+
+4. Kristalion (Zwierzęcy, Instynktowny)
+Biblioteka
+Archiwum Zapachów i Dźwięków: Zamiast ksiąg - kryształy przechowujące zapachy i dźwięki. Półki dostosowane do różnych rozmiarów użytkowników. Gniazda do wygodnego studiowania. Naturalne materiały z oznaczeniami terytorialnymi.
+
+Pole Bitwy
+Arena Dominacji: Piaszczysta arena z kamieniami wyznaczającymi terytoria. Ślady pazurów na ścianach. Platformy na różnych wysokościach do walki trójwymiarowej. Naturalne przeszkody jak pnie drzew i skały.
+
+Świątynia
+Świątynia Księżycowego Wycia: Otwarta przestrzeń z widokiem na niebo. Totemy zwierzęcych bóstw. Miejsca do rytualnych tańców i gonitw. Święte drzewa z oznaczeniami terytorialnymi klanów.
+
+Grobowiec
+Jaskinia Przodków: Naturalna jaskinia z niszami na szczątki zmarłych. Kości ułożone w artystyczne wzory. Osobiste przedmioty zmarłych jako ofiary. Malowidła przedstawiające wielkie polowania i osiągnięcia przodków.
+
+5. Durmali (Krasnoludzki, Honorowy)
+Biblioteka
+Hala Kamiennych Kronik: Masywne kamienne tablice z wyrytymi runami zamiast książek. Kowadła służące jako pulpity do czytania. Młoty i dłuta do tworzenia nowych zapisków. Kryształy świetlne zasilane energią z głębi ziemi.
+
+Pole Bitwy
+Arena Klanowych Pojedynków: Kamienny krąg z runami honoru. Stanowiska dla starszyzny klanów. Broń ceremonialną zawieszona na ścianach. Kuźnia do naprawy broni podczas zawodów.
+
+Świątynia
+Świątynia Przodków i Kowadła: Posągi wielkich krasnoludzkich bohaterów. Wieczny ogień kuźniczy w centrum. Ołtarze z darami z metali szlachetnych. Runy błogosławieństw wykute w ścianach.
+
+Grobowiec
+Krypta Klanowa: Kamienne sarkofagi z podobiznami wojowników. Broń i zbroje pochowanych mistrzów. Historia klanu wyryta na ścianach. Magiczne runy chroniące spokój zmarłych.
+
+6. Fae'lin (Bajkowy, Kapryśny)
+Biblioteka
+Gaj Szepczących Liści: Księgi ukryte w kwiatach i grzybach. Świetliki jako oświetlenie. Krople rosy przechowujące wspomnienia. Motyle przenoszące wiadomości między sekcjami. Meble z żywych roślin dostosowujące się do użytkownika.
+
+Pole Bitwy
+Polana Tanecznych Pojedynków: Arena z magicznymi kręgami grzybów. Platformy z gigantycznych kwiatów. Iluzje utrudniające orientację. Pułapki zmieniające rozmiar uczestników.
+
+Świątynia
+Sanktuarium Czterech Pór Roku: Żywe drzewo w centrum, którego cztery strony reprezentują pory roku. Ołtarze z kwiatów i owoców. Magiczne fontanny z mieniącą się wodą. Tańczące światła unoszące się w powietrzu.
+
+Grobowiec
+Wieczny Ogród: Zamiast grobów - drzewa wyrosłe z ciał zmarłych. Kwiaty emitujące wspomnienia zmarłych. Magiczne motyle będące manifestacją dusz. Kręgi grzybów oznaczające miejsca spoczynku ważnych osób.
+
+7. Kyo'ren (Przerażający, Obcy)
+Biblioteka
+Archiwum Szaleństwa: Księgi pisane niezrozumiałym pismem, zmieniającym się podczas czytania. Pulsujące organiczne półki. Inkaust z dziwnych substancji. Pomieszczenie o niemożliwej geometrii, gdzie korytarze prowadzą w nieistniejące miejsca.
+
+Pole Bitwy
+Jama Abominacji: Arena z pulsującą, organiczną podłogą. Macki wyrastające ze ścian. Portale do innych wymiarów otwierające się losowo. Zniekształcona rzeczywistość utrudniająca ocenę odległości.
+
+Świątynia
+Sanktuarium Obcych Bogów: Posągi istot o niemożliwej anatomii. Ołtarz z materiału, który wydaje się być jednocześnie stały i płynny. Symbole wywołujące mdłości i halucynacje. Portale do innych wymiarów.
+
+Grobowiec
+Krypta Metamorfozy: Kokony zawierające zmieniające się ciała. Organiczne tunele prowadzące głębiej w nieznane. Pulsujące światło z nieznanego źródła. Pozostałości nieudanych eksperymentów genetycznych.
+
+8. Mijero (Azjatycki, Harmonijny)
+Biblioteka
+Pawilon Spokojnej Kontemplacji: Zwoje kaligrafii zawieszone na ścianach. Niskie stoły do czytania. Kadzidła oczyszczające umysł. Ogród zen widoczny przez papierowe ściany. Katalog mądrości uporządkowany według zasad harmonii.
+
+Pole Bitwy
+Dojo Honorowego Pojedynku: Drewniana podłoga z matami tatami. Broń ceremonialnie ułożona na stojakach. Posągi mistrzów sztuk walki. Gong do oznajmiania początku i końca walki.
+
+Świątynia
+Świątynia Równowagi: Posąg Buddy lub lokalnego bóstwa. Baseny z wodą do oczyszczenia. Dzwony i gongi o harmonijnym brzmieniu. Mandale i symboliczne obrazy na ścianach.
+
+Grobowiec
+Mauzoleum Spokojnego Spoczynku: Urny z prochami w niszach. Kadzidła palące się przed tabliczkami z imionami. Kaligraficzne napisy z mądrościami o życiu i śmierci. Kamienny ogród symbolizujący przejście do innego świata.
+
+9. Nekrothol (Kosmiczny, Nieśmiertelny)
+Biblioteka
+Kosmiczne Archiwum: Księgi unoszące się w zerowej grawitacji. Modele gwiazd i galaktyk jako system katalogowania. Portale pokazujące odległe miejsca we wszechświecie. Kryształy przechowujące wiedzę z innych światów.
+
+Pole Bitwy
+Arena Pustki: Platforma zawieszona w kosmicznej próżni. Gwiazdy i mgławice widoczne dookoła. Zmienne pole grawitacyjne utrudniające walkę. Szczątki poprzednich pojedynków dryfujące w przestrzeni.
+
+Świątynia
+Świątynia Gwiezdnych Władców: Planetarium pokazujące ruch ciał niebieskich. Posągi kosmicznych bytów. Portale do innych wymiarów. Artefakty o nieznanych właściwościach i pochodzeniu.
+
+Grobowiec
+Nekropolia Nieśmiertelnych: Komory kriogeniczne z ciałami w stanie zawieszenia. Maszyny podtrzymujące świadomość po śmierci. Hologramy zmarłych wchodzące w interakcje z odwiedzającymi. Portale do zaświatów.
+
+10. Heu'ia (Starożytny Egipt/Inka, Tajemniczy)
+Biblioteka
+Sala Hieroglifów: Ściany pokryte hieroglifami i piktogramami. Papirus i kamienne tablice zamiast ksiąg. Posągi pisarzy i mędrców. Astronomiczne mapy na suficie. Magiczne lustra do odczytywania ukrytych tekstów.
+
+Pole Bitwy
+Arena Sądu Bogów: Piaszczysta arena z posągami bóstw jako obserwatorów. Hieroglify opisujące zasady walki. Słoneczne promienie padające przez specjalne otwory w określonych porach dnia. Wagi do sądzenia pokonanych.
+
+Świątynia
+Piramida Słonecznego Kultu: Ołtarz ustawiony tak, by promienie słońca padały nań w określonych dniach roku. Posągi bóstw ze złotymi elementami. Hieroglify opisujące rytuały. Mumie kapłanów w niszach ściennych.
+
+Grobowiec
+Królewska Krypta: Sarkofag władcy otoczony skarbami i przedmiotami codziennego użytku. Malunki przedstawiające podróż do zaświatów. Magiczne pułapki i strażnicy. Kanopskie słoje z organami zmarłego.
+
+
+II
+
+
+
+1. Rh'loq (Starożytny, Tajemniczy)
+Skarbiec (Treasure)
+Komora Arkanów: Okrągła sala z runicznymi barierami ochronnymi pulsującymi błękitnym światłem. Lewitujące artefakty w magicznych polach siłowych. Kryształowe skrzynie emitujące tajemniczą poświatę. Magiczne zamki reagujące tylko na określone zaklęcia i gesty.
+
+Miejsce Odosobnienia
+Sanktuarium Medytacji Czasowej: Komora odcięta od normalnego przepływu czasu. Ściany pokryte symbolami reprezentującymi różne ery. Kryształ w centrum umożliwiający wizje przeszłości i przyszłości. Powietrze wypełnione migoczącymi cząsteczkami zatrzymanej magii.
+
+Miejsce Zasadzki
+Labirynt Iluzji: Korytarze z runami zmieniającymi rzeczywistość. Magiczne pułapki teleportujące ofiary. Zwierciadła pokazujące fałszywe przejścia. Strażnicy-konstrukty ukryci w ścianach, aktywujący się przy intruzach.
+
+Miejsce Rytuałów
+Krąg Transformacji: Kamienny krąg z runami mocy wyrytymi w podłodze i suficie. Kanały na magiczną energię świecące podczas rytuału. Obeliski wzmacniające zaklęcia. Magiczne instrumenty do kontrolowania przepływu energii podczas ceremonii.
+
+2. Common (Średniowieczny, Fantastyczny)
+Skarbiec (Treasure)
+Królewska Skarbnica: Żelazne drzwi z wieloma zamkami i herbem królestwa. Skrzynie pełne złota i klejnotów. Gabloty z koronami i berłami poprzednich władców. Zbrojni strażnicy i magiczne alarmy chroniące bogactwa.
+
+Miejsce Odosobnienia
+Wieża Samotności: Wysoka kamienna wieża z jednym małym pokojem na szczycie. Proste łóżko, biurko i regał z książkami. Okno z widokiem na królestwo. Magiczne zwierciadło do komunikacji w nagłych wypadkach.
+
+Miejsce Zasadzki
+Leśna Czatownia: Ukryte platformy na drzewach połączone linami. Kamuflaż z liści i gałęzi. Pułapki linowe i dołowe na szlaku. Miejsce do przechowywania broni i zapasów dla zwiadowców.
+
+Miejsce Rytuałów
+Kamienny Krąg Przymierza: Starożytne menhiry tworzące okrąg. Kamienny ołtarz w centrum do składania przysiąg i podpisywania traktatów. Pochodnie na wysokich stojakach. Miejsce dla heroldów i świadków ceremonii.
+
+3. Ancient_Runes (Mroczna Magia)
+Skarbiec (Treasure)
+Krypta Zakazanych Artefaktów: Komora za iluzoryczną ścianą. Przeklęte przedmioty w magicznych klatkach. Czaszki poprzednich złodziei jako ostrzeżenie. Demoniczne zamki wymagające ofiary krwi do otwarcia.
+
+Miejsce Odosobnienia
+Cela Oczyszczenia Duszy: Mała komnata bez okien z runami ochronnymi na ścianach. Łańcuchy do samobiczowania. Ołtarz do medytacji nad demonicznymi tekstami. Kadzielnice z ziołami wywołującymi wizje i halucynacje.
+
+Miejsce Zasadzki
+Komnata Przywołań Obronnych: Sala z ukrytymi pentagramami aktywowanymi przez intruza. Posągi demonów ożywające w obecności nieproszonych gości. Lustra umożliwiające podglądanie ofiar. Magiczne pułapki wysysające życie.
+
+Miejsce Rytuałów
+Ołtarz Krwawych Ofiar: Kamienny stół z kanałami odprowadzającymi krew do centralnego basenu. Posągi demonicznych bóstw. Stojaki z rytualnymi sztyletami. Klatki na ofiary czekające na ceremonię.
+
+4. Kristalion (Zwierzęcy, Instynktowny)
+Skarbiec (Treasure)
+Legowisko Zdobyczy: Naturalna jaskinia z licznymi zakamarkami na ukrycie cennych przedmiotów. Kości i skóry jako oznaczenia terytorialne. Zapachowe znaczniki odstraszające obcych. Pułapki bazujące na instynktach drapieżników.
+
+Miejsce Odosobnienia
+Gniazdo Samotnika: Ukryta nora wysoko w drzewie lub głęboko pod ziemią. Miękkie legowisko z futer i liści. Osobiste trofea i amulety. Wąskie wejście łatwe do obrony przez pojedynczego osobnika.
+
+Miejsce Zasadzki
+Łowieckie Stanowisko: Ukryte doły pokryte gałęziami. Kamuflujące zarośla. Ślady i przynęty prowadzące ofiary w pułapkę. Platformy na drzewach dla skoczków. Wąskie przejścia wymuszające określoną trasę.
+
+Miejsce Rytuałów
+Krąg Inicjacji: Arena otoczona totemami plemiennymi. Malunki przedstawiające testy odwagi i siły. Miejsce do rytualnych pojedynków i polowań inicjacyjnych. Ognisko do ceremonialnych tańców i opowieści.
+
+5. Durmali (Krasnoludzki, Honorowy)
+Skarbiec (Treasure)
+Skarbiec Klanowy: Masywne kamienne drzwi z runicznymi zamkami. Skrzynie z klejnotami i metalami szlachetnymi. Broń i zbroje przodków na honorowych wystawach. Mechaniczne pułapki i alarmy wykuwane przez pokolenia mistrzów.
+
+Miejsce Odosobnienia
+Kuźnia Samotnego Mistrza: Odizolowana komnata z piecem kowalskim i kowadłem. Narzędzia najwyższej jakości. Szkice projektów broni i zbroi. Łóżko i zapasy pozwalające na długi pobyt bez kontaktu ze światem.
+
+Miejsce Zasadzki
+Fortyfikacja Obronna: Wąski korytarz z ukrytymi stanowiskami strzeleckimi. Mechanizmy zrzucające głazy na napastników. Fałszywe przejścia prowadzące do pułapek. Ukryte drzwi dla obrońców do przeprowadzania kontrataków.
+
+Miejsce Rytuałów
+Hala Przysiąg Klanowych: Okrągła sala z tronem dla wodza klanu. Runiczny krąg do składania przysiąg. Kowadło ceremonialnego kucia broni przysiężnej. Ściany pokryte zapisem historii i przysiąg klanowych.
+
+6. Fae'lin (Bajkowy, Kapryśny)
+Skarbiec (Treasure)
+Skrytka Cudów: Wnętrze gigantycznego kwiatu lub grzyba. Magiczne światełka unoszące się w powietrzu. Klejnoty wyglądające jak krople rosy. Zaczarowane przedmioty zmieniające kształt i kolor. Strażnicy w postaci motyli zmieniających się w wojowników.
+
+Miejsce Odosobnienia
+Bańka Spokoju: Transparentna kopuła zawieszona między gałęziami drzew. Wiecznie kwitnące kwiaty wewnątrz. Magiczne instrumenty grające kojącą muzykę. Fontanna z wodą zmieniającą kolor zależnie od nastroju mieszkańca.
+
+Miejsce Zasadzki
+Zwodniczy Zagajnik: Ścieżka prowadząca przez magicznie zmieniające położenie drzewa. Kwiaty wydzielające usypiający pyłek. Iluzje tworzące fałszywe ścieżki. Zaczarowane pnącza chwytające intruzów.
+
+Miejsce Rytuałów
+Taneczny Krąg: Polana z magicznymi grzybami tworzącymi idealny okrąg. Kwiaty emitujące muzykę przy dotknięciu. Magiczne światła unoszące się w rytm tańca. Tron z żywych kwiatów dla królowej ceremonii.
+
+7. Kyo'ren (Przerażający, Obcy)
+Skarbiec (Treasure)
+Wymiarowa Kieszeń: Pomieszczenie o niemożliwej geometrii, gdzie ściany spotykają się pod niemożliwymi kątami. Artefakty lewitujące w przestrzeni. Przedmioty zmieniające kształt i właściwości przy dotknięciu. Strażnicy o płynnej, zmieniającej się formie.
+
+Miejsce Odosobnienia
+Kokon Transformacji: Organiczna komora z pulsującymi, żywymi ścianami. Basen z płynem przyspieszającym mutacje. Lustra pokazujące alternatywne wersje użytkownika. Portale do wymiarów koszmarów i halucynacji.
+
+Miejsce Zasadzki
+Gniazdo Predatora: Korytarz z organicznymi pułapkami wyglądającymi jak części ścian. Fałszywe podłoże skrywające kwasową jamę. Iluzoryczne przejścia prowadzące do ślepych zaułków. Ukryte macki gotowe do schwytania ofiar.
+
+Miejsce Rytuałów
+Komora Fuzji: Sala z organicznym ołtarzem w centrum. Kokony do przechowywania ciał do połączenia. Zbiorniki z mutagennymi substancjami. Rysunki przedstawiające proces łączenia różnych istot w jedną, potężniejszą formę.
+
+8. Mijero (Azjatycki, Harmonijny)
+Skarbiec (Treasure)
+Pawilon Cesarskich Skarbów: Eleganckie, drewniane szafki z precyzyjnymi zamkami. Jedwabne zasłony chroniące cenne zwoje. Gabloty z porcelaną i jadeitowymi rzeźbami. Broń ceremonialną na honorowych stojakach. Strażnicy poruszający się bezgłośnie.
+
+Miejsce Odosobnienia
+Pawilon Kontemplacji: Mały drewniany budynek na wodzie. Minimalistyczne wyposażenie - mata do medytacji, stolik do kaligrafii. Widok na starannie zaprojektowany ogród. Dzwonki wietrzne tworzące kojącą muzykę.
+
+Miejsce Zasadzki
+Ogród Ukrytych Ostrzy: Pozornie spokojny ogród z mostkami i stawami. Ukryte mechanizmy wystrzeliwujące sztylety. Bambusowe gaje skrywające ninja. Kamienne latarnie będące punktami obserwacyjnymi. Ścieżki z pułapkami.
+
+Miejsce Rytuałów
+Świątynia Harmonii: Drewniana sala z idealnie zbalansowaną akustyką. Ołtarz z symbolami yin-yang. Kadzielnice z aromatycznymi ziołami. Instrumenty ceremonialnej muzyki. Kaligraficzne zwoje z mantrami na ścianach.
+
+9. Nekrothol (Kosmiczny, Nieśmiertelny)
+Skarbiec (Treasure)
+Repozytorium Gwiezdnych Artefaktów: Komora z symulacją kosmosu wewnątrz. Artefakty z innych planet lewitujące w polu antygrawitacyjnym. Kryształy przechowujące wiedzę wymarłych cywilizacji. Żywe metaliczne istoty strzegące skarbów.
+
+Miejsce Odosobnienia
+Kapsuła Astralnej Projekcji: Mała komora izolująca od fizycznego świata. Urządzenia wzmacniające zdolności psychiczne. Holograficzne mapy kosmosu. Kryształy umożliwiające podróże astralne do odległych światów.
+
+Miejsce Zasadzki
+Anomalia Czasoprzestrzenna: Korytarz z zakrzywioną rzeczywistością, gdzie odległości są złudzeniem. Pułapki wykorzystujące załamania czasoprzestrzeni. Portale teleportujące ofiary w niebezpieczne miejsca. Strażnicy istniejący jednocześnie w wielu wymiarach.
+
+Miejsce Rytuałów
+Obserwatorium Kosmicznych Koniunkcji: Sala z ruchomym modelem układu słonecznego. Kryształy dostrajające się do energii gwiazd i planet. Portale otwierane podczas specyficznych układów ciał niebieskich. Zapiski przewidywań kosmicznych wydarzeń.
+
+10. Heu'ia (Starożytny Egipt/Inka, Tajemniczy)
+Skarbiec (Treasure)
+Komora Faraona: Ukryte pomieszczenie za fałszywą ścianą grobowca. Złote sarkofagi i posągi. Skrzynie z klejnotami i ceremonialnym złotem. Magiczne amulety i artefakty. Hieroglify ostrzegające o klątwach czekających złodziei.
+
+Miejsce Odosobnienia
+Cela Pustelnika: Mała komora w skale z widokiem na pustynię. Hieroglify do medytacji i studiowania. Proste posłanie i narzędzia do pisania. Zbiornik na wodę z systemem zbierania rosy. Ołtarzyk do modlitw.
+
+Miejsce Zasadzki
+Korytarz Sądu Pośmiertnego: Wąski korytarz z ukrytymi otworami dla łuczników. Zapadnie prowadzące do doł
+
+
+IIII
+
+1. Rh'loq (Starożytny, Tajemniczy)
+Laboratorium
+Pracownia Runicznych Transmutacji: Kamienne stoły pokryte świecącymi runami kontrolującymi przepływ energii. Lewitujące przyrządy badawcze. Kryształy klasyfikujące i przechowujące magiczne esencje. Ruchome diagramy pokazujące przepływy mocy w różnych substancjach.
+
+Miejsce Ciężkiej Walki
+Komora Prób Magicznych: Arena otoczona obeliskami wzmacniającymi i kontrolującymi magiczne efekty. Podłoga pokryta runami aktywującymi się podczas walki, zmieniając właściwości fizyczne przestrzeni. Magiczne bariery chroniące przed przypadkowym zniszczeniem całej struktury.
+
+Eksperymentalna Komnata Arcymaga
+Nexus Wymiarów: Sala z portalami do innych płaszczyzn istnienia. Runiczne kręgi kontrolujące stabilność przejść międzywymiarowych. Artefakty z innych światów w trakcie badań. Magiczne klatki z istotami przyzwanymi do eksperymentów.
+
+Zapomniana Biblioteka Starożytnej Wiedzy
+Archiwum Pierwszych Czarodziejów: Ogromna okrągła sala z lewitującymi regałami. Księgi zabezpieczone runami, niektóre świecące, inne emitujące dźwięki. Interaktywne iluzje demonstrujące zapomniane zaklęcia. Kryształy pamięci przechowujące wspomnienia dawnych magów.
+
+2. Common (Średniowieczny, Fantastyczny)
+Laboratorium
+Warsztat Królewskiego Alchemika: Stoły laboratoryjne z aparaturą destylacyjną. Zielniki i składniki magiczne w oznaczonych słojach. Księgi receptur na półkach. Klatki z magicznymi stworzeniami do badań. Piec alchemiczny i chłodnie do przechowywania niestabilnych mikstur.
+
+Miejsce Ciężkiej Walki
+Królewska Arena Próby: Wielka piaszczysta arena otoczona kamiennymi trybunami. Ślady krwi i walki widoczne na piasku. Bronie treningowe i bojowe na stojakach. Królewska loża do obserwacji pojedynków. Pomniki wielkich wojowników.
+
+Eksperymentalna Komnata Arcymaga
+Laboratorium Nadwornego Czarodzieja: Sala z magicznym kręgiem zabezpieczającym eksperymenty. Półki z rzadkimi składnikami. Stoły z rozłożonymi planami magicznych konstruktów. Klatki z magicznymi stworzeniami do badań. Kryształy wzmacniające magiczne eksperymenty.
+
+Zapomniana Biblioteka Starożytnej Wiedzy
+Ukryte Archiwum Królestwa: Tajna komnata za ruchomą ścianą w zamkowej bibliotece. Zakurzone zwoje i księgi z zakazaną wiedzą. Mapy zapomnianych krain. Dzienniki dawnych władców i czarodziejów. Magiczne artefakty zbyt niebezpieczne do powszechnego użytku.
+
+3. Ancient_Runes (Mroczna Magia)
+Laboratorium
+Komnata Nekromantycznych Eksperymentów: Stoły sekcyjne z częściowo ożywionymi zwłokami. Słoje z organami i eliksirami przedłużającymi życie. Pentagramy do kontroli przyzwanych duchów. Klatki z nieumarłymi w różnych stadiach rozkładu. Księgi zakazanej wiedzy przykute łańcuchami do pulpitów.
+
+Miejsce Ciężkiej Walki
+Jama Demonicznych Pojedynków: Arena z pentagramami przyzwań na podłodze. Klatki z potworami gotowymi do wypuszczenia. Ślady po spaleniu i kwasie na ścianach. Czaszki poprzednich przegranych jako dekoracje. Magiczne bariery powstrzymujące demony przed ucieczką.
+
+Eksperymentalna Komnata Arcymaga
+Laboratorium Przemiany Dusz: Komora z aparaturą do wydobywania i transferu dusz. Kryształy więzienne dla schwytanych duchów. Diagramy pokazujące anatomię duszy. Ciała-naczynia przygotowane do przyjęcia nowych dusz. Portale do zaświatów.
+
+Zapomniana Biblioteka Starożytnej Wiedzy
+Krypta Zakazanych Tekstów: Podziemna sala z regałami pełnymi ksiąg z czarną magią. Niektóre książki zamknięte na łańcuchy, inne w magicznych klatkach. Czaszki poprzednich bibliotekarzy jako strażnicy. Stoły do studiowania z magicznymi barierami ochronnymi.
+
+4. Kristalion (Zwierzęcy, Instynktowny)
+Laboratorium
+Gniazdo Szamanistycznych Mikstur: Naturalna jaskinia z kotłami z różnymi wywarami. Suszone zioła i części zwierząt wiszące ze stalaktytów. Malunki przedstawiające efekty mikstur. Klatki z małymi zwierzętami do testów. Totemiczne symbole wzmacniające moc mikstur.
+
+Miejsce Ciężkiej Walki
+Arena Alfa: Piaszczysta jama otoczona ostrymi palami. Ślady krwi i pazurów na ścianach. Kości pokonanych jako ostrzeżenie. Platformy obserwacyjne dla przywódców stada. Tunele umożliwiające nagłe ataki z różnych kierunków.
+
+Eksperymentalna Komnata Arcymaga
+Legowisko Przemian: Jaskinia z basenami mutagennych substancji. Klatki z częściowo przemienionymi istotami. Rysunki przedstawiające różne stadia transformacji między człowiekiem a zwierzęciem. Totemy wzmacniające kontrolę nad przemianą.
+
+Zapomniana Biblioteka Starożytnej Wiedzy
+Archiwum Zapachów i Dźwięków: Jaskinia z kryształami przechowującymi zapachy i dźwięki przeszłości. Kości z wyrytymi symbolami jako katalog. Baseny z wodą pokazujące wizje przy zanurzeniu. Totemy przodków przekazujące wiedzę poprzez instynktowne obrazy.
+
+5. Durmali (Krasnoludzki, Honorowy)
+Laboratorium
+Warsztat Inżynierii Runowej: Kamienna sala z precyzyjnymi stołami warsztatowymi. Plany i projekty mechanizmów na kamiennych tablicach. Runiczne młoty i dłuta do nasycania przedmiotów magią. Piece do hartowania magicznych stopów. Prototypy broni i zbroi na stojakach testowych.
+
+Miejsce Ciężkiej Walki
+Kopalnia Próby: Wąskie korytarze i komory kopalniane przystosowane do walk. Kamienne filary jako osłony. Zapadnie i ruchome ściany jako elementy strategiczne. Kuźnia polowa do naprawy uszkodzonej broni. Runy wzmacniające wytrzymałość struktury podczas intensywnych walk.
+
+Eksperymentalna Komnata Arcymaga
+Kuźnia Runicznych Cudów: Ogromna kuźnia z runicznymi piecami osiągającymi niespotykane temperatury. Kowadła ze specjalnymi rowkami do tworzenia magicznych broni. Zbiorniki z rzadkimi metalami i esencjami. Diagramy eksperymentalnych stopów z magicznymi właściwościami.
+
+Zapomniana Biblioteka Starożytnej Wiedzy
+Hala Kamiennych Kronik: Ogromna podziemna komora z kamiennymi tablicami zapisanymi pradawnym pismem krasnoludów. Runiczne katalogi wskazujące lokalizację poszczególnych tekstów. Mechaniczne systemy przesuwające ciężkie tablice. Warsztat konserwacji starożytnych zapisków.
+
+6. Fae'lin (Bajkowy, Kapryśny)
+Laboratorium
+Ogród Magicznych Eksperymentów: Szklarnia pełna niezwykłych roślin i grzybów o magicznych właściwościach. Kolibry i motyle jako asystenci przenoszące pyłki i esencje. Alembiki z kwitnących kwiatów destylujące magiczne eliksiry. Tęczowe światło padające przez kryształowe soczewki.
+
+Miejsce Ciężkiej Walki
+Labirynt Zmiennych Ścieżek: Arena zmieniająca układ podczas walki. Żywe rośliny tworzące i blokujące przejścia. Magiczne iluzje dezorientujące wojowników. Platformy unoszące się i opadające niespodziewanie. Magiczne fontanny leczące lub zatruwające zależnie od kaprysu.
+
+Eksperymentalna Komnata Arcymaga
+Pawilon Transformacji: Komnata z gigantycznym magicznym lustrem zmieniającym właściwości przedmiotów i istot. Klatki z częściowo przemienionymi stworzeniami. Kryształy przechowujące "wzory" różnych form. Magiczne motyle przenoszące esencje między eksperymentami.
+
+Zapomniana Biblioteka Starożytnej Wiedzy
+Drzewo Wspomnień: Gigantyczne drzewo z wnętrzem wydrążonym w bibliotekę. Książki zmieniające treść zależnie od czytelnika. Świetliki oświetlające odpowiednie sekcje na życzenie. Magiczne kwiaty odtwarzające wspomnienia dawnych czasów gdy się je powącha.
+
+7. Kyo'ren (Przerażający, Obcy)
+Laboratorium
+Komora Aberracji: Pomieszczenie o niemożliwej geometrii z pulsującymi organicznymi urządzeniami. Zbiorniki z mutującymi istotami. Narzędzia chirurgiczne o niezrozumiałym zastosowaniu. Portale do wymiarów dostarczających egzotyczne substancje. Dzienniki zapisane szyfrem wywołującym mdłości przy czytaniu.
+
+Miejsce Ciężkiej Walki
+Wymiar Konfrontacji: Arena istniejąca częściowo poza normalną rzeczywistością. Podłoże zmieniające konsystencję podczas walki. Grawitacja działająca w różnych kierunkach w różnych częściach sali. Portale losowo teleportujące walczących. Obserwatorzy z innych wymiarów widoczni jako cienie.
+
+Eksperymentalna Komnata Arcymaga
+Laboratorium Fuzji Międzywymiarowej: Komora z aparaturą łączącą materię z różnych płaszczyzn rzeczywistości. Zbiorniki z istotami w trakcie fuzji. Diagramy przedstawiające niemożliwe do zrozumienia koncepcje. Narzędzia zmieniające kształt i funkcję podczas użycia.
+
+Zapomniana Biblioteka Starożytnej Wiedzy
+Archiwum Obcych Myśli: Biblioteka, gdzie książki są żywymi, pulsującymi organizmami. Informacje przekazywane bezpośrednio do umysłu przy kontakcie. Korytarze zmieniające układ, prowadzące do różnych sekcji wiedzy. Strażnicy o wielu oczach katalogujący i strzegący tekstów.
+
+8. Mijero (Azjatycki, Harmonijny)
+Laboratorium
+Pawilon Alchemii Pięciu Żywiołów: Elegancka sala z pięcioma sekcjami reprezentującymi żywioły. Precyzyjne wagi i miarki z bambusa i metalu. Kaligraficzne notatki na zwojach. Zioła i minerały uporządkowane według zasad harmonii. Medytacyjne miejsce do obserwacji reakcji.
+
+Miejsce Ciężkiej Walki
+Arena Honorowego Pojedynku: Drewniana platforma z symbolami żywiołów. Broń ceremonialną na stojakach wokół areny. Gong oznajmiający początek i koniec walki. Miejsca dla mistrzów oceniających technikę. Piasek specjalnie przygotowany do amortyzacji upadków.
+
+Eksperymentalna Komnata Arcymaga
+Pawilon Równowagi Chi: Sala z meridianami energii chi wyrytymi w podłodze. Akupunkturowe manekiny do testowania przepływu energii. Kadzidła i zioła wpływające na różne aspekty chi. Kryształy równoważące energię podczas eksperymentów. Zwoje z diagramami punktów energetycznych.
+
+Zapomniana Biblioteka Starożytnej Wiedzy
+Świątynia Zakazanych Zwojów: Ukryta biblioteka w górskiej świątyni. Zwoje uporządkowane według harmonii żywiołów. Kaligraficzne manuskrypty starożytnych mistrzów. Medytacyjne alkowy do studiowania tekstów. Mechanizmy zabezpieczające aktywowane naruszeniem harmonii.
+
+9. Nekrothol (Kosmiczny, Nieśmiertelny)
+Laboratorium
+Komnata Gwiezdnych Badań: Laboratorium z holograficznymi modelami gwiazd i planet. Urządzenia do analizy energii kosmicznej. Zbiorniki z próbkami z innych światów. Grawitacyjne anomalie umożliwiające eksperymenty w różnych warunkach. Portale sprowadzające egzotyczne materiały.
+
+Miejsce Ciężkiej Walki
+Arena Próżni: Platforma bojowa z częściowo zniesioną grawitacją. Pola siłowe zamiast ścian, ukazujące kosmos. Portale umożliwiające nagłe ataki z różnych wymiarów. Broń energetyczna na stojakach. Holograficzne symulacje różnych warunków bojowych.
+
+Eksperymentalna Komnata Arcymaga
+Laboratorium Transferu Świadomości: Komora z kapsułami do przenoszenia umysłu między ciałami. Kryształy przechowujące kopie zapasowe świadomości. Maszyny monitorujące stan astralno-mentalny. Prototypy syntetycznych ciał w różnych stadiach rozwoju. Holograficzne interfejsy do bezpośredniej manipulacji wspomnieniami.
+
+Zapomniana Biblioteka Starożytnej Wiedzy
+Archiwum Wymarłych Cywilizacji: Ogromna sala z technologią holograficzną odtwarzającą wiedzę zaginionych światów. Kryształy pamięci zawierające całe historie planet. Interaktywne symulacje wydarzeń kosmicznych. Maszyny tłumaczące wymarłe języki. Mapy gwiezdne pokazujące cywilizacje istniejące miliardy lat temu.
+
+10. Heu'ia (Starożytny Egipt/Inka, Tajemniczy)
+Laboratorium
+Komnata Balsamowania: Sala z kamiennymi stołami do mumifikacji i przygotowywania eliksirów. Kanopskie słoje na organy. Hieroglify opisujące receptury. Wagi do precyzyjnego odmierzania składników. Magiczne amulety wzmacniające właściwości mikstur. Maski rytualne zwiększające koncentrację podczas pracy.
+
+Miejsce Ciężkiej Walki
+Arenа Sądu Bóstw: Kamienny plac z posągami bóstw obserwujących walkę. Hieroglify opisujące zasady honorowego pojedynku. Ołtarze do składania ofiar przed walką. Piasek zmieszany z minerałami o magicznych właściwościach. Trony dla kapłanów oceniających walkę.
+
+Eksperymentalna Komnata Arcymaga
+Sanktuarium Transformacji: Komnata z sarkofagiem transformacyjnym w centrum. Hieroglify opisujące proces przemiany człowieka w półboga. Kanały na eliksiry życia. Kryształy koncentrujące energię gwiazd. Wizerunki hybryd człowieka ze zwierzętami jako przykłady udanych eksperymentów.
+
+Zapomniana Biblioteka Starożytnej Wiedzy
+Krypta Zakazanych Hieroglifów: Ukryta sala za fałszywą ścianą świątyni. Papirus i kamienne tablice z wiedzą dostępną tylko dla najwyższych kapłanów. Mapy gwiazdozbiorów z zaznaczonymi portalami do innych światów. Receptury na eliksiry nieśmiertelności. Figurki służące jako klucze do odczytania tajemnych tekstów.
